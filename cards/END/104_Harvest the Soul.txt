@@ -1,0 +1,1 @@
+﻿Harvest the Soul	B	common	Instant	104	B	1B	You may put a loyalty counter on up to one target planeswalker you control.NEWLINEChoose one–NEWLINE• Target creature gets -2/-2 until end of turn.NEWLINE• Remove two loyalty counters from target planeswalker.			normal	END		

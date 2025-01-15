@@ -1,0 +1,1 @@
+﻿Ugin's Charm		uncommon	Instant	4	C	3	Choose one–NEWLINE• Put the top card of your library onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it’s a creature card.NEWLINE• You gain life equal to the number of colorless nonland permanents you control.NEWLINE• Destroy target multicolored permanent.			normal	EM2		

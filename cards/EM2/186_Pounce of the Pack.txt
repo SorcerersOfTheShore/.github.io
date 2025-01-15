@@ -1,0 +1,1 @@
+﻿Pounce of the Pack	G	uncommon	Sorcery	186	G	2G	Choose target creature you don’t control. Each creature you control deals damage equal to its power to that creature.			normal	EM2		

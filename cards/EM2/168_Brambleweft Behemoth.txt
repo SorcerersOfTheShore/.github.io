@@ -1,0 +1,1 @@
+﻿Brambleweft Behemoth	G	common	Creature – Elemental 	168	G	4GG	Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)	6/6		normal	EM2		

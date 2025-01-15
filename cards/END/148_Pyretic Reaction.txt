@@ -1,0 +1,1 @@
+﻿Pyretic Reaction	R	common	Sorcery	148	R	1R	Choose one–NEWLINE• Destroy target artifact.NEWLINE• You may activate the loyalty abilities of target planeswalker you control once this turn as though none of its loyalty abilities have been activated this turn.			normal	END		

@@ -1,0 +1,1 @@
+﻿Alms Collector	W	rare	Creature – Cat Cleric 	9	W	3W	FlashNEWLINEIf an opponent would draw two or more cards, instead you and that player each draw a card.	3/4		normal	EM2		

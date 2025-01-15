@@ -1,0 +1,1 @@
+﻿Raise the Restless	B	common	Sorcery	109	B	3BB	This spell costs 2 less to cat if it targets a creature card in your graveyard with mana value 4 or less.NEWLINEReturn target creature card from your graveyard to the battlefield.			normal	EM2		

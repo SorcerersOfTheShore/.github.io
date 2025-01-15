@@ -1,0 +1,1 @@
+﻿Bloodblade Mercenary	B	uncommon	Creature – Human Warrior 	88	B	2B	Overcome–Whenever a creature or planeswalker dealt damage by Bloodblade Mercenary this turn dies, you draw a card and you lose 1 life.	3/2		normal	END		

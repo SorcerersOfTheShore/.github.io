@@ -1,0 +1,1 @@
+﻿Flameblade Adept	R	uncommon	Creature – Jackal Warrior 	133	R	R	MenaceNEWLINEWhenever you cycle or discard a card, Flameblade Adept gets +1/+0 until end of turn.	1/2		normal	EM2		

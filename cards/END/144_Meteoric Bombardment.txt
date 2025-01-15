@@ -1,0 +1,1 @@
+﻿Meteoric Bombardment	R	uncommon	Instant	144	R	2R	Choose up to three target creatures, then choose one–NEWLINE• Those creatures each get +1/+0 and gains first strike until end of turn.NEWLINE• Meteoric Bombardment deals 1 damage to each of those creatures.			normal	END		

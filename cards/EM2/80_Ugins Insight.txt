@@ -1,0 +1,1 @@
+﻿Ugin's Insight	U	rare	Sorcery	80	U	3UU	Scry X, where X is the highest mana value among permanents you control, then draw three cards.			normal	EM2		

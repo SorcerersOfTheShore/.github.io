@@ -1,0 +1,1 @@
+﻿Bladewing's Thrall	B	uncommon	Creature – Zombie 	84	B	2BB	Bladewing’s Thrall has flying as long as you control a Dragon.NEWLINEWhen a Dragon enters the battlefield, you may return Bladewing’s Thrall from your graveyard to the battlefield.	3/3		normal	EM2		

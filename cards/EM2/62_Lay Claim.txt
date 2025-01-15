@@ -1,0 +1,1 @@
+﻿Lay Claim	U	uncommon	Enchantment – Aura 	62	U	5UU	Enchant permanentNEWLINEYou control enchanted permanent.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	EM2		

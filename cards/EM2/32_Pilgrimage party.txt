@@ -1,0 +1,1 @@
+﻿Pilgrimage party	W	common	Creature – Dwarf Cleric 	32	W	1W	When Pilgrimage party enters the battlefield, enters the battlefield, create a 1/1 white Cleric creature token.	1/1		normal	EM2		

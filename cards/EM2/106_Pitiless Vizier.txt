@@ -1,0 +1,1 @@
+﻿Pitiless Vizier	B	common	Creature – Minotaur Cleric 	106	B	3B	Whenever you cycle or discard a card, Pitiless Vizier gains indestructible until end of turn. (Damage and effects that say “destroy” don’t destroy it. If its toughness is 0 or less, it’s still put into its owner’s graveyard.)	4/2		normal	EM2		

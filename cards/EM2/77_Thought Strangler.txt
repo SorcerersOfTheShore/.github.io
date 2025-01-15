@@ -1,0 +1,1 @@
+﻿Thought Strangler	U	uncommon	Creature – Octopus 	77	U	3U	Whenever you draw a card, each opponent mills two cards and you put a +1/+1 counter on Thought Strangler.NEWLINECycling U (U, Discard this card: Draw a card.)	2/2		normal	EM2		

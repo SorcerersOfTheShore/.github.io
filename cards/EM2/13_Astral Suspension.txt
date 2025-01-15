@@ -1,0 +1,1 @@
+﻿Astral Suspension	W	uncommon	Enchantment	13	W	2W	Whenever you cycle Astral Suspension or cycle or discard another card, exile target creature you control. Return that card to the battlefield under its owner’s control at the beginning of the next end step.NEWLINECycling 2W (2W, Discard this card: Draw a card.)			normal	EM2		

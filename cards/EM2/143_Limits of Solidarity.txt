@@ -1,0 +1,1 @@
+﻿Limits of Solidarity	R	common	Sorcery	143	R	3R	Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	EM2		

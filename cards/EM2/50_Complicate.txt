@@ -1,0 +1,1 @@
+﻿Complicate	U	uncommon	Instant	50	U	2U	Counter target spell unless its controller pays 3.NEWLINECycling 2U (2U, Discard this card: Draw a card.)NEWLINEWhen you cycle Complicate, you may counter target spell unless its controller pays 1.			normal	EM2		

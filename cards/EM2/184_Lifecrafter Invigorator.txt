@@ -1,0 +1,1 @@
+﻿Lifecrafter Invigorator	G	uncommon	Artifact Creature – Elf Cyborg 	184	G	2G	Whenever you gain life for the first time each turn, put a +1/+1 counter on target creature you control.	2/2		normal	EM2		

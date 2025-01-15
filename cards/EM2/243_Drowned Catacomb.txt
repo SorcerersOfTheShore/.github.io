@@ -1,0 +1,1 @@
+﻿Drowned Catacomb		rare	Land	243	UB		Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.NEWLINET: Add U or B.			normal	EM2		

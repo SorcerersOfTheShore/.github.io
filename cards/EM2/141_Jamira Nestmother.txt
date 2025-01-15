@@ -1,0 +1,1 @@
+﻿Jamira, Nestmother	R	rare	Legendary Creature – Dragon 	141	R	7RR	FlyingNEWLINEWhen Jamira, Nestmother enters the battlefield, create six 1/1 red Dragon creature tokens named Dragon Whelp. They have flying. NEWLINEOther Dragon creatures you control have haste.	8/8		normal	EM2		

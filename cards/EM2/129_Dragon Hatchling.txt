@@ -1,0 +1,1 @@
+﻿Dragon Hatchling	R	common	Creature – Dragon 	129	R	1R	FlyingNEWLINER: Dragon Hatchling gets +1/+0 until end of turn.	0/1		normal	EM2		

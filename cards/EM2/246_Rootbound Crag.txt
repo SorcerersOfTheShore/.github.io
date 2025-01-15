@@ -1,0 +1,1 @@
+﻿Rootbound Crag		rare	Land	246	RG		Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.NEWLINET: Add R or G.			normal	EM2		

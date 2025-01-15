@@ -1,0 +1,1 @@
+﻿Teferi, Temporal Mender	WU	uncommon	Legendary Creature – Human Wizard 	225	WU	2WU	If an permanent entering the battlefield from exile causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.	1/4		normal	EM2		

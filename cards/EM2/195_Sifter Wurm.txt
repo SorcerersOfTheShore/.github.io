@@ -1,0 +1,1 @@
+﻿Sifter Wurm	G	uncommon	Creature – Wurm 	195	G	5GG	TrampleNEWLINEWhen Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card’s mana value.	7/7		normal	EM2		

@@ -1,0 +1,1 @@
+﻿Hieroglyphic Illumination	U	common	Instant	58	U	3U	Draw two cards.NEWLINECycling U (U, Discard this card: Draw a card.)			normal	EM2		

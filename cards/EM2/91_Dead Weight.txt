@@ -1,0 +1,1 @@
+﻿Dead Weight	B	common	Enchantment – Aura 	91	B	B	Enchant creatureNEWLINEEnchanted creature gets -2/-2.			normal	EM2		

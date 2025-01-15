@@ -1,0 +1,1 @@
+﻿Gravedigger	B	uncommon	Creature – Zombie 	97	B	3B	When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.	2/2		normal	EM2		

@@ -1,0 +1,1 @@
+﻿Solace of the Faithful	W	uncommon	Sorcery	36	W	2W	Choose target opponent. Create X 1/1 white Cleric creature tokens, where X is the number of creatures that opponent controls.NEWLINECycling 1 (1, Discard this card: Draw a card.)			normal	EM2		

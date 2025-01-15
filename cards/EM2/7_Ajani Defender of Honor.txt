@@ -1,0 +1,1 @@
+﻿Ajani, Defender of Honor	W	mythic	Legendary Planeswalker – Ajani 	7	W	1WW			[+1]: Put a +1/+1 counter on up to one target creature. Creatures you control gain vigilance until end of turn. NEWLINE[-1]: Until your next turn, whenever an opponent draws a card, create a 1/1 white Cat creature token with lifelink.NEWLINE[-4]: Exile target creature or planeswalker.	planeswalker	EM2	3	

@@ -1,0 +1,1 @@
+﻿Kraken Hatchling	U	common	Creature – Kraken 	60	U	U		0/4		normal	EM2		

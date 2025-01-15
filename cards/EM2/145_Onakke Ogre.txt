@@ -1,0 +1,1 @@
+﻿Onakke Ogre	R	common	Creature – Ogre Warrior 	145	R	2R		4/2		normal	EM2		

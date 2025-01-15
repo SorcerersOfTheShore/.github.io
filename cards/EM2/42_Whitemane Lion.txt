@@ -1,0 +1,1 @@
+﻿Whitemane Lion	W	common	Creature – Cat 	42	W	1W	FlashNEWLINEWhen Whitemane Lion enters the battlefield, return a creature you control to its owner’s hand.	2/2		normal	EM2		

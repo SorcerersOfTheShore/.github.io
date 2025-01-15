@@ -1,0 +1,1 @@
+﻿Inspired Battlepirest	W	common	Creature – Human Cleric Soldier 	24	W	2W		3/3		normal	EM2		

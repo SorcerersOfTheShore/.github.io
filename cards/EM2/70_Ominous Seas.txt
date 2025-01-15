@@ -1,0 +1,1 @@
+﻿Ominous Seas	U	uncommon	Enchantment	70	U	1U	Whenever you draw a card, put a foreshadow counter on Ominous Seas.NEWLINERemove eight foreshadow counters from Ominous Seas: Create an 8/8 blue Kraken creature token.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	EM2		

@@ -1,0 +1,1 @@
+﻿Fearless Flayer	R	rare	Creature – Goblin Warrior 	136	R	1R	HasteNEWLINEWhenever Fearless Flayer attacks, choose a planeswalker you control. You may activate the loyalty abilities of that planeswalker once this turn during combat at any time you could cast an instant and as though none of its loyalty abilities have been activated this turn.	2/1		normal	END		

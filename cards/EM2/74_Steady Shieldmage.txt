@@ -1,0 +1,1 @@
+﻿Steady Shieldmage	U	common	Creature – Human Wizard 	74	U	1U	DefenderNEWLINEWhenever you draw your second card each turn, Steady Shieldmage can attack this turn as though it didn’t have defender.NEWLINECycling U (U, Discard this card: Draw a card.)	3/3		normal	EM2		

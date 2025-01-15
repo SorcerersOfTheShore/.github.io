@@ -1,0 +1,1 @@
+﻿Shimmerscale Drake	U	common	Creature – Drake 	73	U	4U	Flying (This creature can’t be blocked except by creatures with flying or reach.)NEWLINECycling 2 (2, Discard this card: Draw a card.)	3/4		normal	EM2		

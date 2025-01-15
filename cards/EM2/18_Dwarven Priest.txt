@@ -1,0 +1,1 @@
+﻿Dwarven Priest	W	common	Creature – Dwarf Cleric 	18	W	3W	When Dwarven Priest enters the battlefield, you gain 1 life for each creature you control.	2/4		normal	EM2		

@@ -1,0 +1,1 @@
+﻿Incite Riot	R	common	Instant	139	R	2R	Creatures you control get +2/+0 until end of turn.			normal	EM2		

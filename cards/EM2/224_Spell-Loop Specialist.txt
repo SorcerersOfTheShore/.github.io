@@ -1,0 +1,1 @@
+﻿Spell-Loop Specialist	WU	rare	Creature – Human Wizard 	224	WU	2WU	When Spell-Loop Specialist enters the battlefield, choose up to two–NEWLINE• You gain 3 life.NEWLINE• Put a +1/+1 counter on target creature you control.NEWLINE• Draw a card, then discard a card.NEWLINE• Return another target permanent you control to its owner’s hand.	3/3		normal	EM2		

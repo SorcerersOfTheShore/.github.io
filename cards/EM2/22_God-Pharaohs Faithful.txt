@@ -1,0 +1,1 @@
+﻿God-Pharaoh's Faithful	W	common	Creature – Human Wizard 	22	W	W	Whenever you cast a blue, black, or red spell, you gain 1 life.	0/4		normal	EM2		

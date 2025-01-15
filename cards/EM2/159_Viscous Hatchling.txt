@@ -1,0 +1,1 @@
+﻿Viscous Hatchling	R	uncommon	Creature – Dragon 	159	R	1RR	Flying, hasteNEWLINEWhenever Viscous Hatchling attacks, put a +1/+1 counter on it.	1/1		normal	EM2		

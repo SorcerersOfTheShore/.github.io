@@ -1,0 +1,1 @@
+﻿Colossapede	G	common	Creature – Insect 	170	G	4G		5/5		normal	EM2		

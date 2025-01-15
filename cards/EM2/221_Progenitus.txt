@@ -1,0 +1,1 @@
+﻿Progenitus	WUBRG	mythic	Legendary Creature – Hydra Avatar 	221	WUBRG	WWUUBBRRGG	Protection from everything (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything.)NEWLINEIf Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner’s library instead.	10/10		normal	EM2		

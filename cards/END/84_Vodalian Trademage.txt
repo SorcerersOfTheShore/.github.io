@@ -1,0 +1,1 @@
+﻿Vodalian Trademage	U	common	Creature – Merfolk Wizard 	84	U	3U	Empower–Whenever you activate your third ability in a turn that isn’t a mana ability, scry 2. (Loyalty abilities are activated abilities.)	2/5		normal	END		

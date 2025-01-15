@@ -1,0 +1,1 @@
+﻿Boon of Strength	RG	common	Instant	170	RG	G	(This card is red in addition to its other colors.)NEWLINETarget creature gets +2/+2 and gains trample until end of turn.			normal	END		

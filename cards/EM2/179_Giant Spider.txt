@@ -1,0 +1,1 @@
+﻿Giant Spider	G	common	Creature – Spider 	179	G	3G	Reach (This creature can block creatures with flying.)	2/4		normal	EM2		

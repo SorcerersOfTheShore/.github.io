@@ -1,0 +1,1 @@
+﻿Exalted Priest	W	uncommon	Creature – Human Cleric 	19	W	4W	When Exalted Priest enters the battlefield, create two 1/1 white Cleric creature tokens, then you gain life equal to the number of creatures you control.	2/2		normal	EM2		

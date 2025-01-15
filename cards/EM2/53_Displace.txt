@@ -1,0 +1,1 @@
+﻿Displace	U	common	Instant	53	U	2U	Exile up to two target creatures you control, then return those cards to the battlefield under their owner’s control.			normal	EM2		

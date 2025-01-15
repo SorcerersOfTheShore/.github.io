@@ -1,0 +1,1 @@
+﻿Man-o'-War	U	uncommon	Creature – Jellyfish 	63	U	2U	When Man-o’-War enters the battlefield, return target creature to its owner’s hand.	2/2		normal	EM2		

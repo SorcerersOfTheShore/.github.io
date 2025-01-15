@@ -1,0 +1,1 @@
+﻿Greater Sandwurm	G	common	Creature – Wurm 	180	G	5GG	Greater Sandwurm can’t be blocked by creatures with power 2 or less.NEWLINECycling 2 (2, Discard this card: Draw a card.)	7/7		normal	EM2		

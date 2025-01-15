@@ -1,0 +1,1 @@
+﻿Blooming Monstrosity	G	rare	Creature – Plant 	166	G	7G	This spell costs 1 less to cast for each nonland permanent you’ve tapped for mana this turn.NEWLINEWhen Blooming Monstrosity enters the battlefield, put a +1/+1 counter on it for each untapped land you control.	4/4		normal	EM2		

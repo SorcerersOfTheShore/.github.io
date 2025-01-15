@@ -1,0 +1,1 @@
+﻿Kaleidobird		uncommon	Creature – Bird 	1	C	X	FlyingNEWLINEKaleidobird enters the battlefield with a +1/+1 counter on it for each type of mana spent to cast it. (The types of mana are white, blue, black, red, green, and colorless.)	0/0		normal	EM2		

@@ -1,0 +1,1 @@
+﻿Frost Lynx	U	common	Creature – Elemental Cat 	56	U	2U	When Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn’t untap during its controller’s next untap step.	2/2		normal	EM2		

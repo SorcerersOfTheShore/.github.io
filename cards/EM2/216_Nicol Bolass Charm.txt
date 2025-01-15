@@ -1,0 +1,1 @@
+﻿Nicol Bolas's Charm	UBR	uncommon	Instant	216	UBR	UBR	Choose one–NEWLINE• Counter target spell unless its controller pays 3.NEWLINE• Target creature gets -3/-3 until end of turn. You gain 3 life.NEWLINE• Nicol Bolas’s Charm deals 3 damage to any target.			normal	EM2		

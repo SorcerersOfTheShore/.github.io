@@ -1,0 +1,1 @@
+﻿Malevolent Warlord	B	common	Creature – Demon 	102	B	4BB		7/4		normal	EM2		

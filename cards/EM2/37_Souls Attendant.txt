@@ -1,0 +1,1 @@
+﻿Soul's Attendant	W	common	Creature – Human Cleric 	37	W	W	Whenever another creature enters the battlefield, you may gain 1 life.	1/1		normal	EM2		

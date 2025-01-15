@@ -1,0 +1,1 @@
+﻿Current Sculptor	U	rare	Creature – Merfolk 	48	U	2UU	Untap all creatures you control during each other player’s untap step.	2/3		normal	END		

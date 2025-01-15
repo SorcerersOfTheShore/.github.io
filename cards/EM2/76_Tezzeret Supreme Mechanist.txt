@@ -1,0 +1,1 @@
+﻿Tezzeret, Supreme Mechanist	U	mythic	Legendary Planeswalker – Tezzeret 	76	U	2UU			[+1]: Draw a card. If you control no artifacts, discard a card.NEWLINE[-1]: Until your next turn, target artifact you control becomes a 5/5 creature in addition to its other types.NEWLINE[-4]: Target player mills two cards for each artifact you control.	planeswalker	EM2	3	

@@ -1,0 +1,1 @@
+﻿Clearing Keeper	G	common	Creature – Elf Druid 	169	G	2G	T: Untap target land.	2/2		normal	EM2		

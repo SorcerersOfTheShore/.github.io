@@ -1,0 +1,1 @@
+﻿Hekma Sentinels	U	common	Creature – Human Cleric 	57	U	2U	Whenever you cycle or discard a card, Hekma Sentinels gets +1/+1 until end of turn.	2/3		normal	EM2		

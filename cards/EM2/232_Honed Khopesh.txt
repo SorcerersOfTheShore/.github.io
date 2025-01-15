@@ -1,0 +1,1 @@
+﻿Honed Khopesh		common	Artifact – Equipment 	232	C	1	Equipped creature gets +1/+1.NEWLINEEquip 1 (1: Attach to target creature you control. Equip only as a sorcery.)			normal	EM2		

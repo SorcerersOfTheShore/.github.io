@@ -1,0 +1,1 @@
+﻿Malfegor the Ruthless	BR	uncommon	Legendary Creature – Demon Dragon 	214	BR	4BR	Flying, hasteNEWLINEWhenever you attack with one or more Dragon creatures, you may discard a card. If you do, Malfegor the Ruthless deals damage to target creature or planeswalker equal to the discarded card’s mana value.	4/4		normal	EM2		

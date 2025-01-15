@@ -1,0 +1,1 @@
+﻿Overwhelm with Truth	B	common	Sorcery	116	B	2B	This spell costs 2 less to cast if you have drawn two or more cards this turn.NEWLINEDestroy target creature or planeswalker with mana value 3 or less.			normal	END		

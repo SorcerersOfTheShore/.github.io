@@ -1,0 +1,1 @@
+﻿Glorymaker	WR	uncommon	Creature – Human Soldier 	210	WR	1RW	Whenever another creature enters the battlefield under your control, Glorymaker and that creature each get +1/+0 and gain haste until end of turn.	1/3		normal	EM2		

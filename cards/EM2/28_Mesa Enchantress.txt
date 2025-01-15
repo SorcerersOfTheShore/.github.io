@@ -1,0 +1,1 @@
+﻿Mesa Enchantress	W	uncommon	Creature – Human Druid 	28	W	1WW	Whenever you cast an enchantment spell, you may draw a card.	0/2		normal	EM2		

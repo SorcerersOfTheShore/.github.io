@@ -1,0 +1,1 @@
+﻿Inflicting Command	B	rare	Sorcery	99	B	2BB	Choose two–NEWLINE• Target creature gets -4/-4 until end of turn.NEWLINE• Target creature gets +3/+3 and gains menace until end of turn.NEWLINE• Each opponent sacrifices a planeswalker.NEWLINE• You draw a card and you lose 1 life.			normal	EM2		

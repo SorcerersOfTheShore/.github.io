@@ -1,0 +1,1 @@
+﻿Flameforged Blade	R	common	Artifact – Equipment 	134	R	1R	Equipped creature gets +1/+0 and has trample.NEWLINEWhenever equipped creature deals combat damage to a player you may discard a card. If you do, draw a card.NEWLINEEquip 2			normal	EM2		

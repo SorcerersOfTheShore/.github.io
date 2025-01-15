@@ -1,0 +1,1 @@
+﻿Dawnfeather Eagle	W	common	Creature – Bird 	15	W	4W	FlyingNEWLINEWhen Dawnfeather Eagle enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.	3/3		normal	EM2		

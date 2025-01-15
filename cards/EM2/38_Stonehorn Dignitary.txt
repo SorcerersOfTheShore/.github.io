@@ -1,0 +1,1 @@
+﻿Stonehorn Dignitary	W	uncommon	Creature – Rhino Soldier 	38	W	3W	When Stonehorn Dignitary enters the battlefield, target opponent skips their next combat phase.	1/4		normal	EM2		

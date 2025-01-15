@@ -1,0 +1,1 @@
+﻿Shadowborn Apostle	B	common	Creature – Human Cleric 	112	B	B	A deck can have any number of cards named Shadowborn Apostle.NEWLINEB, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card and put it onto the battlefield. Then shuffle your library.	1/1		normal	EM2		

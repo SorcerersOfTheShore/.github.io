@@ -1,0 +1,1 @@
+﻿Invigorated Command	G	rare	Sorcery	183	G	2GG	Choose two–NEWLINE• Target creature you control gets +4/+4 until end of turn.NEWLINE• Target creature you control fights target creature you don’t control.NEWLINE• Create two 1/1 white Fungus creature tokens with defender.NEWLINE• Return target permanent card from your graveyard to your hand.			normal	EM2		

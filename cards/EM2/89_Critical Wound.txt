@@ -1,0 +1,1 @@
+﻿Critical Wound	B	uncommon	Sorcery	89	B	XB	Destroy target creature or planeswalker if it has mana value X plus 2 or less.			normal	EM2		

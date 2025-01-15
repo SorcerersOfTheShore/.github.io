@@ -1,0 +1,1 @@
+﻿Autumnal Observer	G	common	Artifact Creature – Construct 	164	G	1G	When Autumnal Observer enters the battlefield, choose one–NEWLINE• You gain life equal to the greatest power among creatures you control.NEWLINE• Target creature gets +2/+2 until end of turn.	1/2		normal	EM2		

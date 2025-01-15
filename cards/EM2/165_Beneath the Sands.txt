@@ -1,0 +1,1 @@
+﻿Beneath the Sands	G	common	Sorcery	165	G	2G	Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	EM2		

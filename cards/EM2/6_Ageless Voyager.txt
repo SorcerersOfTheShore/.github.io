@@ -1,0 +1,1 @@
+﻿Ageless Voyager	W	uncommon	Creature – Human Scout 	6	W	1W	At the beginning of your upkeep, you may exile another target permanent you control. If you do, return it to the battlefield under its owner’s control at the beginning of the next end step.	2/2		normal	EM2		

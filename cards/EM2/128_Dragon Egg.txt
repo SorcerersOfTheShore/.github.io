@@ -1,0 +1,1 @@
+﻿Dragon Egg	R	common	Creature – Dragon Egg 	128	R	2R	Defender (This creature can’t attack.)NEWLINEWhen Dragon Egg dies, create a 2/2 red Dragon creature token with flying and “R: This creature gets +1/+0 until end of turn.”	0/2		normal	EM2		

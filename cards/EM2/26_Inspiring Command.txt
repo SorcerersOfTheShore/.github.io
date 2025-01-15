@@ -1,0 +1,1 @@
+﻿Inspiring Command	W	rare	Instant	26	W	3WW	Choose two–NEWLINE• Create two 1/1 colorless Widget artifact creature tokens.NEWLINE• Create two Treasure tokens.NEWLINE• For each token you control, create a token that’s a copy of that permanent.NEWLINE• Creatures you control get +1/+1 until end of turn.			normal	EM2		

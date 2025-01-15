@@ -1,0 +1,1 @@
+﻿Shredmite		common	Artifact Creature – Insect 	238	C	1	T, Sacrifice a permanent: You gain 1 life.NEWLINE1, T, Sacrifice a permanent: Put a +1/+1 counter on Shredmite.	1/2		normal	EM2		

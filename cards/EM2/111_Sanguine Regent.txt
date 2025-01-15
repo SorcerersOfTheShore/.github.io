@@ -1,0 +1,1 @@
+﻿Sanguine Regent	B	common	Creature – Vampire Dragon 	111	B	2BB	Flying, lifelinkNEWLINEWard–Pay 2 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)	2/2		normal	EM2		

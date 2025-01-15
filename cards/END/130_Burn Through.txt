@@ -1,0 +1,1 @@
+﻿Burn Through	R	uncommon	Sorcery	130	R	1RR	Target creature you control deals damage equal to its power to target creature you don’t control. Excess damage is instead divided as you choose among that creature’s controller and up to one planeswalker that player controls.			normal	END		

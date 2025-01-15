@@ -1,0 +1,1 @@
+﻿Nissa's Titan	G	uncommon	Creature – Elemental 	194	G	3GG	FlashNEWLINEOvercome–Whenever a creature or planeswalker dealt damage by Nissa’s Titan this turn dies, you may return target permanent card from your graveyard to your hand.	4/3		normal	END		

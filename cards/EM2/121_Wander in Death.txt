@@ -1,0 +1,1 @@
+﻿Wander in Death	B	common	Sorcery	121	B	2B	Return up to two target creature cards from your graveyard to your hand.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	EM2		

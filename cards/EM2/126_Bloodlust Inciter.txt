@@ -1,0 +1,1 @@
+﻿Bloodlust Inciter	R	common	Creature – Human Warrior 	126	R	R	T: Target creature gains haste until end of turn.	1/1		normal	EM2		

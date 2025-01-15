@@ -1,0 +1,1 @@
+﻿Dragon Mage	R	uncommon	Creature – Dragon Wizard 	130	R	5RR	FlyingNEWLINEWhenever Dragon Mage deals combat damage to a player, each player discards their hand, then draws seven cards.	5/5		normal	EM2		

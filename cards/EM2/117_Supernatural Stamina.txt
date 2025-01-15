@@ -1,0 +1,1 @@
+﻿Supernatural Stamina	B	common	Instant	117	B	B	Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner’s control.”			normal	EM2		

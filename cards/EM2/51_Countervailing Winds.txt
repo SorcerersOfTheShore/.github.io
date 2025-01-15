@@ -1,0 +1,1 @@
+﻿Countervailing Winds	U	common	Instant	51	U	2U	Counter target spell unless its controller pays 1 for each card in your graveyard.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	EM2		

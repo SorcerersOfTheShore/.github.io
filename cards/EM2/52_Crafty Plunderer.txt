@@ -1,0 +1,1 @@
+﻿Crafty Plunderer	U	common	Creature – Human Pirate 	52	U	1U	When Crafty Plunderer enters the battlefield, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	1/2		normal	EM2		

@@ -1,0 +1,1 @@
+﻿Rakka Mar	R	rare	Legendary Creature – Human Shaman 	149	R	2RR	HasteNEWLINER, T: Create a 3/1 red Elemental creature token with haste.	2/2		normal	EM2		

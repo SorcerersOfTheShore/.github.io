@@ -1,0 +1,1 @@
+﻿Murder	B	common	Instant	103	B	1BB	Destroy target creature.			normal	EM2		

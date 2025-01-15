@@ -1,0 +1,1 @@
+﻿Ghostfire	R	common	Instant	136	R	2R	Ghostfire is colorless.NEWLINEGhostfire deals 3 damage to any target.			normal	EM2		

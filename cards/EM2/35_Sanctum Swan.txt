@@ -1,0 +1,1 @@
+﻿Sanctum Swan	W	common	Creature – Bird 	35	W	2W	FlyingNEWLINEWard 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)	2/2		normal	EM2		

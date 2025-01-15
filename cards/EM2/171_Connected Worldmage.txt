@@ -1,0 +1,1 @@
+﻿Connected Worldmage	G	rare	Creature – Elf Druid 	171	G	1G	As Connected Worldmage enters the battlefield, choose a land you control.NEWLINEConnected Worldmage has all activated abilities of the chosen land.	1/2		normal	EM2		

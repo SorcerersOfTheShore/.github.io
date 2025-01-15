@@ -1,0 +1,1 @@
+﻿Solemn Departure	WB	rare	Sorcery	229	WB	WB	As an additional cost to cast this spell, sacrifice a planeswalker.NEWLINEDestroy each nonland permanent with mana value X or less, where X is the number of loyalty counters on the sacrificed planeswalker.			normal	END		

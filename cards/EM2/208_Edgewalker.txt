@@ -1,0 +1,1 @@
+﻿Edgewalker	WB	uncommon	Creature – Cleric 	208	WB	1WB	Cleric spells you cast cost WB less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Cleric spell with mana cost 1W, it costs 1 to cast.)	2/2		normal	EM2		

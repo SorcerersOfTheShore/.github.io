@@ -1,0 +1,1 @@
+﻿Potent Brew	BG	uncommon	Enchantment	219	BG	2BG	When Potent Brew enters the battlefield and at the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.NEWLINEWhenever you gain life, target creature gets +1/+1 until end of turn for each 1 life you gained.			normal	EM2		

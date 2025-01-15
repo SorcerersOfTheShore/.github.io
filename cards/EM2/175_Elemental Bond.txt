@@ -1,0 +1,1 @@
+﻿Elemental Bond	G	uncommon	Enchantment	175	G	2G	Whenever a creature with power 3 or greater enters the battlefield under your control, draw a card.			normal	EM2		

@@ -1,0 +1,1 @@
+﻿Savage Aura	G	common	Enchantment – Aura 	191	G	4G	Enchant creatureNEWLINEEnchanted creature gets +4/+4 and can’t be blocked by creatures with power 2 or less.NEWLINEWhen enchanted creature dies, return that card to its owner’s hand.			normal	EM2		

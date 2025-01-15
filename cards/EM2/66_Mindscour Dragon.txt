@@ -1,0 +1,1 @@
+﻿Mindscour Dragon	U	uncommon	Creature – Dragon 	66	U	4UU	FlyingNEWLINEWhenever Mindscour Dragon deals combat damage to an opponent, target player mills four cards.	4/4		normal	EM2		

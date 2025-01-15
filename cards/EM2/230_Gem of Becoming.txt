@@ -1,0 +1,1 @@
+﻿Gem of Becoming		uncommon	Artifact	230	C	3	3, T, Sacrifice Gem of Becoming: Search your library for an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.			normal	EM2		

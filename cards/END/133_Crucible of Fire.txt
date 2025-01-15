@@ -1,0 +1,1 @@
+﻿Crucible of Fire	R	rare	Enchantment	133	R	3R	Dragon creatures you control get +3/+3.			normal	END		

@@ -1,0 +1,1 @@
+﻿Predatory Scourge	UG	uncommon	Creature – Leviathan 	220	UG	6GU	FlashNEWLINECycling GU (GU, Discard this card: Draw a card.)NEWLINEWhen you cycle Predatory Scourge, you may put a land card from your hand onto the battlefield tapped. (Do this before you draw.)	8/8		normal	EM2		

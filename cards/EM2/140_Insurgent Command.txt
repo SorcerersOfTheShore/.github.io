@@ -1,0 +1,1 @@
+﻿Insurgent Command	R	rare	Sorcery	140	R	XRR	Choose two–NEWLINE• Insurgent Command deals X damage to target creature or planeswalker.NEWLINE• Destroy target artifact with mana value X or less.NEWLINE• Target creature gets +X/+0 until end of turn.NEWLINE• Exile the top X cards of your library. Until end of turn, you may play those cards.			normal	EM2		

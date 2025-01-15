@@ -1,0 +1,1 @@
+﻿Sacred Grove	WG	uncommon	Enchantment	222	WG	GW	Whenever Sacred Grove or another enchantment enters the battlefield under your control, choose one–NEWLINE• You gain 2 life.NEWLINE• Put a +1/+1 counter on target creature.NEWLINE• Create a 1/1 white Cleric creature token.			normal	EM2		

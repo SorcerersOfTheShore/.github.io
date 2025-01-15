@@ -1,0 +1,1 @@
+﻿Merfolk Wavesweller	U	common	Creature – Merfolk Wizard 	66	U	1U	2U: Target creature gains flying until end of turn.	2/1		normal	END		

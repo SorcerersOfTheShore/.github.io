@@ -1,0 +1,1 @@
+﻿Gnarled Terror	B	common	Creature – Demon Dragon 	96	B	3BB	FlyingNEWLINECycling 2 (2, Discard this card: Draw a card.)	3/3		normal	EM2		

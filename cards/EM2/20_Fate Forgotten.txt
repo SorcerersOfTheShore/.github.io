@@ -1,0 +1,1 @@
+﻿Fate Forgotten	W	common	Instant	20	W	2W	Exile target artifact or enchantment.			normal	EM2		

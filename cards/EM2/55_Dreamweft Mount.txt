@@ -1,0 +1,1 @@
+﻿Dreamweft Mount	U	common	Enchantment – Aura 	55	U	4U	Enchant creatureNEWLINEEnchanted creature gets +3/+3 and has flying.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	EM2		

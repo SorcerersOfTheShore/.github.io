@@ -1,0 +1,1 @@
+﻿Merfolk Coordinator	U	uncommon	Creature – Merfolk Rogue 	63	U	2UU	Other Merfolk creatures you control get +1/+1.NEWLINE3U, T: Create a token that’s a copy of a card named Merfolk Looter. Activate only as a sorcery. (It’s a 1/1 blue Merfolk Rogue creature with “T: Draw a card, then discard a card.” and mana cost 1U.)	2/3		normal	END		

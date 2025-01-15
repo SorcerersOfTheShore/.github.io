@@ -1,0 +1,1 @@
+﻿Glimpse the New	UG	common	Sorcery	177	UG	G	(This card is blue in addition to its other colors.)NEWLINEReveal cards from the top of your library until you reveal a blue, black, or red creature card. Put that card into your hand and the rest on the bottom of your library in any order.			normal	END		

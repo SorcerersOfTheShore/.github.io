@@ -1,0 +1,1 @@
+﻿Sleep Eternal	B	common	Sorcery	114	B	2B	Choose one–NEWLINE• Destroy target tapped creature.NEWLINE• Remove three loyalty counters from target planeswalker.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	EM2		

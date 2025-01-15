@@ -1,0 +1,1 @@
+﻿Disciple of Bolas	B	rare	Creature – Human Wizard 	92	B	3B	When Disciple of Bolas enters the battlefield, sacrifice another creature. You gain X life and draw X cards, where X is that creature’s power.	2/1		normal	EM2		

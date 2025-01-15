@@ -1,0 +1,1 @@
+﻿Ancient Shallowkeepers	U	common	Creature – Trilobite 	45	U	U	5U, Sacrifice Ancient Shallowkeepers: Draw two cards.	0/2		normal	EM2		

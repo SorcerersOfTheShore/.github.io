@@ -1,0 +1,1 @@
+﻿Pithing Needle		rare	Artifact	235	C	1	As Pithing Needle enters the battlefield, choose a card name.NEWLINEActivated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.			normal	EM2		

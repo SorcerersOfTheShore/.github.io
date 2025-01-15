@@ -1,0 +1,1 @@
+﻿Craterhub Miner	G	common	Creature – Human Scout 	172	G	2GG	Whenever a land enters the battlefield under your control, put a +1/+1 counter on Craterhub Miner.	4/2		normal	EM2		

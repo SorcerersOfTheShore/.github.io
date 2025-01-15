@@ -1,0 +1,1 @@
+﻿Benalish Fortification		uncommon	Land	240	WG		Benalish Fortification enters the battlefield tapped.NEWLINET: Add G or W.NEWLINEG/W, T: Untap target creature. Activate only as a sorcery.			normal	END		

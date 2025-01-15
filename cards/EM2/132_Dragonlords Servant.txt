@@ -1,0 +1,1 @@
+﻿Dragonlord's Servant	R	common	Creature – Goblin Shaman 	132	R	1R	Dragon spells you cast cost 1 less to cast.	1/3		normal	EM2		

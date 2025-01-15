@@ -1,0 +1,1 @@
+﻿Warbellow Giant	G	common	Creature – Giant 	206	G	3GG	Overcome–Whenever a creature or planeswalker dealt damage by Warbellow Giant this turn dies, untap up to two target permanents you control.	4/5		normal	END		

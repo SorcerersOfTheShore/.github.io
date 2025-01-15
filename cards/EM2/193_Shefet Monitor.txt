@@ -1,0 +1,1 @@
+﻿Shefet Monitor	G	uncommon	Creature – Lizard 	193	G	5G	Cycling 3G (3G, Discard this card: Draw a card.)NEWLINEWhen you cycle Shefet Monitor you may search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle. (Do this before you draw.)	6/5		normal	EM2		

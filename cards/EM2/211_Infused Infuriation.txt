@@ -1,0 +1,1 @@
+﻿Infused Infuriation	RG	rare	Sorcery	211	RG	1RG	Target creature you control fights target creature you don’t control. If the creature you control deals excess damage during the fight, exile that many cards from the top of your library. You may play cards exiled this way until the end of your next turn.			normal	EM2		

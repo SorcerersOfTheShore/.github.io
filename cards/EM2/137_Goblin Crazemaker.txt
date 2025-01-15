@@ -1,0 +1,1 @@
+﻿Goblin Crazemaker	R	uncommon	Creature – Goblin Warrior 	137	R	3R	When Goblin Crazemaker enters the battlefield, create two 1/1 red Goblin creature tokens.NEWLINEOther creatures you control have haste.NEWLINECycling R (R, Discard this card: Draw a card.)NEWLINEWhen you cycle Goblin Crazemaker, creatures you control gain haste until end of turn.	2/2		normal	EM2		

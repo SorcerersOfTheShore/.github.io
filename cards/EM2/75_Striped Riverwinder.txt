@@ -1,0 +1,1 @@
+﻿Striped Riverwinder	U	common	Creature – Serpent 	75	U	6U	Hexproof (This creature can’t be the target of spells or abilities your opponents control.)NEWLINECycling U (U, Discard this card: Draw a card.)	5/5		normal	EM2		

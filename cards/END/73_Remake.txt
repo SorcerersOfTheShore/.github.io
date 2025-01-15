@@ -1,0 +1,1 @@
+﻿Remake	U	rare	Sorcery	73	U	3U	Draw two cards, then rewrite 7. (You may shuffle up to seven cards from your hand into your library. If you do, draw that many cards.)			normal	END		

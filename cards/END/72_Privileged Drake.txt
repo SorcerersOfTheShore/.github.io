@@ -1,0 +1,1 @@
+﻿Privileged Drake	U	common	Creature – Drake 	72	U	4U	FlyingNEWLINEPrivileged Drake gets +1/+0 for each card you’ve drawn this turn.	1/4		normal	END		

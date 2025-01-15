@@ -1,0 +1,1 @@
+﻿Call the Blood Skies	B	common	Sorcery	87	B	2B	Each opponent loses 3 life and you gain 3 life.NEWLINECycling 1 (1, Discard this card: Draw a card.)			normal	EM2		

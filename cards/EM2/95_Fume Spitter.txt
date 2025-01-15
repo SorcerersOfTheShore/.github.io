@@ -1,0 +1,1 @@
+﻿Fume Spitter	B	common	Creature – Dragon 	95	B	2B	FlyingNEWLINEWhen Fume Spitter enters the battlefield, each opponent loses 1 life and you gain 1 life.	2/2		normal	EM2		

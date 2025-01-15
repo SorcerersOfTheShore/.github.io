@@ -1,0 +1,1 @@
+﻿Outcaster of the Abhorrent	W	common	Creature – Human Cleric 	30	W	3W	1W, Exile Outcaster of the Abhorrent: Exile target tapped creature. Activate only as a sorcery.	3/4		normal	EM2		

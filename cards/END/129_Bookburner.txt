@@ -1,0 +1,1 @@
+﻿Bookburner	R	uncommon	Creature – Dragon 	129	R	2RR	FlyingNEWLINEWhenever you draw a card, Bookburner gets +1/+0 until end of turn.	1/4		normal	END		

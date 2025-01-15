@@ -1,0 +1,1 @@
+﻿Furybringer	RG	uncommon	Creature – Centaur Giant 	209	RG	2RG	Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature.NEWLINEEach creature you control with the greatest power or tied for the greatest power among creatures on the battlefield has menace.	3/3		normal	EM2		

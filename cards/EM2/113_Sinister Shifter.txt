@@ -1,0 +1,1 @@
+﻿Sinister Shifter	B	common	Creature – Shapeshifter 	113	B	2B	Sinister Shifter is every creature type.NEWLINECycling 2 (2, Discard this card: Draw a card.)	2/3		normal	EM2		

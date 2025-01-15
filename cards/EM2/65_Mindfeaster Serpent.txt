@@ -1,0 +1,1 @@
+﻿Mindfeaster Serpent	U	uncommon	Creature – Serpent 	65	U	6UU	This spell costs 2 less to cast for each card you’ve drawn this turn.NEWLINE4: Mindfeaster Serpent can’t be blocked this turn. This ability costs 2 less to active for each card you’ve drawn this turn.NEWLINECycling 2 (2, Discard this card: Draw a card.)	5/5		normal	EM2		

@@ -1,0 +1,1 @@
+﻿Active Nest	R	uncommon	Enchantment	124	R	2R	Whenever you draw your second card each turn, create a 1/1 red Dragon creature token named Dragon Whelp. It has flying.NEWLINECycling R (R, Discard this card: Draw a card.)			normal	EM2		

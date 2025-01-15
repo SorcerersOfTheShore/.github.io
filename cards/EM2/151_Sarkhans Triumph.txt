@@ -1,0 +1,1 @@
+﻿Sarkhan's Triumph	R	uncommon	Instant	151	R	2R	Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle your library.			normal	EM2		

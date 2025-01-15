@@ -1,0 +1,1 @@
+﻿Volcanic Dragon	R	uncommon	Creature – Dragon 	160	R	4RR	Flying (This creature can’t be blocked except by creatures with flying or reach.)NEWLINEHaste (This creature can attack and T as soon as it comes under your control.)	4/4		normal	EM2		

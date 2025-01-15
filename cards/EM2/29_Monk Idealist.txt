@@ -1,0 +1,1 @@
+﻿Monk Idealist	W	common	Creature – Human Monk Cleric 	29	W	2W	When Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand.	2/2		normal	EM2		

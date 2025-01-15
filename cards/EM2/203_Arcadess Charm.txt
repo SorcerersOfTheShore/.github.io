@@ -1,0 +1,1 @@
+﻿Arcades's Charm	WUG	uncommon	Instant	203	WUG	GWU	Choose one–NEWLINE• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.NEWLINE• When target creature is put into your graveyard this turn, return that card to the battlefield.NEWLINE• Return target creature to its owner’s hand.			normal	EM2		

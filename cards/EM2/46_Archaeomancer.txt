@@ -1,0 +1,1 @@
+﻿Archaeomancer	U	common	Creature – Human Wizard 	46	U	2UU	When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.	1/2		normal	EM2		

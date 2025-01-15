@@ -1,0 +1,1 @@
+﻿Desoul the Mighty	W	common	Sorcery	14	W	2W	Choose one–NEWLINE• Destroy target creature with power 4 or greater.NEWLINE• Destroy target planeswalker with four or more loyalty counters on it.			normal	END		

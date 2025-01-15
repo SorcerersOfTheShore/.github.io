@@ -1,0 +1,1 @@
+﻿Insanity Drinker	B	common	Creature – Human Cleric 	100	B	2B	Discard a card: Insanity Drinker gains lifelink until end of turn.	3/2		normal	EM2		

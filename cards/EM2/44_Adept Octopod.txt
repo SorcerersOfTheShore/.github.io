@@ -1,0 +1,1 @@
+﻿Adept Octopod	U	common	Creature – Octopus 	44	U	3U	2U, T: Draw a card, then discard a card.	2/5		normal	EM2		

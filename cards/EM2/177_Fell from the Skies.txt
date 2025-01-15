@@ -1,0 +1,1 @@
+﻿Fell from the Skies	G	common	Enchantment – Aura 	177	G	1G	Enchant creatureNEWLINEWhen Fell from the Skies enters the battlefield, you may destroy target creature with flying.NEWLINEEnchanted creature gets +1/+1 and has vigilance and reach.			normal	EM2		

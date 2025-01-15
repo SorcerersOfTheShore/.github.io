@@ -1,0 +1,1 @@
+﻿Grim Crusader	B	common	Creature – Human Knight 	103	B	3B	Overcome–Whenever a creature or planeswalker dealt damage by Grim Crusader this turn dies, that permanent’s controller discards a card.	3/4		normal	END		

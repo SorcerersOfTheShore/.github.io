@@ -1,0 +1,1 @@
+﻿Throne of the God-Pharaoh		rare	Legendary Artifact	239	C	2	At the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control.			normal	EM2		

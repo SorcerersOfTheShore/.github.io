@@ -1,0 +1,1 @@
+﻿Ceremonial Slaughter	B	uncommon	Instant	88	B	2B	Create a 1/1 white Cleric creature token, then each player sacrifices a creature or planeswalker.NEWLINECycling 1B (1B, Discard this card: Draw a card.)NEWLINEWhen you cycle Ceremonial Slaughter, create a 1/1 white Cleric creature token.			normal	EM2		

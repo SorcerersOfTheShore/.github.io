@@ -1,0 +1,1 @@
+﻿Invoke the Ancestors	B	rare	Sorcery	101	B	XB	This spell costs 3 less to cast if it targets a creature card in a graveyard that shares a creature type with a creature you control.NEWLINEPut target creature card with mana value X or less from a graveyard onto the battlefield under your control.			normal	EM2		

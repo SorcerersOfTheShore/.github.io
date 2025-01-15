@@ -1,0 +1,1 @@
+﻿Manalith		common	Artifact	234	C	3	T: Add one mana of any color.			normal	EM2		

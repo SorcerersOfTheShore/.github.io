@@ -1,0 +1,1 @@
+﻿Vizier of Deferment	W	uncommon	Creature – Human Cleric 	40	W	2W	FlashNEWLINEWhen Vizier of Deferment enters the battlefield, you may exile target creature if it attacked or blocked this turn. Return that card to the battlefield under its owner’s control at the beginning of the next end step.        	2/2		normal	EM2		

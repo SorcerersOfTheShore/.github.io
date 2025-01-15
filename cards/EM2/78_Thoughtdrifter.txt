@@ -1,0 +1,1 @@
+﻿Thoughtdrifter	U	uncommon	Creature – Elemental 	78	U	4U	FlyingNEWLINEWhen Thoughtdrifter enters the battlefield, draw two cards.NEWLINECycling 1U (1U, Discard this card: Draw a card.)	2/2		normal	EM2		

@@ -1,0 +1,1 @@
+﻿Keen Fanaticism	UG	rare	Enchantment	184	UG	3G	(This card is blue in addition to its other colors.)NEWLINEAt the beginning of your end step, untap up to two lands you control.NEWLINEWhenever a creature enters the battlefield under your control, if it has the highest mana value among permanents cards in graveyards and permanents on the battlefield, draw a card.			normal	END		

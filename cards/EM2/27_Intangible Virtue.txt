@@ -1,0 +1,1 @@
+﻿Intangible Virtue	W	uncommon	Enchantment	27	W	1W	Creature tokens you control get +1/+1 and have vigilance.			normal	EM2		

@@ -1,0 +1,1 @@
+﻿Dreamgrasp	W	uncommon	Enchantment	17	W	1WW	FlashNEWLINEWhen Dreamgrasp enters the battlefield, exile target spell or creature face down. You and that card’s owner may look at that card.NEWLINEWhen Dreamgrasp leaves the battlefield, the exiled card’s owner may cast it without paying its mana cost.			normal	EM2		

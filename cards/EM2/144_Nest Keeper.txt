@@ -1,0 +1,1 @@
+﻿Nest Keeper	R	common	Creature – Human Shaman 	144	R	3R	When Nest Keeper enters the battlefield, create a 1/1 red Dragon creature token named Dragon Whelp. It has flying.	3/2		normal	EM2		

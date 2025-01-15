@@ -1,0 +1,1 @@
+﻿Thunderbreak Regent	R	rare	Creature – Dragon 	156	R	2RR	FlyingNEWLINEWhenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player.	4/4		normal	EM2		

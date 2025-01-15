@@ -1,0 +1,1 @@
+﻿Laboratory Maniac	U	rare	Creature – Human Wizard 	61	U	2U	If you would draw a card while your library has no cards in it, you win the game instead.	2/2		normal	EM2		

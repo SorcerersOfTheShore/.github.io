@@ -1,0 +1,1 @@
+﻿Unveil the Abnormal	G	common	Instant	196	G	G	Reveal the top card of your library. Choose one–NEWLINE• You gain life equal to its mana value.NEWLINE• If it’s a creature or land card you may put it into your hand.NEWLINE• Put that card on the bottom of your library, then scry 1.			normal	EM2		

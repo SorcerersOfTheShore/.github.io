@@ -1,0 +1,1 @@
+﻿Crucible of the Spirit Dragon		rare	Land	241	C		T: Add C.NEWLINE1, T: Put a storage counter on Crucible of the Spirit Dragon.NEWLINET, Remove X storage counters from Crucible of the Spirit Dragon: Add X mana in any combination of colors. Spend this mana only to cast Dragon spells or activate abilities of Dragons.			normal	EM2		

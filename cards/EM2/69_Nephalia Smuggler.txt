@@ -1,0 +1,1 @@
+﻿Nephalia Smuggler	U	uncommon	Creature – Human Rogue 	69	U	U	3U, T: Exile another target creature you control, then return that card to the battlefield under your control.	1/1		normal	EM2		

@@ -1,0 +1,1 @@
+﻿Cancel	U	common	Instant	49	U	1UU	Counter target spell.			normal	EM2		

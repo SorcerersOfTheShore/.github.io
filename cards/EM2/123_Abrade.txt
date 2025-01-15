@@ -1,0 +1,1 @@
+﻿Abrade	R	uncommon	Instant	123	R	1R	Choose one –NEWLINE• Abrade deals 3 damage to target creature.NEWLINE• Destroy target artifact.			normal	EM2		

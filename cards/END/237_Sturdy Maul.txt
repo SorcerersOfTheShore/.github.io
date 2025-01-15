@@ -1,0 +1,1 @@
+﻿Sturdy Maul		uncommon	Artifact – Equipment 	237	C	1	Equipped creature gets +2/+2 and must be blocked if able.NEWLINEEquip 4			normal	END		

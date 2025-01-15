@@ -1,0 +1,1 @@
+﻿Full Faith	W	common	Enchantment – Aura 	21	W	2W	When Full Faith enters the battlefield, create a 1/1 white Cleric creature token.NEWLINEEnchanted creature gets +1/+1 for each creature you control.			normal	EM2		

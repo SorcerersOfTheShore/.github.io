@@ -1,0 +1,1 @@
+﻿Earthcraft Sage	G	common	Creature – Human Druid 	174	G	2G	When Earthcraft Sage enters the battlefield, put a +1/+1 counter on target creature you control.	2/2		normal	EM2		

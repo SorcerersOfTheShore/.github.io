@@ -1,0 +1,1 @@
+﻿Dragon Hunter	W	uncommon	Creature – Human Warrior 	16	W	W	Protection from Dragons (This creature can’t be blocked, targeted or dealt damage by Dragons.)NEWLINEDragon Hunter can block Dragons as though it had reach.	2/1		normal	EM2		

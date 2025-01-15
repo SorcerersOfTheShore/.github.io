@@ -1,0 +1,1 @@
+﻿Arashin Cleric	W	common	Creature – Human Cleric 	11	W	1W	When Arashin Cleric enters the battlefield, you gain 3 life.	1/3		normal	EM2		

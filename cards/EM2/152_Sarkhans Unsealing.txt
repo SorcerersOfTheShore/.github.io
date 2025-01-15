@@ -1,0 +1,1 @@
+﻿Sarkhan's Unsealing	R	rare	Enchantment	152	R	3R	Whenever you cast a creature spell with power 4, 5, or 6, Sarkhan’s Unsealing deals 4 damage to any target.NEWLINEWhenever you cast a creature spell with power 7 or greater, Sarkhan’s Unsealing deals 4 damage to each opponent and each creature and planeswalker they control.			normal	EM2		

@@ -1,0 +1,1 @@
+﻿Legacy Subverter	BG	rare	Creature – Elf Shaman 	185	BG	3G	(This card is black in addition to its other colors.)NEWLINEWhenever you sacrifice Legacy Subverter or another nontoken creature, mill two cards. Then return a creature card with lesser mana value than the sacrificed creature from your graveyard to your hand.	3/4		normal	END		

@@ -1,0 +1,1 @@
+﻿Twilight Route		common	Land	247	W		Twilight Route enters the battlefield tapped.NEWLINET: Add W.NEWLINEW, T: You gain 1 life. Activate only as a sorcery.			normal	END		

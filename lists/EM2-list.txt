@@ -1,0 +1,300 @@
+7_Ajani, Defender of Honor
+76_Tezzeret, Supreme Mechanist
+115_Sorin, Ancient Bloodlord
+150_Sarkhan, Fireblood
+199_Vivien, Invoker of the Wilds
+8_Ajani's Last Stand
+54_Drake Haven
+86_Boneyard Scourge
+131_Dragon Tempest
+163_Apex Tyrano
+9_Alms Collector
+59_Inventive Command
+90_Crux of Fate
+140_Insurgent Command
+166_Blooming Monstrosity
+12_Assertive Order
+61_Laboratory Maniac
+92_Disciple of Bolas
+141_Jamira, Nestmother
+171_Connected Worldmage
+26_Inspiring Command
+67_Murkdepth Caller
+99_Inflicting Command
+149_Rakka Mar
+183_Invigorated Command
+33_Restoration Angel
+79_Training Mage
+101_Invoke the Ancestors
+152_Sarkhan's Unsealing
+187_Realms Uncharted
+34_Safekeeper
+80_Ugin's Insight
+107_Priest of Communal Rite
+155_Stormmind Giant
+189_Rot Dredger
+41_Weathered Wayfarer
+82_Whelming Wave
+122_Worshiped Scourge
+156_Thunderbreak Regent
+197_Verdant Amplification
+6_Ageless Voyager
+47_Azure Mage
+84_Bladewing's Thrall
+123_Abrade
+162_Adapted Packmate
+10_Angel of the God-Pharaoh
+48_Backlogger
+85_Bloodrite Invoker
+124_Active Nest
+175_Elemental Bond
+13_Astral Suspension
+50_Complicate
+88_Ceremonial Slaughter
+130_Dragon Mage
+176_Enigmatic Hydra
+14_Battlefield Medic
+62_Lay Claim
+89_Critical Wound
+133_Flameblade Adept
+181_Gust Shield
+16_Dragon Hunter
+63_Man-o'-War
+94_Fearsome Awakening
+135_Fleetbreaker
+184_Lifecrafter Invigorator
+17_Dreamgrasp
+64_Merchant Scroll
+97_Gravedigger
+137_Goblin Crazemaker
+186_Pounce of the Pack
+19_Exalted Priest
+65_Mindfeaster Serpent
+104_Noxious Dragon
+148_Raid Bombardment
+188_Ridgescale Tusker
+27_Intangible Virtue
+66_Mindscour Dragon
+105_Persistent Whelp
+151_Sarkhan's Triumph
+190_Sakura-Tribe Scout
+28_Mesa Enchantress
+69_Nephalia Smuggler
+108_Pull from the Subconscious
+154_Snarlsturm Shaman
+193_Shefet Monitor
+36_Solace of the Faithful
+70_Ominous Seas
+116_Stubborn Revival
+159_Viscous Hatchling
+194_Shimmering Grotto
+38_Stonehorn Dignitary
+77_Thought Strangler
+118_Undertaker
+160_Volcanic Dragon
+195_Sifter Wurm
+40_Vizier of Deferment
+78_Thoughtdrifter
+119_Unseal Evils
+161_Winds of Change
+198_Vigorgrowth Treefolk
+5_Adamant Will
+44_Adept Octopod
+120_Vessel of Fiends
+125_Bladecaster
+164_Autumnal Observer
+11_Arashin Cleric
+45_Ancient Shallowkeepers
+83_Bitter Revelation
+126_Bloodlust Inciter
+165_Beneath the Sands
+15_Dawnfeather Eagle
+46_Archaeomancer
+87_Call the Blood Skies
+127_Brimstone Kite
+167_Boon of Savagery
+18_Dwarven Priest
+49_Cancel
+91_Dead Weight
+128_Dragon Egg
+168_Brambleweft Behemoth
+20_Fate Forgotten
+51_Countervailing Winds
+93_Duress
+129_Dragon Hatchling
+169_Clearing Keeper
+21_Full Faith
+52_Crafty Plunderer
+95_Fume Spitter
+132_Dragonlord's Servant
+170_Colossapede
+22_God-Pharaoh's Faithful
+53_Displace
+96_Gnarled Terror
+134_Flameforged Blade
+172_Craterhub Miner
+23_Impeccable Timing
+55_Dreamweft Mount
+98_Honored Tribute
+136_Ghostfire
+173_Druid of Vitality
+24_Inspired Battlepirest
+56_Frost Lynx
+100_Insanity Drinker
+138_Hatchlings' Fury
+174_Earthcraft Sage
+25_Inspired Charge
+57_Hekma Sentinels
+102_Malevolent Warlord
+139_Incite Riot
+177_Fell from the Skies
+29_Monk Idealist
+58_Hieroglyphic Illumination
+103_Murder
+142_Lava Serpent
+178_Giant Growth
+30_Outcaster of the Abhorrent
+60_Kraken Hatchling
+106_Pitiless Vizier
+143_Limits of Solidarity
+179_Giant Spider
+31_Pacifism
+68_Negate
+109_Raise the Restless
+144_Nest Keeper
+180_Greater Sandwurm
+32_Pilgrimage party
+71_Opt
+110_Ritemaker
+145_Onakke Ogre
+182_Hunt the Weak
+35_Sanctum Swan
+72_Repeated Malfunction
+111_Sanguine Regent
+146_Overconfigure
+185_Naga Vitalist
+37_Soul's Attendant
+73_Shimmerscale Drake
+112_Shadowborn Apostle
+147_Puncturing Blow
+191_Savage Aura
+39_Temporal Fluctuation
+74_Steady Shieldmage
+113_Sinister Shifter
+153_Shock
+192_Servant of the Scale
+42_Whitemane Lion
+75_Striped Riverwinder
+114_Sleep Eternal
+157_Tormenting Voice
+196_Unveil the Abnormal
+43_Winged Shepherd
+81_Unsummon
+117_Supernatural Stamina
+158_Unexpected Prowess
+200_Wilt
+e
+e
+121_Wander in Death
+e
+e
+er
+er
+er
+er
+er
+224_Spell-Loop Specialist
+212_It of Murky Depths
+223_Siege Dragon
+211_Infused Infuriation
+213_Lurlie, the Starstruck
+225_﻿Teferi, Temporal Mender
+e
+214_Malfegor the Ruthless
+209_Furybringer
+222_Sacred Grove
+er
+er
+er
+er
+er
+208_Edgewalker
+219_Potent Brew
+220_Predatory Scourge
+201_Agonizing Extraction
+210_Glorymaker
+er
+er
+er
+er
+er
+202_Arcades, Enforcer of Peace
+204_Chromium, the Observer
+215_Nicol Bolas, Power Hungry
+217_Palladia-Mors, Savage Hunter
+221_Progenitus
+226_Tetsuo Umezawa, Usurper
+227_Vaevictis Asmadi, the Hunted
+206_Conflux
+207_Dark Intimations
+203_Arcades's Charm
+205_Chromium's Charm
+216_Nicol Bolas's Charm
+218_Palladia-Mors's Charm
+228_Vaevictis Asmadi's Charm
+e
+er
+er
+er
+er
+er
+3_Ugin, Ageless Scholar
+236_Rings of Brighthearth
+229_Abandoned Sarcophagus
+231_Ghostfire Blade
+235_Pithing Needle
+239_Throne of the God-Pharaoh
+240_Ugin's Nexus
+1_Kaleidobird
+2_Scion of Ugin
+4_Ugin's Charm
+230_Gem of Becoming
+232_Honed Khopesh
+233_Hulking Behemoth
+234_Manalith
+237_Ruin Guard
+238_Shredmite
+e
+e
+e
+e
+er
+er
+er
+er
+er
+245_Glacial Fortress
+243_Drowned Catacomb
+242_Dragonskull Summit
+246_Rootbound Crag
+248_Sunpetal Grove
+258_Tranquil Cove
+252_Dismal Backwater
+250_Bloodfell Caves
+254_Rugged Highlands
+251_Blossoming Sands
+255_Scoured Barrens
+253_Jungle Hollow
+257_Thornwood Falls
+256_Swiftwater Cliffs
+259_Wind-Scarred Crag
+er
+er
+er
+er
+er
+247_Sanctum of the Renowned
+241_Crucible of the Spirit Dragon
+249_Tomb of the Spirit Dragon
+244_Evolving Wilds
+e

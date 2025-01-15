@@ -1,0 +1,1 @@
+﻿Lava Serpent	R	common	Creature – Elemental Serpent 	142	R	5R	HasteNEWLINECycling 2 (2, Discard this card: Draw a card.)	5/5		normal	EM2		

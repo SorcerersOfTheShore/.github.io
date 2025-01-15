@@ -1,0 +1,1 @@
+﻿Overconfigure	R	common	Instant	146	R	1R	Choose one–NEWLINE• Target creature gets +1/+0 and gains first strike until end of turn.NEWLINE• Target creature can’t block this turn.			normal	EM2		

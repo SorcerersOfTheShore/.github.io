@@ -1,0 +1,1 @@
+﻿Reckless Recruiter	R	uncommon	Creature – Goblin Warrior 	151	R	1R	T: Until end of turn, whenever a creature enters the battlefield under your control, it gains haste until end of turn.NEWLINEEmpower–Whenever you activate your third ability in a turn that isn’t a mana ability, create a 1/1 red Goblin creature token. (Loyalty abilities are activated abilities.)	2/1		normal	END		

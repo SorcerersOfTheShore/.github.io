@@ -1,0 +1,1 @@
+﻿Stormmind Giant	R	rare	Creature – Elemental Giant 	155	R	2R	Each nonland card in your hand has cycling XR, where X is 6 minus that card’s mana value.NEWLINECycling R (R, Discard this card: Draw a card.)	4/3		normal	EM2		

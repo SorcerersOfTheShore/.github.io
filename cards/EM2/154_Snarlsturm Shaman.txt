@@ -1,0 +1,1 @@
+﻿Snarlsturm Shaman	R	uncommon	Creature – Human Shaman 	154	R	1R	HasteNEWLINEWhenever Snarlsturm Shaman attacks, you may discard a card. If you do, create a 1/1 red Dragon creature token named Dragon Whelp that’s tapped and attacking. It has flying.	2/1		normal	EM2		

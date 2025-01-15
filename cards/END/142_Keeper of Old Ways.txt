@@ -1,0 +1,1 @@
+﻿Keeper of Old Ways	R	common	Creature – Human Shaman 	142	R	1R	T: Target creature gains haste until end of turn.	2/2		normal	END		

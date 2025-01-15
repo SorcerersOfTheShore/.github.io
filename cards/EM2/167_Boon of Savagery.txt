@@ -1,0 +1,1 @@
+﻿Boon of Savagery	G	common	Enchantment – Aura 	167	G	1G	Flash (You may cast this spell any time you could cast an instant.)NEWLINEEnchant creatureNEWLINEWhen Boon of Savagery enters the battlefield, enchanted creature gains hexproof until end of turn. (It can’t be the target of spells or abilities your opponents control.)NEWLINEEnchanted creature gets +1/+1.			normal	EM2		

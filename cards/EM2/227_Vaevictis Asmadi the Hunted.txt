@@ -1,0 +1,1 @@
+﻿Vaevictis Asmadi, the Hunted	BRG	mythic	Legendary Creature – Elder Dragon 	227	BRG	3BRG	Flying, hasteNEWLINECreatures your opponents control attack each combat if able.NEWLINEOther attacking creatures you control get +1/+1.NEWLINEWhenever a creature attacks you or a planeswalker you control, it gets -1/-1 until end of turn.	5/5		normal	EM2		

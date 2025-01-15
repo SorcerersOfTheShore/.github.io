@@ -1,0 +1,1 @@
+﻿Unexpected Prowess	R	common	Instant	158	R	1R	Put a +1/+1 counter on target creature you control. It gains first strike until end of turn.NEWLINECycling 1 (1, Discard this card: Draw a card.)			normal	EM2		

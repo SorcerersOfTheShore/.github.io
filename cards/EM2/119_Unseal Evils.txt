@@ -1,0 +1,1 @@
+﻿Unseal Evils	B	uncommon	Sorcery	119	B	2BB	Non-Cleric creatures get -2/-2 until end of turn.			normal	EM2		

@@ -1,0 +1,1 @@
+﻿Safekeeper	W	rare	Creature – Human Cleric 	34	W	3W	FlashNEWLINEWhen Safekeeper enters the battlefield, prevent the next 3 damage that would be dealt to any target this turn.NEWLINEWhenever damage that would be dealt to you or permanents you control is prevented, draw a card.	2/4		normal	EM2		

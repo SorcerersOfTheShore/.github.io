@@ -1,0 +1,1 @@
+﻿Assertive Order	W	rare	Instant	12	W	WW	Cast this spell only if a player has cast two or more spells this turn.NEWLINEEnd the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)			normal	EM2		

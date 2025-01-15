@@ -1,0 +1,1 @@
+﻿Noxious Dragon	B	uncommon	Creature – Dragon 	104	B	4BB	FlyingNEWLINEWhen Noxious Dragon dies, you may destroy target creature with mana value 3 or less.	4/4		normal	EM2		

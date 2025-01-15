@@ -1,0 +1,1 @@
+﻿Radha, Heart of War	G	rare	Legendary Creature – Elf Warrior 	196	RG	1G	Whenever Radha, Heart of War attacks, you may add RRGG. (You lose that mana at the end of the declare attackers step.)NEWLINE3G: Double a number or number word on target spell or permanent until end of turn.	2/2		normal	END		

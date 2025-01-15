@@ -1,0 +1,1 @@
+﻿Rot Dredger	G	rare	Creature – Human Shaman 	189	G	2GG	Whenever Rot Dredger or another nontoken creature you control dies, return a creature card with lesser mana value than the creature that died from your graveyard to your hand.	4/3		normal	EM2		

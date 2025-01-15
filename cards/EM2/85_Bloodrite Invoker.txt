@@ -1,0 +1,1 @@
+﻿Bloodrite Invoker	B	uncommon	Creature – Demon Cleric 	85	B	3BB	When Bloodrite Invoker enters the battlefield, sacrifice any number of other nonland permanents. For each permanent sacrificed this way, each opponent loses 1 life and you gain 1 life.	4/4		normal	EM2		

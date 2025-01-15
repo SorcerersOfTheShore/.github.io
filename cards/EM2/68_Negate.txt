@@ -1,0 +1,1 @@
+﻿Negate	U	common	Instant	68	U	1U	Counter target noncreature spell.			normal	EM2		

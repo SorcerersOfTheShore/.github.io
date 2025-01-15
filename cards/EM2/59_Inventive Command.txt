@@ -1,0 +1,1 @@
+﻿Inventive Command	U	rare	Instant	59	U	2UU	Choose two–NEWLINE• Create a 1/1 colorless Airship artifact creature token with flying.NEWLINE• Untap any number of target artifacts you control.NEWLINE• Tap up to two target nonland permanents.NEWLINE• Return target nonland permanent to its owner’s hand.			normal	EM2		

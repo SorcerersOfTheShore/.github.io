@@ -1,0 +1,1 @@
+﻿Persistent Whelp	B	uncommon	Creature – Demon Dragon 	105	B	2B	FlyingNEWLINEAt the beginning of your upkeep, you may pay 1B. If you do, return Persistent Whelp from your graveyard to your hand.NEWLINECycling 1B (1B, Discard this card: Draw a card.)	2/1		normal	EM2		

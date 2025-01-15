@@ -1,0 +1,1 @@
+﻿Devastating Devastation	B	uncommon	Sorcery	96	B	1BB	Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)NEWLINEDestroy target creature or planeswalker.			normal	END		

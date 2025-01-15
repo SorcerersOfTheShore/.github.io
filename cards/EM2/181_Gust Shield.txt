@@ -1,0 +1,1 @@
+﻿Gust Shield	G	uncommon	Enchantment – Aura 	181	G	2G	FlashNEWLINEEnchant creatureNEWLINEEnchanted creature has hexproof and reach.NEWLINECycling 2 (2, Discard this card: Draw a card.)			normal	EM2		

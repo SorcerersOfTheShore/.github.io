@@ -1,0 +1,1 @@
+﻿Fleetbreaker	R	uncommon	Creature – Dragon 	135	R	3RR	Flying, hasteNEWLINEWhen Fleetbreaker enters the battlefield, it deals 1 damage to each of up to three targets. Creatures dealt damage this way can’t block this turn.NEWLINECycling 3 (3, Discard this card: Draw a card.)	3/3		normal	EM2		

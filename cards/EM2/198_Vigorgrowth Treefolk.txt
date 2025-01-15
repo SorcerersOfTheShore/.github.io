@@ -1,0 +1,1 @@
+﻿Vigorgrowth Treefolk	G	uncommon	Creature – Treefolk 	198	G	2GG	Whenever Vigorgrowth Treefolk deals damage, if it’s attacking, blocking, or fighting, you gain that much life.	2/5		normal	EM2		

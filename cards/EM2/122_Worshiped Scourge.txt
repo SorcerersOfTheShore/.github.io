@@ -1,0 +1,1 @@
+﻿Worshiped Scourge	B	rare	Creature – Demon Dragon 	122	B	4BB	FlyingNEWLINEWhen Worshiped Scourge enters the battlefield, exile any number of creature cards from your graveyard. Create a 1/1 white Cleric creature tokens for each card exiled this way.	4/4		normal	EM2		

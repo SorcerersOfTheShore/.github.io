@@ -1,0 +1,1 @@
+﻿Undertaker	B	uncommon	Creature – Human Spellshaper 	118	B	1B	B, T, Discard a card: Return target creature card from your graveyard to your hand.	1/1		normal	EM2		

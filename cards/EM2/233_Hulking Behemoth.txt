@@ -1,0 +1,1 @@
+﻿Hulking Behemoth		common	Artifact Creature – Construct 	233	C	8	Trample	8/9		normal	EM2		

@@ -1,0 +1,1 @@
+﻿Misinformation Courrier	U	uncommon	Creature – Bird 	67	U	U	FlyingNEWLINEU: Rewrite 1. Activate only once each turn and only if Misinformation Courrier attacked or blocked this turn. (You may shuffle a card from your hand into your library. If you do, draw a card.)	1/1		normal	END		

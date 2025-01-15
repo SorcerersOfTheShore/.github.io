@@ -1,0 +1,1 @@
+﻿Hatchlings' Fury	R	common	Sorcery	138	R	3R	Create two 1/1 red Dragon creature tokens named Dragon Whelp. They have flying.			normal	EM2		

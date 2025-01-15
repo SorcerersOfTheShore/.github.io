@@ -1,0 +1,1 @@
+﻿Ruin Guard		common	Artifact Creature – Golem 	237	C	4	Cycling 2 (2, Discard this card: Draw a card.)	4/3		normal	EM2		

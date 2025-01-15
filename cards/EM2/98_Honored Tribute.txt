@@ -1,0 +1,1 @@
+﻿Honored Tribute	B	common	Creature – Human Cleric 	98	B	1B	When Honored Tribute dies, create a 1/1 red Dragon creature token named Dragon Whelp. It has flying.	1/2		normal	EM2		

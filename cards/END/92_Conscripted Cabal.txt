@@ -1,0 +1,1 @@
+﻿Conscripted Cabal	B	common	Creature – Zombie Cleric 	92	B	2B	1B, Exile Conscripted Cabal from your graveyard: Each opponent loses 2 life and you gain 2 life.	3/2		normal	END		

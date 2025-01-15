@@ -1,0 +1,1 @@
+﻿Converted Thallid	BG	common	Creature – Fungus 	171	BG	1G	(This card is black in addition to its other colors.)NEWLINEWhenever another creature you control dies, put a +1/+1 counter on Converted Thallid.	1/1		normal	END		

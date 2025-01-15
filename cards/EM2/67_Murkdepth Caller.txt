@@ -1,0 +1,1 @@
+﻿Murkdepth Caller	U	rare	Creature – Human Shaman 	67	U	5UU	When Murkdepth Caller enters the battlefield, create an 8/8 blue Kraken creature token.NEWLINECycling 2 (2, Discard this card: Draw a card.)	1/1		normal	EM2		

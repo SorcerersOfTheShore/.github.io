@@ -1,0 +1,1 @@
+﻿Druid of Vitality	G	common	Creature – Elf Druid 	173	G	3G	T: You gain life equal to Druid of Vitality’s power.	1/4		normal	EM2		

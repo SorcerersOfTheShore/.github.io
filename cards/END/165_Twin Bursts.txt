@@ -1,0 +1,1 @@
+﻿Twin Bursts	R	uncommon	Instant	165	R	2RR	Twin Bursts deals 2 damage to each of up to two target creatures and/or planeswalkers.NEWLINEOvercome–Whenever a creature or planeswalker dealt damage by Twin Bursts this turn dies, Twin Bursts deals 2 damage to that creature’s controller.			normal	END		

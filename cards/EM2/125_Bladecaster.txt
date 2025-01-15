@@ -1,0 +1,1 @@
+﻿Bladecaster	R	common	Creature – Human Warrior 	125	R	1R	Whenever you draw your second card each turn, Bladecaster deals 1 damage to each opponent.NEWLINECycling 1 (1, Discard this card: Draw a card.)	2/1		normal	EM2		

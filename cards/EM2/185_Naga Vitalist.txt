@@ -1,0 +1,1 @@
+﻿Naga Vitalist	G	common	Creature – Naga Druid 	185	G	1G	T: Add one mana of any type that a land you control could produce.	1/2		normal	EM2		

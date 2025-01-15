@@ -1,0 +1,1 @@
+﻿Ashiok, Embraced by Fear	UB	uncommon	Legendary Planeswalker – Ashiok 	211	UB	3UB			[+1]: Up to one target creature you control can’t be blocked this turn.NEWLINE[-1]: Target opponent exiles the top two cards of their library. Draw a card.NEWLINE[-2]: Create an X/X black Nightmare creature token, where X is the number of cards you’ve drawn this turn.	planeswalker	END	3	!landslot

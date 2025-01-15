@@ -1,0 +1,1 @@
+﻿Unsummon	U	common	Instant	81	U	U	Return target creature to its owner’s hand.			normal	EM2		

@@ -1,0 +1,1 @@
+﻿Winged Shepherd	W	common	Creature – Angel 	43	W	5W	Flying, vigilanceNEWLINECycling W (W, Discard this card: Draw a card.)	3/3		normal	EM2		

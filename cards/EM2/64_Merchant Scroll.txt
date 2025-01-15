@@ -1,0 +1,1 @@
+﻿Merchant Scroll	U	uncommon	Sorcery	64	U	1U	Search your library for a blue instant card, reveal that card, put it into your hand, then shuffle.			normal	EM2		

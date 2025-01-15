@@ -1,0 +1,1 @@
+﻿Tomb of the Spirit Dragon		uncommon	Land	249	C		T: Add C.NEWLINE2, T: You gain 1 life for each colorless creature you control.			normal	EM2		

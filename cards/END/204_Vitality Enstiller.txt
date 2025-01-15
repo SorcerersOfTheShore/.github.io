@@ -1,0 +1,1 @@
+﻿Vitality Enstiller	RG	common	Creature – Elf Druid 	204	RG	4G	(This card is red in addition to its other colors.)NEWLINEWhen Vitality Enstiller enters the battlefield, choose from among creatures you control a blue creature, a black creature, and a red creature. Put a +1/+1 counter on each of the chosen creatures.	3/3		normal	END		

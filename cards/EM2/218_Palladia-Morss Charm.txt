@@ -1,0 +1,1 @@
+﻿Palladia-Mors's Charm	WRG	uncommon	Instant	218	WRG	RGW	Choose one–NEWLINE• Target creature you control gets +3/+0 until end of turn. If fights another target creature.NEWLINE• Create a 3/3 green Beast creature token.NEWLINE• Put three +1/+1 counters on target creature.			normal	EM2		

@@ -1,0 +1,1 @@
+﻿Shimmering Grotto	G	uncommon	Enchantment – Aura 	194	G	1G	Enchant landNEWLINEWhenever enchanted land becomes tapped, add one mana of any color.NEWLINEEnchanted land has “T: You gain 1 life.”			normal	EM2		

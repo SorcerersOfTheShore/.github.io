@@ -1,0 +1,1 @@
+﻿Ridgescale Tusker	G	uncommon	Creature – Pangolin Beast 	188	G	3GG	When Ridgescale Tusker enters the battlefield, put a +1/+1 counter on each other creature you control.	5/5		normal	EM2		

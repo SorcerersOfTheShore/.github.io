@@ -1,0 +1,1 @@
+﻿Azure Mage	U	uncommon	Creature – Human Wizard 	47	U	1U	3U: Draw a card.	2/1		normal	EM2		

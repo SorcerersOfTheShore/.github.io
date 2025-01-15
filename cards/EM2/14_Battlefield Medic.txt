@@ -1,0 +1,1 @@
+﻿Battlefield Medic	W	uncommon	Creature – Human Cleric 	14	W	1W	T: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of Clerics on the battlefield (both yours and your opponents’).	1/1		normal	EM2		
