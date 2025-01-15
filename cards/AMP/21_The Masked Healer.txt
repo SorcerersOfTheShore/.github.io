@@ -1,0 +1,1 @@
+﻿The Masked Healer	W	rare	Legendary Creature – Human Cleric 	21	W	3WW	VigilanceNEWLINETap an untapped creature you control: You gain 1 life. Activate only as a sorcery.	3/7		normal	AMP		

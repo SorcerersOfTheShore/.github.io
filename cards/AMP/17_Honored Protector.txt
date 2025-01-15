@@ -1,0 +1,1 @@
+﻿Honored Protector	W	common	Creature – Giant 	17	W	3WW	When Honored Protector enters the battlefield, create two 1/1 white Cleric creature tokens.	3/3		normal	AMP		

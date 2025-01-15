@@ -1,0 +1,1 @@
+﻿Staff of the Ancients		common	Artifact – Equipment 	222	C	1	Equipped creature gets +1/+1.NEWLINEWhenever equipped creature deals combat damage to a player, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINEEquip 1 (1: Attach to target creature you control. Equip only as a sorcery.)			normal	AMP		

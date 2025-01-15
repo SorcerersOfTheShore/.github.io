@@ -1,0 +1,1 @@
+﻿Serene Animist	G	common	Creature – Human Druid 	182	G	2G	Whenever Serene Animist becomes tapped, you gain life equal to its power.	1/4		normal	AMP		

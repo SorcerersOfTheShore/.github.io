@@ -1,0 +1,1 @@
+﻿Brilliant Communion	G	uncommon	Enchantment	159	G	4GG	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEWhenever a creature you control becomes tapped, put a +1/+1 counter on it.			normal	AMP		

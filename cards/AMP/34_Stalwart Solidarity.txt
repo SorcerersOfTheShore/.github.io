@@ -1,0 +1,1 @@
+﻿Stalwart Solidarity	W	uncommon	Sorcery	34	W	3W	Create a 1/1 white Cleric creature token for each nontoken creature you control.			normal	AMP		

@@ -1,0 +1,1 @@
+﻿Doom to Inferiority	B	rare	Sorcery	86	B	4B	Destroy all creatures with mana value less than target creature’s mana value.			normal	AMP		

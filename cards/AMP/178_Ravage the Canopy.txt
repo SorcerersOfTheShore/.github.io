@@ -1,0 +1,1 @@
+﻿Ravage the Canopy	G	common	Instant	178	G	1G	Choose one–NEWLINE• Destroy target artifact.NEWLINE• Target creature you control fights target creature with flying. (Each deals damage equal to its power to the other.)			normal	AMP		

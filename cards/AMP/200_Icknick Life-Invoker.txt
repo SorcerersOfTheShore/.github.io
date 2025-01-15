@@ -1,0 +1,1 @@
+﻿Icknick, Life-Invoker	BG	uncommon	Legendary Creature – Human Cleric 	200	BG	1BG	Whenever Icknick, Life-Invoker becomes tapped, you gain life equal to its power.NEWLINEWhenever you gain life, put a +1/+1 counter on Icknick.	1/1		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Coralhide Wurm	U	rare	Creature – Wurm 	47	U	4UU	FlashNEWLINECoralhide Wurm can’t be countered.NEWLINEWard 6 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 6.)	6/6		normal	AMP		

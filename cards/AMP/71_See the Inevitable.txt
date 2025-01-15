@@ -1,0 +1,1 @@
+﻿See the Inevitable	U	uncommon	Instant	71	U	1UU	Counter target spell.NEWLINE1UU, Exile See the Inevitable from your graveyard: Draw a card.			normal	AMP		

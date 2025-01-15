@@ -1,0 +1,1 @@
+﻿Edgecrosser	W	rare	Creature – Giant 	10	W	5WW	When Edgecrosser enters the battlefield, each player returns all Giant creature cards from their graveyard to the battlefield.	4/4		normal	AMP		

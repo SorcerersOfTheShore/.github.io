@@ -1,0 +1,1 @@
+﻿Schooling Serpent	R	common	Creature – Serpent 	149	R	5R	Apex–Schooling Serpent gets +2/+2 as long as you control another creature with mana value 6 or greater.	6/6		normal	AMP		

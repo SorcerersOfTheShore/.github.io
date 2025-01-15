@@ -1,0 +1,1 @@
+﻿Scavenger of Shipwrecks	U	common	Creature – Shark 	70	U	4U	Scavenger of Shipwrecks gets +2/+0 as long as you control an artifact.	3/5		normal	AMP		

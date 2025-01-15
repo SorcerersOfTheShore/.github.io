@@ -1,0 +1,1 @@
+﻿Weight of Insignificance	B	common	Instant	115	B	2B	Apex–This spell costs 1 less to cast if you control a creature with mana value 6 or greater.NEWLINEDestroy target creature with power value 3 or less. You gain 3 life.			normal	AMP		

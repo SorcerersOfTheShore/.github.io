@@ -1,0 +1,1 @@
+﻿Grinning Ignus	R	common	Creature – Elemental 	130	R	2R	R, Return Grinning Ignus to its owner’s hand: Add CCR. Activate only as a sorcery.	2/2		normal	AMP		

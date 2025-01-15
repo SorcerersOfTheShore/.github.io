@@ -1,0 +1,1 @@
+﻿Gravecrawler Wurm	B	common	Creature – Zombie Wurm 	94	B	6B	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEWhen Gravecrawler Wurm enters the battlefield, you may sacrifice another artifact or creature. If you do, put two +1/+1 counters on Gravecrawler Wurm.	5/5		normal	AMP		

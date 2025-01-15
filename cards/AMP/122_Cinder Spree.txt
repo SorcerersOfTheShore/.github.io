@@ -1,0 +1,1 @@
+﻿Cinder Spree	R	rare	Enchantment	122	R	R	Sacrifice an artifact: Cinder Spree deals 1 damage to any target.NEWLINEAt the beginning of your end step, sacrifice Cinder Spree.			normal	AMP		

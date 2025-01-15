@@ -1,0 +1,1 @@
+﻿Pyremaker	R	common	Creature – Human Shaman 	141	R	3R	When Pyremaker enters the battlefield, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINET, Sacrifice an artifact or creature: Add RR.	3/3		normal	AMP		

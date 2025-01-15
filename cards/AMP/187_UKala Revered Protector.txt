@@ -1,0 +1,1 @@
+﻿U'Kala, Revered Protector	G	rare	Legendary Creature – Giant 	187	G	5GG	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEVigilanceNEWLINEPrevent all damage that would be dealt to creatures you control with mana value 3 or less.	5/5		normal	AMP		

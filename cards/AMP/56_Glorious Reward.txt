@@ -1,0 +1,1 @@
+﻿Glorious Reward	U	uncommon	Sorcery	56	U	XU	Spend only mana produced by artifacts on X.NEWLINEDraw X cards.NEWLINEIf X is 0, scry 1 and create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

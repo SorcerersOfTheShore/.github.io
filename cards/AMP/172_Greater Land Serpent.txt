@@ -1,0 +1,1 @@
+﻿Greater Land Serpent	G	common	Creature – Wurm 	172	G	6G		8/8		normal	AMP		

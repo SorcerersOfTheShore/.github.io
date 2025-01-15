@@ -1,0 +1,1 @@
+﻿Battlesweeper Giant	R	common	Creature – Giant 	120	R	2RR	1R: Battlesweeper Giant gains your choice of trample, menace, or haste until end of turn.	4/3		normal	AMP		

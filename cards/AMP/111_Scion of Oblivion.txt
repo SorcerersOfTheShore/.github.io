@@ -1,0 +1,1 @@
+﻿Scion of Oblivion	B	common	Creature – Human Warrior 	111	B	3B	MenaceNEWLINEWhenever Scion of Oblivion attacks, you may sacrifice an artifact or creature. If you do, Scion of Oblivion gets +2/+2 until end of turn.	4/3		normal	AMP		

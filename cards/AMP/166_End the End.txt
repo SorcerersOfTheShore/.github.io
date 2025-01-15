@@ -1,0 +1,1 @@
+﻿End the End	G	rare	Sorcery	166	G	GG	Permanents your opponents control lose hexproof and indestructible until end of turn. NEWLINEUntil end of turn, whenever a permanent dealt noncombat damage by a creature you control this turn dies, draw a card.NEWLINETarget creature you control fights target creature you don’t control.			normal	AMP		

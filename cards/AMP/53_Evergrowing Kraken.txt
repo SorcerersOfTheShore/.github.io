@@ -1,0 +1,1 @@
+﻿Evergrowing Kraken	U	uncommon	Creature – Kraken 	53	U	2U	Whenever another sea monster enters the battlefield under your control, create a 1/1 blue Tentacle creature token. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)NEWLINEEvergrowing Kraken gets +0/+1 for each tentacle you control.	2/1		normal	AMP		

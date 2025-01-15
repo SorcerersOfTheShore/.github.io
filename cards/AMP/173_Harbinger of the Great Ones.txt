@@ -1,0 +1,1 @@
+﻿Harbinger of the Great Ones	G	common	Creature – Human Shaman 	173	G	1G	T: Add one mana of any color.NEWLINEApex–Harbinger of the Great Ones gets +2/+1 as long as you control a creature with mana value 6 or greater.	1/2		normal	AMP		

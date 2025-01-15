@@ -1,0 +1,1 @@
+﻿Great Sentinel		common	Artifact Creature – Golem 	216	C	6		6/6		normal	AMP		

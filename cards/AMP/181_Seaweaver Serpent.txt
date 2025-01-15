@@ -1,0 +1,1 @@
+﻿Seaweaver Serpent	G	common	Creature – Serpent 	181	G	2GG	When Seaweaver Serpent enters the battlefield, put a +1/+1 counter on target sea monster you control. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)	3/3		normal	AMP		

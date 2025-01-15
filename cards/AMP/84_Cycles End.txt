@@ -1,0 +1,1 @@
+﻿Cycle's End	B	mythic	Legendary Enchantment	84	B	4BB	At the beginning of your upkeep, put a doom counter on Cycle’s End, then each player sacrifices X permanents, where X is the number of doom counters on Cycle’s End.			normal	AMP		

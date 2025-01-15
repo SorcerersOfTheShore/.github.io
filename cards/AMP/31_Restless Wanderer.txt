@@ -1,0 +1,1 @@
+﻿Restless Wanderer	W	uncommon	Creature – Giant 	31	W	2WW	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEAt the beginning of combat on each turn, tap up to one target creature with power X or less, where X is the number of tapped creatures you control.	1/4		normal	AMP		

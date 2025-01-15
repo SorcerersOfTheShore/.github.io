@@ -1,0 +1,1 @@
+﻿Willing Vessel	B	common	Creature – Human Cleric 	116	B	1B	Whenever Willing Vessel becomes tapped, each opponent loses 1 life and you gain 1 life.	2/2		normal	AMP		

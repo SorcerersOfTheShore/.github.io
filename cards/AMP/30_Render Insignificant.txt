@@ -1,0 +1,1 @@
+﻿Render Insignificant	W	common	Enchantment – Aura 	30	W	2W	Apex–This spell costs 1 less to cast if you control a creature with mana value 6 or greater.NEWLINEEnchant creatureNEWLINEEnchanted creature can’t attack or block, and its activated abilities can’t be activated.			normal	AMP		

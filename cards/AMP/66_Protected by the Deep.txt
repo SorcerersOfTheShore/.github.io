@@ -1,0 +1,1 @@
+﻿Protected by the Deep	U	common	Instant	66	U	U	Apex–Target creature gets +0/+3 until end of turn. If you control a creature with mana value 6 or greater, that creature also gains hexproof until end of turn.NEWLINEScry 1.			normal	AMP		

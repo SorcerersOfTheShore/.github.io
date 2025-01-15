@@ -1,0 +1,1 @@
+﻿Undying Undergrowth	G	uncommon	Creature – Elemental 	188	G	2GG	Undying Undergrowth can’t block.NEWLINEYou may cast Undying Undergrowth from your graveyard if you have gained 3 or more life this turn.	3/3		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Massive Scale	R	rare	Enchantment – Aura 	136	R	2R	Enchant creatureNEWLINEEnchanted creature gets +2/+2, has menace, and has mana value X, where X is 6 plus its base mana value.NEWLINEWhenever a creature with mana value 6 or greater enters the battlefield under your control, you may return Massive Scale from your graveyard to your hand.			normal	AMP		

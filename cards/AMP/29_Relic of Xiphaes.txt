@@ -1,0 +1,1 @@
+﻿Relic of Xiphaes	W	common	Artifact	29	W	2W	When Relic of Xiphaes enters the battlefield, you gain 3 life.NEWLINET: Add W.			normal	AMP		

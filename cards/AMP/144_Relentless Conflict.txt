@@ -1,0 +1,1 @@
+﻿Relentless Conflict	R	uncommon	Sorcery	144	R	4R	This spell costs 2 less to cast for each creature you control that it targets.NEWLINETarget creature fights another target creature. (Each deals damage equal to its power to the other.)			normal	AMP		

@@ -1,0 +1,1 @@
+﻿Daunting Titan	G	rare	Creature – Elemental Giant 	162	G	1GG	Daunting Titan and other creatures you control can’t be blocked by creatures with lesser mana value.	3/3		normal	AMP		

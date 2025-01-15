@@ -1,0 +1,1 @@
+﻿Wildwood Waker	G	common	Creature – Human Druid 	191	G	1G	1, T, Tap an untapped creature you control: Create a 0/1 green Plant creature token.	2/2		normal	AMP		

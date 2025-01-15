@@ -1,0 +1,1 @@
+﻿Tome Implanter	U	uncommon	Creature – Human Cleric 	75	U	1U	T, Sacrifice an artifact: Draw a card.	1/2		normal	AMP		

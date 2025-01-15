@@ -1,0 +1,1 @@
+﻿Disciple of Eos	R	rare	Creature – Human Shaman 	124	R	1R	HasteNEWLINEWhenever Disciple of Eos attacks, exile the top card of your library.NEWLINEWhenever Disciple of Eos deals combat damage to a player, you may play cards exiled with Disciple of Eos until end of turn.	2/2		normal	AMP		

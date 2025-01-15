@@ -1,0 +1,1 @@
+﻿Induce Despair	B	common	Instant	97	B	2B	As an additional cost to cast this spell, reveal a creature card from your hand.NEWLINETarget creature gets -X/-X until end of turn, where X is the revealed card’s mana value. (The mana value of a double-faced card is the mana value of its front face.)			normal	AMP		

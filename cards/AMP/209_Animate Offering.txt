@@ -1,0 +1,1 @@
+﻿Animate Offering		uncommon	Artifact Creature – Treasure Golem 	209	C	1	Animate Offering enters the battlefield tapped.NEWLINET, Sacrifice Animate Offering: Add one mana of any color.NEWLINE1, T, Sacrifice Animate Offering: Draw a card.	1/1		normal	AMP		

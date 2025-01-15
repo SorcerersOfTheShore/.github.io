@@ -1,0 +1,1 @@
+﻿Assert Dominance	R	common	Sorcery	118	R	1RR	Apex–This spell costs 1 less to cast if you control a creature with mana value 6 or greater.NEWLINEGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and T this turn.)			normal	AMP		

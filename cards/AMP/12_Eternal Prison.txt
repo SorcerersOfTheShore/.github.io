@@ -1,0 +1,1 @@
+﻿Eternal Prison	W	uncommon	Enchantment	12	W	1WW	When Eternal Prison enters the battlefield, exile target nonland permanent an opponent controls until Eternal Prison leaves the battlefield.NEWLINEApex–Eternal Prison has indestructible as long as you control a creature with mana value 6 or greater.			normal	AMP		

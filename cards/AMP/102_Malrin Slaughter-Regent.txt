@@ -1,0 +1,1 @@
+﻿Malrin, Slaughter-Regent	B	rare	Legendary Creature – Skeleton Giant 	102	B	4BB	MenaceNEWLINEWhenever a creature an opponent controls dies, create a 1/1 black Skeleton creature token.NEWLINESacrifice three permanents: Return Malrin, Slaughter-Regent from your graveyard to your hand.	6/6		normal	AMP		

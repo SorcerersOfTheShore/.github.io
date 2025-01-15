@@ -1,0 +1,1 @@
+﻿Call for Biotace	G	common	Sorcery	160	G	2G	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINESearch your library for a basic land card, put that card onto the battlefield tapped, then shuffle.			normal	AMP		

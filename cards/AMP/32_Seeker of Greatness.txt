@@ -1,0 +1,1 @@
+﻿Seeker of Greatness	W	common	Creature – Human Scout 	32	W	3W	When Seeker of Greatness enters the battlefield, you may search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.	2/2		normal	AMP		

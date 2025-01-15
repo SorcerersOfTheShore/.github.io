@@ -1,0 +1,1 @@
+﻿Invoker of the Undergrowth	G	common	Creature – Human Druid 	174	G	2G	When Invoker of the Undergrowth enters the battlefield, create a 0/1 green Plant creature token.NEWLINEG, Exile Invoker of the Undergrowth from your graveyard: Create a 0/1 green Plant creature token.	3/2		normal	AMP		

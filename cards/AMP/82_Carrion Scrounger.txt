@@ -1,0 +1,1 @@
+﻿Carrion Scrounger	B	common	Creature – Satyr Cleric 	82	B	1B	When Carrion Scrounger enters the battlefield, mill two cards.NEWLINEApex–Carrion Scrounger gets +2/+1 as long as you control a creature with mana value 6 or greater.	1/2		normal	AMP		

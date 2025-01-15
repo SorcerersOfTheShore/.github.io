@@ -1,0 +1,1 @@
+﻿Frenzied Callings	R	common	Sorcery	127	R	RR	As an additional cost to cast this spell, discard a card.NEWLINEDraw two cards and create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

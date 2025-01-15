@@ -1,0 +1,1 @@
+﻿Voltaic Wurm		uncommon	Artifact Creature – Wurm 	226	C	6	As Voltaic Wurm enters the battlefield, you may sacrifice any number of creatures and/or artifacts. Voltaic Wurm enters the battlefield with twice that many +1/+1 counters on it.	2/2		normal	AMP		

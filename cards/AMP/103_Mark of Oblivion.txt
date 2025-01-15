@@ -1,0 +1,1 @@
+﻿Mark of Oblivion	B	common	Sorcery	103	B	4B	Exile target creature or planeswalker.			normal	AMP		

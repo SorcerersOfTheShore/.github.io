@@ -1,0 +1,1 @@
+﻿Defender of the Vastlands	G	uncommon	Creature – Giant 	163	G	4GG	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEWhen Defender of the Vastlands enters the battlefield, you may have it fight target creature you don’t control.	4/3		normal	AMP		

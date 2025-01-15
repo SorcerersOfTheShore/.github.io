@@ -1,0 +1,1 @@
+﻿Manyheaded Serpent	G	uncommon	Creature – Hydra Serpent 	175	G	4G	When Manyheaded Serpent enters the battlefield, create two 1/1 green Serpent creature tokens.NEWLINEAt the beginning of your end step, if you control three or more tapped creatures, create a 1/1 green Serpent creature token.	2/2		normal	AMP		

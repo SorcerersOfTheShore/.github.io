@@ -1,0 +1,1 @@
+﻿Relic of Exodais	B	common	Artifact	106	B	2B	When Relic of Exodais enters the battlefield, each opponent loses 1 life and you gain 1 life.NEWLINET: Add B.			normal	AMP		

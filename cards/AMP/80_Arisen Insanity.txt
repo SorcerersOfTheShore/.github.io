@@ -1,0 +1,1 @@
+﻿Arisen Insanity	B	rare	Sorcery	80	B	1B	Mill two cards. When you do, destroy up to one target creature or planeswalker with mana value less than the number of cards in your graveyard.NEWLINE3BB, Exile Arisen Insanity from your graveyard: Put target creature or planeswalker card from a graveyard onto the battlefield under your control. Activate only as a sorcery.			normal	AMP		

@@ -1,0 +1,1 @@
+﻿Stalwart Instructor	W	rare	Creature – Human Warrior 	33	W	2WW	Whenever Stalwart Instructor becomes tapped, untap all other creatures you control.	1/7		normal	AMP		

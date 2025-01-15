@@ -1,0 +1,1 @@
+﻿Readied Protection	W	common	Instant	28	W	W	Target creature you control gets +1/+1 and gains indestructible until end of turn.			normal	AMP		

@@ -1,0 +1,1 @@
+﻿Spawn of the Depths	U	common	Creature – Leviathan 	72	U	5U	FlashNEWLINEU, Discard Spawn of the Depths: Create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	4/6		normal	AMP		

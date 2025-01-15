@@ -1,0 +1,1 @@
+﻿Wingminded Warpriest	W	uncommon	Creature – Human Cleric 	39	W	1WW	FlyingNEWLINEWhenever Wingminded Warpriest becomes tapped, creatures you control get +1/+0 until end of turn.	1/2		normal	AMP		

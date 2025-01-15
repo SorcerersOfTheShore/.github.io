@@ -1,0 +1,1 @@
+﻿Worldtender	G	mythic	Creature – Human Druid 	192	G	2GG	VigilanceNEWLINET: Add G for each creature you control.	1/4		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Throne of Amplalo		rare	Legendary Land	261	C		T: Add C, then add an additional C for each creature you control with mana value 6 or greater.			normal	AMP		

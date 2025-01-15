@@ -1,0 +1,1 @@
+﻿Cursed Relic		uncommon	Artifact – Treasure 	214	C	1	Cursed Relic enters the battlefield tapped.NEWLINET, Sacrifice Cursed Relic: Add one mana of any color.NEWLINE4, T, Sacrifice Cursed Relic: Destroy target creature or planeswalker.			normal	AMP		

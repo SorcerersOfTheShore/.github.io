@@ -1,0 +1,1 @@
+﻿Embers of Creation	R	rare	Sorcery	126	R	XRR	Choose one–NEWLINE• Embers of Creation deals X damage to each creature.NEWLINE• Create X tapped Treasure tokens. (They’re artifacts with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

@@ -1,0 +1,1 @@
+﻿Limitless Insight	U	rare	Enchantment	59	U	1UU	Apex–At the beginning of your upkeep, each player draws a card. If you control a creature with mana value 6 or greater, instead only you draw a card.			normal	AMP		

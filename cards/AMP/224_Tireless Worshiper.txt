@@ -1,0 +1,1 @@
+﻿Tireless Worshiper		common	Artifact Creature – Golem 	224	C	5	T: Add CC.	4/4		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Vargad , the Golden Titan	R	rare	Legendary Artifact Creature – Giant 	151	R	5RR	This spell costs 1 less to cast for each artifact you control.NEWLINEWhenever Vargad , the Golden Titan or another artifact creature enters the battlefield under your control, that creature deals damage equal to its power to target creature or planeswalker.	7/5		normal	AMP		

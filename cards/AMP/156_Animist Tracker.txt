@@ -1,0 +1,1 @@
+﻿Animist Tracker	G	uncommon	Creature – Human Druid 	156	G	1GG	Whenever Animist Tracker becomes tapped, you may put a land card from your hand onto the battlefield.	3/3		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Breach the Surface	U	common	Sorcery	44	U	2U	Create a 2/2 blue Shark creature token.NEWLINEYou may sacrifice an artifact. If you do, draw a card. If you don’t, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

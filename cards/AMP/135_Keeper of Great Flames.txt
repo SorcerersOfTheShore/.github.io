@@ -1,0 +1,1 @@
+﻿Keeper of Great Flames	R	rare	Creature – Giant 	135	R	4RR	Whenever another nontoken Giant enters the battlefield under your control, create a token that’s a copy of that creature, except the token isn’t legendary if that creature is legendary. That token gains haste. Exile it at the beginning of the next end step.	6/6		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Pyrewise Master	R	uncommon	Creature – Human Shaman 	142	R	1R	TrampleNEWLINEWhenever Pyrewise Master deals combat damage to a player, Giant spells you cast cost X less to cast this turn, where X is the amount of damage dealt.NEWLINEApex–Pyrewise Master gets +2/+2 as long as you control a creature with mana value 6 or greater.	2/1		normal	AMP		

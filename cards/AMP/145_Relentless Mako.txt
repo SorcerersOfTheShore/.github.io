@@ -1,0 +1,1 @@
+﻿Relentless Mako	R	rare	Creature – Shark 	145	R	2RR	HasteNEWLINEWhenever Relentless Mako attacks, it fights another target creature.	4/2		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Living Landmass		uncommon	Artifact Creature – Bird Golem 	218	C	4	FlyingNEWLINESpells you cast with mana value 6 or greater cost 1 less to cast.	2/3		normal	AMP		

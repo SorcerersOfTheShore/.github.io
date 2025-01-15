@@ -1,0 +1,1 @@
+﻿Infernal Edict	B	common	Sorcery	98	B	1B	As an additional cost to cast this spell, sacrifice an artifact or creature.NEWLINEDestroy target creature or planeswalker.			normal	AMP		

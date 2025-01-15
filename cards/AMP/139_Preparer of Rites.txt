@@ -1,0 +1,1 @@
+﻿Preparer of Rites	R	uncommon	Creature – Human Shaman 	139	R	2R	Whenever a land enters the battlefield under your control, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	2/2		normal	AMP		

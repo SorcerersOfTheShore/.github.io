@@ -1,0 +1,1 @@
+﻿Follower of the Inevitable	B	uncommon	Creature – Human Cleric 	93	B	1BB	At the beginning of your end step, if three or more permanents you control left the battlefield this turn, create a 1/1 white Cleric creature token.NEWLINE2B, Sacrifice an artifact or creature: You gain 1 life and draw a card.	2/3		normal	AMP		

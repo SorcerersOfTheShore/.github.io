@@ -1,0 +1,1 @@
+﻿Rethink	U	common	Instant	68	U	2U	Counter target spell unless its controller pays X, where X is its mana value.			normal	AMP		

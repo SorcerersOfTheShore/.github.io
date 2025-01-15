@@ -1,0 +1,1 @@
+﻿Mighty Eagle	W	common	Creature – Bird 	22	W	4W	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEFlying	3/2		normal	AMP		

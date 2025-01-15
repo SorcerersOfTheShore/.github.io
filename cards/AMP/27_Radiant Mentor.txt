@@ -1,0 +1,1 @@
+﻿Radiant Mentor	W	common	Creature – Human Cleric 	27	W	1W	When Radiant Mentor dies, you gain 2 life and create a 1/1 white Cleric creature token.	2/2		normal	AMP		

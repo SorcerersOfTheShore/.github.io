@@ -1,0 +1,305 @@
+11_Elistor, Exalted One
+52_Eon Swallower
+84_Cycle's End
+117_Ancient Aria
+185_Spellgorger Tyrano
+24_Presence of Greatness
+62_Normungan, Shelled Scourge
+89_Essence Etcher
+132_Huro, the Ash-Reader
+192_Worldtender
+3_Anger to Remorse
+40_Adalrad, Concoctopus
+79_Agony Caster
+122_Cinder Spree
+157_Archdruid
+10_Edgecrosser
+41_Arvis, the Tidewaker
+80_Arisen Insanity
+124_Disciple of Eos
+158_Blind Bashing
+18_Hushmaker
+43_Bident of Kiora
+86_Doom to Inferiority
+126_Embers of Creation
+161_Chord of Calling
+20_Loa, The All-Caller
+45_Command the Deep
+90_Etchweaver
+134_Intimidation Tactics
+162_Daunting Titan
+21_The Masked Healer
+47_Coralhide Wurm
+95_Grim Revelation
+135_Keeper of Great Flames
+164_Director of Rebirth
+25_Prosperous Hope
+51_Enigma Field
+102_Malrin, Slaughter-Regent
+136_Massive Scale
+166_End the End
+26_Pulai, Esteemed Honorer
+59_Limitless Insight
+105_Patron of Blood
+145_Relentless Mako
+167_Essence-Flooded Serpent
+33_Stalwart Instructor
+60_Lucid Seer
+110_Sanguine Devotion
+147_Ruinator Scourge
+177_Master Reshaper
+36_Tireless Traveler
+63_Nuvan, the Deep-Favored
+112_Uncover the Vault
+151_Vargad , the Golden Titan
+187_U'Kala, Revered Protector
+2_Ambassador of the Protectors
+78_Wisdom Quantifier
+81_Call to Life
+121_Churn the Tides
+155_Act of the Ancients
+7_Communual Offering
+53_Evergrowing Kraken
+87_Edge of the Beyond
+129_Furybringer
+156_Animist Tracker
+12_Eternal Prison
+55_Glimpse the Deep-Keeper
+88_Embrace Oblivion
+131_Havoc Rush
+159_Brilliant Communion
+19_Keeper of the Splendid
+56_Glorious Reward
+91_Exemplary Follower
+137_Melt to Material
+163_Defender of the Vastlands
+23_Neverending Persistence
+58_Keeper of the Sunken
+92_False Caller
+139_Preparer of Rites
+165_Druid of New Life
+31_Restless Wanderer
+71_See the Inevitable
+93_Follower of the Inevitable
+142_Pyrewise Master
+175_Manyheaded Serpent
+34_Stalwart Solidarity
+73_Summit of Revelation
+104_Nightmare's Thirst
+144_Relentless Conflict
+186_Sylvan Scrying
+39_Wingminded Warpriest
+75_Tome Implanter
+113_Unseal the Vault
+153_Voltaic Predator
+188_Undying Undergrowth
+4_Battledriver Giant
+76_Tribute of Sanity
+82_Carrion Scrounger
+118_Assert Dominance
+160_Call for Biotace
+5_Caller of the Protectors
+42_Beneath the Tides
+83_Commune With the Forbidden
+119_Axehead Shark
+168_Evoke the Elements
+6_Cast to Nothingness
+44_Breach the Surface
+85_Deathchaser Serpent
+120_Battlesweeper Giant
+169_Flourishing Giant
+8_Courrier of Hope
+46_Contingency Plan
+94_Gravecrawler Wurm
+123_Crushing Weight
+170_Followed Protector
+9_Dawnwaker
+48_Crafter of Relics
+96_Heartless Winnower
+125_Dominate the Shallows
+171_Grapple with the Past
+13_Follower of Footsteps
+49_Crafty Octopod
+97_Induce Despair
+127_Frenzied Callings
+172_Greater Land Serpent
+14_Gather the Devoted
+50_Drown Out
+98_Infernal Edict
+128_Frenzied Follower
+173_Harbinger of the Great Ones
+15_Giant's Steppe Seekers
+54_Exalted Griffin
+99_Invoke the Harbinger
+130_Grinning Ignus
+174_Invoker of the Undergrowth
+16_Guiding Light
+57_Grip of Tentacles
+100_Invoker of the Past
+133_Imbue with Fury
+176_Manyminded Deathbloom
+17_Honored Protector
+61_Murkwater Lurker
+101_Lace With Potency
+138_Molten Concoction
+178_Ravage the Canopy
+22_Mighty Eagle
+64_Octopod Manipulator
+103_Mark of Oblivion
+140_Pressence of the Mighty
+179_Relic of Biotace
+27_Radiant Mentor
+65_Plunge Sanity
+106_Relic of Exodais
+141_Pyremaker
+180_Ruthless Contest
+28_Readied Protection
+66_Protected by the Deep
+107_Rise Again
+143_Reckless Battledriver
+181_Seaweaver Serpent
+29_Relic of Xiphaes
+67_Relic of Abussaee
+108_Ritual Keeper
+146_Relic of Eos
+182_Serene Animist
+30_Render Insignificant
+68_Rethink
+109_Ritualist of the Forbidden
+148_Ruthless Invoker
+183_Serpent of the Grove
+32_Seeker of Greatness
+69_Sanity Drowner
+111_Scion of Oblivion
+149_Schooling Serpent
+184_Skyward Giant
+35_Steadfast Protector
+70_Scavenger of Shipwrecks
+114_Vengeant Reaver
+150_Squash
+189_Vital Infusion
+37_Triumph Against Ferocity
+72_Spawn of the Depths
+115_Weight of Insignificance
+152_Viscous Mangler
+190_Vitalizing Boon
+38_Triumphant Efforts
+74_Sweep the Shores
+116_Willing Vessel
+154_Voltaic Titan
+191_Wildwood Waker
+e
+77_Windward Seer
+e
+e
+e
+er
+er
+er
+er
+er
+205_﻿O'Lime, Reefkeeper
+207_Semaj, Eternity-Seer
+199_Hekmaj, the Hatemaker
+203_Mt. Skyshred
+193_Autochthon Wurm
+e
+e
+e
+194_Doomsnap, the Tide-Eater
+197_Gorod, the Walking City
+er
+er
+er
+er
+er
+204_Nerak, Herald of Processions
+198_Gulcux, Acolyte of Ends
+201_Kiora, Caller of the Deep
+206_Ruyel, Tribute Keeper
+195_E'Sol, Radiant One
+e
+200_Icknick, Life-Invoker
+202_Marine, Kraken Breeder
+e
+196_Gern, the Quakemaker
+er
+er
+er
+er
+er
+1_Total Devotion
+211_Beacon of Greatness
+208_Amulet of Vigor
+210_Awakened Attendant
+219_Pinnacle of Origin
+223_Thought Replicator
+209_Animate Offering
+212_Behemoth Maul
+213_Cityback Golem
+214_Cursed Relic
+215_Endless Spoils
+218_Living Landmass
+221_Springleaf Drum
+225_Tome of the Ancients
+226_Voltaic Wurm
+228_Worldcrawler Golem
+216_Great Sentinel
+217_Idol of Inevitability
+220_Pinnacle of Worship
+222_Staff of the Ancients
+224_Tireless Worshiper
+227_Wayfarer's Bauble
+e
+e
+e
+er
+er
+er
+er
+er
+263_Tomb of the Slain
+246_Maw of the Deep
+264_Vault of the End
+249_Nexus of the Beginning
+245_Heart of the World
+229_Bed of the Sun
+235_Everlasting Typhoon
+260_The Soul Cages
+254_Predator's Den
+233_Cradle of Evergrowth
+256_Sacred Valley
+241_Gorged Trench
+262_Throne of Bones
+257_Scourged Grounds
+234_Enduring Elevation
+237_Followed Path
+231_Cascading Fountain
+239_Gargantuan Grave
+230_Carved Peak
+236_Flowering Grove
+242_Great Den
+232_Churning Depths
+243_Hall of Temptations
+240_Gnarled Waves
+244_Head of the Woods
+247_Monument to the Skybound
+238_Frozen Wastes
+248_Murky Waters
+255_Ravaged Vista
+251_Path of Thorns
+259_Signs of Protection
+258_Seafloor of Shipwrecks
+252_Pool of Blood
+265_Volcanic Edge
+253_Pool of Vitality
+er
+er
+er
+er
+er
+250_Path of Ruin
+261_Throne of Amplalo
+e
+e
+e

@@ -1,0 +1,1 @@
+﻿Ruthless Invoker	R	common	Creature – Human Shaman 	148	R	1R	When Ruthless Invoker enters the battlefield, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINEWhenever you sacrifice a permanent, Ruthless Invoker gets +1/+1 until end of turn.	1/1		normal	AMP		

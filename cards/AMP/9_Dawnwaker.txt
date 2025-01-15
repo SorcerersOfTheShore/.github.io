@@ -1,0 +1,1 @@
+﻿Dawnwaker	W	common	Creature – Giant 	9	W	4WW	When Dawnwaker enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.	5/5		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Plunge Sanity	U	common	Instant	65	U	2UU	Counter target spell. Up to one target player mills four cards.			normal	AMP		

@@ -1,0 +1,1 @@
+﻿Loa, The All-Caller	W	rare	Legendary Creature – Human Cleric 	20	WRG	W	When Loa, The All-Caller enters the battlefield, you may search your library for a Giant card, reveal it, then shuffle and put that card on top.NEWLINE1, T: Until end of turn, Giant spells you cast cost RGW less to cast. This effect reduces only the amount of colored mana you pay.	1/1		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Frenzied Follower	R	common	Creature – Satyr Warrior 	128	R	4R	Apex–Frenzied Follower has menace as long as you control a creature with mana value 6 or greater.	5/4		normal	AMP		

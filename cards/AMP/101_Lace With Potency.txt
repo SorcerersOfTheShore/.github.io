@@ -1,0 +1,1 @@
+﻿Lace With Potency	B	common	Enchantment – Aura 	101	B	1B	Enchant SwampNEWLINEEnchanted Swamp has “T, Pay 1 life: Add BB.”			normal	AMP		

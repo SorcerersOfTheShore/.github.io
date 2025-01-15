@@ -1,0 +1,1 @@
+﻿Communual Offering	W	uncommon	Sorcery	7	W	2W	For each creature you control, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

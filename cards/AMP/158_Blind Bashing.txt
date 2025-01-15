@@ -1,0 +1,1 @@
+﻿Blind Bashing	G	rare	Sorcery	158	G	3GG	Until end of turn, target creature gets +3/+3 and gains “Whenever this creature is dealt damage, it fights up to one target creature you don’t control.” Then it fights target creature you don’t control.			normal	AMP		

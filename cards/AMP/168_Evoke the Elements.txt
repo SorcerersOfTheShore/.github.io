@@ -1,0 +1,1 @@
+﻿Evoke the Elements	G	common	Sorcery	168	G	3G	Create two 0/1 Plant creature tokens. Then, put a +1/+1 counter on each creature you control.			normal	AMP		

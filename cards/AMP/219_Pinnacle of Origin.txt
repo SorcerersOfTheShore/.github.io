@@ -1,0 +1,1 @@
+﻿Pinnacle of Origin		rare	Artifact	219	C	3	As Pinnacle of Origin enters the battlefield, choose a creature type. (Sea monster is not a creature type.)NEWLINEWhenever you cast a spell of the chosen type, put a charge counter on Pinnacle of Origin.NEWLINESpells of the chosen type cost 1 less to cast for each charge counter on Pinnacle of Origin.			normal	AMP		

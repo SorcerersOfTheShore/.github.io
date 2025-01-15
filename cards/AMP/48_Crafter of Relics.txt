@@ -1,0 +1,1 @@
+﻿Crafter of Relics	U	common	Creature – Human Shaman 	48	U	2U	When Crafter of Relics enters the battlefield, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	2/3		normal	AMP		

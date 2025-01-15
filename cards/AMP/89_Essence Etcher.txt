@@ -1,0 +1,1 @@
+﻿Essence Etcher	B	mythic	Creature – Demon 	89	B	1B	Essence Etcher’s power and toughness are each equal to 1 plus your starting life total minus your life total.NEWLINEWhen Essence Etcher enters the battlefield, if it has toughness 0 or less, search your library for a card, put that card into your hand, then shuffle.	1+*/1+*		normal	AMP		

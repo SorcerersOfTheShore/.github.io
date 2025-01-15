@@ -1,0 +1,1 @@
+﻿Eon Swallower	U	mythic	Creature – Leviathan 	52	U	4UU	Eon Swallower doesn’t untap during its controller’s untap step.NEWLINEUntap Eon Swallower during each other player’s untap step.NEWLINEWhenever Eon Swallower deals combat damage to a player, that player skips their next turn.	6/6		normal	AMP		

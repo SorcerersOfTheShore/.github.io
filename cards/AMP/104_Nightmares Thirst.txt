@@ -1,0 +1,1 @@
+﻿Nightmare's Thirst	B	uncommon	Instant	104	B	B	You gain 1 life. Target creature gets -X/-X until end of turn, where X is the amount of life you gained this turn.			normal	AMP		

@@ -1,0 +1,1 @@
+﻿Invoke the Harbinger	B	common	Sorcery	99	B	1BB	Each player mills three cards and each opponent discards two cards. Then you may exile a card from a graveyard. You gain life equal to its mana value.			normal	AMP		

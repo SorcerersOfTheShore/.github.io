@@ -1,0 +1,1 @@
+﻿Hushmaker	W	rare	Creature – Human Cleric 	18	W	1WW	Tap an untapped Cleric you control: Prevent the next 1 damage that would be dealt to target creature or planeswalker this turn. You gain life equal to the damage prevented this way.	2/3		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Act of the Ancients	G	uncommon	Sorcery	155	G	3G	Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.NEWLINEApex–If you control a creature with mana value 6 or greater, you gain life equal to the number of lands you control.			normal	AMP		

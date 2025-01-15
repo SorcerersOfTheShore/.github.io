@@ -1,0 +1,1 @@
+﻿Gather the Devoted	W	common	Sorcery	14	W	2W	Create two 1/1 white Cleric creature tokens.NEWLINECreate a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

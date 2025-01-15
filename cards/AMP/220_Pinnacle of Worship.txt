@@ -1,0 +1,1 @@
+﻿Pinnacle of Worship		common	Artifact	220	C	3	Apex–At the beginning of your upkeep, if you control a creature with mana value 6 or greater, you gain 1 life.NEWLINET: Add one mana of any color.			normal	AMP		

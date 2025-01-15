@@ -1,0 +1,1 @@
+﻿Tireless Traveler	W	rare	Creature – Human Scout 	36	W	W	3, T: Until end of turn, you may play up to one basic Plains card from outside the game.	2/1		normal	AMP		

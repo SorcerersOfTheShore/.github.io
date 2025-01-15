@@ -1,0 +1,1 @@
+﻿Courrier of Hope	W	common	Creature – Bird 	8	W	2W	FlyingNEWLINEWhenever another creature enters the battlefield under your control, you gain 1 life.	2/2		normal	AMP		

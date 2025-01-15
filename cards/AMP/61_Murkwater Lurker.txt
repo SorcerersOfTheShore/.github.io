@@ -1,0 +1,1 @@
+﻿Murkwater Lurker	U	common	Creature – Serpent 	61	U	4UU	Apex–Murkwater Lurker has hexproof as long as you control another creature with mana value 6 or greater.	5/6		normal	AMP		

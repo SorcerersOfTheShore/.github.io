@@ -1,0 +1,1 @@
+﻿Vengeant Reaver	B	common	Creature – Skeleton Giant 	114	B	4BB	MenaceNEWLINEB, Discard Vengeant Reaver: Create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	5/5		normal	AMP		

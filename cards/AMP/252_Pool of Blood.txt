@@ -1,0 +1,1 @@
+﻿Pool of Blood		uncommon	Land	252	B		2B: Put Pool of Blood from your hand onto the battlefield. (It enters the battlefield as this land.)NEWLINEPool of Blood enters the battlefield tapped.NEWLINET: Add B.			modal double faced	AMP		Bloodletter Demon	B	Creature – Demon 	B	5BB	Flying, lifelinkNEWLINEWhenever you gain life, target opponent loses that much life.	3/6			!landslot

@@ -1,0 +1,1 @@
+﻿Invoker of the Past	B	common	Creature – Satyr Cleric 	100	B	3B	When Invoker of the Past enters the battlefield, you may exile a card from your graveyard. If you do, choose one–NEWLINE• Create a 1/1 white Cleric creature token.NEWLINE• Create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	3/3		normal	AMP		

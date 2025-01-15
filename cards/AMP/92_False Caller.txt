@@ -1,0 +1,1 @@
+﻿False Caller	B	uncommon	Creature – Satyr Shaman 	92	B	3B	Whenever False Caller becomes tapped, target player discards a card.	2/2		normal	AMP		

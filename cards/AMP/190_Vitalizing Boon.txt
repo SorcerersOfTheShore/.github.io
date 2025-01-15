@@ -1,0 +1,1 @@
+﻿Vitalizing Boon	G	common	Enchantment – Aura 	190	G	2G	Enchant creatureNEWLINEWhen Vitalizing Boon enters the battlefield, you gain life equal to enchanted creature’s mana value.NEWLINEEnchanted creature gets +2/+2 and has trample.			normal	AMP		

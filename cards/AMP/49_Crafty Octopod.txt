@@ -1,0 +1,1 @@
+﻿Crafty Octopod	U	common	Creature – Octopus 	49	U	3U		1/8		normal	AMP		

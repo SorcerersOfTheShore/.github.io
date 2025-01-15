@@ -1,0 +1,1 @@
+﻿Anger to Remorse	W	rare	Instant	3	W	WWW	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEExile target creature. Its controller gains life equal to its power.			normal	AMP		

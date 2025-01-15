@@ -1,0 +1,1 @@
+﻿Melt to Material	R	uncommon	Sorcery	137	R	RR	Melt to Material deals 3 damage to any target.NEWLINECreate a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

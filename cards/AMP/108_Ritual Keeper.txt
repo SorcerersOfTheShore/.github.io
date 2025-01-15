@@ -1,0 +1,1 @@
+﻿Ritual Keeper	B	common	Creature – Human Cleric 	108	B	2B	When Ritual Keeper enters the battlefield, create a 1/1 white Cleric creature token.NEWLINE1B, Sacrifice an artifact or creature: Put a +1/+1 counter on Ritual Keeper. You gain 1 life.	1/2		normal	AMP		

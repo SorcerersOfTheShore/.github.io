@@ -1,0 +1,1 @@
+﻿Viscous Mangler	R	common	Creature – Kraken 	152	R	3RR	R, Sacrifice an artifact or creature: Viscous Mangler gets +2/+0 until end of turn.	3/5		normal	AMP		

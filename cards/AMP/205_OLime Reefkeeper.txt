@@ -1,0 +1,1 @@
+﻿O'Lime, Reefkeeper	WU	uncommon	Legendary Creature – Shark 	205	WU	2WU	If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.NEWLINEApex–O’Lime, Reefkeeper and other creatures you control get +1/+1 as long as you control a creature with mana value 6 or greater.	3/3		normal	AMP		

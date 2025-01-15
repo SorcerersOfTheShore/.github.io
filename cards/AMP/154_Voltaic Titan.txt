@@ -1,0 +1,1 @@
+﻿Voltaic Titan	R	common	Creature – Elemental Giant 	154	R	4RR	Whenever Voltaic Titan attacks, exile the top card of your library. You may play that card this turn.	6/5		normal	AMP		

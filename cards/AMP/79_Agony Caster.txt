@@ -1,0 +1,1 @@
+﻿Agony Caster	B	rare	Creature – Human Cleric 	79	B	2BB	Whenever Agony Caster becomes tapped, target creature gets -X/-X until end of turn, where X is Agony Caster’s power.	2/2		normal	AMP		

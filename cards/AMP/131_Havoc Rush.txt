@@ -1,0 +1,1 @@
+﻿Havoc Rush	R	uncommon	Enchantment	131	R	1R	When Havoc Rush enters the battlefield, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINEAt the beginning of combat on your turn, target creature gets +1/+0 until end of turn for each artifact and/or creature you’ve sacrificed this turn.			normal	AMP		

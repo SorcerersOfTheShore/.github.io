@@ -1,0 +1,1 @@
+﻿Cast to Nothingness	W	common	Instant	6	W	2W	Destroy target artifact or enchantment. You gain life equal to its mana value.			normal	AMP		

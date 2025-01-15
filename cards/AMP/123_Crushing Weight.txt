@@ -1,0 +1,1 @@
+﻿Crushing Weight	R	common	Sorcery	123	R	3R	Destroy target artifact or land. If an artifact or nonbasic land is destroyed this way, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

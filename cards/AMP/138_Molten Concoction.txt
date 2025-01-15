@@ -1,0 +1,1 @@
+﻿Molten Concoction	R	common	Sorcery	138	R	4R	Choose target creature or planeswalker. Create two tapped Treasure tokens, then Molten Concoction deals damage to the chosen permanent equal to the number of artifacts you control. (They’re artifacts with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

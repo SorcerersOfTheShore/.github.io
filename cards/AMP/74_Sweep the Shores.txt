@@ -1,0 +1,1 @@
+﻿Sweep the Shores	U	common	Instant	74	U	1U	Return target creature to its owner’s hand.NEWLINECreate a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

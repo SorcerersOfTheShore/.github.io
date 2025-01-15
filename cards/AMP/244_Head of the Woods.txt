@@ -1,0 +1,1 @@
+﻿Head of the Woods		uncommon	Land	244	G		2G: Put Head of the Woods from your hand onto the battlefield. (It enters the battlefield as this land.)NEWLINEHead of the Woods enters the battlefield tapped.NEWLINET: Add G.			modal double faced	AMP		Walking Woods	G	Creature – Elemental 	G	4GG	VigilanceNEWLINET: Add G.NEWLINEOther creatures you control have “T: Add G.”	4/6			!landslot

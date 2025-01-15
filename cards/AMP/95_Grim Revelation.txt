@@ -1,0 +1,1 @@
+﻿Grim Revelation	B	rare	Enchantment	95	B	B	Whenever you sacrifice a permanent, put a rite counter on Grim Revelation.NEWLINEAt the beginning of your upkeep, if there are 13 or more rite counters on Grim Revelation, you win the game.			normal	AMP		

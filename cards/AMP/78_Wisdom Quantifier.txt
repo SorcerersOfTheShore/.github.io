@@ -1,0 +1,1 @@
+﻿Wisdom Quantifier	U	rare	Artifact	78	U	2U	Whenever an opponent casts a spell, you may pay 1. If you do, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

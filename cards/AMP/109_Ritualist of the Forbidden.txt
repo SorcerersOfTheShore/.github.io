@@ -1,0 +1,1 @@
+﻿Ritualist of the Forbidden	B	common	Creature – Human Cleric 	109	B	2B	B, Exile Ritualist of the Forbidden from your graveyard: Create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	3/2		normal	AMP		

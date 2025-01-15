@@ -1,0 +1,1 @@
+﻿Triumphant Efforts	W	common	Sorcery	38	W	2W	Destroy target creature with power 4 or greater.NEWLINECreate a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

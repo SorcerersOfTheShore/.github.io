@@ -1,0 +1,1 @@
+﻿Wayfarer's Bauble		common	Artifact	227	C	1	2, T, Sacrifice Wayfarer’s Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.			normal	AMP		

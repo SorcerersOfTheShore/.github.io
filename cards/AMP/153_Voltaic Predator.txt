@@ -1,0 +1,1 @@
+﻿Voltaic Predator	R	uncommon	Creature – Elemental Shark 	153	R	2R	Whenever Voltaic Predator deals noncombat damage to a creature or planeswalker, it deals that much damage to that permanent’s controller.NEWLINE2R, T: Voltaic Predator deals 1 damage to target creature or planeswalker.	3/2		normal	AMP		

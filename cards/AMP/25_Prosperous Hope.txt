@@ -1,0 +1,1 @@
+﻿Prosperous Hope	W	rare	Sorcery	25	W	XWW	Create X 1/1 white Cleric creature tokens, then you gain life equal to the number of creatures you control.			normal	AMP		

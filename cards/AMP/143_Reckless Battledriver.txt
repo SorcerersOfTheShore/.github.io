@@ -1,0 +1,1 @@
+﻿Reckless Battledriver	R	common	Creature – Giant 	143	R	2R	Apex–Reckless Battledriver can’t block unless you control a creature with mana value 6 or greater.	4/3		normal	AMP		

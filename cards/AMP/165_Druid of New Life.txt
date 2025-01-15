@@ -1,0 +1,1 @@
+﻿Druid of New Life	G	uncommon	Creature – Human Druid 	165	G	1G	TrampleNEWLINEWhenever you gain life, put a +1/+1 counter on Druid of New Life.	1/1		normal	AMP		

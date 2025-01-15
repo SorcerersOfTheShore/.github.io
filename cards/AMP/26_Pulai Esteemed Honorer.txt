@@ -1,0 +1,1 @@
+﻿Pulai, Esteemed Honorer	W	rare	Legendary Creature – Human Cleric 	26	W	1W	Whenever Pulai, Esteemed Honorer becomes tapped, put a +1/+1 counter on it.NEWLINEWhenever a creature Pulai convoked enters the battlefield, create a 1/1 white Cleric creature token.	2/1		normal	AMP		

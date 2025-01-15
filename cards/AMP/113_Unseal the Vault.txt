@@ -1,0 +1,1 @@
+﻿Unseal the Vault	B	uncommon	Sorcery	113	B	2BB	Exile target creature or land card from your graveyard. Until end of turn, you may play that card without paying its mana cost. (You may cast the back face of a modal double-faced card this way.)			normal	AMP		

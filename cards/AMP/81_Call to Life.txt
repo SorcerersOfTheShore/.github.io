@@ -1,0 +1,1 @@
+﻿Call to Life	B	uncommon	Sorcery	81	B	XBB	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEReturn target creature card with mana value X or less from your graveyard to the battlefield.			normal	AMP		

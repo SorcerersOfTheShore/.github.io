@@ -1,0 +1,1 @@
+﻿Uncover the Vault	B	rare	Sorcery	112	B	BB	Choose a card name. Reveal cards from the top of your library until a card with that name is revealed. If it is, you lose life equal to the number of cards revealed this way, put the rest of the revealed cards into your graveyard, and put the card with the chosen name into your hand. Otherwise, shuffle.			normal	AMP		

@@ -1,0 +1,1 @@
+﻿Marine, Kraken Breeder	UG	uncommon	Legendary Creature – Human Shaman 	202	UG	1GU	Whenever a sea monster enters the battlefield under your control, draw a card. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)NEWLINET: Add GU. Spend this mana only to cast sea monster spells.	2/2		normal	AMP		

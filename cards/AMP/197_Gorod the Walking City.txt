@@ -1,0 +1,1 @@
+﻿Gorod, the Walking City	WG	uncommon	Legendary Creature – Dinosaur 	197	WG	6GW	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEVigilanceNEWLINEGorod, the Walking City’s power and toughness are each equal to twice the number of creatures you control.	*/*		normal	AMP		

@@ -1,0 +1,1 @@
+﻿Idol of Inevitability		common	Artifact Creature – Golem 	217	C	2	T: Target player mills a card.NEWLINEWhen Idol of Inevitability dies, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	0/3		normal	AMP		

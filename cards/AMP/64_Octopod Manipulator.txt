@@ -1,0 +1,1 @@
+﻿Octopod Manipulator	U	common	Creature – Octopus 	64	U	2U	T: Untap another target permanent you control.	2/2		normal	AMP		

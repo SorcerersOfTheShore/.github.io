@@ -1,0 +1,1 @@
+﻿Caller of the Protectors	W	common	Creature – Human Cleric 	5	W	1W	Giant spells you cast cost 1 less to cast.NEWLINEApex–Caller of the Protectors gets +2/+1 as long as you control a creature with mana value 6 or greater.	1/2		normal	AMP		

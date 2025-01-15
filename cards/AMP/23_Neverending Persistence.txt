@@ -1,0 +1,1 @@
+﻿Neverending Persistence	W	uncommon	Enchantment	23	W	1W	At the beginning of your upkeep, if you control no creatures, create a 1/1 white Cleric creature token. That creature can’t block until your next turn.			normal	AMP		

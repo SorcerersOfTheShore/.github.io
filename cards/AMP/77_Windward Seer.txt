@@ -1,0 +1,1 @@
+﻿Windward Seer	U	common	Creature – Human Shaman 	77	U	4U	FlyingNEWLINE1U, Exile Windward Seer from your graveyard: Draw a card.	3/3		normal	AMP		

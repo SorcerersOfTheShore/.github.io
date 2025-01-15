@@ -1,0 +1,1 @@
+﻿Huro, the Ash-Reader	R	mythic	Legendary Creature – Human Shaman 	132	R	3RR	Whenever a creature or planeswalker an opponent controls is dealt excess noncombat damage, you may discard your hand. If you do, draw cards equal to the excess.NEWLINEXRR, T: Huro, the Ash-Reader deals X damage to target creature or planeswalker. Activate only as a sorcery.	3/3		normal	AMP		

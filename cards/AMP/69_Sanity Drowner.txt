@@ -1,0 +1,1 @@
+﻿Sanity Drowner	U	common	Creature – Kraken 	69	U	3U	Whenever Sanity Drowner or another sea monster enters the battlefield under your control, target player mills two cards. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)	2/4		normal	AMP		

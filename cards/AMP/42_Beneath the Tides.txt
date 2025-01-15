@@ -1,0 +1,1 @@
+﻿Beneath the Tides	U	common	Instant	42	U	3U	Apex–This spell costs 1 less to cast if you control a creature with mana value 6 or greater.NEWLINEDraw two cards.			normal	AMP		

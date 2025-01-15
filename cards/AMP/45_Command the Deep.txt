@@ -1,0 +1,1 @@
+﻿Command the Deep	U	rare	Sorcery	45	U	5UU	This spell costs 1 less to cast for each sea monster you control. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)NEWLINEGain control of target permanent.			normal	AMP		

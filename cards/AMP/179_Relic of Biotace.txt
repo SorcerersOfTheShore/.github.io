@@ -1,0 +1,1 @@
+﻿Relic of Biotace	G	common	Artifact	179	G	2G	When Relic of Biotace enters the battlefield, put a +1/+1 counter on target creature you control.NEWLINET: Add G.			normal	AMP		

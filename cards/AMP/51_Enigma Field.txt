@@ -1,0 +1,1 @@
+﻿Enigma Field	U	rare	Enchantment	51	U	4U	Each noncreature artifact you control is an artifact creature with base power and toughness 3/3. (Equipment that’s a creature can’t equip a creature.)			normal	AMP		

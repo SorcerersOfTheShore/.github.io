@@ -1,0 +1,1 @@
+﻿Ruthless Contest	G	common	Instant	180	G	1G	Apex–This spell costs 1 less to cast if you control a creature with mana value 6 or greater.NEWLINETarget creature you control fights target creature you don’t control. (Each deals damage equal to its power to the other.)			normal	AMP		

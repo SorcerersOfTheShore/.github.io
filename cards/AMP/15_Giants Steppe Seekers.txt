@@ -1,0 +1,1 @@
+﻿Giant's Steppe Seekers	W	common	Creature – Human Scout 	15	W	3W	Apex–At the beginning of your upkeep, if you control a creature with mana value 6 or greater, put a +1/+1 counter on Giant’s Steppe Seekers.	3/3		normal	AMP		

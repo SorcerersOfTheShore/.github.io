@@ -1,0 +1,1 @@
+﻿Exemplary Follower	B	uncommon	Creature – Human Cleric 	91	B	1B	When Exemplary Follower dies, choose one–NEWLINE• You gain 2 life.NEWLINE• Create a 1/1 white Cleric creature token.NEWLINE• Create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	2/1		normal	AMP		

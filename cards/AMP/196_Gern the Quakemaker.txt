@@ -1,0 +1,1 @@
+﻿Gern, the Quakemaker	WR	uncommon	Legendary Creature – Giant 	196	WR	4RW	VigilanceNEWLINEApex–At the beginning of your upkeep, if you control another creature with mana value 6 or greater, you may discard a card. If you do, draw a card. If the discarded card is a Giant, instead exile it and you may play that card until the end of your next turn.	6/6		normal	AMP		

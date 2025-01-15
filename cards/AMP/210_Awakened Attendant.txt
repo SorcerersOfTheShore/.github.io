@@ -1,0 +1,1 @@
+﻿Awakened Attendant		rare	Artifact Creature – Golem 	210	C	2	Apex–At the beginning of your upkeep, if you control a creature with mana value 6 or greater, create a token that’s a copy of Awakened Attendant.	2/2		normal	AMP		

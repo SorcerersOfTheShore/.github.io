@@ -1,0 +1,1 @@
+﻿Tome of the Ancients		uncommon	Artifact	225	C	2	1, T: Scry 1.NEWLINEApex–2, T: Draw a card. Activate only if you control a creature with mana value 6 or greater.			normal	AMP		

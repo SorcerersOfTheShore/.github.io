@@ -1,0 +1,1 @@
+﻿Squash	R	common	Instant	150	R	4R	This spell costs 3 less to cast if you control a Giant.NEWLINESquash deals 6 damage to target creature or planeswalker.			normal	AMP		

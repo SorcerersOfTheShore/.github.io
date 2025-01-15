@@ -1,0 +1,1 @@
+﻿Grip of Tentacles	U	common	Enchantment – Aura 	57	U	1U	Enchant creatureNEWLINEWhen Grip of Tentacles enters the battlefield, if you control a sea monster, tap enchanted creature. (Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)NEWLINEEnchanted creature doesn’t untap during its controller’s untap step.			normal	AMP		

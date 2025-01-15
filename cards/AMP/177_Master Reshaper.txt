@@ -1,0 +1,1 @@
+﻿Master Reshaper	G	rare	Creature – Human Druid 	177	G	1G	G, T, Return a land you control to its owner’s hand: Put a land card from your hand onto the battlefield.	2/3		normal	AMP		

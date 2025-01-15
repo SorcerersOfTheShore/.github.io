@@ -1,0 +1,1 @@
+﻿Endless Spoils		uncommon	Artifact	215	C	3	T: Add one mana of any color.NEWLINE1, T: Create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	AMP		

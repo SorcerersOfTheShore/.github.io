@@ -1,0 +1,1 @@
+﻿Serpent of the Grove	G	common	Creature – Serpent 	183	G	4GG	Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)	6/6		normal	AMP		

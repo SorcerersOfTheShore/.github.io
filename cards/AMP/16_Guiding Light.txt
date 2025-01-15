@@ -1,0 +1,1 @@
+﻿Guiding Light	W	common	Enchantment – Aura 	16	W	1W	Enchant creatureNEWLINEWhen Guiding Light enters the battlefield, create a 1/1 white Cleric creature token.NEWLINEWhenever enchanted creature becomes tapped, put a +1/+1 counter on it.			normal	AMP		

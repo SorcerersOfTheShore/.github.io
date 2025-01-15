@@ -1,0 +1,1 @@
+﻿Embrace Oblivion	B	uncommon	Sorcery	88	B	1B	Target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. Choose one–NEWLINE• For each card put into a graveyard this way, that player loses 1 life and you gain 1 life.NEWLINE• For each card put into a graveyard this way, you gain 2 life.			normal	AMP		

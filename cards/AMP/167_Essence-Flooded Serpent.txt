@@ -1,0 +1,1 @@
+﻿Essence-Flooded Serpent	G	rare	Creature – Serpent 	167	G	4GG	This spell costs X less to cast, where X is the amount of life you gained this turn.NEWLINEAt the beginning of your upkeep, you gain 1 life.NEWLINEEssence-Flooded Serpent can’t be blocked by creatures with power less than the amount of life you gained this turn.	5/5		normal	AMP		

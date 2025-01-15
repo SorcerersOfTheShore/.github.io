@@ -1,0 +1,1 @@
+﻿Flourishing Giant	G	common	Creature – Giant 	169	G	6GG	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEWhen Flourishing Giant enters the battlefield, put two +1/+1 counters on target creature you control.	6/6		normal	AMP		
