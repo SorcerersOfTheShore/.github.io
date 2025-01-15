@@ -1,1 +1,0 @@
-﻿Urgyl's Encouragement	G	uncommon	Enchantment	203	G	1G	1G: Choose one that hasn’t been chosen this turn. Activate only as a sorcery–NEWLINE• Put a +1/+1 counter on target creature.NEWLINE• Put a loyalty counter on target planeswalker.NEWLINE• Target creature you control must be blocked this turn if able.			normal	END		

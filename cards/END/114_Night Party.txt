@@ -1,1 +1,0 @@
-﻿Night Party	B	uncommon	Creature – Human Rogue 	114	B	1B	1B, Exile a creature or planeswalker card from your graveyard: Create a token that’s a copy of Night Party. (Token copies have the mana cost of the permanent they’re a copy of.)	1/1		normal	END		

@@ -1,1 +1,0 @@
-﻿Tideseer	U	common	Creature – Merfolk Wizard 	79	U	U	1, T: Scry 1.	1/1		normal	END		

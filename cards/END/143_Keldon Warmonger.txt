@@ -1,1 +1,0 @@
-﻿Keldon Warmonger	R	common	Creature – Human Warrior 	143	R	1R	Overcome–Whenever a creature or planeswalker dealt damage by Keldon Warmonger this turn dies, Keldon Warmonger deals 1 damage to that permanent’s controller.	3/1		normal	END		

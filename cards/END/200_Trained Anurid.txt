@@ -1,1 +1,0 @@
-﻿Trained Anurid	G	common	Creature – Frog Beast 	200	G	2GG	TrampleNEWLINEOvercome–Whenever a creature or planeswalker dealt damage by Trained Anurid this turn dies, put a +1/+1 counter on Trained Anurid. (It must survive combat to get the counter.)	4/3		normal	END		

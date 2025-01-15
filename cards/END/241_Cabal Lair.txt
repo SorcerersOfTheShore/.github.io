@@ -1,1 +1,0 @@
-﻿Cabal Lair		uncommon	Land	241	UB		Cabal Lair enters the battlefield tapped.NEWLINET: Add U or B.NEWLINEU/B, T: Put target card from your graveyard on the bottom of your library, then shuffle. Activate only as a sorcery.			normal	END		

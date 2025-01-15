@@ -1,1 +1,0 @@
-﻿Wings of Devotion	WU	common	Instant	44	WU	1W	(This card is blue in addition to its other colors.)NEWLINEUntap each creature you control. Those creatures gain flying until end of turn.			normal	END		

@@ -1,1 +1,0 @@
-﻿Sengir Corpse	B	common	Creature – Vampire Zombie 	119	B	1B	1: Sengir Corpse gains deathtouch until end of turn. Activate only once each turn.NEWLINEOvercome–Whenever a creature or planeswalker dealt damage by Sengir Corpse this turn dies, you gain 2 life.	2/2		normal	END		

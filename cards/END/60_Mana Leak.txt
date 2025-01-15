@@ -1,1 +1,0 @@
-﻿Mana Leak	U	common	Instant	60	U	1U	Counter target spell unless its controller pays 3.			normal	END		

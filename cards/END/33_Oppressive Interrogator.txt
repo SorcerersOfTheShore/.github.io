@@ -1,1 +1,0 @@
-﻿Oppressive Interrogator	WU	rare	Creature – Human Wizard Cleric 	33	WU	1W	(This card is blue in addition to its other colors.)NEWLINEWhenever an opponent activates an ability that isn’t a mana ability, you may draw a card unless that player pays 1. (Loyalty abilities are activated abilities.)	1/4		normal	END		

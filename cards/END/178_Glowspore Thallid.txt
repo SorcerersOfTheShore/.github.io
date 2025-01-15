@@ -1,1 +1,0 @@
-﻿Glowspore Thallid	G	common	Creature – Fungus Druid 	178	G	2G	G, Exile Glowspore Thallid from your graveyard: Choose one or both. Activate only as a sorcery–NEWLINE• Put a +1/+1 counter on target creature you control.NEWLINE• Put a loyalty counter on target planeswalker you control.	2/3		normal	END		

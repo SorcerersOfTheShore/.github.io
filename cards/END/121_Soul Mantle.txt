@@ -1,1 +1,0 @@
-﻿Soul Mantle	B	common	Enchantment – Aura 	121	B	B	Enchant creatureNEWLINEWhen Soul Mantle enters the battlefield, draw a card.NEWLINEB: Enchanted creature gains your choice of deathtouch or lifelink until end of turn.			normal	END		

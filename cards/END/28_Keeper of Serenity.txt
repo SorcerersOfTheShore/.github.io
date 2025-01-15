@@ -1,1 +1,0 @@
-﻿Keeper of Serenity	W	common	Creature – Fox Spirit 	28	W	W	1W, Sacrifice Keeper of Serenity: Destroy target artifact or enchantment.	1/1		normal	END		

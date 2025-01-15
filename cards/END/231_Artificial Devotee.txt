@@ -1,1 +1,0 @@
-﻿Artificial Devotee		uncommon	Artifact Creature – Construct 	231	C	1	1: Target nonland permanent becomes blue, black, or red in addition to its other colors until end of turn.	1/2		normal	END		

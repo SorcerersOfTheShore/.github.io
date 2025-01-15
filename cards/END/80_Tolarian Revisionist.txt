@@ -1,1 +1,0 @@
-﻿Tolarian Revisionist	U	common	Creature – Human Wizard 	80	U	2U	T: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)	1/1		normal	END		

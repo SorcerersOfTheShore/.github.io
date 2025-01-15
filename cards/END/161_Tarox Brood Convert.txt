@@ -1,1 +1,0 @@
-﻿Tarox, Brood Convert	R	mythic	Legendary Creature – Dragon 	161	R	2RR	FlyingNEWLINE1R, Discard a Dragon card: Double Tarox, Brood Convert’s power until end of turn. Then if the discarded card was legendary, Tarox deals damage equal to its power to up to one target creature or planeswalker.	3/3		normal	END		

@@ -1,1 +1,0 @@
-﻿Submerged Cache		common	Land	245	U		Submerged Cache enters the battlefield tapped.NEWLINET: Add U.NEWLINEU, T: Look at the top card of your library. Activate only as a sorcery.			normal	END		

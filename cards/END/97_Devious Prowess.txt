@@ -1,1 +1,0 @@
-﻿Devious Prowess	B	common	Sorcery	97	B	B	Target creature gains menace until end of turn.NEWLINE1, Exile Devious Prowess from your graveyard: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.			normal	END		

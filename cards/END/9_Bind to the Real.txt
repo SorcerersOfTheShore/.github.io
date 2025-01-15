@@ -1,1 +1,0 @@
-﻿Bind to the Real	W	common	Enchantment – Aura 	9	W	1WW	Enchant creature or planeswalkerNEWLINEEnchanted permanent can’t attack or block, and its activated abilities can’t be activated.			normal	END		

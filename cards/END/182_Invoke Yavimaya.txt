@@ -1,1 +1,0 @@
-﻿Invoke Yavimaya	G	common	Enchantment – Aura 	182	G	2G	Enchant creature you controlNEWLINEWhen Invoke Yavimaya enters the battlefield, enchanted creature fights up to one target creature you don’t control. (Each deals damage equal to its power to the other.)NEWLINEEnchanted creature gets +2/+2.			normal	END		

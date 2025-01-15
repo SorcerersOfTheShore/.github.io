@@ -1,1 +1,0 @@
-﻿Twist of Fate	U	common	Instant	81	U	1U	Return target creature or planeswalker to its owner’s hand.NEWLINERewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)			normal	END		

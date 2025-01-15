@@ -1,1 +1,0 @@
-﻿Mercy for the Meek	WB	common	Instant	31	WB	W	(This card is black in addition to its other colors.)NEWLINECreate a 1/1 black Cleric creature token. When you do, target creature gets +1/+1 until end of turn.			normal	END		

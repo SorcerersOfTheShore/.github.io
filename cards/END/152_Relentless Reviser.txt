@@ -1,1 +1,0 @@
-﻿Relentless Reviser	R	common	Creature – Goblin Wizard 	152	R	2R	When Relentless Reviser attacks, it gets +1/+0 until end of turn for each card you’ve drawn this turn.	1/3		normal	END		

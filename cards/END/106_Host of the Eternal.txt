@@ -1,1 +1,0 @@
-﻿Host of the Eternal	B	uncommon	Creature – Zombie Naga 	106	B	2BB	Other Zombie creatures you control get +1/+1.NEWLINEWhenever a creature you control dies, you may pay 1B. If you do, create a token that’s a copy of a card named Infectious Host. (It’s a 1/1 black Zombie creature with “When this creature dies, target player loses 2 life.” and mana cost 2B.)	3/2		normal	END		

@@ -1,1 +1,0 @@
-﻿Whelp of the New Generation	R	common	Creature – Dragon 	167	R	2R	FlyingNEWLINE1R: Whelp of the New Generation gets +1/+0 until end of turn.	1/2		normal	END		

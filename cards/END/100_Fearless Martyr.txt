@@ -1,1 +1,0 @@
-﻿Fearless Martyr	B	common	Creature – Satyr Cleric 	100	B	1B	When Fearless Martyr dies, if it isn’t a token, create a token that’s a copy of Fearless Martyr. (Token copies have the mana cost of the permanent they’re a copy of.)	1/1		normal	END		

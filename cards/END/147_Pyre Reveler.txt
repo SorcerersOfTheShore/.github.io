@@ -1,1 +1,0 @@
-﻿Pyre Reveler	R	common	Creature – Goblin Wizard 	147	R	1R	HasteNEWLINEWhenever Pyre Reveler attacks, rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)	2/1		normal	END		

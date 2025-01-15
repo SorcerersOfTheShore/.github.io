@@ -1,1 +1,0 @@
-﻿Power of the Powerless	R	common	Instant	146	R	1R	Creatures you control get +1/+0 and gain trample until end of turn.NEWLINEEmpower–If you have activated three or more abilities this turn that aren’t mana abilities, creatures you control get an additional +1/+0 until end of turn. (Loyalty abilities are activated abilities.)			normal	END		

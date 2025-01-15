@@ -1,1 +1,0 @@
-﻿Kikai, Hired Revisionist	U	uncommon	Legendary Planeswalker – Kikai 	56	U	1UU			[+1]: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)NEWLINE[0]: Target player mills two cards for each card you’ve drawn this turn.NEWLINE[-3]: Target player draws two cards.	planeswalker	END	3	!landslot

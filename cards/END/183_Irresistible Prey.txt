@@ -1,1 +1,0 @@
-﻿Irresistible Prey	G	common	Sorcery	183	G	G	Target creature must be blocked this turn if able.NEWLINEDraw a card.			normal	END		

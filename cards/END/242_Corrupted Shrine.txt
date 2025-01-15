@@ -1,1 +1,0 @@
-﻿Corrupted Shrine		common	Land	242	B		Corrupted Shrine enters the battlefield tapped.NEWLINET: Add B.NEWLINEB, T: Target player mills a card. Activate only as a sorcery.			normal	END		

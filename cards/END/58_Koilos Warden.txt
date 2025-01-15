@@ -1,1 +1,0 @@
-﻿Koilos Warden	U	common	Artifact Creature – Construct 	58	U	5U	Shroud (This creature can’t be the target of spells or abilities.)	5/5		normal	END		

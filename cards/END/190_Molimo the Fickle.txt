@@ -1,1 +1,0 @@
-﻿Molimo the Fickle	G	rare	Legendary Creature – Elemental Avatar 	190	G	3GG	Molimo the Fickle must be blocked if able.NEWLINEOvercome–Whenever a creature or planeswalker dealt damage by Molimo the Fickle this turn dies, destroy target noncreature, nonland permanent you don’t control.	5/5		normal	END		

@@ -1,1 +1,0 @@
-﻿Goading Goblin	R	common	Creature – Goblin Warrior 	140	R	3R	2R: Target creature you control must be blocked this turn if able.	3/4		normal	END		

@@ -1,1 +1,0 @@
-﻿Reaped Devotion	UG	uncommon	Instant	197	UG	3G	(This card is blue in addition to its other colors.)NEWLINEPut a +1/+1 counter on target creature, then double the number of each kind of counter on any number permanents.			normal	END		

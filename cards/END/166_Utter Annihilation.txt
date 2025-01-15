@@ -1,1 +1,0 @@
-﻿Utter Annihilation	R	common	Sorcery	166	R	3R	Choose one–NEWLINE• Target creature you control deals damage equal to its power to target creature or planeswalker you don’t control.NEWLINE• Target planeswalker you control deals damage equal to the number of loyalty counters on it to target creature or planeswalker you don’t control.			normal	END		

@@ -1,1 +1,0 @@
-﻿Jhoira, Touched by Time	UR	rare	Legendary Creature – Human Artificer 	219	UR	2UR	Whenever you cast a noncreature spell, put a +1/+1 counter on Jhoira, Touched by Time.NEWLINENoncreature spells you cast cost 1 less to cast for each +1/+1 counter on Jhoira.	2/2		normal	END		

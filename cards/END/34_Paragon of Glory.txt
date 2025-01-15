@@ -1,1 +1,0 @@
-﻿Paragon of Glory	WR	uncommon	Creature – Human Warrior 	34	WR	2W	(This card is red in addition to its other colors.)NEWLINEWhen Paragon of Glory or another creature you control dies, creatures you control get +1/+0 until end of turn.	3/2		normal	END		

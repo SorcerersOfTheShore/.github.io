@@ -1,1 +1,0 @@
-﻿Baltrice, Last of the Consortium	R	uncommon	Legendary Planeswalker – Baltrice 	127	R	2R			[+1]: You may discard a card. If you do, draw a card.NEWLINE[-1]: Create a 1/1 red Elemental creature token. It gains haste until end of turn.NEWLINE[-3]: Baltrice, Last of the Consortium deals 3 damage to any target.	planeswalker	END	3	!landslot

@@ -1,1 +1,0 @@
-﻿Witness to Atrocities	U	common	Creature – Merfolk 	85	U	1U	DefenderNEWLINEU: Witness to Atrocities can attack this turn as though it didn’t have defender. Activate only once each turn.	2/3		normal	END		

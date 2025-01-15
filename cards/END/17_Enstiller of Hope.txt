@@ -1,1 +1,0 @@
-﻿Enstiller of Hope	W	rare	Creature – Angel Cleric 	17	W	3WW	FlyingNEWLINEEmpower–Whenever you activate your third ability in a turn that isn’t a mana ability, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield. (Loyalty abilities are activated abilities.)	5/5		normal	END		

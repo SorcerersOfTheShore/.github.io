@@ -1,1 +1,0 @@
-﻿Llanowar Combatant	G	uncommon	Creature – Elf Warrior 	187	G	G	G, Exile Llanowar Combatant from your graveyard: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.	2/1		normal	END		

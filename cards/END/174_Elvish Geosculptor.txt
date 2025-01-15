@@ -1,1 +1,0 @@
-﻿Elvish Geosculptor	G	common	Creature – Elf Shaman 	174	G	1G	3G: Put a +1/+1 counter on Elvish Geosculptor.NEWLINEOvercome–Whenever a creature or planeswalker dealt damage by Elvish Geosculptor this turn dies, you gain 2 life.	2/1		normal	END		

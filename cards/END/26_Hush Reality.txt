@@ -1,1 +1,0 @@
-﻿Hush Reality	W	rare	Enchantment	26	W	1WW	Other permanents on the battlefield have shroud. (They can’t be the target of spells or abilities.)			normal	END		

@@ -1,1 +1,0 @@
-﻿Mandatory Betrayal	U	rare	Enchantment – Aura 	61	U	2UU	Enchant creature or planeswalkerNEWLINEWhen enchanted permanent dies, gain control of target creature or planeswalker.			normal	END		

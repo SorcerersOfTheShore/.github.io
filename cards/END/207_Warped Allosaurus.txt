@@ -1,1 +1,0 @@
-﻿Warped Allosaurus	RG	uncommon	Creature – Dinosaur 	207	RG	2GG	(This card is red in addition to its other colors.)NEWLINETrampleNEWLINETrample over planeswalkers (This creature can deal excess combat damage to the controller of the planeswalker it’s attacking.)	4/4		normal	END		

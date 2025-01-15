@@ -1,1 +1,0 @@
-﻿Crushing Dominance	UBR	rare	Sorcery	212	UBR	XXUBR	Choose X (you may only choose each mode once)–NEWLINE• Exile target creature or planeswalker.NEWLINE• Gain control of target creature or planeswalker.NEWLINE• Target player discards three cards.NEWLINE• Crushing Dominance deals 5 damage to any target.NEWLINE• Destroy target noncreature permanent.			normal	END		

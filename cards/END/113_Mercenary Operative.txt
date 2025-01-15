@@ -1,1 +1,0 @@
-﻿Mercenary Operative	B	common	Creature – Human Rogue 	113	B	4B	Overcome–Whenever a creature or planeswalker dealt damage by Mercenary Operative this turn dies, that permanent’s controller loses 1 life.	5/4		normal	END		

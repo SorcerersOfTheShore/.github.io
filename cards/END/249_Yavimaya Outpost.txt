@@ -1,1 +1,0 @@
-﻿Yavimaya Outpost		uncommon	Land	249	RG		Yavimaya Outpost enters the battlefield tapped.NEWLINET: Add R or G.NEWLINER/G, T: Target creature gains trample until end of turn. Activate only as a sorcery.			normal	END		

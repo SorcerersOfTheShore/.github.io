@@ -1,1 +1,0 @@
-﻿Springbloom Sculptor	G	common	Creature – Elf Druid 	199	G	G	2G, Exile Springbloom Sculptor from your graveyard: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.	1/1		normal	END		

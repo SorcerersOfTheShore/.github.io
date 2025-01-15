@@ -1,1 +1,0 @@
-﻿Slug Fest	R	rare	Enchantment	158	R	3RR	At the beginning of your upkeep, target creature you control fights another target creature if able.NEWLINEOvercome–Whenever a creature or planeswalker dealt damage by a source you control this turn dies, Slug Fest deals that much damage to that permanent’s controller.			normal	END		

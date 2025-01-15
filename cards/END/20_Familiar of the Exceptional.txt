@@ -1,1 +1,0 @@
-﻿Familiar of the Exceptional	W	common	Creature – Pegasus 	20	W	1W	FlyingNEWLINEWhenever Familiar of the Exceptional deals combat damage to a player or planeswalker, choose one–NEWLINE• You gain that much life.NEWLINE• Put that many loyalty counters on target planeswalker you control.	1/1		normal	END		

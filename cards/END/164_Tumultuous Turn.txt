@@ -1,1 +1,0 @@
-﻿Tumultuous Turn	R	rare	Sorcery	164	R	1R	Each player rewrites 7. (Each player may shuffle up to seven cards from their hand into their library. If they do, they draw that many cards.)			normal	END		

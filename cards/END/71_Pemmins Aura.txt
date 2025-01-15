@@ -1,1 +1,0 @@
-﻿Pemmin's Aura	U	uncommon	Enchantment – Aura 	71	U	1UU	Enchant creatureNEWLINEU: Untap enchanted creature.NEWLINEU: Enchanted creature gains flying until end of turn.NEWLINEU: Enchanted creature gains shroud until end of turn. (It can’t be the target of spells or abilities.)NEWLINE1: Enchanted creature gets +1/-1 or -1/+1 until end of turn.			normal	END		

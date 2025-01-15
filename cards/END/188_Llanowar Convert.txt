@@ -1,1 +1,0 @@
-﻿Llanowar Convert	BG	rare	Creature – Elf Druid 	188	UBRG	G	(This card is black in addition to its other colors.)NEWLINET: Add U, B, or R.	1/1		normal	END		

@@ -1,1 +1,0 @@
-﻿Metallic Scourge		uncommon	Artifact Creature – Dragon 	236	C	6	Flying	4/4		normal	END		

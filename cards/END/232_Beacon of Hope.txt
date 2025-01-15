@@ -1,1 +1,0 @@
-﻿Beacon of Hope		common	Artifact	232	C	3	Whenever you cast a planeswalker spell, you gain 1 life.NEWLINET: Add one mana of any color.			normal	END		

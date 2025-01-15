@@ -1,1 +1,0 @@
-﻿Deathless Cropmate	B	uncommon	Creature – Zombie Warrior 	95	B	B	Deathless Cropmate enters the battlefield tapped.NEWLINEWhenever you draw your second card each turn, you may return Deathless Cropmate from your graveyard to your hand.	2/1		normal	END		

@@ -1,1 +1,0 @@
-﻿Pearl Trident Exemplar	U	common	Creature – Merfolk Soldier 	70	U	2U	Pearl Trident Exemplar can’t be blocked.NEWLINEEmpower–Whenever you activate your third ability in a turn that isn’t a mana ability, Pearl Trident Exemplar gets +2/+0 until end of turn. (Loyalty abilities are activated abilities.)	1/3		normal	END		

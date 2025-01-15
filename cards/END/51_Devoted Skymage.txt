@@ -1,1 +1,0 @@
-﻿Devoted Skymage	U	common	Creature – Bird Wizard 	51	U	3U	FlyingNEWLINEDevoted Skymage gets +1/+0 as long as you control another blue permanent, +1/+0 as long as you control a black permanent, and +1/+0 as long as you control a red permanent.	1/3		normal	END		

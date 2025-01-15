@@ -1,1 +1,0 @@
-﻿Divine Defense	UG	common	Instant	172	UG	1G	(This card is blue in addition to its other colors.)NEWLINETarget permanent gains shroud until end of turn. If it’s a creature, it gets +0/+3 until end of turn. (It can’t be the target of spells or abilities.)			normal	END		

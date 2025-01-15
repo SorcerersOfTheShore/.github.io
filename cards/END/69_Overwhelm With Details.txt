@@ -1,1 +1,0 @@
-﻿Overwhelm With Details	U	common	Enchantment – Aura 	69	U	U	Enchant creatureNEWLINEEnchanted creature gets -2/-0.NEWLINE1U: Enchanted creature gets -2/-0 until end of turn.			normal	END		

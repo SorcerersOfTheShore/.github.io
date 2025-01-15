@@ -1,1 +1,0 @@
-﻿Grave Diviner	B	uncommon	Creature – Zombie 	101	B	1B	B, T, Exile a creature or planeswalker card from your graveyard: Draw a card.	2/2		normal	END		

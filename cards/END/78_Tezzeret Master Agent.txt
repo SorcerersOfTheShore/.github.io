@@ -1,1 +1,0 @@
-﻿Tezzeret, Master Agent	U	rare	Legendary Planeswalker – Tezzeret 	78	U	2UU			[+1]: Untap up to one target nonland permanent.NEWLINE[-2]: Draw two cards, then choose any number of other permanents with counters on them, then give each another counter of each kind already there.NEWLINE[-6]: Create four 3/3 colorless Golem artifact creature tokens.	planeswalker	END	3	!landslot

@@ -1,1 +1,0 @@
-﻿Complete Devotion	WR	common	Instant	13	WR	1W	(This card is red in addition to its other colors.)NEWLINEComplete Devotion deals 4 damage to target attacking or blocking creature.			normal	END		

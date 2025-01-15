@@ -1,1 +1,0 @@
-﻿Hopeful Calling	W	common	Sorcery	25	W	3W	Put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.NEWLINEEmpower–If you have activated three or more abilities this turn that aren’t mana abilities, creatures you control also gain vigilance until end of turn. (Loyalty abilities are activated abilities.)			normal	END		

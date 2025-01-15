@@ -1,1 +1,0 @@
-﻿Goblin Fireslinger	R	common	Creature – Goblin Warrior 	141	R	R	T: Goblin Fireslinger deals 1 damage to target player or planeswalker.	1/1		normal	END		

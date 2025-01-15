@@ -1,1 +1,0 @@
-﻿Potent Concoction	B	common	Enchantment	117	B	B	1B, Sacrifice Potent Concoction: Destroy target creature or planeswalker.			normal	END		

@@ -1,1 +1,0 @@
-﻿Merfolk Looter	U	uncommon	Creature – Merfolk Rogue 	64	U	1U	T: Draw a card, then discard a card.	1/1		normal	END		

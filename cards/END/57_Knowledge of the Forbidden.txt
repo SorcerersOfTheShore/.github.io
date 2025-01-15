@@ -1,1 +1,0 @@
-﻿Knowledge of the Forbidden	U	uncommon	Enchantment	57	U	2U	When Knowledge of the Forbidden enters the battlefield, rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)NEWLINEWhenever you draw one or more cards, create a 1/1 black Cleric creature token.			normal	END		

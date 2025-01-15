@@ -1,1 +1,0 @@
-﻿Leader of Resistance	W	common	Creature – Human Soldier 	29	W	3W	Empower–Whenever you activate your third ability in a turn that isn’t a mana ability, put a +1/+1 counter on Leader of Resistance. (Loyalty abilities are activated abilities.)	3/4		normal	END		

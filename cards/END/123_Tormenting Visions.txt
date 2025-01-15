@@ -1,1 +1,0 @@
-﻿Tormenting Visions	B	uncommon	Enchantment	123	B	2B	Whenever you draw a card, each opponent loses 1 life.NEWLINE1B, Pay 1 life: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)			normal	END		

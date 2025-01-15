@@ -1,1 +1,0 @@
-﻿Bolas's Devotees	B	common	Creature – Human Cleric 	89	B	2B	When Bolas’s Devotees enters the battlefield, if it isn’t a token, create a token that’s a copy of Bolas’s Devotees. (Token copies have the mana cost of the permanent they’re a copy of.)	1/1		normal	END		

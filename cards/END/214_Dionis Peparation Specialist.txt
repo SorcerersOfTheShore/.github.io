@@ -1,1 +1,0 @@
-﻿Dionis, Peparation Specialist	WU	uncommon	Legendary Planeswalker – Dionis 	214	WU	1WU			Abilities you activate that aren’t mana abilities cost 1 less to activate. This effect can’t reduce the mana in that cost to less than one mana.NEWLINE[+1]: Scry 1. You gain 1 life.NEWLINE[-1]: Untap all nonland creatures you control.	planeswalker	END	3	!landslot

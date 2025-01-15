@@ -1,1 +1,0 @@
-﻿Gruesome Devourer	BG	uncommon	Creature – Wurm 	180	BG	1GG	(This card is black in addition to its other colors.) NEWLINECreature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)	4/3		normal	END		

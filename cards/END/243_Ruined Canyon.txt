@@ -1,1 +1,0 @@
-﻿Ruined Canyon		common	Land	243	R		Ruined Canyon enters the battlefield tapped.NEWLINET: Add R.NEWLINER, T: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.			normal	END		

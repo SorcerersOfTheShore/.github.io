@@ -1,1 +1,0 @@
-﻿Legion Salvager	B	rare	Creature – Human Shaman 	108	B	2BB	Overcome–Whenever a creature or planeswalker dealt damage by Legion Salvager this turn dies, put that card from its owner’s graveyard onto the battlefield under your control.	4/2		normal	END		

@@ -1,1 +1,0 @@
-﻿Aven of Insight	U	uncommon	Creature – Bird Rogue 	46	U	3U	FlyingNEWLINE2U: Scry 1.NEWLINEEmpower–Whenever you activate your third ability in a turn that isn’t a mana ability, draw a card. (Loyalty abilities are activated abilities.)	3/2		normal	END		

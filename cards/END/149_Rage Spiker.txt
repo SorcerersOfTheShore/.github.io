@@ -1,1 +1,0 @@
-﻿Rage Spiker	R	uncommon	Creature – Goblin Shaman 	149	R	R	HasteNEWLINEOvercome–Whenever a creature or planeswalker dealt damage by Rage Spiker this turn dies, put a +1/+1 counter on Rage Spiker. (It must survive combat to get the counter.)	1/1		normal	END		

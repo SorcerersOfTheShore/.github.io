@@ -1,1 +1,0 @@
-﻿Vitalizing Spring		common	Land	248	G		Vitalizing Spring enters the battlefield tapped.NEWLINET: Add G.NEWLINEG, T: Target creature gets +0/+1 until end of turn. Activate only as a sorcery.			normal	END		

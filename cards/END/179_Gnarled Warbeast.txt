@@ -1,1 +1,0 @@
-﻿Gnarled Warbeast	RG	rare	Creature – Beast 	179	RG	GG	(This card is red in addition to its other colors.)NEWLINEWhenever Gnarled Warbeast attacks, you may choose target creature you don’t control and target attacking creature you control. If you do, untap the creature you don’t control. It blocks the creature you control this turn if able.	3/2		normal	END		

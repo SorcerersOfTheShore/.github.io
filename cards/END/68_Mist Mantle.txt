@@ -1,1 +1,0 @@
-﻿Mist Mantle	U	common	Enchantment – Aura 	68	U	1U	Enchant creatureNEWLINEWhen Mist Mantle enters the battlefield, draw a card.NEWLINEU: Enchanted creature gains shroud until end of turn. (It can’t be the target of spells or abilities.)			normal	END		

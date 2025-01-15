@@ -1,1 +1,0 @@
-﻿Liliana's Recruitment	B	uncommon	Sorcery	111	B	3BB	Choose target creature or planeswalker card in a graveyard. Choose one–NEWLINE• Put that card onto the battlefield under your control.NEWLINE• Exile that card from its owner’s graveyard and create a number of tapped 2/2 black Zombie creature tokens equal to half its mana value, rounded down.			normal	END		
