@@ -1,0 +1,1 @@
+﻿Foreboding Prophets	B	rare	Creature – Human Cleric 	97	B	3BB	Whenever a colorless permanent enters the battlefield under your control, if it isn’t a Star, create a white Star enchantment token with “Sacrifice this enchantment: Add C.” (Lands are colorless.)NEWLINESacrifice six Stars: Destroy all other creatures.	2/2		normal	GLX		

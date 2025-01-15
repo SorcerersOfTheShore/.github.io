@@ -1,0 +1,1 @@
+﻿Spacewalker	R	uncommon	Creature – Human Scout 	146	R	2R	Spacewalker is colorless.NEWLINEAt the beginning of combat on your turn, you may warp an untapped land you control. If you do, creatures you control get +1/+0 until end of turn. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)	2/3		normal	GLX		

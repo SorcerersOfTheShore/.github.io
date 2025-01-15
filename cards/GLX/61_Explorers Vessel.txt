@@ -1,0 +1,1 @@
+﻿Explorer's Vessel	U	rare	Artifact – Vehicle 	61	U	2UU	Flying, defenderNEWLINEWhenever Explorer’s Vessel becomes crewed for the first time each turn, create a 2/2 colorless Human Scout creature token.NEWLINECrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)	1/4		normal	GLX		

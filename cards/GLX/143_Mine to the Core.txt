@@ -1,0 +1,1 @@
+﻿Mine to the Core	R	common	Instant	143	R	2R	Landfall–This spell costs 1 less to cast for each land that has entered the battlefield under your control this turn.NEWLINEMine to the Core deals 3 damage to any target.			normal	GLX		

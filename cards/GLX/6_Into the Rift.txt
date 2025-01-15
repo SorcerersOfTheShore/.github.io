@@ -1,0 +1,1 @@
+﻿Into the Rift		uncommon	Sorcery	6	C	2C	Return target permanent card from your graveyard to your hand.			normal	GLX		

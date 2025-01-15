@@ -1,0 +1,1 @@
+﻿Worldtie Manipulator	W	uncommon	Creature – Human Wizard 	49	W	1WW	Colorless spells you cast cost 1 less to cast.NEWLINEWhenever a colorless nonland permanent enters the battlefield under your control, target creature gets +1/+1 until end of turn.	2/3		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Shower Surveyor		uncommon	Artifact Creature – Golem 	224	C	5	T: Create a white Star enchantment token with “Sacrifice this enchantment: Add C.”	4/4		normal	GLX		

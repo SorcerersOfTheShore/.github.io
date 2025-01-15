@@ -1,0 +1,1 @@
+﻿Wonder of the Skypod	R	rare	Sorcery	154	R	1R	Exile the top card of your library. If it’s a nonland card, you may cast it this turn. If it’s a land card, you may pay 1. If you do, put it onto the battlefield tapped and repeat this process.			normal	GLX		

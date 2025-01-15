@@ -1,0 +1,1 @@
+﻿Stellar Scape		uncommon	Enchantment Land	246	C		Hexproof (This permanent can’t be the target of spells or abilities your opponents control.)NEWLINET: Add C.			normal	GLX		

@@ -1,0 +1,1 @@
+﻿Brawler Construct		common	Artifact Creature – Construct 	212	G	4	G: Brawler Construct gains trample until end of turn.	4/3		normal	GLX		

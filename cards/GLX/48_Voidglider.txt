@@ -1,0 +1,1 @@
+﻿Voidglider	W	common	Creature – Bird 	48	W	1W	Voidglider is colorless.NEWLINEFlying	1/3		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Scholar of Stars	U	common	Creature – Human Wizard 	77	U	3U	When Scholar of Stars enters the battlefield, if you control an artifact, draw a card.	3/2		normal	GLX		

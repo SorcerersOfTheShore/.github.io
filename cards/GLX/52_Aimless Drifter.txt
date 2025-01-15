@@ -1,0 +1,1 @@
+﻿Aimless Drifter	U	common	Creature – Human Scout 	52	U	1U	Whenever a colorless permanent enters the battlefield under your control, scry 1. (Lands are colorless.)	2/1		normal	GLX		

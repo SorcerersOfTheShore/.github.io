@@ -1,0 +1,1 @@
+﻿Manakin		common	Artifact Creature – Construct 	220	C	2	T: Add C.	1/1		normal	GLX		

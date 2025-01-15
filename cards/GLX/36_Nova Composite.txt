@@ -1,0 +1,1 @@
+﻿Nova Composite	W	common	Enchantment Creature – Elemental 	36	W	3W	Constellation–Whenever Nova Composite or another enchantment enters the battlefield under your control, put a +1/+1 counter on Nova Composite.	2/3		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Voidsight Prophet	U	common	Creature – Human Wizard 	83	U	U	When Voidsight Prophet enters the battlefield, scry 2.	1/2		normal	GLX		

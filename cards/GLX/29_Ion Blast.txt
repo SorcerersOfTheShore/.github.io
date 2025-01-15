@@ -1,0 +1,1 @@
+﻿Ion Blast	W	common	Instant	29	W	4W	Exile target nonland permanent.			normal	GLX		

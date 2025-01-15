@@ -1,0 +1,1 @@
+﻿Slum Scanner		uncommon	Artifact – Vehicle 	225	C	4	FlyingNEWLINEWhen Slum Scanner enters the battlefield, you may return target artifact or creature card from your graveyard to your hand.NEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	3/3		normal	GLX		

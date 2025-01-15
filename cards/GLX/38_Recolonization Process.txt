@@ -1,0 +1,1 @@
+﻿Recolonization Process	W	common	Enchantment	38	W	2W	When Recolonization Process enters the battlefield, create a 2/2 colorless Human Scout creature token.			normal	GLX		

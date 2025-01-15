@@ -1,0 +1,1 @@
+﻿Envoy of the Unknown	UG	uncommon	Creature – Human Scout 	196	UG	3GU	Landfall–Whenever a land enters the battlefield under your control, draw a card.NEWLINE2GU: Warp target land you control. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)	2/2		normal	GLX		

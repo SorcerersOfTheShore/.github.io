@@ -1,0 +1,1 @@
+﻿Galactic Voyager		common	Artifact – Vehicle 	215	C	3	FlyingNEWLINEWhenever Galactic Voyager attacks or blocks, scry 1.NEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	3/4		normal	GLX		

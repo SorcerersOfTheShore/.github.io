@@ -1,0 +1,1 @@
+﻿Excavated Nest		uncommon	Land	239	RG		Excavated Nest enters the battlefield tapped.NEWLINET: Add C.NEWLINET: Add R or G.			normal	GLX		

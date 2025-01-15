@@ -1,0 +1,1 @@
+﻿High Ursurper Null	B	rare	Legendary Creature – Warrior 	100	B	1B	High Ursurper Null is colorless.NEWLINEDeathtouchNEWLINEAs long as you control three or more colorless nonland permanents, High Ursurper Null has first strike.NEWLINEWhenever another colorless nonland permanent you control leaves the battlefield, each player loses 1 life.	3/1		normal	GLX		

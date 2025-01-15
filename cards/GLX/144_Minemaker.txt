@@ -1,0 +1,1 @@
+﻿Minemaker	R	common	Artifact Creature – Construct 	144	R	4R	Landfall–Whenever a land enters the battlefield under your control, Minemaker deals 2 damage to target player or planeswalker.	4/4		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Exhausted Renegade	B	common	Creature – Human Rogue 	96	B	1B	When Exhausted Renegade dies, create a 2/2 colorless Human Scout creature token.	1/1		normal	GLX		

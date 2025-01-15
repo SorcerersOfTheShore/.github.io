@@ -1,0 +1,1 @@
+﻿Novie Mattermaker		common	Creature – Human Wizard 	9	C	3C	When Novie Mattermaker enters the battlefield, create a white Star enchantment token with “Sacrifice this enchantment: Add C.”	3/3		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Record Keeper	U	uncommon	Creature – Human Wizard 	74	U	U	Whenever a colorless permanent enters the battlefield under your control, put a page counter on Record Keeper. (Lands are colorless.)NEWLINERemove five page counters from Record Keeper: Search your library for a colorless card, reveal it, and put it into your hand. Then shuffle.	1/1		normal	GLX		

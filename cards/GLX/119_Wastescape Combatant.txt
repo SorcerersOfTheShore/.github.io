@@ -1,0 +1,1 @@
+﻿Wastescape Combatant	B	uncommon	Creature – Human Warrior 	119	B	B	Wastescape Combatant has deathtouch as long as you control a colorless nonland permanent.NEWLINE2B, Sacrifice Wastescape Combatant: Wastescape Combatant deals 1 damage to target creature.	1/2		normal	GLX		

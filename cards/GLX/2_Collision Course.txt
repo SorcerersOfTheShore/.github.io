@@ -1,0 +1,1 @@
+﻿Collision Course		rare	Sorcery	2	C	3CC	Destroy all creatures.			normal	GLX		

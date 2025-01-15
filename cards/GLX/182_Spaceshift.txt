@@ -1,0 +1,1 @@
+﻿Spaceshift	G	rare	Sorcery	182	G	2GG	Choose one–NEWLINE• Exile all lands you control, then return them to the battlefield tapped under their owners’ control.NEWLINE• Return all land cards from your graveyard to the battlefield tapped.			normal	GLX		

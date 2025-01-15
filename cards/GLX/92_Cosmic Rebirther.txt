@@ -1,0 +1,1 @@
+﻿Cosmic Rebirther	B	rare	Enchantment Creature – Elemental 	92	B	3BB	Constellation–Whenever Cosmic Rebirther or another enchantment enters the battlefield under your control, return to the battlefield target nonenchantment creature card in your graveyard with mana value less than or equal to the number of enchantments you control.	3/3		normal	GLX		

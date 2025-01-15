@@ -1,0 +1,1 @@
+﻿Impact Tremors	R	uncommon	Enchantment	138	R	1R	Whenever a creature enters the battlefield under your control, Impact Tremors deals 1 damage to each opponent.			normal	GLX		

@@ -1,0 +1,1 @@
+﻿Emergency Provisions	U	common	Instant	57	U	3UU	Choose one–NEWLINE• Counter target spell.NEWLINE• Create two 2/2 colorless Human Scout creature tokens.			normal	GLX		

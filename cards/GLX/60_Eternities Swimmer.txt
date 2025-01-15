@@ -1,0 +1,1 @@
+﻿Eternities Swimmer	U	uncommon	Creature – Fish 	60	U	1U	FlyingNEWLINEWhenever Eternities Swimmer becomes tapped, you may warp another target permanent you control. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)	1/1		normal	GLX		

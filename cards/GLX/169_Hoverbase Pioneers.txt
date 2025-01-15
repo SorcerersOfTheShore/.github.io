@@ -1,0 +1,1 @@
+﻿Hoverbase Pioneers	G	uncommon	Creature – Human Scout 	169	G	4GG	When Hoverbase Pioneers enters the battlefield, choose one–NEWLINE• Create two white Star enchantment tokens with “Sacrifice this enchantment: Add C.”NEWLINE• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.	4/4		normal	GLX		

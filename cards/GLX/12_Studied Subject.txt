@@ -1,0 +1,1 @@
+﻿Studied Subject		rare	Creature – Horror 	12	C	C	Vigilance, trample, menaceNEWLINEStudied Subject can’t attack or block unless it has seven or more research counters on it.NEWLINEC: Put a research counter on Studied Subject.	5/5		normal	GLX		

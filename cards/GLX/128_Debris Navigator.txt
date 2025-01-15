@@ -1,0 +1,1 @@
+﻿Debris Navigator	R	common	Creature – Human Scout 	128	R	R	Landfall–Whenever a land enters the battlefield under your control, target creature can’t block this turn.	1/1		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Geode Drill	R	common	Sorcery	133	R	3R	This spell costs 2 less to cast if it targets an artifact.NEWLINEDestroy target artifact or land.			normal	GLX		

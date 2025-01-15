@@ -1,0 +1,1 @@
+﻿Research Capsule	U	common	Enchantment – Aura 	75	U	3U	Enchant creatureNEWLINEWhen Research Capsule enters the battlefield, tap enchanted creature.NEWLINEEnchanted creature doesn’t untap during its controller’s untap step.NEWLINEAt he beginning of your upkeep, scry 1.			normal	GLX		

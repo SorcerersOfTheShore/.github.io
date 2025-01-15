@@ -1,0 +1,1 @@
+﻿Eternities Oracle	W	uncommon	Creature – Human Wizard 	27	W	1W	2W, T: Create a white Star enchantment token with “Sacrifice this enchantment: Add C.”	2/2		normal	GLX		

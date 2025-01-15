@@ -1,0 +1,1 @@
+﻿Arc Flare	R	uncommon	Instant	121	R	1R	Arc Flare deals 2 damage to any target.NEWLINELandfall–If you had a land enter the battlefield under your control this turn, Arc Flare deals 4 damage to that target instead.			normal	GLX		

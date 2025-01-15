@@ -1,0 +1,1 @@
+﻿Ground Hauler		common	Artifact – Vehicle 	216	C	5	Landfall–Whenever a land enters the battlefield under your control, Ground Hauler gains trample until end of turn.NEWLINECrew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)	8/8		normal	GLX		

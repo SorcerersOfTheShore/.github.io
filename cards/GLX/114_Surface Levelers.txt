@@ -1,0 +1,1 @@
+﻿Surface Levelers	B	common	Artifact Creature – Golem 	114	B	5B	FlashNEWLINEWhen Surface Levelers enters the battlefield, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.	5/4		normal	GLX		

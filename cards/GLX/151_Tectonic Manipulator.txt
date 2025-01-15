@@ -1,0 +1,1 @@
+﻿Tectonic Manipulator	R	common	Enchantment Creature – Elemental 	151	R	1R		3/1		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Catastrophic Expansion	W	common	Instant	24	W	2W	This spell costs 1 less to cast if you control a colorless nonland permanent.NEWLINEDestroy target attacking or blocking creature.			normal	GLX		

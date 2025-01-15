@@ -1,0 +1,1 @@
+﻿Voidwarped Wanderer	B	common	Creature – Human Scout 	118	B	2B	Voidwarped Wanderer is colorless.NEWLINEWhen Voidwarped Wanderer enters the battlefield, each opponent loses 1 life and you gain 1 life.	2/3		normal	GLX		

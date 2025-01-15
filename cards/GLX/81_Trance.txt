@@ -1,0 +1,1 @@
+﻿Trance	U	uncommon	Instant	81	U	1U	You may return a colorless nonland permanent you control to its owner’s hand rather than pay this spell’s mana cost.NEWLINECounter target spell unless its controller pays 1.			normal	GLX		

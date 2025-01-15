@@ -1,0 +1,1 @@
+﻿Hardened Veteran	B	common	Creature – Human Pilot 	98	B	3B	Whenever a colorless permanent you control leaves the battlefield, put a +1/+1 counter on Hardened Veteran. (Lands are colorless.)	3/3		normal	GLX		

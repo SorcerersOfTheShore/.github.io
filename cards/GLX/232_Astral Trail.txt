@@ -1,0 +1,1 @@
+﻿Astral Trail		uncommon	Land	232	WG		Astral Trail enters the battlefield tapped.NEWLINET: Add C.NEWLINET: Add G or W.			normal	GLX		

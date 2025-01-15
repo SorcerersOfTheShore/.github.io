@@ -1,0 +1,1 @@
+﻿Pod of Skywhales	U	common	Creature – Whale 	73	U	3U	Pod of Skywhales is colorless.NEWLINEFlying	3/3		normal	GLX		

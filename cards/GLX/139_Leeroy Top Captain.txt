@@ -1,0 +1,1 @@
+﻿Leeroy, Top Captain	R	mythic	Legendary Creature – Human Pilot 	139	R	3RR	HasteNEWLINEWhenever a Vehicle you control becomes crewed, you may have that Vehicle’s base power become equal to the total power of creatures crewing it and its base toughness become equal to the total to toughness of creatures crewing it.	6/3		normal	GLX		

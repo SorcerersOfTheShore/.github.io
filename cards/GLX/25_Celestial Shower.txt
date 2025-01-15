@@ -1,0 +1,1 @@
+﻿Celestial Shower	W	rare	Enchantment	25	W	1WW	Lands you control have “T: Add C.”NEWLINENonland permanents you control are colorless. The same is true for spells you control and nonland cards you own that aren’t on the battlefield.NEWLINEYou may spend colorless mana as though it were mana of any color. You may spend other mana only as though it were colorless mana.			normal	GLX		

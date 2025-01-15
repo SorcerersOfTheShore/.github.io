@@ -1,0 +1,1 @@
+﻿Nebula Harnesser	W	uncommon	Creature – Human Scout 	32	W	3WW	Constellation–Whenever an enchantment enters the battlefield under your control, create a 2/2 colorless Human Scout creature token.	4/4		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Omenmaker	B	common	Creature – Human Cleric 	105	B	3B	When Omenmaker enters the battlefield, you may pay up to 2 life. For each 1 life paid this way, create a white Star enchantment token with “Sacrifice this enchantment: Add C.”	3/2		normal	GLX		

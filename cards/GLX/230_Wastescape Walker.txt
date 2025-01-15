@@ -1,0 +1,1 @@
+﻿Wastescape Walker		rare	Artifact Creature – Construct 	230	C	3	When Wastescape Walker enters the battlefield, create a 1/1 colorless Construct artifact creature token.NEWLINEArtifact tokens are colorless Construct creatures in addition to their other types with base power and toughness 2/2.	2/2		normal	GLX		

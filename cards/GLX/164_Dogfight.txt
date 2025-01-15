@@ -1,0 +1,1 @@
+﻿Dogfight	G	common	Sorcery	164	G	2G	This spell costs 1 less to cast for each Vehicle it targets. (Those Vehicles must be artifact creatures to be targeted by this spell.)NEWLINETarget creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature an opponent controls.			normal	GLX		

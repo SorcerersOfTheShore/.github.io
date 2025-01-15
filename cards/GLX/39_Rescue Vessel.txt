@@ -1,0 +1,1 @@
+﻿Rescue Vessel	W	rare	Artifact – Vehicle 	39	W	2WW	FlyingNEWLINEWhenever Rescue Vessel attacks, you may pay X. If you do, return target permanent card with mana value X or less from your graveyard to the battlefield.NEWLINECrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)	3/3		normal	GLX		

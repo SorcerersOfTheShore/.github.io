@@ -1,0 +1,1 @@
+﻿Doomrunner	B	uncommon	Creature – Nightmare Horse 	95	B	3B	FlyingNEWLINEAt the beginning of your end step, for each player who lost life this turn, create a white Star enchantment token with “Sacrifice this enchantment: Add C.”	2/2		normal	GLX		

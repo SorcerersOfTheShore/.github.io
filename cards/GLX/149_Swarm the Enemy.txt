@@ -1,0 +1,1 @@
+﻿Swarm the Enemy	R	rare	Enchantment	149	R	3R	Creatures you control have haste.NEWLINEEach Vehicle you control is a creature in addition to its other types.			normal	GLX		

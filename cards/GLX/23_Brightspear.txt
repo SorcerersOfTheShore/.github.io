@@ -1,0 +1,1 @@
+﻿Brightspear	W	common	Instant	23	W	1W	Brightspear deals 2 damage to target tapped creature.NEWLINECreate a white Star enchantment token with “Sacrifice this enchantment: Add C.”			normal	GLX		

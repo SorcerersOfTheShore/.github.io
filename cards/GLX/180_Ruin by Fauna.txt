@@ -1,0 +1,1 @@
+﻿Ruin by Fauna	G	common	Sorcery	180	G	G	As an additional cost to cast this spell, tap an untapped creature you control.NEWLINEChoose one–NEWLINE• That creature fights target creature you don’t control.NEWLINE• Destroy target artifact or enchantment.			normal	GLX		

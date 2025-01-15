@@ -1,0 +1,1 @@
+﻿Ergonomic Upgrades	R	common	Enchantment – Aura 	130	R	1R	Enchant creature or vehicleNEWLINEEnchanted permanent gets +2/+2 and has trample.NEWLINETap an untapped creature you control: As long as enchanted permanent is a Vehicle, it becomes a creature in addition to its other types until end of turn.			normal	GLX		

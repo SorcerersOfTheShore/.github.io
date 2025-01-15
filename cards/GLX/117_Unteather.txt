@@ -1,0 +1,1 @@
+﻿Unteather	B	uncommon	Instant	117	B	B	Put target face-up exiled card into its owner’s graveyard.			normal	GLX		

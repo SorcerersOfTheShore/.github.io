@@ -1,0 +1,1 @@
+﻿Majesty of Starlight	G	rare	Enchantment	172	G	3G	Constellation–Whenever Majesty of Starlight or another enchantment enters the battlefield under your control, draw a card.NEWLINE3C: Create a white Star enchantment token with “Sacrifice this enchantment: Add C.”			normal	GLX		

@@ -1,0 +1,1 @@
+﻿Starformed Centaur	G	common	Enchantment Creature – Elemental Centaur 	185	G	2G	ReachNEWLINEConstellation–Whenever Starformed Centaur or another enchantment enters the battlefield under your control, Starformed Centaur gets +0/+1 and gains vigilance until end of turn.	3/2		normal	GLX		

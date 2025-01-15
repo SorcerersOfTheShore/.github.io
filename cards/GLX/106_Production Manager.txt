@@ -1,0 +1,1 @@
+﻿Production Manager	B	uncommon	Creature – Human Artificer 	106	B	4B	T, Sacrifice a nonartifact creature: Return target artifact card from your graveyard to your hand.	5/4		normal	GLX		

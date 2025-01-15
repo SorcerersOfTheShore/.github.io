@@ -1,0 +1,1 @@
+﻿Voidfiller	W	common	Artifact Creature – Construct 	47	W	6W	This spell costs 1 less to cast for each colorless nonland permanent you control.	4/4		normal	GLX		

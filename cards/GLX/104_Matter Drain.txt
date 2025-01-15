@@ -1,0 +1,1 @@
+﻿Matter Drain	B	uncommon	Instant	104	B	1BB	Exile target creature, enchantment, or planeswalker and all other permanents its controller controls with the same name as that permanent. You lose 1 life for each permanent exiled this way.			normal	GLX		

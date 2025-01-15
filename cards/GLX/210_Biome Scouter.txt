@@ -1,0 +1,1 @@
+﻿Biome Scouter		uncommon	Artifact – Vehicle 	210	C	3	FlyingNEWLINEAs long as Biome Scouter is a creature, it has lifelink as long as you control a Plains, vigilance as long as you control an Island, menace as long as you control a Swamp, first strike as long as you control a Mountain, and trample as long as you control a Forest.NEWLINECrew 1	3/3		normal	GLX		

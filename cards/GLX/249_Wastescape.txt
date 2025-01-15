@@ -1,0 +1,1 @@
+﻿Wastescape		rare	Land	249	C		Lands you control are named Wastes in addition to their other names and have “T: Add C.”			normal	GLX		

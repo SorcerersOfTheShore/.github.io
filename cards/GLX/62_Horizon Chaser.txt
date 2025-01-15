@@ -1,0 +1,1 @@
+﻿Horizon Chaser	U	rare	Creature – Human Scout 	62	U	2U	Whenever Horizon Chaser becomes tapped, look at the top card of your library. If it’s a colorless card, you may reveal it and put it into your hand. (Lands are colorless.)NEWLINEColorless spells you control can’t be countered.	2/3		normal	GLX		

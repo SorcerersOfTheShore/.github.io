@@ -1,0 +1,1 @@
+﻿Astral Wings	U	common	Enchantment – Aura 	53	U	2U	Enchanted creatureNEWLINEEnchanted creature gets +1/+1 and has flying.NEWLINEWhen enchanted creature leaves the battlefield, return Astral Wings to its owner’s hand.			normal	GLX		

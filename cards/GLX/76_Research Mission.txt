@@ -1,0 +1,1 @@
+﻿Research Mission	U	uncommon	Enchantment	76	U	1U	At the beginning of each end step, if you had three or more permanents enter the battlefield under your control this turn, draw a card.			normal	GLX		

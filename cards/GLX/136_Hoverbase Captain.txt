@@ -1,0 +1,1 @@
+﻿Hoverbase Captain	R	common	Creature – Human Soldier 	136	R	3R	HasteNEWLINEWhenever Hoverbase Captain becomes tapped, if you had three or more permanents enter the battlefield under your control this turn, creatures and Vehicles you control get +1/+0 until end of turn.	3/3		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Prideforger	G	uncommon	Enchantment Creature – Elemental Cat 	179	G	3G	Constellation–Whenever Prideforger or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.	2/2		normal	GLX		

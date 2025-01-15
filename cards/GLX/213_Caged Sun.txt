@@ -1,0 +1,1 @@
+﻿Caged Sun		rare	Artifact	213	C	6	As Caged Sun enters the battlefield, choose a color. (Colorless is not a color.)NEWLINECreatures you control of the chosen color get +1/+1.NEWLINEWhenever a land’s ability causes you to add one or more mana of the chosen color, add one additional mana of that color.			normal	GLX		

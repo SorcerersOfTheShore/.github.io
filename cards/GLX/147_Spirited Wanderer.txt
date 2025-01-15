@@ -1,0 +1,1 @@
+﻿Spirited Wanderer	R	uncommon	Creature – Human Scout 	147	R	1R	When Spirited Wanderer becomes tapped, you may discard a card. If you do, draw a card. If the discarded card was colorless, target creature can’t block this turn. (Lands are colorless.)	2/1		normal	GLX		

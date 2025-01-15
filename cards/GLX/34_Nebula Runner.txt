@@ -1,0 +1,1 @@
+﻿Nebula Runner	W	uncommon	Creature – Unicorn 	34	W	1W	Whenever Nebula Runner attacks, create a white Star enchantment token with “Sacrifice this enchantment: Add C.”	2/2		normal	GLX		

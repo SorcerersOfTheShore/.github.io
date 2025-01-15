@@ -1,0 +1,1 @@
+﻿Hyperspeed Reflexes	U	common	Instant	64	U	2U	Choose one–NEWLINE• Counter target spell unless its controller pays 3.NEWLINE• Warp target permanent you control. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)			normal	GLX		

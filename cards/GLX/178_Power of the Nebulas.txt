@@ -1,0 +1,1 @@
+﻿Power of the Nebulas	G	common	Instant	178	G	2G	This spell costs 1 less to cast if you control a colorless nonland permanent.NEWLINETarget creature gets +3/+3 until end of turn.NEWLINECreate a white Star enchantment token with “Sacrifice this enchantment: Add C.”			normal	GLX		

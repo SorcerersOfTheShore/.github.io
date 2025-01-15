@@ -1,0 +1,1 @@
+﻿Stargate Follower	W	uncommon	Enchantment Creature – Elemental 	45	W	1W	FlyingNEWLINEAt the beginning of your upkeep, you may exile Stargate Follower. If you do, return it to the battlefield under its owner’s control. (It enters with summoning sickness.)	1/2		normal	GLX		

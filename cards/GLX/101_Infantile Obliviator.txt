@@ -1,0 +1,1 @@
+﻿Infantile Obliviator	B	common	Enchantment Creature – Elemental 	101	B	B		1/2		normal	GLX		

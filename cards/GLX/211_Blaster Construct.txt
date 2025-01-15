@@ -1,0 +1,1 @@
+﻿Blaster Construct		common	Artifact Creature – Construct 	211	W	3	W: Blaster Construct gains first strike until end of turn.	3/1		normal	GLX		

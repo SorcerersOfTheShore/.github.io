@@ -1,0 +1,1 @@
+﻿Hoverbase Guard	U	common	Creature – Human Scout 	63	U	1U	DefenderNEWLINEWhenever a colorless permanent enters the battlefield under your control, Hoverbase Guard can attack this turn as though it didn’t have defender. (Lands are colorless.)	3/2		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Warpspace Traveler		uncommon	Creature – Human Wizard Scout 	15	C	3C	Whenever another permanent enters the battlefield under your control, you may warp it. Do this only once each turn. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)	3/3		normal	GLX		

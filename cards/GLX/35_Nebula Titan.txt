@@ -1,0 +1,1 @@
+﻿Nebula Titan	W	uncommon	Enchantment Creature – Elemental Giant 	35	W	4WW	When Nebula Titan enters the battlefield or leaves the battlefield, create a white Star enchantment token with “Sacrifice this enchantment: Add C.”	4/6		normal	GLX		

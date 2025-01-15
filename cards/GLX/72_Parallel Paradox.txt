@@ -1,0 +1,1 @@
+﻿Parallel Paradox	U	mythic	Legendary Enchantment	72	U	CCCUUU	Parallel Paradox is colorless.NEWLINEWhenever you cast another colorless spell, copy it for each other colorless spell you’ve cast before it this turn. You may choose new targets for the copies. (A copy of a permanent spell becomes a token. Lands aren’t spells.)			normal	GLX		

@@ -1,0 +1,1 @@
+﻿Salvage	B	common	Sorcery	108	B	1B	Choose one or more–NEWLINE• Return target creature card from your graveyard to your hand.NEWLINE• Return target artifact card from your graveyard to your hand.			normal	GLX		

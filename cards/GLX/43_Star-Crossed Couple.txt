@@ -1,0 +1,1 @@
+﻿Star-Crossed Couple	W	common	Creature – Human Wizard 	43	W	2W	When Star-Crossed Couple enters the battlefield, if you had three or more permanents enter the battlefield under your control this turn (including Star-Crossed Couple), put a +1/+1 counter on Star-Crossed Couple.	3/2		normal	GLX		

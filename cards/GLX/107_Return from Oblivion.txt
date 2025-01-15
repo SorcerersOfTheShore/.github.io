@@ -1,0 +1,1 @@
+﻿Return from Oblivion	B	uncommon	Sorcery	107	B	2BB	Warp target artifact or creature card in your graveyard. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)			normal	GLX		

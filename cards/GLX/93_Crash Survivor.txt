@@ -1,0 +1,1 @@
+﻿Crash Survivor	B	uncommon	Creature – Human Pilot 	93	B	2B	Crash Survivor enters the battlefield tapped.NEWLINEWhenever a Vehicle you control is put into a graveyard from the battlefield, you may put Crash Survivor from your hand onto the battlefield.	3/3		normal	GLX		

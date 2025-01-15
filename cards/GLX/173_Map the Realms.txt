@@ -1,0 +1,1 @@
+﻿Map the Realms	G	common	Enchantment	173	G	1GG	FlashNEWLINEWhen Map the Realms enters the battlefield, search your library for a land card and put that card onto the battlefield tapped. Then shuffle.			normal	GLX		

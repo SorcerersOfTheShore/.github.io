@@ -1,0 +1,1 @@
+﻿Astral Aligner	W	rare	Creature – Human Cleric 	20	W	1W	At the beginning of each end step, if you created one or more tokens this turn, create a white Star enchantment token with “Sacrifice this enchantment: Add C.”NEWLINEAstral Aligner gets +2/+2 as long as you control seven or more tokens.	2/2		normal	GLX		

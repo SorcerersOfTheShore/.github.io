@@ -1,0 +1,1 @@
+﻿Raven, Starfleet Captain	UR	rare	Legendary Creature – Human Pilot 	201	UBR	2UR	HasteNEWLINEArtifacts you control have haste.NEWLINEWhenever a Vehicle enters the battlefield under your control, it becomes an artifact creature until end of turn.NEWLINE1B, T: Return target artifact card from your graveyard to your hand.	3/2		normal	GLX		

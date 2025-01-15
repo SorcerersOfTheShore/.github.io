@@ -1,0 +1,1 @@
+﻿Star-Blessed Hunters	G	uncommon	Creature – Cat 	183	G	3GG	Constellation–Whenever an enchantment enters the battlefield under your control, you may have Star-Blessed Hunters fight target creature.	4/4		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Herald of Despair	B	common	Enchantment Creature – Elemental 	99	B	1B	Constellation–Whenever Herald of Despair or another enchantment enters the battlefield under your control, each opponent loses 1 life.	2/1		normal	GLX		

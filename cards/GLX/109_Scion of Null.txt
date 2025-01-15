@@ -1,0 +1,1 @@
+﻿Scion of Null	B	uncommon	Creature – Human Rogue 	109	B	1B	Scion of Null is colorless.NEWLINEWhen Scion of Null enters the battlefield, each player loses 1 life.NEWLINEWhenever a colorless nonland permanent enters the battlefield under your control, you may return Scion of Null from your graveyard to your hand.	2/1		normal	GLX		

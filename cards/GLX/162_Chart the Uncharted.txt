@@ -1,0 +1,1 @@
+﻿Chart the Uncharted	G	common	Enchantment – Aura 	162	G	2G	Enchant creatureNEWLINEWhen Chart the Uncharted enters the battlefield, return target enchantment or land card from your graveyard to your hand.NEWLINEEnchanted creature gets +2/+2.			normal	GLX		

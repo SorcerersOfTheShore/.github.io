@@ -1,0 +1,1 @@
+﻿Geode Mine		common	Land	244	C		Geode Mine enters the battlefield tapped.NEWLINEWhen Geode Mine enters the battlefield, add one mana of any color.NEWLINET: Add C.			normal	GLX		

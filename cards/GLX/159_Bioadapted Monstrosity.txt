@@ -1,0 +1,1 @@
+﻿Bioadapted Monstrosity	G	common	Creature – Beast Mutant 	159	G	4G	Bioadapted Monstrosity is colorless.NEWLINEWhen Bioadapted Monstrosity enters the battlefield, put a +1/+1 counter on target creature.	4/3		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Apex Species	G	common	Creature – Beast Mutant 	157	G	4GG	TrampleNEWLINELandfall–Whenever a land enters the battlefield under your control, put a +1/+1 counter on Apex Species.	5/5		normal	GLX		

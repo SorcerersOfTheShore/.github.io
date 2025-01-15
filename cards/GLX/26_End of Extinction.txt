@@ -1,0 +1,1 @@
+﻿End of Extinction	W	rare	Instant	26	W	1W	Exile target artifact or enchantment. Search its controller’s graveyard, hand, and library for all cards with the same name as that permanent and exile them. Then that player shuffles.			normal	GLX		

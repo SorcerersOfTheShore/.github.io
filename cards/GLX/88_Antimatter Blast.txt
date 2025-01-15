@@ -1,0 +1,1 @@
+﻿Antimatter Blast	B	common	Instant	88	B	2BB	This spell costs 1 less to cast if you control a colorless nonland permanent.NEWLINEDestroy target creature.			normal	GLX		

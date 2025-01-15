@@ -1,0 +1,1 @@
+﻿Stellar Pouncer	G	common	Enchantment Creature – Elemental 	188	G	4G	Constellation–Whenever Stellar Pouncer or another enchantment enters the battlefield under your control, Stellar Pouncer gets +2/+2 until end of turn.	4/4		normal	GLX		

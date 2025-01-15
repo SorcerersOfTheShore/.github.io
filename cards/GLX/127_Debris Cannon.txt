@@ -1,0 +1,1 @@
+﻿Debris Cannon	R	uncommon	Artifact	127	R	2R	Whenever a land you control leaves the battlefield, Debris Cannon deals 2 damage to each opponent.NEWLINER, T: Sacrifice a land. Activate only as a sorcery.			normal	GLX		

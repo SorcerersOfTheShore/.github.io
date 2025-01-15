@@ -1,0 +1,1 @@
+﻿Applied Assistant		uncommon	Artifact Creature – Construct 	207	C	2	When Applied Assistant leaves the battlefield, draw a card.	1/1		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Miner's Vessel	G	rare	Artifact – Vehicle 	176	G	4GG	TrampleNEWLINELandfall–Whenever a land enters the battlefield under your control, Miner’s Vessel becomes an artifact creature until end of turn.NEWLINECrew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)	10/10		normal	GLX		

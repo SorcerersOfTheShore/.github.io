@@ -1,0 +1,1 @@
+﻿Monolith Analysis	U	rare	Enchantment	70	U	1U	Monolith Analysis is colorless.NEWLINEWhen Monolith Analysis enters the battlefield, draw a card.NEWLINEAt the beginning of each upkeep, if seven or more permanents named Monolith Analysis entered the battlefield under your control last turn, you win the game.			normal	GLX		

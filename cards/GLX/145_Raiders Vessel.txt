@@ -1,0 +1,1 @@
+﻿Raider's Vessel	R	rare	Artifact – Vehicle 	145	R	RR	Flying, hasteNEWLINEWhen Raider’s Vessel attacks, exile the top card of your library. Until end of turn, you may play that card.NEWLINECrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)	2/2		normal	GLX		

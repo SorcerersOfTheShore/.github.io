@@ -1,0 +1,1 @@
+﻿Basebeamer	W	common	Creature – Human Scout 	21	W	2W	1W, T, Return Basebeamer to its owner’s hand: Warp another target creature you control. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)	2/3		normal	GLX		

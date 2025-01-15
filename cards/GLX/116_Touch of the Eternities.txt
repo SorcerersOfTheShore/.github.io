@@ -1,0 +1,1 @@
+﻿Touch of the Eternities	B	common	Instant	116	B	B	Target creature gets -2/-2 until end of turn. When that creature dies this turn, if you control a colorless nonland permanent, exile it instead.			normal	GLX		

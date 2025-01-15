@@ -1,0 +1,1 @@
+﻿Breach the Horizon	U	common	Sorcery	54	U	2UU	This spell costs 1 less to cast if you control a colorless nonland permanent.NEWLINEScry 2, then draw two cards.			normal	GLX		

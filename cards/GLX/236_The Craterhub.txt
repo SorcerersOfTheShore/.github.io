@@ -1,0 +1,1 @@
+﻿The Craterhub		mythic	Legendary Land	236	R		T: Add C.NEWLINET, Sacrifice another land: Add R for each 1 life your opponents have lost this turn.			normal	GLX		

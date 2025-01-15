@@ -1,0 +1,1 @@
+﻿Minxx, Subreal Voyager		rare	Legendary Creature – Human Scout 	8	C	CCCC	Whenever another effect causes you to add C, add an additional C.	2/2		normal	GLX		

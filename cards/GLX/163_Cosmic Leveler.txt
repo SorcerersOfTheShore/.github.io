@@ -1,0 +1,1 @@
+﻿Cosmic Leveler	G	mythic	Creature – Wurm Mutant 	163	G	G	When Cosmic Leveler enters the battlefield, sacrifice it unless you sacrifice six colorless permanents. (Lands are colorless.)NEWLINETrample	12/12		normal	GLX		

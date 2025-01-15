@@ -1,0 +1,1 @@
+﻿Intraplanar Map	G	rare	Enchantment Artifact	170	G	1G	G, T, Sacrifice a land: Search your library for a land card and put that card onto the battlefield tapped. Then shuffle.			normal	GLX		

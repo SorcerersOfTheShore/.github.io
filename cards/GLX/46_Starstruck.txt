@@ -1,0 +1,1 @@
+﻿Starstruck	W	common	Enchantment – Aura 	46	W	1WW	Enchant creatureNEWLINEWhen Starstruck enters the battlefield, create a white Star enchantment token with “Sacrifice this enchantment: Add C.”NEWLINEEnchanted creature can’t attack, block, or crew Vehicles.			normal	GLX		

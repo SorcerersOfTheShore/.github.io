@@ -1,0 +1,1 @@
+﻿Immediate Deployment	R	common	Instant	137	R	1R	Choose one–NEWLINE• Target creature you control gets +1/+1 and gains first strike until end of turn.NEWLINE• Target Vehicle you control becomes an artifact creature until end of turn.			normal	GLX		

@@ -1,0 +1,1 @@
+﻿Voidbreacher	U	uncommon	Creature – Whale 	82	U	4U	FlyingNEWLINEWhenever a colorless permanent enters the battlefield under your control, put a +1/+1 counter on Voidbreacher. (Lands are colorless.)	3/3		normal	GLX		

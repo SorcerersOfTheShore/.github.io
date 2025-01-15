@@ -1,0 +1,1 @@
+﻿Shattered Prophet	B	mythic	Creature – Angel Cleric 	110	B	2BB	FlyingNEWLINEWhenever Shattered Prophet attacks, you may sacrifice a permanent. If you do, each opponent sacrifices a creature or planeswalker. If the permanent you sacrificed was colorless, instead destroy target creature or planeswalker you don’t control. (Lands are colorless.)	3/3		normal	GLX		

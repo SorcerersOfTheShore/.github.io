@@ -1,0 +1,1 @@
+﻿Young Aster	W	uncommon	Enchantment Creature – Elemental 	50	W	W	Constellation–Whenever Young Aster or another enchantment enters the battlefield under your control, put a +1/+1 counter on Young Aster.NEWLINEYoung Aster has flying and vigilance as long as it has four or more +1/+1 counters on it.	0/1		normal	GLX		

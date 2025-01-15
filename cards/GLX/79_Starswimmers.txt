@@ -1,0 +1,1 @@
+﻿Starswimmers	U	common	Enchantment Creature – Elemental Fish 	79	U	3UU		5/4		normal	GLX		

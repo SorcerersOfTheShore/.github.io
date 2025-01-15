@@ -1,0 +1,1 @@
+﻿Stellar Imploder	B	common	Enchantment Creature – Elemental 	113	B	4B	Constellation–Whenever Stellar Imploder or another enchantment enters the battlefield under your control, target player mills two cards. You gain 1 life for each land card milled this way.	4/5		normal	GLX		

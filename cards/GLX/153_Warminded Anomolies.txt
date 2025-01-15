@@ -1,0 +1,1 @@
+﻿Warminded Anomolies	R	common	Creature – Beast Warrior 	153	R	5R	Warminded Anomolies is colorless.NEWLINETrample	6/5		normal	GLX		

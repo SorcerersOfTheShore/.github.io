@@ -1,0 +1,1 @@
+﻿Marauder Marshall	R	uncommon	Creature – Human Soldier 	141	R	R	HasteNEWLINELandfall–Whenever a land enters the battlefield under your control, target creature gets +1/+0 until end of turn.	1/2		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Beatrix, Master Envoy		uncommon	Legendary Creature – Human Scout 	1	C	2CC	When Beatrix, Master Envoy enters the battlefield, create a 2/2 colorless Human Scout creature token.NEWLINEOther Scout creatures you control get +1/+1.	2/2		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Eon Voyage	U	mythic	Sorcery	59	U	3UUU	Warp each permanent you control. (Exile them. Return them to the battlefield under their owners’ control at the beginning of the next end step.)NEWLINETake an extra turn after this one.NEWLINEExile Eon Voyage.			normal	GLX		

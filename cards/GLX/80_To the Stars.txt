@@ -1,0 +1,1 @@
+﻿To the Stars	U	uncommon	Sorcery	80	U	3UU	Warp target permanent you control. You draw cards equal to its mana value. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)			normal	GLX		

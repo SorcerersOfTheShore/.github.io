@@ -1,0 +1,1 @@
+﻿Craterhub Resident	R	common	Creature – Human Scout 	125	R	2R	TrampleNEWLINELandfall–Whenever a land enters the battlefield under your control, Craterhub Resident gets +2/+0 until end of turn.	2/3		normal	GLX		

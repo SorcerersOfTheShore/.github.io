@@ -1,0 +1,1 @@
+﻿Raider Flagship Titan		rare	Legendary Artifact – Vehicle 	223	C	6	FlyingNEWLINEWhenever Raider Flagship Titan attacks, destroy target creature.NEWLINECrew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)	6/6		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Animate Duality	B	uncommon	Enchantment Creature – Elemental 	87	B	2B	Constellation–Whenever Animate Duality or another enchantment enters the battlefield under your control, target creature you control gains deathtouch and lifelink until end of turn.	3/2		normal	GLX		

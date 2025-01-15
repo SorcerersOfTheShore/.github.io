@@ -1,0 +1,1 @@
+﻿Newland Surveyors		common	Artifact Creautre – Construct 	221	C	3	When Newland Surveyors enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.	2/1		normal	GLX		

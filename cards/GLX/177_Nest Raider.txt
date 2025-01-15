@@ -1,0 +1,1 @@
+﻿Nest Raider	G	common	Creature – Human Scout 	177	G	3G	Landfall–Whenever a land enters the battlefield under your control, create a 1/1 green Saproling creature token.	2/2		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Acomplished Admiral	UR	uncommon	Creature – Human Pilot 	190	UR	1UR	HasteNEWLINET: Target Vehicle you control becomes an artifact creature until end of turn.NEWLINEWhenever one or more Vehicles you control deal combat damage to a player, you may draw a card. If you do, discard a card.	2/2		normal	GLX		

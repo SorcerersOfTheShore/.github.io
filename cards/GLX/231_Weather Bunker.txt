@@ -1,0 +1,1 @@
+﻿Weather Bunker		uncommon	Artifact – Vehicle 	231	C	2	Crew Weather Bunker only once each turn.NEWLINEWhenever one or more creatures crew Weather Bunker, you may exile one of those creatures.NEWLINEWhen Weather Bunker is put into a graveyard from the battlefield, return each creature card exiled with it to the battlefield under its owner’s control.NEWLINECrew 1	0/6		normal	GLX		

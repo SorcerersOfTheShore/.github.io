@@ -1,0 +1,1 @@
+﻿Unleashed Flourishing	G	mythic	Sorcery	189	G	GG	Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle. Then if the number of lands you control is greater than or equal to half the minimum deck size rounded up, you win the game.			normal	GLX		

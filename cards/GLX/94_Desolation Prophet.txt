@@ -1,0 +1,1 @@
+﻿Desolation Prophet	B	mythic	Creature – Human Cleric 	94	B	1B	When Desolation Prophet enters the battlefield, create a white Star enchantment token with “Sacrifice this enchantment: Add C.”NEWLINEStars you control lose all colors and are creatures with base power and toughness 1/1 in addition to their other types.	1/1		normal	GLX		

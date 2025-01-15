@@ -1,0 +1,1 @@
+﻿Stellar Grounds	G	rare	Enchantment	186	G	1G	Lands you control are enchantments in addition to their other types.NEWLINEConstellation–Whenever Stellar Grounds or another enchantment enters the battlefield under your control, you gain 1 life.			normal	GLX		

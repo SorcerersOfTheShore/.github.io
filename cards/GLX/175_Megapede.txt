@@ -1,0 +1,1 @@
+﻿Megapede	G	rare	Creature – Insect 	175	G	2GG	TrampleNEWLINEWhenever Megapede deals combat damage to a player, search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle.	4/3		normal	GLX		

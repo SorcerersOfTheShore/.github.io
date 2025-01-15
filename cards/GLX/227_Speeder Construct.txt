@@ -1,0 +1,1 @@
+﻿Speeder Construct		common	Artifact Creature – Construct 	227	R	2	R: Speeder Construct gains haste until end of turn.	2/2		normal	GLX		

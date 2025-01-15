@@ -1,0 +1,1 @@
+﻿Agonizing Collapse	B	common	Sorcery	86	B	3B	Target opponent discards two cards.NEWLINECreate a white Star enchantment token with “Sacrifice this enchantment: Add C.”			normal	GLX		

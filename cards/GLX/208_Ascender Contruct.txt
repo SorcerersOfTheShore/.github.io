@@ -1,0 +1,1 @@
+﻿Ascender Contruct		common	Artifact Creature – Construct 	208	U	3	U: Ascender Contruct gains flying until end of turn.	2/3		normal	GLX		

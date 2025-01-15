@@ -1,0 +1,1 @@
+﻿Nebula Keeper	W	common	Enchantment Creature – Elemental 	33	W	1W		2/2		normal	GLX		

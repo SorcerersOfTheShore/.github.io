@@ -1,0 +1,1 @@
+﻿Tactless Raider	R	rare	Creature – Human Warrior 	150	R	1R	HasteNEWLINEWhenever Tactless Raider becomes tapped, it deals damage equal to its power to each opponent.	1/2		normal	GLX		

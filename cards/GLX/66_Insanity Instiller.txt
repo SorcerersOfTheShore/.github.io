@@ -1,0 +1,1 @@
+﻿Insanity Instiller	U	common	Creature – Human Wizard 	66	U	1U	At the beginning of each end step, if you had three or more permanents enter the battlefield under your control this turn, target player mills four cards.	1/3		normal	GLX		

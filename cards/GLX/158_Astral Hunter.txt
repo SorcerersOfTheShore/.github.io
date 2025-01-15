@@ -1,0 +1,1 @@
+﻿Astral Hunter	G	uncommon	Enchantment Creature – Elemental Wolf 	158	G	G	Constellation–Whenever Astral Hunter or another enchantment enters the battlefield under your control, target creature gets +1/+1 and gains trample until end of turn.	1/1		normal	GLX		

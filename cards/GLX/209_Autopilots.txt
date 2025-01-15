@@ -1,0 +1,1 @@
+﻿Autopilots		common	Artifact Creature – Construct Pilot 	209	C	3	Defender (This creature can’t attack.)	5/1		normal	GLX		

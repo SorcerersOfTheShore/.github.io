@@ -1,0 +1,1 @@
+﻿Prophet of the Eclipse	WB	rare	Creature – Human Cleric 	200	WB	WB	At the beginning of each end step, if three or more colorless permanents of the same type entered the battlefield under your control this turn, you may exile target nonland permanent. (Lands are colorless.)	2/2		normal	GLX		

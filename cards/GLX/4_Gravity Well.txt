@@ -1,0 +1,1 @@
+﻿Gravity Well		common	Enchantment – Aura 	4	C	2C	Enchant creatureNEWLINEEnchanted creature gets -5/-0 and loses flying.			normal	GLX		

@@ -1,0 +1,1 @@
+﻿Leo Formation	W	common	Enchantment Creature – Elemental Cat 	30	W	W	Constellation–Whenever Leo Formation or another enchantment enters the battlefield under your control, you gain 1 life.	1/1		normal	GLX		

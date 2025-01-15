@@ -1,0 +1,1 @@
+﻿Starscape		uncommon	Sorcery	11	C	3C	Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle.NEWLINECreate a white Star enchantment token with “Sacrifice this enchantment: Add C.”			normal	GLX		

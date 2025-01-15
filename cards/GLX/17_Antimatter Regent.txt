@@ -1,0 +1,1 @@
+﻿Antimatter Regent	W	common	Creature – Human Wizard 	17	W	4W	When Antimatter Regent enters the battlefield, warp target permanent you control not named Antimatter Regent. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)	3/5		normal	GLX		

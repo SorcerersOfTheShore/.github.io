@@ -1,0 +1,1 @@
+﻿Fleet General	BR	uncommon	Creature – Human Pilot 	197	BR	1BR	MenaceNEWLINEFleet General’s power is equal to 1 plus the number of artifacts you control.	1+*/3		normal	GLX		

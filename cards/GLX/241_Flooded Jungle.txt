@@ -1,0 +1,1 @@
+﻿Flooded Jungle		rare	Land	241	C		T: Add C.NEWLINET, Sacrifice Flooded Jungle: Search your library for a Forest or Island card, put it onto the battlefield tapped, then shuffle.			normal	GLX		

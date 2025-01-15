@@ -1,0 +1,1 @@
+﻿Asteroid Blaster	R	uncommon	Creature – Human Soldier 	122	R	3R	Whenever the third permanent enters the battlefield under your control each turn, Asteroid Blaster deals 2 damage to any target.	4/3		normal	GLX		

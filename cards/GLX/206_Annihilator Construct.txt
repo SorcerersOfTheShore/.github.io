@@ -1,0 +1,1 @@
+﻿Annihilator Construct		common	Artifact Creature – Construct 	206	B	2	B: Annihilator Construct gains deathtouch until end of turn.	1/3		normal	GLX		

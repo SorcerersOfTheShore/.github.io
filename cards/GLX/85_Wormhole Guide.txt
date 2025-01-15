@@ -1,0 +1,1 @@
+﻿Wormhole Guide	U	common	Creature – Human Scout 	85	U	2U	Wormhole Guide can’t be blocked.NEWLINEWhenever a colorless permanent enters the battlefield under your control, Wormhole Guide gets +1/+0 until end of turn. (Lands are colorless.)	1/3		normal	GLX		

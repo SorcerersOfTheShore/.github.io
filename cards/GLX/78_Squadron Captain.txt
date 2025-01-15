@@ -1,0 +1,1 @@
+﻿Squadron Captain	U	uncommon	Creature – Human Pilot 	78	U	3U	At the beginning of your end step, untap all Vehicles you control and all creatures that crewed Vehicles this turn.	4/2		normal	GLX		

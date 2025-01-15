@@ -1,0 +1,1 @@
+﻿Intermine Transport		uncommon	Artifact – Vehicle 	219	C	3	Flying, trampleNEWLINELandfall–Whenever a land enters the battlefield under your control, put a +1/+1 counter on Intermine Transport.NEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	2/2		normal	GLX		

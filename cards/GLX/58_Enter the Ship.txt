@@ -1,0 +1,1 @@
+﻿Enter the Ship	U	rare	Instant	58	U	1UU	For each card type among permanents you control, you may warp up to one target permanent of that type. (Exile them. Return them to the battlefield under their owners’ control at the beginning of the next end step.)			normal	GLX		

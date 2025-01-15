@@ -1,0 +1,1 @@
+﻿Flames of Starforge	R	common	Sorcery	132	R	2R	This spell costs 1 less to cast if you control a colorless nonland permanent.NEWLINEExile the top two cards of your library. Until the end of your next turn, you may play those cards.			normal	GLX		

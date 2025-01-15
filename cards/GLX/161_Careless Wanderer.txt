@@ -1,0 +1,1 @@
+﻿Careless Wanderer	G	uncommon	Creature – Human Scout 	161	G	1G	When Careless Wanderer enters the battlefield, create a white Star enchantment token with “Sacrifice this enchantment: Add C.”NEWLINESacrifice four enchantments: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle.	2/2		normal	GLX		

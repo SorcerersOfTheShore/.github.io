@@ -1,0 +1,1 @@
+﻿Daring Cosmonaut	R	common	Creature – Human Pilot 	126	R	1R	HasteNEWLINEWhenever Daring Cosmonaut becomes tapped, put a +1/+1 counter on it.	0/1		normal	GLX		

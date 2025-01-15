@@ -1,0 +1,1 @@
+﻿Rescuer	W	rare	Creature – Cleric 	40	W	2W	Rescuer is colorless.NEWLINEFlashNEWLINEWhen Rescuer enters the battlefield, until end of turn, if another creature you control would die, warp it instead. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)	1/4		normal	GLX		

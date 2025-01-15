@@ -1,0 +1,1 @@
+﻿Astral Rebirth	BG	uncommon	Sorcery	191	BG	XBG	As an additional cost to cast this spell, you may sacrifice any number of enchantments. This spell costs 1 less to cast for each enchantment sacrificed this way.NEWLINEReturn any number of target enchantment cards with total mana value X or less from your graveyard to the battlefield.			normal	GLX		

@@ -1,0 +1,1 @@
+﻿Whispers of the Nebula	B	common	Enchantment	120	B	2B	When Whispers of the Nebula enters the battlefield, you draw two cards and you lose 2 life.			normal	GLX		

@@ -1,0 +1,1 @@
+﻿Inspired Awe	U	rare	Enchantment	67	U	2U	When Inspired Awe enters the battlefield, you may warp target colorless permanent. (Exile it. Return it to the battlefield under its owner’s control at the beginning of the next end step.)NEWLINEWhenever you warp a permanent, draw a card.			normal	GLX		

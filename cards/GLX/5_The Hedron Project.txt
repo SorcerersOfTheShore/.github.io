@@ -1,0 +1,1 @@
+﻿The Hedron Project		rare	Legendary Enchantment	5	C	2C	At the beginning of your upkeep, create a colorless artifact token named Hedron with “Sacrifice this artifact: Add C. If that mana is spent to cast a spell, that spell can’t be countered.”NEWLINESacrifice two artifacts named Hedron: Remove all counters from target permanent.			normal	GLX		

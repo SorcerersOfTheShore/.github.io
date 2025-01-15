@@ -1,0 +1,1 @@
+﻿Highforce Pilot	R	common	Creature – Human Pilot 	134	R	2R	Whenever Highforce Pilot becomes tapped, target creature or vehicle you control gets +1/+0 until end of turn.	3/2		normal	GLX		

@@ -1,0 +1,1 @@
+﻿Asters Unleashed	W	uncommon	Sorcery	19	W	3W	Create two white Star enchantment tokens with “Sacrifice this enchantment: Add C.” Then, exile target creature with power less than or equal to the number of enchantments you control.			normal	GLX		

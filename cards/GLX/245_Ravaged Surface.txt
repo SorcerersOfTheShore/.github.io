@@ -1,0 +1,1 @@
+﻿Ravaged Surface		rare	Land	245	C		T: Add C.NEWLINET, Sacrifice Ravaged Surface: Search your library for a Mountain or Plains card, put it onto the battlefield tapped, then shuffle.			normal	GLX		

@@ -1,0 +1,1 @@
+﻿Stalwart Guardmage	W	common	Creature – Human Wizard 	42	W	1W	FlashNEWLINEWhen Stalwart Guardmage enters the battlefield, target creature gets +0/+3 until end of turn.	2/1		normal	GLX		

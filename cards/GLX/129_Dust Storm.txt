@@ -1,0 +1,1 @@
+﻿Dust Storm	R	uncommon	Instant	129	R	2R	Dust Storm deals to each creature equal to the number of colorless nonland permanents you control.			normal	GLX		

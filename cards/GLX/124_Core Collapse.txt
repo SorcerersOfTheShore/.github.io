@@ -1,0 +1,1 @@
+﻿Core Collapse	R	common	Instant	124	R	4R	Choose one–NEWLINE• Core Collapse deals 4 damage to target creature or planeswalker.NEWLINE• Destroy target artifact.NEWLINE• Destroy target land.			normal	GLX		

@@ -1,0 +1,1 @@
+﻿Blast of Exitinction	B	rare	Instant	91	B	2BB	Destroy X target creatures, where X is the amount of mana produced by Stars to cast this spell plus 1.			normal	GLX		

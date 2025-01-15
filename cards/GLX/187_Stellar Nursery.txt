@@ -1,0 +1,1 @@
+﻿Stellar Nursery	G	uncommon	Enchantment	187	G	2G	At the beginning of your upkeep, create a white Star enchantment token with “Sacrifice this enchantment: Add C.”			normal	GLX		

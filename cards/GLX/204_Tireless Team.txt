@@ -1,0 +1,1 @@
+﻿Tireless Team	WU	uncommon	Creature – Human Scout 	204	WU	4WU	When Tireless Team enters the battlefield, create two 2/2 colorless Human Scout creature tokens.	2/2		normal	GLX		
