@@ -1,0 +1,2746 @@
+﻿[CustomCards]
+	[	{
+			"name": "Desoul the Mighty",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/14_Desoul the Mighty.png"
+			}
+		},
+		{
+			"name": "Shield Mantle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/39_Shield Mantle.png"
+			}
+		},
+		{
+			"name": "Tideseer",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/79_Tideseer.png"
+			}
+		},
+		{
+			"name": "Merfolk Wavesweller",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/66_Merfolk Wavesweller.png"
+			}
+		},
+		{
+			"name": "Devoted Skymage",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Wizard ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/51_Devoted Skymage.png"
+			}
+		},
+		{
+			"name": "Pearl Trident Exemplar",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Soldier ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/70_Pearl Trident Exemplar.png"
+			}
+		},
+		{
+			"name": "Koilos Warden",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/58_Koilos Warden.png"
+			}
+		},
+		{
+			"name": "Witness to Atrocities",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/85_Witness to Atrocities.png"
+			}
+		},
+		{
+			"name": "Chronolag",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/47_Chronolag.png"
+			}
+		},
+		{
+			"name": "Unseal the Lore",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/83_Unseal the Lore.png"
+			}
+		},
+		{
+			"name": "Mist Mantle",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/68_Mist Mantle.png"
+			}
+		},
+		{
+			"name": "Overwhelm With Details",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/69_Overwhelm With Details.png"
+			}
+		},
+		{
+			"name": "Conscripted Cabal",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Cleric ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/92_Conscripted Cabal.png"
+			}
+		},
+		{
+			"name": "Sengir Corpse",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Zombie ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/119_Sengir Corpse.png"
+			}
+		},
+		{
+			"name": "Dreadmaker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Wizard ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/98_Dreadmaker.png"
+			}
+		},
+		{
+			"name": "Grim Crusader",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/103_Grim Crusader.png"
+			}
+		},
+		{
+			"name": "Ruthless Eternal",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Warrior ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/118_Ruthless Eternal.png"
+			}
+		},
+		{
+			"name": "Mercenary Operative",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/113_Mercenary Operative.png"
+			}
+		},
+		{
+			"name": "Lifeforce Harvester",
+			"rarity": "common",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Zombie Wizard ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/109_Lifeforce Harvester.png"
+			}
+		},
+		{
+			"name": "Potent Concoction",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/117_Potent Concoction.png"
+			}
+		},
+		{
+			"name": "Harvest the Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/104_Harvest the Soul.png"
+			}
+		},
+		{
+			"name": "Contemplate Fate",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/93_Contemplate Fate.png"
+			}
+		},
+		{
+			"name": "Overwhelm with Truth",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/116_Overwhelm with Truth.png"
+			}
+		},
+		{
+			"name": "Twist the Scriptures",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/124_Twist the Scriptures.png"
+			}
+		},
+		{
+			"name": "Taint the Memory",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/122_Taint the Memory.png"
+			}
+		},
+		{
+			"name": "Soul Mantle",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/121_Soul Mantle.png"
+			}
+		},
+		{
+			"name": "Devious Prowess",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/97_Devious Prowess.png"
+			}
+		},
+		{
+			"name": "Goblin Fireslinger",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Warrior ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/141_Goblin Fireslinger.png"
+			}
+		},
+		{
+			"name": "Pyre Reveler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Wizard ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/147_Pyre Reveler.png"
+			}
+		},
+		{
+			"name": "Keeper of Old Ways",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/142_Keeper of Old Ways.png"
+			}
+		},
+		{
+			"name": "Keldon Warmonger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/143_Keldon Warmonger.png"
+			}
+		},
+		{
+			"name": "Whelp of the New Generation",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/167_Whelp of the New Generation.png"
+			}
+		},
+		{
+			"name": "Skirk Warcaller",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goblin Warrior ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/157_Skirk Warcaller.png"
+			}
+		},
+		{
+			"name": "Goading Goblin",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goblin Warrior ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/140_Goading Goblin.png"
+			}
+		},
+		{
+			"name": "Blade of Resistance",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/128_Blade of Resistance.png"
+			}
+		},
+		{
+			"name": "Rebellious Warkite",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/150_Rebellious Warkite.png"
+			}
+		},
+		{
+			"name": "Utter Annihilation",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/166_Utter Annihilation.png"
+			}
+		},
+		{
+			"name": "Conscripted Devotion",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/132_Conscripted Devotion.png"
+			}
+		},
+		{
+			"name": "Power of the Powerless",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/146_Power of the Powerless.png"
+			}
+		},
+		{
+			"name": "Frenzied Correction",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/138_Frenzied Correction.png"
+			}
+		},
+		{
+			"name": "Dragon Mantle",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/135_Dragon Mantle.png"
+			}
+		},
+		{
+			"name": "Pyretic Reaction",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/148_Pyretic Reaction.png"
+			}
+		},
+		{
+			"name": "Flameforged Blade",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/137_Flameforged Blade.png"
+			}
+		},
+		{
+			"name": "Springbloom Sculptor",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/199_Springbloom Sculptor.png"
+			}
+		},
+		{
+			"name": "Glowspore Thallid",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fungus Druid ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/178_Glowspore Thallid.png"
+			}
+		},
+		{
+			"name": "Elven Ambusher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/173_Elven Ambusher.png"
+			}
+		},
+		{
+			"name": "Elvish Geosculptor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/174_Elvish Geosculptor.png"
+			}
+		},
+		{
+			"name": "Vitality Enstiller",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/204_Vitality Enstiller.png"
+			}
+		},
+		{
+			"name": "Trained Anurid",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Frog Beast ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/200_Trained Anurid.png"
+			}
+		},
+		{
+			"name": "Mistveiled Grapler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/189_Mistveiled Grapler.png"
+			}
+		},
+		{
+			"name": "Warbellow Giant",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Giant ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/206_Warbellow Giant.png"
+			}
+		},
+		{
+			"name": "Invoke Yavimaya",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/182_Invoke Yavimaya.png"
+			}
+		},
+		{
+			"name": "Irresistible Prey",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/183_Irresistible Prey.png"
+			}
+		},
+		{
+			"name": "Floral Mantle",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/176_Floral Mantle.png"
+			}
+		},
+		{
+			"name": "Yavimaya's Rebuke",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/208_Yavimaya's Rebuke.png"
+			}
+		},
+		{
+			"name": "Twilight Route",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/247_Twilight Route.png"
+			}
+		},
+		{
+			"name": "Submerged Cache",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/245_Submerged Cache.png"
+			}
+		},
+		{
+			"name": "Corrupted Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/242_Corrupted Shrine.png"
+			}
+		},
+		{
+			"name": "Ruined Canyon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/243_Ruined Canyon.png"
+			}
+		},
+		{
+			"name": "Vitalizing Spring",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/248_Vitalizing Spring.png"
+			}
+		},
+		{
+			"name": "Beacon of Hope",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/232_Beacon of Hope.png"
+			}
+		},
+		{
+			"name": "Lightgiver",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/30_Lightgiver.png"
+			}
+		},
+		{
+			"name": "Paragon of Glory",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/34_Paragon of Glory.png"
+			}
+		},
+		{
+			"name": "Silent Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/40_Silent Overseer.png"
+			}
+		},
+		{
+			"name": "Aven of the Inevitable",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Bird Warrior ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/5_Aven of the Inevitable.png"
+			}
+		},
+		{
+			"name": "Serra Angel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/37_Serra Angel.png"
+			}
+		},
+		{
+			"name": "Fellkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/21_Fellkeeper.png"
+			}
+		},
+		{
+			"name": "Benevolent Battlepriest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/8_Benevolent Battlepriest.png"
+			}
+		},
+		{
+			"name": "Sheer Hope",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/38_Sheer Hope.png"
+			}
+		},
+		{
+			"name": "Chains of Order",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/11_Chains of Order.png"
+			}
+		},
+		{
+			"name": "Misinformation Courrier",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/67_Misinformation Courrier.png"
+			}
+		},
+		{
+			"name": "Merfolk Coordinator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Merfolk Rogue ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/63_Merfolk Coordinator.png"
+			}
+		},
+		{
+			"name": "Sphinx of the New God",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Sphinx ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/76_Sphinx of the New God.png"
+			}
+		},
+		{
+			"name": "Aven of Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Rogue ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/46_Aven of Insight.png"
+			}
+		},
+		{
+			"name": "Knowledge of the Forbidden",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/57_Knowledge of the Forbidden.png"
+			}
+		},
+		{
+			"name": "Pemmin's Aura",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/71_Pemmin's Aura.png"
+			}
+		},
+		{
+			"name": "Versatile Servant",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Wizard ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/125_Versatile Servant.png"
+			}
+		},
+		{
+			"name": "Bloodblade Mercenary",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/88_Bloodblade Mercenary.png"
+			}
+		},
+		{
+			"name": "Host of the Eternal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Naga ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/106_Host of the Eternal.png"
+			}
+		},
+		{
+			"name": "Graveraiser",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Cleric ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/102_Graveraiser.png"
+			}
+		},
+		{
+			"name": "Grave Diviner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/101_Grave Diviner.png"
+			}
+		},
+		{
+			"name": "Corpse Recycler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/94_Corpse Recycler.png"
+			}
+		},
+		{
+			"name": "Devastating Devastation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/96_Devastating Devastation.png"
+			}
+		},
+		{
+			"name": "Liliana's Recruitment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/111_Liliana's Recruitment.png"
+			}
+		},
+		{
+			"name": "Tormenting Visions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/123_Tormenting Visions.png"
+			}
+		},
+		{
+			"name": "Rage Spiker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Shaman ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/149_Rage Spiker.png"
+			}
+		},
+		{
+			"name": "Reckless Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Warrior ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/151_Reckless Recruiter.png"
+			}
+		},
+		{
+			"name": "Mogg Warcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Goblin ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/145_Mogg Warcaller.png"
+			}
+		},
+		{
+			"name": "Bookburner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/129_Bookburner.png"
+			}
+		},
+		{
+			"name": "Ghitu Devotee",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/139_Ghitu Devotee.png"
+			}
+		},
+		{
+			"name": "Tribute Taker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/163_Tribute Taker.png"
+			}
+		},
+		{
+			"name": "Meteoric Bombardment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/144_Meteoric Bombardment.png"
+			}
+		},
+		{
+			"name": "Burn Through",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/130_Burn Through.png"
+			}
+		},
+		{
+			"name": "Skyshroud Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Scout ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/198_Skyshroud Tracker.png"
+			}
+		},
+		{
+			"name": "Llanowar Clancaller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/186_Llanowar Clancaller.png"
+			}
+		},
+		{
+			"name": "Warped Allosaurus",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/207_Warped Allosaurus.png"
+			}
+		},
+		{
+			"name": "Nissa's Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/194_Nissa's Titan.png"
+			}
+		},
+		{
+			"name": "Blessed Warbeast",
+			"rarity": "uncommon",
+			"mana_cost": "{8}{G}",
+			"type": "Creature — Elemental Beast ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/169_Blessed Warbeast.png"
+			}
+		},
+		{
+			"name": "Ambush Expert",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/168_Ambush Expert.png"
+			}
+		},
+		{
+			"name": "Gruesome Devourer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Wurm ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/180_Gruesome Devourer.png"
+			}
+		},
+		{
+			"name": "Urgyl's Encouragement",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/203_Urgyl's Encouragement.png"
+			}
+		},
+		{
+			"name": "Reaped Devotion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/197_Reaped Devotion.png"
+			}
+		},
+		{
+			"name": "Tolarian Spires",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/246_Tolarian Spires.png"
+			}
+		},
+		{
+			"name": "Cabal Lair",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/241_Cabal Lair.png"
+			}
+		},
+		{
+			"name": "Shivan Ridge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/244_Shivan Ridge.png"
+			}
+		},
+		{
+			"name": "Yavimaya Outpost",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/249_Yavimaya Outpost.png"
+			}
+		},
+		{
+			"name": "Benalish Fortification",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/240_Benalish Fortification.png"
+			}
+		},
+		{
+			"name": "Artificial Devotee",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/231_Artificial Devotee.png"
+			}
+		},
+		{
+			"name": "Karn's Chargekeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/235_Karn's Chargekeeper.png"
+			}
+		},
+		{
+			"name": "Metallic Scourge",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Dragon ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/236_Metallic Scourge.png"
+			}
+		},
+		{
+			"name": "Idol of Devotion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/234_Idol of Devotion.png"
+			}
+		},
+		{
+			"name": "Sturdy Maul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/237_Sturdy Maul.png"
+			}
+		},
+		{
+			"name": "Enstiller of Hope",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Cleric ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/17_Enstiller of Hope.png"
+			}
+		},
+		{
+			"name": "Hush Reality",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/26_Hush Reality.png"
+			}
+		},
+		{
+			"name": "Flaresteel Paladin",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/23_Flaresteel Paladin.png"
+			}
+		},
+		{
+			"name": "Oppressive Interrogator",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard Cleric ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/33_Oppressive Interrogator.png"
+			}
+		},
+		{
+			"name": "Soul-for-Soul",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/41_Soul-for-Soul.png"
+			}
+		},
+		{
+			"name": "Jodah, Aloof Arcmage",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Human Spellshaper ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/54_Jodah, Aloof Arcmage.png"
+			}
+		},
+		{
+			"name": "Mandatory Betrayal",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/61_Mandatory Betrayal.png"
+			}
+		},
+		{
+			"name": "Current Sculptor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Merfolk ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/48_Current Sculptor.png"
+			}
+		},
+		{
+			"name": "Merfolk Stormwalker",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/65_Merfolk Stormwalker.png"
+			}
+		},
+		{
+			"name": "Mend the Timeline",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/62_Mend the Timeline.png"
+			}
+		},
+		{
+			"name": "Memory Assassin",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Wizard Assassin ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/112_Memory Assassin.png"
+			}
+		},
+		{
+			"name": "Herald of Spite",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/105_Herald of Spite.png"
+			}
+		},
+		{
+			"name": "Lazotep Recruiter",
+			"rarity": "rare",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Zombie Jackal ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/107_Lazotep Recruiter.png"
+			}
+		},
+		{
+			"name": "Legion Salvager",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/108_Legion Salvager.png"
+			}
+		},
+		{
+			"name": "Deathless Cropmate",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Warrior ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/95_Deathless Cropmate.png"
+			}
+		},
+		{
+			"name": "Eternal March",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/99_Eternal March.png"
+			}
+		},
+		{
+			"name": "Break the Terms",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/90_Break the Terms.png"
+			}
+		},
+		{
+			"name": "Fearless Flayer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Warrior ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/136_Fearless Flayer.png"
+			}
+		},
+		{
+			"name": "Squee, Goblin Nabob",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Goblin ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/159_Squee, Goblin Nabob.png"
+			}
+		},
+		{
+			"name": "Shivan Dragon",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/155_Shivan Dragon.png"
+			}
+		},
+		{
+			"name": "Slug Fest",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/158_Slug Fest.png"
+			}
+		},
+		{
+			"name": "Deity's Procession",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/134_Deity's Procession.png"
+			}
+		},
+		{
+			"name": "Multani, Reawoken",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Avatar ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/192_Multani, Reawoken.png"
+			}
+		},
+		{
+			"name": "Keen Fanaticism",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/184_Keen Fanaticism.png"
+			}
+		},
+		{
+			"name": "Quirion Dryad",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/195_Quirion Dryad.png"
+			}
+		},
+		{
+			"name": "Molimo the Fickle",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Elemental Avatar ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/190_Molimo the Fickle.png"
+			}
+		},
+		{
+			"name": "Legacy Subverter",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/185_Legacy Subverter.png"
+			}
+		},
+		{
+			"name": "Gnarled Warbeast",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/179_Gnarled Warbeast.png"
+			}
+		},
+		{
+			"name": "Jhoira, Touched by Time",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/219_Jhoira, Touched by Time.png"
+			}
+		},
+		{
+			"name": "Bittersweet Triumph",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/10_Bittersweet Triumph.png"
+			}
+		},
+		{
+			"name": "Hushed Trauma",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/52_Hushed Trauma.png"
+			}
+		},
+		{
+			"name": "Virulent Lotus",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/238_Virulent Lotus.png"
+			}
+		},
+		{
+			"name": "Radha, Heart of War",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elf Warrior ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/196_Radha, Heart of War.png"
+			}
+		},
+		{
+			"name": "The Chain Veil",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/233_The Chain Veil.png"
+			}
+		},
+		{
+			"name": "Sursi Seeker",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/42_Sursi Seeker.png"
+			}
+		},
+		{
+			"name": "Faithbinder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/18_Faithbinder.png"
+			}
+		},
+		{
+			"name": "Pious Sentinel",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/35_Pious Sentinel.png"
+			}
+		},
+		{
+			"name": "Familiar of the Exceptional",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Pegasus ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/20_Familiar of the Exceptional.png"
+			}
+		},
+		{
+			"name": "Fierce Devotee",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/22_Fierce Devotee.png"
+			}
+		},
+		{
+			"name": "Faithful Martyr",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/19_Faithful Martyr.png"
+			}
+		},
+		{
+			"name": "Keeper of Serenity",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Fox Spirit ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/28_Keeper of Serenity.png"
+			}
+		},
+		{
+			"name": "Champion of Divinity",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/12_Champion of Divinity.png"
+			}
+		},
+		{
+			"name": "Leader of Resistance",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/29_Leader of Resistance.png"
+			}
+		},
+		{
+			"name": "Aven Uplifter",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird Cleric ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/6_Aven Uplifter.png"
+			}
+		},
+		{
+			"name": "Devoted Pilgrimage",
+			"rarity": "common",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/16_Devoted Pilgrimage.png"
+			}
+		},
+		{
+			"name": "Benalish Shieldmate",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/7_Benalish Shieldmate.png"
+			}
+		},
+		{
+			"name": "Complete Devotion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/13_Complete Devotion.png"
+			}
+		},
+		{
+			"name": "Bind to the Real",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/9_Bind to the Real.png"
+			}
+		},
+		{
+			"name": "Mercy for the Meek",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/31_Mercy for the Meek.png"
+			}
+		},
+		{
+			"name": "Wings of Devotion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/44_Wings of Devotion.png"
+			}
+		},
+		{
+			"name": "Hopeful Calling",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/25_Hopeful Calling.png"
+			}
+		},
+		{
+			"name": "Undying Defenders",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/43_Undying Defenders.png"
+			}
+		},
+		{
+			"name": "Jayne, Voice of Caution",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Planeswalker — Jayne ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/27_Jayne, Voice of Caution.png"
+			}
+		},
+		{
+			"name": "Nahiri, Seeking Retribution",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Planeswalker — Nahiri ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/32_Nahiri, Seeking Retribution.png"
+			}
+		},
+		{
+			"name": "Saheeli, Progress Specialist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Saheeli ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/74_Saheeli, Progress Specialist.png"
+			}
+		},
+		{
+			"name": "Kikai, Hired Revisionist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker — Kikai ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/56_Kikai, Hired Revisionist.png"
+			}
+		},
+		{
+			"name": "Sorin, Bloodline Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Sorin ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/120_Sorin, Bloodline Keeper.png"
+			}
+		},
+		{
+			"name": "Xrthalid, Insanity Flayer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Planeswalker — Xrthalid ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/126_Xrthalid, Insanity Flayer.png"
+			}
+		},
+		{
+			"name": "Sarkhan, Roar of Vengeance",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Planeswalker — Sarkhan ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/154_Sarkhan, Roar of Vengeance.png"
+			}
+		},
+		{
+			"name": "Baltrice, Last of the Consortium",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Planeswalker — Baltrice ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/127_Baltrice, Last of the Consortium.png"
+			}
+		},
+		{
+			"name": "Urgyl, Great Preservationist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Planeswalker — Urgyl ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/202_Urgyl, Great Preservationist.png"
+			}
+		},
+		{
+			"name": "Gulcux, Finality-Bringer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Planeswalker — Gulcux ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/181_Gulcux, Finality-Bringer.png"
+			}
+		},
+		{
+			"name": "Dionis, Peparation Specialist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Planeswalker — Dionis ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/214_Dionis, Peparation Specialist.png"
+			}
+		},
+		{
+			"name": "Kaya, Ethereal Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Planeswalker — Kaya ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/220_Kaya, Ethereal Agent.png"
+			}
+		},
+		{
+			"name": "Ana, the Freeminded",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Ana ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/210_Ana, the Freeminded.png"
+			}
+		},
+		{
+			"name": "Estrid, Identity Reshaper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Planeswalker — Estrid ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/217_Estrid, Identity Reshaper.png"
+			}
+		},
+		{
+			"name": "Ashiok, Embraced by Fear",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Planeswalker — Ashiok ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/211_Ashiok, Embraced by Fear.png"
+			}
+		},
+		{
+			"name": "Lola, Spellfire Artist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Planeswalker — Lola ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/221_Lola, Spellfire Artist.png"
+			}
+		},
+		{
+			"name": "Oko, Devious Trickster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Planeswalker — Oko ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/225_Oko, Devious Trickster.png"
+			}
+		},
+		{
+			"name": "Mortus, Chord of Calamity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Planeswalker — Mortus ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/222_Mortus, Chord of Calamity.png"
+			}
+		},
+		{
+			"name": "Garruk, the Veil-Consumed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Garruk ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/218_Garruk, the Veil-Consumed.png"
+			}
+		},
+		{
+			"name": "Samut, Worthy of Victory",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Planeswalker — Samut ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/227_Samut, Worthy of Victory.png"
+			}
+		},
+		{
+			"name": "Dovin, Counteroperative",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Dovin ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/215_Dovin, Counteroperative.png"
+			}
+		},
+		{
+			"name": "Ajani, Usurper of Oppressors",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker — Ajani ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/209_Ajani, Usurper of Oppressors.png"
+			}
+		},
+		{
+			"name": "Emma, Covert Agent",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Planeswalker — Emma ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/216_Emma, Covert Agent.png"
+			}
+		},
+		{
+			"name": "Daretti, Heretic Cogsmith",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Planeswalker — Daretti ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/213_Daretti, Heretic Cogsmith.png"
+			}
+		},
+		{
+			"name": "Ramaz, Mad Shaman",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Planeswalker — Ramaz ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/226_Ramaz, Mad Shaman.png"
+			}
+		},
+		{
+			"name": "Narset, Mystial Mentor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Planeswalker — Narset ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/223_Narset, Mystial Mentor.png"
+			}
+		},
+		{
+			"name": "Nicol Bolas, Revered Deity",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}{B}{R}",
+			"type": "Legendary Planeswalker — Bolas ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/224_Nicol Bolas, Revered Deity.png"
+			}
+		},
+		{
+			"name": "Vivien, Avenger of Skalla",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker — Vivien ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/205_Vivien, Avenger of Skalla.png"
+			}
+		},
+		{
+			"name": "Nissa, the World Sage",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker — Nissa ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/193_Nissa, the World Sage.png"
+			}
+		},
+		{
+			"name": "Tibalt, False Devotee",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Planeswalker — Tibalt ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/162_Tibalt, False Devotee.png"
+			}
+		},
+		{
+			"name": "Chandra, Rekindled",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Chandra ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/131_Chandra, Rekindled.png"
+			}
+		},
+		{
+			"name": "Ob Nixilis, Curel Tormentor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Nixilis ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/115_Ob Nixilis, Curel Tormentor.png"
+			}
+		},
+		{
+			"name": "Liliana, Seeking Closure",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Liliana ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/110_Liliana, Seeking Closure.png"
+			}
+		},
+		{
+			"name": "Tezzeret, Master Agent",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Tezzeret ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/78_Tezzeret, Master Agent.png"
+			}
+		},
+		{
+			"name": "Jace, Arcstrategist",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Jace ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/53_Jace, Arcstrategist.png"
+			}
+		},
+		{
+			"name": "Anabelle, Planar Regent",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Anabelle ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/4_Anabelle, Planar Regent.png"
+			}
+		},
+		{
+			"name": "Gideon, Rallier of Worlds",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Gideon ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/24_Gideon, Rallier of Worlds.png"
+			}
+		},
+		{
+			"name": "Kylixid, Warden of the Warped",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Planeswalker — Kylixid ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/2_Kylixid, Warden of the Warped.png"
+			}
+		},
+		{
+			"name": "Karn, Keeper of Worlds",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Planeswalker — Karn ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/1_Karn, Keeper of Worlds.png"
+			}
+		},
+		{
+			"name": "Ugin, the Fated Twin",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Planeswalker — Ugin ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/3_Ugin, the Fated Twin.png"
+			}
+		},
+		{
+			"name": "Desperate Stand",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/15_Desperate Stand.png"
+			}
+		},
+		{
+			"name": "Restore to Power",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/36_Restore to Power.png"
+			}
+		},
+		{
+			"name": "Ugin's Intervention",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/82_Ugin's Intervention.png"
+			}
+		},
+		{
+			"name": "Crushing Dominance",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/212_Crushing Dominance.png"
+			}
+		},
+		{
+			"name": "Crucible of Fire",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/133_Crucible of Fire.png"
+			}
+		},
+		{
+			"name": "Boon of Strength",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/170_Boon of Strength.png"
+			}
+		},
+		{
+			"name": "Sure Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/160_Sure Strike.png"
+			}
+		},
+		{
+			"name": "Bolas's Devotees",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/89_Bolas's Devotees.png"
+			}
+		},
+		{
+			"name": "Deity's Disposal",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/49_Deity's Disposal.png"
+			}
+		},
+		{
+			"name": "Storm of Possibility",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/77_Storm of Possibility.png"
+			}
+		},
+		{
+			"name": "Tolarian Revisionist",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/80_Tolarian Revisionist.png"
+			}
+		},
+		{
+			"name": "Twist of Fate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/81_Twist of Fate.png"
+			}
+		},
+		{
+			"name": "Loyal Scribe",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/59_Loyal Scribe.png"
+			}
+		},
+		{
+			"name": "Privileged Drake",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Drake ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/72_Privileged Drake.png"
+			}
+		},
+		{
+			"name": "Keper of Murky Depths",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/55_Keper of Murky Depths.png"
+			}
+		},
+		{
+			"name": "Mana Leak",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/60_Mana Leak.png"
+			}
+		},
+		{
+			"name": "Merfolk Looter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/64_Merfolk Looter.png"
+			}
+		},
+		{
+			"name": "Augur of Bolas",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/45_Augur of Bolas.png"
+			}
+		},
+		{
+			"name": "Cabal Agent",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/91_Cabal Agent.png"
+			}
+		},
+		{
+			"name": "Vodalian Trademage",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/84_Vodalian Trademage.png"
+			}
+		},
+		{
+			"name": "Shift the Perspective",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/75_Shift the Perspective.png"
+			}
+		},
+		{
+			"name": "Remake",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/73_Remake.png"
+			}
+		},
+		{
+			"name": "Destiny Trader",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/50_Destiny Trader.png"
+			}
+		},
+		{
+			"name": "Tumultuous Turn",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/164_Tumultuous Turn.png"
+			}
+		},
+		{
+			"name": "Fearless Martyr",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Satyr Cleric ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/100_Fearless Martyr.png"
+			}
+		},
+		{
+			"name": "Arisen Again",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/86_Arisen Again.png"
+			}
+		},
+		{
+			"name": "Night Party",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/114_Night Party.png"
+			}
+		},
+		{
+			"name": "Twin Bursts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/165_Twin Bursts.png"
+			}
+		},
+		{
+			"name": "Revision of Ashes",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/153_Revision of Ashes.png"
+			}
+		},
+		{
+			"name": "Relentless Reviser",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Wizard ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/152_Relentless Reviser.png"
+			}
+		},
+		{
+			"name": "Llanowar Convert",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/188_Llanowar Convert.png"
+			}
+		},
+		{
+			"name": "Converted Thallid",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/171_Converted Thallid.png"
+			}
+		},
+		{
+			"name": "End the Old Brood",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/175_End the Old Brood.png"
+			}
+		},
+		{
+			"name": "Glimpse the New",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/177_Glimpse the New.png"
+			}
+		},
+		{
+			"name": "Mortality Weaver",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/191_Mortality Weaver.png"
+			}
+		},
+		{
+			"name": "Llanowar Combatant",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/187_Llanowar Combatant.png"
+			}
+		},
+		{
+			"name": "Tunneling Tombwurm",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Wurm ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/201_Tunneling Tombwurm.png"
+			}
+		},
+		{
+			"name": "Divine Defense",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/172_Divine Defense.png"
+			}
+		},
+		{
+			"name": "Shivian Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Goblin ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/156_Shivian Rider.png"
+			}
+		},
+		{
+			"name": "Teferi, Multiverse's Ally",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/230_Teferi, Multiverse's Ally.png"
+			}
+		},
+		{
+			"name": "Shalai, Voice of Bolas",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Angel ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/228_Shalai, Voice of Bolas.png"
+			}
+		},
+		{
+			"name": "Belzenlok, Keeper of Contracts",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}{B}",
+			"type": "Legendary Creature — Elder Demon ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/87_Belzenlok, Keeper of Contracts.png"
+			}
+		},
+		{
+			"name": "Weatherlight, Ready for War",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/239_Weatherlight, Ready for War.png"
+			}
+		},
+		{
+			"name": "Solemn Departure",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/229_Solemn Departure.png"
+			}
+		},
+		{
+			"name": "Tarox, Brood Convert",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Dragon ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/END-files/img/161_Tarox, Brood Convert.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Versatile Servant
+		2 Enstiller of Hope
+		2 Hush Reality
+		2 Flaresteel Paladin
+		2 Oppressive Interrogator
+		2 Soul-for-Soul
+		2 Jodah, Aloof Arcmage
+		2 Mandatory Betrayal
+		2 Current Sculptor
+		2 Merfolk Stormwalker
+		2 Mend the Timeline
+		2 Memory Assassin
+		2 Herald of Spite
+		2 Lazotep Recruiter
+		2 Legion Salvager
+		2 Eternal March
+		2 Break the Terms
+		2 Fearless Flayer
+		2 Squee, Goblin Nabob
+		2 Shivan Dragon
+		2 Slug Fest
+		2 Deity's Procession
+		2 Keen Fanaticism
+		2 Quirion Dryad
+		2 Molimo the Fickle
+		2 Legacy Subverter
+		2 Gnarled Warbeast
+		2 Jhoira, Touched by Time
+		2 Radha, Heart of War
+		2 Desperate Stand
+		2 Restore to Power
+		2 Crushing Dominance
+		2 Crucible of Fire
+		2 Remake
+		2 Destiny Trader
+		2 Tumultuous Turn
+		2 Llanowar Convert
+		2 Teferi, Multiverse's Ally
+		2 Shalai, Voice of Bolas
+		2 Solemn Departure
+		1 Multani, Reawoken
+		1 Bittersweet Triumph
+		1 Hushed Trauma
+		1 Virulent Lotus
+		1 The Chain Veil
+		1 Belzenlok, Keeper of Contracts
+		1 Weatherlight, Ready for War
+		1 Tarox, Brood Convert
+		[UncommonSlot(3)]
+	9 Lightgiver
+		9 Paragon of Glory
+		9 Silent Overseer
+		9 Aven of the Inevitable
+		9 Serra Angel
+		9 Fellkeeper
+		9 Benevolent Battlepriest
+		9 Sheer Hope
+		9 Chains of Order
+		9 Misinformation Courrier
+		9 Merfolk Coordinator
+		9 Sphinx of the New God
+		9 Aven of Insight
+		9 Knowledge of the Forbidden
+		9 Pemmin's Aura
+		9 Bloodblade Mercenary
+		9 Host of the Eternal
+		9 Graveraiser
+		9 Grave Diviner
+		9 Corpse Recycler
+		9 Devastating Devastation
+		9 Liliana's Recruitment
+		9 Tormenting Visions
+		9 Rage Spiker
+		9 Reckless Recruiter
+		9 Mogg Warcaller
+		9 Bookburner
+		9 Ghitu Devotee
+		9 Tribute Taker
+		9 Meteoric Bombardment
+		9 Burn Through
+		9 Skyshroud Tracker
+		9 Llanowar Clancaller
+		9 Warped Allosaurus
+		9 Nissa's Titan
+		9 Blessed Warbeast
+		9 Ambush Expert
+		9 Gruesome Devourer
+		9 Urgyl's Encouragement
+		9 Reaped Devotion
+		9 Tolarian Spires
+		9 Cabal Lair
+		9 Shivan Ridge
+		9 Yavimaya Outpost
+		9 Benalish Fortification
+		9 Artificial Devotee
+		9 Karn's Chargekeeper
+		9 Metallic Scourge
+		9 Idol of Devotion
+		9 Sturdy Maul
+		9 Deathless Cropmate
+		9 Undying Defenders
+		9 Ugin's Intervention
+		9 Keper of Murky Depths
+		9 Merfolk Looter
+		9 Augur of Bolas
+		9 Night Party
+		9 Twin Bursts
+		9 Llanowar Combatant
+		9 Shivian Rider
+		[CommonSlot(10)]
+	30 Desoul the Mighty
+		30 Shield Mantle
+		30 Tideseer
+		30 Merfolk Wavesweller
+		30 Devoted Skymage
+		30 Pearl Trident Exemplar
+		30 Koilos Warden
+		30 Witness to Atrocities
+		30 Chronolag
+		30 Unseal the Lore
+		30 Mist Mantle
+		30 Overwhelm With Details
+		30 Conscripted Cabal
+		30 Sengir Corpse
+		30 Dreadmaker
+		30 Grim Crusader
+		30 Ruthless Eternal
+		30 Mercenary Operative
+		30 Lifeforce Harvester
+		30 Potent Concoction
+		30 Harvest the Soul
+		30 Contemplate Fate
+		30 Overwhelm with Truth
+		30 Twist the Scriptures
+		30 Taint the Memory
+		30 Soul Mantle
+		30 Devious Prowess
+		30 Goblin Fireslinger
+		30 Pyre Reveler
+		30 Keeper of Old Ways
+		30 Keldon Warmonger
+		30 Whelp of the New Generation
+		30 Skirk Warcaller
+		30 Goading Goblin
+		30 Blade of Resistance
+		30 Rebellious Warkite
+		30 Utter Annihilation
+		30 Conscripted Devotion
+		30 Power of the Powerless
+		30 Frenzied Correction
+		30 Dragon Mantle
+		30 Pyretic Reaction
+		30 Flameforged Blade
+		30 Springbloom Sculptor
+		30 Glowspore Thallid
+		30 Elven Ambusher
+		30 Elvish Geosculptor
+		30 Vitality Enstiller
+		30 Trained Anurid
+		30 Mistveiled Grapler
+		30 Warbellow Giant
+		30 Invoke Yavimaya
+		30 Irresistible Prey
+		30 Floral Mantle
+		30 Yavimaya's Rebuke
+		30 Twilight Route
+		30 Submerged Cache
+		30 Corrupted Shrine
+		30 Ruined Canyon
+		30 Vitalizing Spring
+		30 Beacon of Hope
+		30 Sursi Seeker
+		30 Faithbinder
+		30 Pious Sentinel
+		30 Familiar of the Exceptional
+		30 Fierce Devotee
+		30 Faithful Martyr
+		30 Keeper of Serenity
+		30 Champion of Divinity
+		30 Leader of Resistance
+		30 Aven Uplifter
+		30 Devoted Pilgrimage
+		30 Benalish Shieldmate
+		30 Complete Devotion
+		30 Bind to the Real
+		30 Mercy for the Meek
+		30 Wings of Devotion
+		30 Hopeful Calling
+		30 Boon of Strength
+		30 Sure Strike
+		30 Bolas's Devotees
+		30 Deity's Disposal
+		30 Storm of Possibility
+		30 Tolarian Revisionist
+		30 Twist of Fate
+		30 Loyal Scribe
+		30 Privileged Drake
+		30 Mana Leak
+		30 Cabal Agent
+		30 Vodalian Trademage
+		30 Shift the Perspective
+		30 Fearless Martyr
+		30 Arisen Again
+		30 Revision of Ashes
+		30 Relentless Reviser
+		30 Converted Thallid
+		30 End the Old Brood
+		30 Glimpse the New
+		30 Mortality Weaver
+		30 Tunneling Tombwurm
+		30 Divine Defense
+		[LandSlot(1)]
+	10 Jayne, Voice of Caution
+		10 Nahiri, Seeking Retribution
+		10 Saheeli, Progress Specialist
+		10 Kikai, Hired Revisionist
+		10 Sorin, Bloodline Keeper
+		10 Xrthalid, Insanity Flayer
+		10 Sarkhan, Roar of Vengeance
+		10 Baltrice, Last of the Consortium
+		10 Urgyl, Great Preservationist
+		10 Gulcux, Finality-Bringer
+		10 Dionis, Peparation Specialist
+		10 Kaya, Ethereal Agent
+		10 Ana, the Freeminded
+		10 Estrid, Identity Reshaper
+		10 Ashiok, Embraced by Fear
+		10 Lola, Spellfire Artist
+		10 Oko, Devious Trickster
+		10 Mortus, Chord of Calamity
+		10 Garruk, the Veil-Consumed
+		10 Samut, Worthy of Victory
+		10 Dovin, Counteroperative
+		10 Ajani, Usurper of Oppressors
+		10 Emma, Covert Agent
+		10 Daretti, Heretic Cogsmith
+		10 Ramaz, Mad Shaman
+		10 Narset, Mystial Mentor
+		10 Nicol Bolas, Revered Deity
+		10 Vivien, Avenger of Skalla
+		10 Nissa, the World Sage
+		10 Tibalt, False Devotee
+		10 Chandra, Rekindled
+		10 Ob Nixilis, Curel Tormentor
+		10 Liliana, Seeking Closure
+		10 Tezzeret, Master Agent
+		10 Jace, Arcstrategist
+		10 Anabelle, Planar Regent
+		10 Gideon, Rallier of Worlds
+		10 Kylixid, Warden of the Warped
+		10 Karn, Keeper of Worlds
+		10 Ugin, the Fated Twin
+		
