@@ -1,0 +1,1 @@
+﻿Revision of Ashes	R	common	Sorcery	153	R	R	Rewrite 1. Then, Revision of Ashes deals X damage to target creature or planeswalker, where X is the number of cards you’ve drawn this turn. (You may shuffle a card from your hand into your library. If you do, draw a card.)			normal	END		

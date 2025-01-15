@@ -1,0 +1,1 @@
+﻿Restore to Power	WB	rare	Instant	36	WB	2WW	(This card is black in addition to its other colors.)NEWLINEReturn to the battlefield all creature, planeswalker, and land cards in your graveyard that were put there from anywhere this turn.			normal	END		

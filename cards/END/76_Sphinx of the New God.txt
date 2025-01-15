@@ -1,0 +1,1 @@
+﻿Sphinx of the New God	U	uncommon	Creature – Sphinx 	76	U	3UU	FlyingNEWLINEWhenever you cast a blue, black, or red spell, put a +1/+1 counter on Sphinx of the New God.	2/2		normal	END		

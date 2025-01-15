@@ -1,0 +1,1 @@
+﻿Aven Uplifter	WU	common	Creature – Bird Cleric 	6	WU	4W	(This card is blue in addition to its other colors.)NEWLINEFlyingNEWLINET: Target creature gains flying until end of turn.	3/3		normal	END		

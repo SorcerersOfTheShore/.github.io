@@ -1,0 +1,1 @@
+﻿Cabal Agent	B	common	Creature – Human Rogue 	91	B	B	When Cabal Agent enters the battlefield, you lose 1 life and you rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)	1/1		normal	END		

@@ -1,0 +1,1 @@
+﻿Chronolag	U	common	Instant	47	U	1U	Tap target artifact or creature. It doesn’t untap during its controller’s next untap step.NEWLINEEmpower–If you have activated three or more abilities this turn that aren’t mana abilities, draw a card. (Loyalty abilities are activated abilities.)			normal	END		

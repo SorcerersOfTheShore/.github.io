@@ -1,0 +1,1 @@
+﻿Floral Mantle	G	common	Enchantment – Aura 	176	G	G	Enchant creatureNEWLINEWhen Floral Mantle enters the battlefield, draw a card.NEWLINEG: Enchanted creature gains your choice of reach or trample until end of turn.			normal	END		

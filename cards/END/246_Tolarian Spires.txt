@@ -1,0 +1,1 @@
+﻿Tolarian Spires		uncommon	Land	246	WU		Tolarian Spires enters the battlefield tapped.NEWLINET: Add W or U.NEWLINEW/U, T: Target permanent you control gains shroud until end of turn. Activate only as a sorcery.			normal	END		

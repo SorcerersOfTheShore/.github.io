@@ -1,0 +1,1 @@
+﻿Tunneling Tombwurm	BG	common	Creature – Wurm 	201	BG	4GG	(This card is black in addition to its other colors.)NEWLINECreature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)	6/6		normal	END		

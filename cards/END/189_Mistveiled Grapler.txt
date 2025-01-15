@@ -1,0 +1,1 @@
+﻿Mistveiled Grapler	G	common	Creature – Spider 	189	G	3G	ReachNEWLINEShroud (This creature can’t be the target of spells or abilities.)	2/4		normal	END		

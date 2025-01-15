@@ -1,0 +1,1 @@
+﻿Faithbinder	WU	common	Creature – Human Cleric 	18	WU	1W	(This card is blue in addition to its other colors.)NEWLINE1, T: Tap target creature.	0/3		normal	END		

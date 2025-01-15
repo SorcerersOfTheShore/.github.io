@@ -1,0 +1,1 @@
+﻿Loyal Scribe	U	common	Creature – Human Wizard 	59	U	1U	Whenever you draw your second card each turn, put a +1/+1 counter on Loyal Scribe.	1/2		normal	END		

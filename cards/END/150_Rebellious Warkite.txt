@@ -1,0 +1,1 @@
+﻿Rebellious Warkite	R	common	Creature – Dragon 	150	R	3RR	FlyingNEWLINEEmpower–Whenever you activate your third ability in a turn that isn’t a mana ability, Rebellious Warkite deals 2 damage to each opponent. (Loyalty abilities are activated abilities.)	3/3		normal	END		

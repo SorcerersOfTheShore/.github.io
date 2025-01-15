@@ -1,0 +1,1 @@
+﻿Contemplate Fate	B	common	Sorcery	93	B	2B	Choose one–NEWLINE• Target opponent sacrifices a creature.NEWLINE• Target opponent sacrifices a planeswalker.			normal	END		

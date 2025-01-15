@@ -1,0 +1,1 @@
+﻿Shivian Rider	R	uncommon	Creature – Goblin 	156	R	3RR	As long as you control a Dragon, Shivian Rider has flying and haste.NEWLINER: Create a 4/4 red Dragon creature token with flying. It gains haste. Exile it at the beginning of the next end step. Activate only as a sorcery and only if you control no Dragon tokens.	2/2		normal	END		

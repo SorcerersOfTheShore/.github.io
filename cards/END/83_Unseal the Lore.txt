@@ -1,0 +1,1 @@
+﻿Unseal the Lore	U	common	Sorcery	83	U	2U	This spell costs 1 less to cast if you control a planeswalker.NEWLINEDraw two cards.			normal	END		

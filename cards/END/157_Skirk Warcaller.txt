@@ -1,0 +1,1 @@
+﻿Skirk Warcaller	R	common	Creature – Goblin Warrior 	157	R	3R	Overcome–Whenever a creature or planeswalker dealt damage by Skirk Warcaller this turn dies, create a 1/1 red Goblin creature token.	4/3		normal	END		

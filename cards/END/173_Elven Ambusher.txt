@@ -1,0 +1,1 @@
+﻿Elven Ambusher	UG	common	Creature – Elf Warrior 	173	UG	2G	(This card is blue in addition to its other colors.)NEWLINEFlash (You may cast this spell any time you could cast an instant.)	3/2		normal	END		

@@ -1,0 +1,1 @@
+﻿Pious Sentinel	WR	common	Creature – Human Knight 	35	WR	1W	(This card is red in addition to its other colors.)NEWLINE1: Pious Sentinel gains first strike until end of turn. Activate only once each turn.	2/2		normal	END		

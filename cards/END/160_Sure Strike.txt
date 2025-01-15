@@ -1,0 +1,1 @@
+﻿Sure Strike	R	common	Instant	160	R	1R	Target creature gets +3/+0 and gains first strike until end of turn.			normal	END		

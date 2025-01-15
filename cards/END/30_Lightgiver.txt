@@ -1,0 +1,1 @@
+﻿Lightgiver	W	uncommon	Creature – Elf Cleric 	30	W	W	T: Put a +1/+1 counter on Lightgiver.NEWLINE2W, T, Remove X +1/+1 counters from Lightgiver: Choose one. Activate only as a sorcery–NEWLINE• Put X +1/+1 counters on another target creature you control.NEWLINE• Put X loyalty counters on target planeswalker you control.	0/1		normal	END		

@@ -1,0 +1,1 @@
+﻿Deity's Procession	R	rare	Enchantment	134	R	3R	Whenever you draw your third card each turn, create a 4/4 red Dragon creature token with flying.NEWLINE3R: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)			normal	END		

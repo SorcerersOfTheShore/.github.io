@@ -1,0 +1,1 @@
+﻿Undying Defenders	W	uncommon	Creature – Human Knight 	43	W	1W	2W, T: Create a token that’s a copy of Undying Defenders. Activate only as a sorcery. (Token copies have the mana cost of the permanent they’re a copy of.)	1/1		normal	END		

@@ -1,0 +1,1 @@
+﻿Quirion Dryad	G	rare	Creature – Dryad 	195	G	1G	Whenever you cast a spell that’s white, blue, black, or red, put a +1/+1 counter on Quirion Dryad.	1/1		normal	END		

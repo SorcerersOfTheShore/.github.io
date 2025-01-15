@@ -1,0 +1,1 @@
+﻿Herald of Spite	B	rare	Creature – Demon 	105	B	3BB	FlyingNEWLINEOvercome–Whenever a creature or planeswalker dealt damage by Herald of Spite this turn dies, put a +1/+1 counter on Herald of Spite.	5/5		normal	END		

@@ -1,0 +1,1 @@
+﻿Champion of Divinity	WB	common	Creature – Human Knight 	12	WB	3W	(This card is black in addition to its other colors.)NEWLINEWhen Champion of Divinity enters the battlefield, you gain 1 life for each permanent you control that’s blue, black, and/or red.	4/3		normal	END		

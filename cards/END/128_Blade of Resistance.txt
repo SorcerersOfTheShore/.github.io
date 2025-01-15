@@ -1,0 +1,1 @@
+﻿Blade of Resistance	R	common	Creature – Human Soldier 	128	R	4R	Overcome–Whenever a creature or planeswalker dealt damage by Blade of Resistance this turn dies, exile the top card of your library. You may play it this turn.	5/4		normal	END		

@@ -1,0 +1,1 @@
+﻿Storm of Possibility	U	common	Sorcery	77	U	U	Rewrite 2. (You may shuffle up to two cards from your hand into your library. If you do, draw that many cards.)			normal	END		

@@ -1,0 +1,1 @@
+﻿Virulent Lotus		mythic	Artifact	238	C	0	T, Exile Virulent Lotus and each other permanent you control named Virulent Lotus: Reveal your hand and exile all cards named Virulent Lotus revealed this way. Add three mana of any one color. You lose the game at the beginning of the next end step.			normal	END		

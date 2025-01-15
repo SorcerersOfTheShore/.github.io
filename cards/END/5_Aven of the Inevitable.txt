@@ -1,0 +1,1 @@
+﻿Aven of the Inevitable	WU	uncommon	Creature – Bird Warrior 	5	WU	1WW	(This card is blue in addition to its other colors.)NEWLINEFlyingNEWLINE1W: Untap another target blue, black, or red creature you control.	2/3		normal	END		

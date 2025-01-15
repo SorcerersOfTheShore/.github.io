@@ -1,0 +1,1 @@
+﻿Break the Terms	B	rare	Instant	90	B	3B	Exile target creature or planeswalker. When you exile a permanent with mana value 6 or greater this way, exile another target creature or planeswalker.			normal	END		

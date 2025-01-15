@@ -1,0 +1,355 @@
+10_Bittersweet Triumph
+52_Hushed Trauma
+87_Belzenlok, Keeper of Contracts
+131_Chandra, Rekindled
+192_Multani, Reawoken
+24_Gideon, Rallier of Worlds
+53_Jace, Arcstrategist
+110_Liliana, Seeking Closure
+161_Tarox, Brood Convert
+193_Nissa, the World Sage
+4_Anabelle, Planar Regent
+48_Current Sculptor
+90_Break the Terms
+133_Crucible of Fire
+190_Molimo the Fickle
+15_Desperate Stand
+50_Destiny Trader
+99_Eternal March
+134_Deity's Procession
+195_Quirion Dryad
+17_Enstiller of Hope
+54_Jodah, Aloof Arcmage
+105_Herald of Spite
+136_Fearless Flayer
+196_Radha, Heart of War
+26_Hush Reality
+61_Mandatory Betrayal
+107_Lazotep Recruiter
+155_Shivan Dragon
+205_Vivien, Avenger of Skalla
+8_Benevolent Battlepriest
+62_Mend the Timeline
+108_Legion Salvager
+158_Slug Fest
+186_Llanowar Clancaller
+27_Jayne, Voice of Caution
+65_Merfolk Stormwalker
+112_Memory Assassin
+159_Squee, Goblin Nabob
+187_Llanowar Combatant
+30_Lightgiver
+73_Remake
+115_Ob Nixilis, Curel Tormentor
+162_Tibalt, False Devotee
+194_Nissa's Titan
+37_Serra Angel
+78_Tezzeret, Master Agent
+125_Versatile Servant
+164_Tumultuous Turn
+198_Skyshroud Tracker
+38_Sheer Hope
+45_Augur of Bolas
+88_Bloodblade Mercenary
+127_Baltrice, Last of the Consortium
+202_Urgyl, Great Preservationist
+43_Undying Defenders
+46_Aven of Insight
+94_Corpse Recycler
+129_Bookburner
+203_Urgyl's Encouragement
+7_Benalish Shieldmate
+55_Keper of Murky Depths
+95_Deathless Cropmate
+130_Burn Through
+174_Elvish Geosculptor
+9_Bind to the Real
+56_Kikai, Hired Revisionist
+96_Devastating Devastation
+139_Ghitu Devotee
+176_Floral Mantle
+14_﻿Desoul the Mighty
+57_Knowledge of the Forbidden
+101_Grave Diviner
+144_Meteoric Bombardment
+178_Glowspore Thallid
+19_Faithful Martyr
+63_Merfolk Coordinator
+102_Graveraiser
+145_Mogg Warcaller
+182_Invoke Yavimaya
+20_Familiar of the Exceptional
+64_Merfolk Looter
+106_Host of the Eternal
+149_Rage Spiker
+183_Irresistible Prey
+25_Hopeful Calling
+67_Misinformation Courrier
+111_Liliana's Recruitment
+151_Reckless Recruiter
+189_Mistveiled Grapler
+28_Keeper of Serenity
+71_Pemmin's Aura
+114_Night Party
+154_Sarkhan, Roar of Vengeance
+199_Springbloom Sculptor
+29_Leader of Resistance
+74_Saheeli, Progress Specialist
+120_Sorin, Bloodline Keeper
+156_Shivian Rider
+200_Trained Anurid
+39_Shield Mantle
+76_Sphinx of the New God
+123_Tormenting Visions
+163_Tribute Taker
+206_Warbellow Giant
+42_Sursi Seeker
+82_Ugin's Intervention
+126_Xrthalid, Insanity Flayer
+165_Twin Bursts
+208_Yavimaya's Rebuke
+e
+47_Chronolag
+86_Arisen Again
+128_Blade of Resistance
+e
+e
+49_Deity's Disposal
+89_Bolas's Devotees
+132_Conscripted Devotion
+e
+e
+51_Devoted Skymage
+91_Cabal Agent
+135_Dragon Mantle
+e
+e
+58_Koilos Warden
+92_Conscripted Cabal
+137_Flameforged Blade
+e
+e
+59_Loyal Scribe
+93_Contemplate Fate
+138_Frenzied Correction
+e
+e
+60_Mana Leak
+97_Devious Prowess
+140_Goading Goblin
+e
+e
+66_Merfolk Wavesweller
+98_Dreadmaker
+141_Goblin Fireslinger
+e
+e
+68_Mist Mantle
+100_Fearless Martyr
+142_Keeper of Old Ways
+e
+e
+69_Overwhelm With Details
+103_Grim Crusader
+143_Keldon Warmonger
+e
+e
+70_Pearl Trident Exemplar
+104_Harvest the Soul
+146_Power of the Powerless
+e
+e
+72_Privileged Drake
+109_Lifeforce Harvester
+147_Pyre Reveler
+e
+e
+75_Shift the Perspective
+113_Mercenary Operative
+148_Pyretic Reaction
+e
+e
+77_Storm of Possibility
+116_Overwhelm with Truth
+150_Rebellious Warkite
+e
+e
+79_Tideseer
+117_Potent Concoction
+152_Relentless Reviser
+e
+e
+80_Tolarian Revisionist
+118_Ruthless Eternal
+153_Revision of Ashes
+e
+e
+81_Twist of Fate
+119_Sengir Corpse
+157_Skirk Warcaller
+e
+e
+83_Unseal the Lore
+121_Soul Mantle
+160_Sure Strike
+e
+e
+84_Vodalian Trademage
+122_Taint the Memory
+166_Utter Annihilation
+e
+e
+85_Witness to Atrocities
+124_Twist the Scriptures
+167_Whelp of the New Generation
+e
+er
+er
+er
+er
+er
+33_Oppressive Interrogator
+216_Emma, Covert Agent
+213_Daretti, Heretic Cogsmith
+179_Gnarled Warbeast
+209_Ajani, Usurper of Oppressors
+215_Dovin, Counteroperative
+211_Ashiok, Embraced by Fear
+222_Mortus, Chord of Calamity
+226_Ramaz, Mad Shaman
+e
+230_Teferi, Multiverse's Ally
+e
+e
+169_Blessed Warbeast
+e
+5_Aven of the Inevitable
+e
+e
+207_Warped Allosaurus
+e
+11_Chains of Order
+e
+e
+227_Samut, Worthy of Victory
+e
+214_Dionis, Peparation Specialist
+e
+e
+170_Boon of Strength
+e
+6_Aven Uplifter
+e
+e
+175_End the Old Brood
+e
+18_Faithbinder
+e
+e
+204_Vitality Enstiller
+e
+44_Wings of Devotion
+e
+e
+e
+e
+er
+er
+er
+er
+er
+36_Restore to Power
+185_Legacy Subverter
+184_Keen Fanaticism
+219_Jhoira, Touched by Time
+23_Flaresteel Paladin
+41_Soul-for-Soul
+188_Llanowar Convert
+168_Ambush Expert
+221_Lola, Spellfire Artist
+32_Nahiri, Seeking Retribution
+229_Solemn Departure
+180_Gruesome Devourer
+197_Reaped Devotion
+e
+34_Paragon of Glory
+21_Fellkeeper
+181_Gulcux, Finality-Bringer
+225_Oko, Devious Trickster
+e
+210_Ana, the Freeminded
+40_Silent Overseer
+218_Garruk, the Veil-Consumed
+172_Divine Defense
+e
+13_Complete Devotion
+220_Kaya, Ethereal Agent
+171_Converted Thallid
+173_Elven Ambusher
+e
+22_Fierce Devotee
+12_Champion of Divinity
+191_Mortality Weaver
+177_Glimpse the New
+e
+35_Pious Sentinel
+16_Devoted Pilgrimage
+201_Tunneling Tombwurm
+e
+e
+e
+31_Mercy for the Meek
+e
+e
+e
+e
+er
+er
+er
+er
+er
+224_Nicol Bolas, Revered Deity
+212_Crushing Dominance
+223_Narset, Mystial Mentor
+228_Shalai, Voice of Bolas
+217_Estrid, Identity Reshaper
+er
+er
+er
+er
+er
+3_Ugin, the Fated Twin
+233_The Chain Veil
+238_Virulent Lotus
+239_Weatherlight, Ready for War
+1_Karn, Keeper of Worlds
+2_Kylixid, Warden of the Warped
+231_Artificial Devotee
+234_Idol of Devotion
+235_Karn's Chargekeeper
+236_Metallic Scourge
+237_Sturdy Maul
+232_Beacon of Hope
+e
+e
+e
+er
+er
+er
+er
+er
+247_Twilight Route
+245_Submerged Cache
+242_Corrupted Shrine
+243_Ruined Canyon
+248_Vitalizing Spring
+246_Tolarian Spires
+241_Cabal Lair
+244_Shivan Ridge
+249_Yavimaya Outpost
+240_Benalish Fortification
+er
+er
+er
+er
+er

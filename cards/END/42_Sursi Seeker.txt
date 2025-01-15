@@ -1,0 +1,1 @@
+﻿Sursi Seeker	W	common	Creature – Human Soldier 	42	W	W	W: Sursi Seeker gains your choice of first strike, vigilance, or lifelink until end of turn.	1/2		normal	END		

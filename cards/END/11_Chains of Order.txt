@@ -1,0 +1,1 @@
+﻿Chains of Order	WU	uncommon	Instant	11	WU	1W	(This card is blue in addition to its other colors.)NEWLINEChoose one–NEWLINE• Counter target spell unless its controller pays 2.NEWLINE• Counter target spell if it’s your turn.			normal	END		

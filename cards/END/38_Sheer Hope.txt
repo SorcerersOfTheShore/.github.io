@@ -1,0 +1,1 @@
+﻿Sheer Hope	W	uncommon	Enchantment	38	W	2WW	Empower–Whenever Sheer Hope enters the battlefield or you activate your third ability in a turn that isn’t a mana ability, exile another target nonland permanent until Sheer Hope leaves the battlefield.			normal	END		

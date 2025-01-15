@@ -1,0 +1,1 @@
+﻿Dragon Mantle	R	common	Enchantment – Aura 	135	R	R	Enchant creatureNEWLINEWhen Dragon Mantle enters the battlefield, draw a card.NEWLINEEnchanted creature has “R: This creature gets +1/+0 until end of turn.”			normal	END		

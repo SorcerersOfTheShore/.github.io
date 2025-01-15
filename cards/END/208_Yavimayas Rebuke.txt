@@ -1,0 +1,1 @@
+﻿Yavimaya's Rebuke	G	common	Enchantment	208	G	G	G, Sacrifice Yavimaya’s Rebuke: Destroy target artifact or enchantment.			normal	END		

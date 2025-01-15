@@ -1,0 +1,1 @@
+﻿Idol of Devotion		uncommon	Artifact	234	C	3	T: Add C.NEWLINE3, T: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)			normal	END		

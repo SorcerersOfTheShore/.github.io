@@ -1,0 +1,1 @@
+﻿Faithful Martyr	W	common	Creature – Human Cleric 	19	W	2W	When Faithful Martyr dies, choose one–NEWLINE• You gain 2 life.NEWLINE• When the next creature enters the battlefield under your control this turn, you gain life equal to its mana value.	2/3		normal	END		

@@ -1,0 +1,1 @@
+﻿Flameforged Blade	R	common	Artifact – Equipment 	137	R	2R	Equipped creature gets +2/+2.NEWLINEOvercome–Whenever a creature or planeswalker dealt damage by Flameforged Blade this turn dies, you may discard a card. If you do, draw a card.NEWLINEEquip 2 (Equip abilities are activated abilities.)			normal	END		

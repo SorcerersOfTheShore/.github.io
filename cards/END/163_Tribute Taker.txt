@@ -1,0 +1,1 @@
+﻿Tribute Taker	R	uncommon	Creature – Human Artificer 	163	R	1R	Whenever you cast a noncreature spell, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINETreasures you control have “T, Sacrifice this artifact: It deals 1 damage to target player or planeswalker.”	1/2		normal	END		
