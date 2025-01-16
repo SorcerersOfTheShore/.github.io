@@ -1,0 +1,2955 @@
+﻿[CustomCards]
+	[	{
+			"name": "Street Creeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Spirit ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/231_Street Creeper.png"
+			}
+		},
+		{
+			"name": "Indulgent Extractor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Vampire ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/218_Indulgent Extractor.png"
+			}
+		},
+		{
+			"name": "Rabblegang",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/228_Rabblegang.png"
+			}
+		},
+		{
+			"name": "Eversummer Exemplar",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/215_Eversummer Exemplar.png"
+			}
+		},
+		{
+			"name": "Shambling Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/229_Shambling Legion.png"
+			}
+		},
+		{
+			"name": "Catalyst Specialist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/211_Catalyst Specialist.png"
+			}
+		},
+		{
+			"name": "Jack of Lanterns",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Plant ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/220_Jack of Lanterns.png"
+			}
+		},
+		{
+			"name": "Bloodglutton Spider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/209_Bloodglutton Spider.png"
+			}
+		},
+		{
+			"name": "Neverending Pack",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Wolf ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/225_Neverending Pack.png"
+			}
+		},
+		{
+			"name": "Branchweft Crow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Elemental Bird Mutant ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/210_Branchweft Crow.png"
+			}
+		},
+		{
+			"name": "Authoritative Accuser",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/1_Authoritative Accuser.png"
+			}
+		},
+		{
+			"name": "Sophisticated Host",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Vampire ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/39_Sophisticated Host.png"
+			}
+		},
+		{
+			"name": "Popular Leader",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/30_Popular Leader_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/30_Popular Leader_back.png"
+				}
+			}
+		},
+		{
+			"name": "Loyal Enforcer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/23_Loyal Enforcer.png"
+			}
+		},
+		{
+			"name": "Reveling Changeling",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/33_Reveling Changeling.png"
+			}
+		},
+		{
+			"name": "Irregular Cohort",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/21_Irregular Cohort.png"
+			}
+		},
+		{
+			"name": "Inciting Individual",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/19_Inciting Individual_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/19_Inciting Individual_back.png"
+				}
+			}
+		},
+		{
+			"name": "Patron of the Living",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Vampre Knight Mercenary ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/29_Patron of the Living.png"
+			}
+		},
+		{
+			"name": "Inspirational Captain",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/20_Inspirational Captain.png"
+			}
+		},
+		{
+			"name": "Serene Apparition",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/38_Serene Apparition.png"
+			}
+		},
+		{
+			"name": "Hungering Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Vampire Berserker ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/14_Hungering Guardian.png"
+			}
+		},
+		{
+			"name": "Tomb Whisperer",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/40_Tomb Whisperer.png"
+			}
+		},
+		{
+			"name": "Unfinished Business",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Instant — Spirit ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/41_Unfinished Business.png"
+			}
+		},
+		{
+			"name": "Hold at the Stake",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Kindred Enchantment — Human Aura ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/12_Hold at the Stake.png"
+			}
+		},
+		{
+			"name": "Crib Swap",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Kindred Instant — Shapeshifter ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/3_Crib Swap.png"
+			}
+		},
+		{
+			"name": "Homestead Courage",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/13_Homestead Courage.png"
+			}
+		},
+		{
+			"name": "Sanguine Hospitality",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Kindred Enchantment — Vampire Aura ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/36_Sanguine Hospitality.png"
+			}
+		},
+		{
+			"name": "Incite Riot",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Kindred Sorcery — Berserker ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/18_Incite Riot.png"
+			}
+		},
+		{
+			"name": "Secrets of the Restless",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/37_Secrets of the Restless.png"
+			}
+		},
+		{
+			"name": "Victim of Experimentation",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Mutant Spirit ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/83_Victim of Experimentation.png"
+			}
+		},
+		{
+			"name": "Fickle Figment",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Wizard ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/51_Fickle Figment.png"
+			}
+		},
+		{
+			"name": "Tomb Keeper",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie Homunculus ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/81_Tomb Keeper.png"
+			}
+		},
+		{
+			"name": "Recurring Haunting",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Kindred Sorcery — Spirit ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/71_Recurring Haunting.png"
+			}
+		},
+		{
+			"name": "First Subject",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Mutant ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/52_First Subject_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/52_First Subject_back.png"
+				}
+			}
+		},
+		{
+			"name": "Novice Researcher",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/68_Novice Researcher_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/68_Novice Researcher_back.png"
+				}
+			}
+		},
+		{
+			"name": "Flaying Zombie",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Zombie Mutant ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/53_Flaying Zombie.png"
+			}
+		},
+		{
+			"name": "Soul of the Monster",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Spirit ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/76_Soul of the Monster.png"
+			}
+		},
+		{
+			"name": "Era-Worn Zombie",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Zombie Wizard ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/49_Era-Worn Zombie.png"
+			}
+		},
+		{
+			"name": "Mindmister",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/63_Mindmister.png"
+			}
+		},
+		{
+			"name": "Incomprehensible Mass",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/61_Incomprehensible Mass.png"
+			}
+		},
+		{
+			"name": "Strip Identity",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Kindred Enchantment — Shapeshifter Aura ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/78_Strip Identity.png"
+			}
+		},
+		{
+			"name": "Dissect",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/45_Dissect.png"
+			}
+		},
+		{
+			"name": "Otherworldly Gaze",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/69_Otherworldly Gaze.png"
+			}
+		},
+		{
+			"name": "Silent Departure",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/74_Silent Departure.png"
+			}
+		},
+		{
+			"name": "Plasmform",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Instant — Mutant ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/70_Plasmform.png"
+			}
+		},
+		{
+			"name": "Stream of Unconsciousness",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Kindred Instant — Wizard ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/77_Stream of Unconsciousness.png"
+			}
+		},
+		{
+			"name": "Trespass the Tomb",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Sorcery — Zombie ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/82_Trespass the Tomb.png"
+			}
+		},
+		{
+			"name": "Cryptspinner",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Spider ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/93_Cryptspinner.png"
+			}
+		},
+		{
+			"name": "Thirsty Neonate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/119_Thirsty Neonate.png"
+			}
+		},
+		{
+			"name": "Manyfaced Monstrosity",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Plant Horror ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/104_Manyfaced Monstrosity.png"
+			}
+		},
+		{
+			"name": "Sanity Stealer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/116_Sanity Stealer.png"
+			}
+		},
+		{
+			"name": "Lone Crawler",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/103_Lone Crawler_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/103_Lone Crawler_back.png"
+				}
+			}
+		},
+		{
+			"name": "Venemous Ambush",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Kindred Sorcery — Spider ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/122_Venemous Ambush.png"
+			}
+		},
+		{
+			"name": "Hungering Vampire",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/101_Hungering Vampire_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/101_Hungering Vampire_back.png"
+				}
+			}
+		},
+		{
+			"name": "Pattern Carver",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Plant ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/111_Pattern Carver.png"
+			}
+		},
+		{
+			"name": "Infested Zombie",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/102_Infested Zombie.png"
+			}
+		},
+		{
+			"name": "Decadent Decorator",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Vampire ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/94_Decadent Decorator.png"
+			}
+		},
+		{
+			"name": "Wither Away",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/125_Wither Away.png"
+			}
+		},
+		{
+			"name": "Go for the Neck",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Kindred Sorcery — Vampire ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/95_Go for the Neck.png"
+			}
+		},
+		{
+			"name": "Body Modifier",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/86_Body Modifier.png"
+			}
+		},
+		{
+			"name": "Crippling Condition",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/92_Crippling Condition.png"
+			}
+		},
+		{
+			"name": "Tibalt's Proposition",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/120_Tibalt's Proposition.png"
+			}
+		},
+		{
+			"name": "Return from Extinction",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/113_Return from Extinction.png"
+			}
+		},
+		{
+			"name": "Carve",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Sorcery — Plant ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/88_Carve.png"
+			}
+		},
+		{
+			"name": "Bitter Legacy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Instant — Shapeshifter ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/85_Bitter Legacy.png"
+			}
+		},
+		{
+			"name": "Claw Out",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Kindred Sorcery — Zombie ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/91_Claw Out.png"
+			}
+		},
+		{
+			"name": "Lantern Lighter",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Plant Wizard ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/146_Lantern Lighter.png"
+			}
+		},
+		{
+			"name": "Fiery Pup",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Wolf ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/134_Fiery Pup.png"
+			}
+		},
+		{
+			"name": "Martyr for the Mob",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/151_Martyr for the Mob.png"
+			}
+		},
+		{
+			"name": "Writhing Fury",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/166_Writhing Fury.png"
+			}
+		},
+		{
+			"name": "Experiment Overseer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/132_Experiment Overseer.png"
+			}
+		},
+		{
+			"name": "Flesh Shaper",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Plant Wolf ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/136_Flesh Shaper.png"
+			}
+		},
+		{
+			"name": "Brazen Rescuer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Werewolf ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/128_Brazen Rescuer_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/128_Brazen Rescuer_back.png"
+				}
+			}
+		},
+		{
+			"name": "Emberwild Accusers",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/131_Emberwild Accusers.png"
+			}
+		},
+		{
+			"name": "Gruesome Gang",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/141_Gruesome Gang.png"
+			}
+		},
+		{
+			"name": "Frenzied Villager",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Human Berserker Werewolf ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/138_Frenzied Villager_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/138_Frenzied Villager_back.png"
+				}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/135_Firebolt.png"
+			}
+		},
+		{
+			"name": "Make a Scene",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/150_Make a Scene.png"
+			}
+		},
+		{
+			"name": "Radicalize",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Kindred Sorcery — Berserker ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/157_Radicalize.png"
+			}
+		},
+		{
+			"name": "Freak Show",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Kindred Instant — Shapeshifter ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/137_Freak Show.png"
+			}
+		},
+		{
+			"name": "Sanity Extraction",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Sorcery — Wizard ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/158_Sanity Extraction.png"
+			}
+		},
+		{
+			"name": "Lunar Pull",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Enchantment — Werewolf Aura ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/148_Lunar Pull.png"
+			}
+		},
+		{
+			"name": "Inner Blaze",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Kindred Instant — Plant ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/143_Inner Blaze.png"
+			}
+		},
+		{
+			"name": "Abandon the Post",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/126_Abandon the Post.png"
+			}
+		},
+		{
+			"name": "Nameless Monster",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/154_Nameless Monster.png"
+			}
+		},
+		{
+			"name": "Naive Traveler",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Werewolf ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/188_Naive Traveler_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/188_Naive Traveler_back.png"
+				}
+			}
+		},
+		{
+			"name": "Deadly Recluse",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/175_Deadly Recluse.png"
+			}
+		},
+		{
+			"name": "Unveil the Abnormal",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Sorcery — Mutant ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/201_Unveil the Abnormal.png"
+			}
+		},
+		{
+			"name": "Multieyed Monstrosity",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider Mutant ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/187_Multieyed Monstrosity.png"
+			}
+		},
+		{
+			"name": "Bounding Wolf",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/172_Bounding Wolf.png"
+			}
+		},
+		{
+			"name": "Brambleskin",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/173_Brambleskin.png"
+			}
+		},
+		{
+			"name": "Legacy Forger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/183_Legacy Forger.png"
+			}
+		},
+		{
+			"name": "Unnatural Nature",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/200_Unnatural Nature.png"
+			}
+		},
+		{
+			"name": "Expert Survivalist",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Werewolf ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/179_Expert Survivalist_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/179_Expert Survivalist_back.png"
+				}
+			}
+		},
+		{
+			"name": "Longleg Broodmother",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/184_Longleg Broodmother.png"
+			}
+		},
+		{
+			"name": "Gorehusk",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Mutant Beast ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/180_Gorehusk.png"
+			}
+		},
+		{
+			"name": "Take Prey",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/195_Take Prey.png"
+			}
+		},
+		{
+			"name": "Pull of the Moon",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Instant — Werewolf ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/190_Pull of the Moon.png"
+			}
+		},
+		{
+			"name": "Overadapt",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/189_Overadapt.png"
+			}
+		},
+		{
+			"name": "Tapping at the Window",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/196_Tapping at the Window.png"
+			}
+		},
+		{
+			"name": "Webweave",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Enchantment — Spider Aura ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/205_Webweave.png"
+			}
+		},
+		{
+			"name": "Thousandform",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Kindred Enchantment — Shapeshifter Aura ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/198_Thousandform.png"
+			}
+		},
+		{
+			"name": "Settle the Homestead",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Kindred Enchantment — Human Aura ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/193_Settle the Homestead.png"
+			}
+		},
+		{
+			"name": "Return to Nature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/192_Return to Nature.png"
+			}
+		},
+		{
+			"name": "Universal Automaton",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Shapeshifter ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/246_Universal Automaton.png"
+			}
+		},
+		{
+			"name": "Scuttlemutt",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Scarecrow ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/242_Scuttlemutt.png"
+			}
+		},
+		{
+			"name": "Surrogate Farmhand",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Scarecrow ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/245_Surrogate Farmhand.png"
+			}
+		},
+		{
+			"name": "Clever Costuming",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/235_Clever Costuming.png"
+			}
+		},
+		{
+			"name": "Gravedigger's Amulet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/238_Gravedigger's Amulet.png"
+			}
+		},
+		{
+			"name": "Silver Bolt",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/243_Silver Bolt.png"
+			}
+		},
+		{
+			"name": "Imaginary Friend",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/16_Imaginary Friend.png"
+			}
+		},
+		{
+			"name": "Imperiled Villager",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/17_Imperiled Villager_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/17_Imperiled Villager_back.png"
+				}
+			}
+		},
+		{
+			"name": "Riot Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Berserker ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/34_Riot Harbinger.png"
+			}
+		},
+		{
+			"name": "Ethereal Procession",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/5_Ethereal Procession.png"
+			}
+		},
+		{
+			"name": "Gala Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Vampire ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/9_Gala Harbinger.png"
+			}
+		},
+		{
+			"name": "Eversummer Coalition",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/6_Eversummer Coalition.png"
+			}
+		},
+		{
+			"name": "Martyr's Curse",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/26_Martyr's Curse.png"
+			}
+		},
+		{
+			"name": "Frightveil",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/8_Frightveil.png"
+			}
+		},
+		{
+			"name": "Outcast",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Kindred Sorcery — Berserker ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/28_Outcast.png"
+			}
+		},
+		{
+			"name": "Exorcism",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/7_Exorcism.png"
+			}
+		},
+		{
+			"name": "Rise from the Coffin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/35_Rise from the Coffin.png"
+			}
+		},
+		{
+			"name": "Horde Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/60_Horde Harbinger.png"
+			}
+		},
+		{
+			"name": "Apex Monstrosity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Mutant ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/44_Apex Monstrosity.png"
+			}
+		},
+		{
+			"name": "Haunt Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spirit ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/59_Haunt Harbinger.png"
+			}
+		},
+		{
+			"name": "Essence of the Uncanny",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Mutant Ooze ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/50_Essence of the Uncanny.png"
+			}
+		},
+		{
+			"name": "Seasoned Experimenter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/73_Seasoned Experimenter.png"
+			}
+		},
+		{
+			"name": "Dreamweft Changeling",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/47_Dreamweft Changeling.png"
+			}
+		},
+		{
+			"name": "Genome Study",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/56_Genome Study.png"
+			}
+		},
+		{
+			"name": "Supernatural Intervention",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Kindred Instant — Spirit ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/79_Supernatural Intervention.png"
+			}
+		},
+		{
+			"name": "Multimutate",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/64_Multimutate.png"
+			}
+		},
+		{
+			"name": "Forbidden Alchemy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/54_Forbidden Alchemy.png"
+			}
+		},
+		{
+			"name": "Helpless Victim",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/99_Helpless Victim_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/99_Helpless Victim_back.png"
+				}
+			}
+		},
+		{
+			"name": "Noble Suitor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Noble ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/108_Noble Suitor_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/108_Noble Suitor_back.png"
+				}
+			}
+		},
+		{
+			"name": "Patch Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Plant ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/110_Patch Harbinger.png"
+			}
+		},
+		{
+			"name": "Ceaseless Crawler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/90_Ceaseless Crawler.png"
+			}
+		},
+		{
+			"name": "Webspinner Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Spider ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/124_Webspinner Harbinger.png"
+			}
+		},
+		{
+			"name": "Graveshifter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/96_Graveshifter.png"
+			}
+		},
+		{
+			"name": "Hemohone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/100_Hemohone.png"
+			}
+		},
+		{
+			"name": "Spindly Demise",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Kindred Instant — Spider ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/118_Spindly Demise.png"
+			}
+		},
+		{
+			"name": "Cadaver Stitching",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/87_Cadaver Stitching.png"
+			}
+		},
+		{
+			"name": "Harvest",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Kindred Sorcery — Plant ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/98_Harvest.png"
+			}
+		},
+		{
+			"name": "Mark of Mutilation",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/105_Mark of Mutilation.png"
+			}
+		},
+		{
+			"name": "Newborn Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/155_Newborn Hunter.png"
+			}
+		},
+		{
+			"name": "Glimmer Harvester",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Plant ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/140_Glimmer Harvester_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/140_Glimmer Harvester_back.png"
+				}
+			}
+		},
+		{
+			"name": "Laboratory Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/145_Laboratory Harbinger.png"
+			}
+		},
+		{
+			"name": "Moonpack Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Werewolf ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/153_Moonpack Harbinger_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/153_Moonpack Harbinger_back.png"
+				}
+			}
+		},
+		{
+			"name": "King of the Patch",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Plant Noble ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/144_King of the Patch.png"
+			}
+		},
+		{
+			"name": "Spirit of Anarchy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/160_Spirit of Anarchy.png"
+			}
+		},
+		{
+			"name": "Lavaformed Monster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/147_Lavaformed Monster.png"
+			}
+		},
+		{
+			"name": "Carved Up",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/129_Carved Up.png"
+			}
+		},
+		{
+			"name": "Lunar Rage",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Kindred Enchantment — Werewolf ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/149_Lunar Rage.png"
+			}
+		},
+		{
+			"name": "Terror in the Streets",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/161_Terror in the Streets.png"
+			}
+		},
+		{
+			"name": "Power Up",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/156_Power Up.png"
+			}
+		},
+		{
+			"name": "Exemplar Arachnid",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/178_Exemplar Arachnid.png"
+			}
+		},
+		{
+			"name": "Adopted Packmate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Werewolf ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/168_Adopted Packmate_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/168_Adopted Packmate_back.png"
+				}
+			}
+		},
+		{
+			"name": "Eversummer Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/177_Eversummer Harbinger.png"
+			}
+		},
+		{
+			"name": "Monstrosity Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Mutant ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/186_Monstrosity Harbinger.png"
+			}
+		},
+		{
+			"name": "Active Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/167_Active Hunter.png"
+			}
+		},
+		{
+			"name": "Humble Outcast",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/181_Humble Outcast.png"
+			}
+		},
+		{
+			"name": "Markmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Werewolf ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/185_Markmaker_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/185_Markmaker_back.png"
+				}
+			}
+		},
+		{
+			"name": "Blessweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/171_Blessweaver.png"
+			}
+		},
+		{
+			"name": "Latent Growth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Enchantment — Mutant ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/182_Latent Growth.png"
+			}
+		},
+		{
+			"name": "Restore the Day",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/191_Restore the Day.png"
+			}
+		},
+		{
+			"name": "Thrill of the Kill",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/199_Thrill of the Kill.png"
+			}
+		},
+		{
+			"name": "Macabre Festivites",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Kindred Enchantment — Vampire ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/24_Macabre Festivites.png"
+			}
+		},
+		{
+			"name": "Recurring Infestation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Kindred Enchantment — Zombie ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/72_Recurring Infestation.png"
+			}
+		},
+		{
+			"name": "Grisly Sustenance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/97_Grisly Sustenance.png"
+			}
+		},
+		{
+			"name": "Explosion of Results",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Kindred Instant — Wizard ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/133_Explosion of Results.png"
+			}
+		},
+		{
+			"name": "Decorated Valor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Enchantment — Human Aura ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/176_Decorated Valor.png"
+			}
+		},
+		{
+			"name": "Collector of Souls",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/2_Collector of Souls_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/2_Collector of Souls_back.png"
+				}
+			}
+		},
+		{
+			"name": "Glyph Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/58_Glyph Seeker_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/58_Glyph Seeker_back.png"
+				}
+			}
+		},
+		{
+			"name": "Master of the House",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Vampire ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/106_Master of the House.png"
+			}
+		},
+		{
+			"name": "Heretic Warlord",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Berserker ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/142_Heretic Warlord.png"
+			}
+		},
+		{
+			"name": "Alpha Authority",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/169_Alpha Authority.png"
+			}
+		},
+		{
+			"name": "Heap Doll",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Scarecrow ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/239_Heap Doll.png"
+			}
+		},
+		{
+			"name": "Bloodline Pretender",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Shapeshifter ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/234_Bloodline Pretender.png"
+			}
+		},
+		{
+			"name": "Ineffective Scarecrow",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Scarecrow ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/240_Ineffective Scarecrow_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/240_Ineffective Scarecrow_back.png"
+				}
+			}
+		},
+		{
+			"name": "Birthing Boughs",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/233_Birthing Boughs.png"
+			}
+		},
+		{
+			"name": "Melting Pot",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Kindred Artifact — Shapeshifter ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/241_Melting Pot.png"
+			}
+		},
+		{
+			"name": "Klaus, Eversummer Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/22_Klaus, Eversummer Vanguard.png"
+			}
+		},
+		{
+			"name": "Wicker Effigy",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/42_Wicker Effigy.png"
+			}
+		},
+		{
+			"name": "Possessed Stranger",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/31_Possessed Stranger_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/31_Possessed Stranger_back.png"
+				}
+			}
+		},
+		{
+			"name": "Enhancement Chamber",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Artifact — Mutant ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/48_Enhancement Chamber.png"
+			}
+		},
+		{
+			"name": "Nemesis of Identities",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/67_Nemesis of Identities.png"
+			}
+		},
+		{
+			"name": "Mystical Tutor",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/65_Mystical Tutor.png"
+			}
+		},
+		{
+			"name": "Rise of The Living Dead",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Kindred Sorcery — Zombie ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/114_Rise of The Living Dead.png"
+			}
+		},
+		{
+			"name": "Prickett, Drowned Drowner",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Zombie ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/227_Prickett, Drowned Drowner.png"
+			}
+		},
+		{
+			"name": "Cast into Gloom",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/89_Cast into Gloom.png"
+			}
+		},
+		{
+			"name": "Nightmare Amalgam",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/107_Nightmare Amalgam.png"
+			}
+		},
+		{
+			"name": "Arcana Chaser",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/127_Arcana Chaser.png"
+			}
+		},
+		{
+			"name": "Two-Headed Hound",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Dog ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/164_Two-Headed Hound.png"
+			}
+		},
+		{
+			"name": "The Waxing Moon",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/165_The Waxing Moon_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/165_The Waxing Moon_back.png"
+				}
+			}
+		},
+		{
+			"name": "Akista, Mother Widow",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Spider ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/207_Akista, Mother Widow.png"
+			}
+		},
+		{
+			"name": "Waker of the Hunt",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Werewolf Shaman ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/204_Waker of the Hunt_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/204_Waker of the Hunt_back.png"
+				}
+			}
+		},
+		{
+			"name": "Crawling Skin",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Kindred Enchantment — Spider Aura ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/174_Crawling Skin.png"
+			}
+		},
+		{
+			"name": "Vulpine Trickster",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/203_Vulpine Trickster.png"
+			}
+		},
+		{
+			"name": "Attack of the Waking Woods",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/170_Attack of the Waking Woods.png"
+			}
+		},
+		{
+			"name": "Worldly Tutor",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/206_Worldly Tutor.png"
+			}
+		},
+		{
+			"name": "Radiant Expulsion",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/32_Radiant Expulsion.png"
+			}
+		},
+		{
+			"name": "Frozen in Fear",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/55_Frozen in Fear.png"
+			}
+		},
+		{
+			"name": "Say the Name",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/117_Say the Name_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/117_Say the Name_back.png"
+				}
+			}
+		},
+		{
+			"name": "Cruel Betrayal",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/130_Cruel Betrayal.png"
+			}
+		},
+		{
+			"name": "Stalking Eyes",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/194_Stalking Eyes.png"
+			}
+		},
+		{
+			"name": "Enlightened Tutor",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/4_Enlightened Tutor.png"
+			}
+		},
+		{
+			"name": "Gifts Ungiven",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/57_Gifts Ungiven.png"
+			}
+		},
+		{
+			"name": "Vampiric Tutor",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/121_Vampiric Tutor.png"
+			}
+		},
+		{
+			"name": "Gamble",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/139_Gamble.png"
+			}
+		},
+		{
+			"name": "Tarmogoyf",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lhurgoyf ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/197_Tarmogoyf.png"
+			}
+		},
+		{
+			"name": "Splitting Harvester",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Scarecrow ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/244_Splitting Harvester.png"
+			}
+		},
+		{
+			"name": "Midnight Clock",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/62_Midnight Clock.png"
+			}
+		},
+		{
+			"name": "Eerie Obelisk",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/237_Eerie Obelisk.png"
+			}
+		},
+		{
+			"name": "Jumpscare",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/221_Jumpscare.png"
+			}
+		},
+		{
+			"name": "Omniform",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/226_Omniform.png"
+			}
+		},
+		{
+			"name": "Grace, Soul Unbound",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Planeswalker — Grace ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/10_Grace, Soul Unbound.png"
+			}
+		},
+		{
+			"name": "Hushpoppet",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/15_Hushpoppet.png"
+			}
+		},
+		{
+			"name": "Xrthalid, Subject Zero",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Xrthalid ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/84_Xrthalid, Subject Zero.png"
+			}
+		},
+		{
+			"name": "Ancestral Communion",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/43_Ancestral Communion.png"
+			}
+		},
+		{
+			"name": "The One in the Sewers",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Demon Clown ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/109_The One in the Sewers.png"
+			}
+		},
+		{
+			"name": "Tibalt, Spawn of Chaos",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Planeswalker — Tibalt ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/162_Tibalt, Spawn of Chaos.png"
+			}
+		},
+		{
+			"name": "Tibalt's Betrayal",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/163_Tibalt's Betrayal.png"
+			}
+		},
+		{
+			"name": "Silent Grove",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/249_Silent Grove_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/249_Silent Grove_back.png"
+				}
+			}
+		},
+		{
+			"name": "Venus Mantrap",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Alien Plant Mutant ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/202_Venus Mantrap.png"
+			}
+		},
+		{
+			"name": "The Clock Prison",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/236_The Clock Prison_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/236_The Clock Prison_back.png"
+				}
+			}
+		},
+		{
+			"name": "Kizrath, the Dusk Prince",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Creature — Demon Noble ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/222_Kizrath, the Dusk Prince_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/222_Kizrath, the Dusk Prince_back.png"
+				}
+			}
+		},
+		{
+			"name": "Ixophew, Hallows Spinner",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Planeswalker — Ixophew ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/219_Ixophew, Hallows Spinner.png"
+			}
+		},
+		{
+			"name": "Slynn, Identity Binder",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Kindred Planeswalker",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/230_Slynn, Identity Binder.png"
+			}
+		},
+		{
+			"name": "Thought Trash",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/80_Thought Trash.png"
+			}
+		},
+		{
+			"name": "Naive Delver",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/66_Naive Delver_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/66_Naive Delver_back.png"
+				}
+			}
+		},
+		{
+			"name": "Eve's Beginning",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/216_Eve's Beginning.png"
+			}
+		},
+		{
+			"name": "Mutavault",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/248_Mutavault.png"
+			}
+		},
+		{
+			"name": "Cavern of Souls",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/247_Cavern of Souls.png"
+			}
+		},
+		{
+			"name": "Dream Lurker",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Nightmare Horror ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/46_Dream Lurker.png"
+			}
+		},
+		{
+			"name": "Victor, Sentience Imparter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/123_Victor, Sentience Imparter_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/123_Victor, Sentience Imparter_back.png"
+				}
+			}
+		},
+		{
+			"name": "Meribelle, the Poltergeist",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Spirit ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/223_Meribelle, the Poltergeist.png"
+			}
+		},
+		{
+			"name": "Hannibal, Inaugural Mayor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Vampire Rogue ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/11_Hannibal, Inaugural Mayor_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/11_Hannibal, Inaugural Mayor_back.png"
+				}
+			}
+		},
+		{
+			"name": "Constantine, Chief Instigator",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Berserker ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/212_Constantine, Chief Instigator.png"
+			}
+		},
+		{
+			"name": "Montague, Crafty Survivor",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/224_Montague, Crafty Survivor.png"
+			}
+		},
+		{
+			"name": "Thriller",
+			"rarity": "mythic",
+			"mana_cost": "{7}{U}{B}",
+			"type": "Kindred Sorcery — Zombie ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/232_Thriller.png"
+			}
+		},
+		{
+			"name": "Glutmeg, Crazed Alchemist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/217_Glutmeg, Crazed Alchemist.png"
+			}
+		},
+		{
+			"name": "Eliot, the Smith of Flesh",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Mutant Wizard ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/214_Eliot, the Smith of Flesh.png"
+			}
+		},
+		{
+			"name": "Dreadknot, Decapitated Fiend",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Plant Knight ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/213_Dreadknot, Decapitated Fiend.png"
+			}
+		},
+		{
+			"name": "Bloodcurl, the Dread Howler",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Wolf ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/208_Bloodcurl, the Dread Howler.png"
+			}
+		},
+		{
+			"name": "Putrid Blob",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Ooze ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/112_Putrid Blob.png"
+			}
+		},
+		{
+			"name": "Snapcaster Mage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/75_Snapcaster Mage.png"
+			}
+		},
+		{
+			"name": "Scream Harvester",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Plant ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/159_Scream Harvester.png"
+			}
+		},
+		{
+			"name": "Maiden of the Haunt",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/25_Maiden of the Haunt.png"
+			}
+		},
+		{
+			"name": "Mass Mentality",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Kindred Sorcery — Berserker ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/152_Mass Mentality.png"
+			}
+		},
+		{
+			"name": "Roost Keeper",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/115_Roost Keeper.png"
+			}
+		},
+		{
+			"name": "Nameless Persecutor",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/UMB-files/img/27_Nameless Persecutor.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Klaus, Eversummer Vanguard
+		2 Wicker Effigy
+		2 Possessed Stranger
+		2 Enhancement Chamber
+		2 Nemesis of Identities
+		2 Mystical Tutor
+		2 Rise of The Living Dead
+		2 Prickett, Drowned Drowner
+		2 Cast into Gloom
+		2 Nightmare Amalgam
+		2 Arcana Chaser
+		2 Two-Headed Hound
+		2 The Waxing Moon
+		2 Akista, Mother Widow
+		2 Waker of the Hunt
+		2 Crawling Skin
+		2 Vulpine Trickster
+		2 Attack of the Waking Woods
+		2 Worldly Tutor
+		2 Radiant Expulsion
+		2 Frozen in Fear
+		2 Say the Name
+		2 Cruel Betrayal
+		2 Stalking Eyes
+		2 Enlightened Tutor
+		2 Gifts Ungiven
+		2 Vampiric Tutor
+		2 Gamble
+		2 Tarmogoyf
+		2 Splitting Harvester
+		2 Midnight Clock
+		2 Eerie Obelisk
+		2 Jumpscare
+		2 Omniform
+		2 Eve's Beginning
+		2 Mutavault
+		2 Cavern of Souls
+		2 Dream Lurker
+		2 Meribelle, the Poltergeist
+		2 Hannibal, Inaugural Mayor
+		2 Constantine, Chief Instigator
+		2 Montague, Crafty Survivor
+		2 Glutmeg, Crazed Alchemist
+		2 Eliot, the Smith of Flesh
+		2 Dreadknot, Decapitated Fiend
+		2 Bloodcurl, the Dread Howler
+		2 Putrid Blob
+		2 Snapcaster Mage
+		2 Scream Harvester
+		2 Maiden of the Haunt
+		2 Mass Mentality
+		2 Roost Keeper
+		2 Nameless Persecutor
+		1 Grace, Soul Unbound
+		1 Hushpoppet
+		1 Xrthalid, Subject Zero
+		1 Ancestral Communion
+		1 The One in the Sewers
+		1 Tibalt, Spawn of Chaos
+		1 Tibalt's Betrayal
+		1 Silent Grove
+		1 Venus Mantrap
+		1 The Clock Prison
+		1 Kizrath, the Dusk Prince
+		1 Ixophew, Hallows Spinner
+		1 Slynn, Identity Binder
+		1 Victor, Sentience Imparter
+		1 Thriller
+		[UncommonSlot(3)]
+	9 Street Creeper
+		9 Indulgent Extractor
+		9 Rabblegang
+		9 Eversummer Exemplar
+		9 Shambling Legion
+		9 Catalyst Specialist
+		9 Jack of Lanterns
+		9 Bloodglutton Spider
+		9 Neverending Pack
+		9 Branchweft Crow
+		9 Imaginary Friend
+		9 Imperiled Villager
+		9 Riot Harbinger
+		9 Ethereal Procession
+		9 Gala Harbinger
+		9 Eversummer Coalition
+		9 Martyr's Curse
+		9 Frightveil
+		9 Outcast
+		9 Exorcism
+		9 Rise from the Coffin
+		9 Horde Harbinger
+		9 Apex Monstrosity
+		9 Haunt Harbinger
+		9 Essence of the Uncanny
+		9 Seasoned Experimenter
+		9 Dreamweft Changeling
+		9 Genome Study
+		9 Supernatural Intervention
+		9 Multimutate
+		9 Forbidden Alchemy
+		9 Helpless Victim
+		9 Noble Suitor
+		9 Patch Harbinger
+		9 Ceaseless Crawler
+		9 Webspinner Harbinger
+		9 Graveshifter
+		9 Hemohone
+		9 Spindly Demise
+		9 Cadaver Stitching
+		9 Harvest
+		9 Mark of Mutilation
+		9 Newborn Hunter
+		9 Glimmer Harvester
+		9 Laboratory Harbinger
+		9 Moonpack Harbinger
+		9 King of the Patch
+		9 Spirit of Anarchy
+		9 Lavaformed Monster
+		9 Carved Up
+		9 Lunar Rage
+		9 Terror in the Streets
+		9 Power Up
+		9 Exemplar Arachnid
+		9 Adopted Packmate
+		9 Eversummer Harbinger
+		9 Monstrosity Harbinger
+		9 Active Hunter
+		9 Humble Outcast
+		9 Markmaker
+		9 Blessweaver
+		9 Latent Growth
+		9 Restore the Day
+		9 Thrill of the Kill
+		9 Macabre Festivites
+		9 Recurring Infestation
+		9 Grisly Sustenance
+		9 Explosion of Results
+		9 Decorated Valor
+		9 Collector of Souls
+		9 Glyph Seeker
+		9 Master of the House
+		9 Heretic Warlord
+		9 Alpha Authority
+		9 Heap Doll
+		9 Bloodline Pretender
+		9 Ineffective Scarecrow
+		9 Birthing Boughs
+		9 Melting Pot
+		9 Naive Delver
+		[CommonSlot(10)]
+	30 Authoritative Accuser
+		30 Sophisticated Host
+		30 Popular Leader
+		30 Loyal Enforcer
+		30 Reveling Changeling
+		30 Irregular Cohort
+		30 Inciting Individual
+		30 Patron of the Living
+		30 Inspirational Captain
+		30 Serene Apparition
+		30 Hungering Guardian
+		30 Tomb Whisperer
+		30 Unfinished Business
+		30 Hold at the Stake
+		30 Crib Swap
+		30 Homestead Courage
+		30 Sanguine Hospitality
+		30 Incite Riot
+		30 Secrets of the Restless
+		30 Victim of Experimentation
+		30 Fickle Figment
+		30 Tomb Keeper
+		30 Recurring Haunting
+		30 First Subject
+		30 Novice Researcher
+		30 Flaying Zombie
+		30 Soul of the Monster
+		30 Era-Worn Zombie
+		30 Mindmister
+		30 Incomprehensible Mass
+		30 Strip Identity
+		30 Dissect
+		30 Otherworldly Gaze
+		30 Silent Departure
+		30 Plasmform
+		30 Stream of Unconsciousness
+		30 Trespass the Tomb
+		30 Cryptspinner
+		30 Thirsty Neonate
+		30 Manyfaced Monstrosity
+		30 Sanity Stealer
+		30 Lone Crawler
+		30 Venemous Ambush
+		30 Hungering Vampire
+		30 Pattern Carver
+		30 Infested Zombie
+		30 Decadent Decorator
+		30 Wither Away
+		30 Go for the Neck
+		30 Body Modifier
+		30 Crippling Condition
+		30 Tibalt's Proposition
+		30 Return from Extinction
+		30 Carve
+		30 Bitter Legacy
+		30 Claw Out
+		30 Lantern Lighter
+		30 Fiery Pup
+		30 Martyr for the Mob
+		30 Writhing Fury
+		30 Experiment Overseer
+		30 Flesh Shaper
+		30 Brazen Rescuer
+		30 Emberwild Accusers
+		30 Gruesome Gang
+		30 Frenzied Villager
+		30 Firebolt
+		30 Make a Scene
+		30 Radicalize
+		30 Freak Show
+		30 Sanity Extraction
+		30 Lunar Pull
+		30 Inner Blaze
+		30 Abandon the Post
+		30 Nameless Monster
+		30 Naive Traveler
+		30 Deadly Recluse
+		30 Unveil the Abnormal
+		30 Multieyed Monstrosity
+		30 Bounding Wolf
+		30 Brambleskin
+		30 Legacy Forger
+		30 Unnatural Nature
+		30 Expert Survivalist
+		30 Longleg Broodmother
+		30 Gorehusk
+		30 Take Prey
+		30 Pull of the Moon
+		30 Overadapt
+		30 Tapping at the Window
+		30 Webweave
+		30 Thousandform
+		30 Settle the Homestead
+		30 Return to Nature
+		30 Universal Automaton
+		30 Scuttlemutt
+		30 Surrogate Farmhand
+		30 Clever Costuming
+		30 Gravedigger's Amulet
+		30 Silver Bolt
+		30 Thought Trash
+		
