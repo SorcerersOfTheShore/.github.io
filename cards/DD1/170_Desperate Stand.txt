@@ -1,0 +1,1 @@
+﻿Desperate Stand	G	common	Instant	170	G	2G	Prepare target creature. Untap it, then proliferate. (To prepare a creature, if it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it. To proliferate, choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)			normal	DD1		

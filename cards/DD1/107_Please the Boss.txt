@@ -1,0 +1,1 @@
+﻿Please the Boss	B	uncommon	Enchantment	107	B	1B	Whenever one or more Treasures enter the battlefield under your control, put a quest counter on Please the Boss.NEWLINEAs long as Please the Boss has four or more quest counters on it, Treasures you control have “T, Pay 1 life, Sacrifice this artifact: Draw a card.”			normal	DD1		

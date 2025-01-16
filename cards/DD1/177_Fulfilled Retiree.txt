@@ -1,0 +1,1 @@
+﻿Fulfilled Retiree	G	rare	Creature – Wolf Scout 	177	G	3GG	TrampleNEWLINEEach creature you control gets +1/+1 for each counter on it.	3/3		normal	DD1		

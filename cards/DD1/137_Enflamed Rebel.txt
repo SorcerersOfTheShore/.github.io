@@ -1,0 +1,1 @@
+﻿Enflamed Rebel	R	uncommon	Creature – Lizard Rogue 	137	R	R	Sabotage – Whenever Enflamed Rebel deals combat damage to a player or planeswalker, Enflamed Rebel deals 1 damage to any target.	1/1		normal	DD1		

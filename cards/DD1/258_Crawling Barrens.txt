@@ -1,0 +1,1 @@
+﻿Crawling Barrens		rare	Land	258	C		T: Add C.NEWLINE4: Put two +1/+1 counters on Crawling Barrens. Then you may have it become a 0/0 Elemental creature until end of turn. It’s still a land.			normal	DD1		!landslot

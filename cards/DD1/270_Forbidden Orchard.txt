@@ -1,0 +1,1 @@
+﻿Forbidden Orchard		mythic	Land	270	C		T: Add one mana of any color.NEWLINEWhenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token.			normal	DD1		!landslot

@@ -1,0 +1,1 @@
+﻿Looming Spires		uncommon	Land	277	R		Looming Spires enters the battlefield tapped.NEWLINEWhen Looming Spires enters the battlefield, target creature gets +1/+1 and gains first strike until end of turn.NEWLINET: Add R.			normal	DD1		!landslot

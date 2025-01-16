@@ -1,0 +1,1 @@
+﻿Flooded Strand		rare	Land	269	C		T, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.			normal	DD1		!landslot

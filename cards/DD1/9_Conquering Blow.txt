@@ -1,0 +1,1 @@
+﻿Conquering Blow	W	common	Instant	9	W	3W	Choose one–NEWLINE• Exile target creature with power 4 or greater.NEWLINE• Exile target nonland permanent with three or more counters on it.			normal	DD1		

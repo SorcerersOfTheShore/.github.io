@@ -1,0 +1,1 @@
+﻿Tempting Spoils	B	common	Sorcery	116	B	1BB	You draw two cards and you lose 2 life. Create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	DD1		

@@ -1,0 +1,1 @@
+﻿Messenger Master	U	uncommon	Creature – Dragon Citizen 	67	U	3UU	FlyingNEWLINEMessenger Master enters the battlefield with three +1/+1 counters on it.NEWLINEAt the beginning of your upkeep, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)	0/0		normal	DD1		

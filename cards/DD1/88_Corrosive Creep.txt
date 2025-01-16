@@ -1,0 +1,1 @@
+﻿Corrosive Creep	B	common	Creature – Ooze Rogue 	88	B	B	Sabotage – Whenever Corrosive Creep deals combat damage to a player or planeswalker, that player or planeswalker’s controller loses 1 life.	1/2		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Shorline Charters	U	common	Creature – Mouse Cat Bird Scout 	79	U	U	Level up 1 (1: Put a level counter on this. Level up only as a sorcery.)	1/1	NEWLINE[level 2-3] NEWLINE[level 4+] Whenever Shorline Charters attacks, scry 2.	leveler	DD1		

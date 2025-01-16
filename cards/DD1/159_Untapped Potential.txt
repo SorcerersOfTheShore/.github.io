@@ -1,0 +1,1 @@
+﻿Untapped Potential	R	common	Instant	159	R	2R	Up to two target creatures you control each gain first strike until end of turn. Prepare those creatures. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)			normal	DD1		

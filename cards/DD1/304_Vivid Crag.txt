@@ -1,0 +1,1 @@
+﻿Vivid Crag		uncommon	Land	304	R		Vivid Crag enters the battlefield tapped with two charge counters on it.NEWLINET: Add R.NEWLINET, Remove a charge counter from Vivid Crag: Add one mana of any color.			normal	DD1		!landslot

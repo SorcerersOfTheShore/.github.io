@@ -1,0 +1,1 @@
+﻿Strike Expert	W	uncommon	Creature – Otter Warrior 	35	W	2W	Whenever you activate your third ability in a turn that isn’t a mana ability, Strike Expert gains double strike until end of turn. (Leveling up is an activated ability.)	3/3		normal	DD1		

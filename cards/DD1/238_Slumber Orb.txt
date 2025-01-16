@@ -1,0 +1,1 @@
+﻿Slumber Orb		uncommon	Artifact	238	U	2	When Slumber Orb enters the battlefield, draw a card.NEWLINE4U, Sacrifice Slumber Orb: Tap all creatures your opponents control.			normal	DD1		

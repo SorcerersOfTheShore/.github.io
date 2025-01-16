@@ -1,0 +1,1 @@
+﻿Kindly Coach	W	uncommon	Creature – Cat Advisor 	21	W	W	When Kindly Coach enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)	1/2		normal	DD1		

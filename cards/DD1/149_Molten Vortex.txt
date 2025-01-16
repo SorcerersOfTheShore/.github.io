@@ -1,0 +1,1 @@
+﻿Molten Vortex	R	rare	Enchantment	149	R	R	R, Discard a land card: Molten Vortex deals 2 damage to any target.			normal	DD1		

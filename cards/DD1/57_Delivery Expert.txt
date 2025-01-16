@@ -1,0 +1,1 @@
+﻿Delivery Expert	U	common	Creature – Bird Citizen 	57	U	2UU	FlyingNEWLINEWhen Delivery Expert enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)	3/3		normal	DD1		

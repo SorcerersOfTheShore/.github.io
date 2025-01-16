@@ -1,0 +1,1 @@
+﻿Smell Fear	G	common	Sorcery	191	G	1G	Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)NEWLINETarget creature you control fights up to one target creature you don’t control.			normal	DD1		

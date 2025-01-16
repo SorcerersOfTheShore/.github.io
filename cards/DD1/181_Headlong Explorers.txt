@@ -1,0 +1,1 @@
+﻿Headlong Explorers	G	common	Creature – Beast Scout 	181	G	2G		2/3	Vigilance (This creature always has this ability.)NEWLINELevel up 2 (2: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 1-2] NEWLINE[level 3+] Trample	leveler	DD1		

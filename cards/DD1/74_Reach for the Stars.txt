@@ -1,0 +1,1 @@
+﻿Reach for the Stars	U	common	Enchantment – Aura 	74	U	1U	Enchant creatureNEWLINEWhen Reach for the Stars enters the battlefield, draw a card.NEWLINEEnchanted creature gets +1/+1 and has flying.			normal	DD1		

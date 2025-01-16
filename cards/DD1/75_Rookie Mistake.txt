@@ -1,0 +1,1 @@
+﻿Rookie Mistake	U	common	Instant	75	U	U	Until end of turn, target creature gets +0/+2 and another target creature gets -2/-0.			normal	DD1		

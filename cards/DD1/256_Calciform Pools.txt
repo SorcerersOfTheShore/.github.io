@@ -1,0 +1,1 @@
+﻿Calciform Pools		uncommon	Land	256	WU		T: Add C.NEWLINE1, T: Put a storage counter on Calciform Pools.NEWLINE1, Remove X storage counters from Calciform Pools: Add X mana in any combination of W and/or U.			normal	DD1		!landslot

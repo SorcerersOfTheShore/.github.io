@@ -1,0 +1,1 @@
+﻿Push Forward	U	common	Sorcery	73	U	1U	Prepare target creature. It can’t be blocked this turn. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)			normal	DD1		

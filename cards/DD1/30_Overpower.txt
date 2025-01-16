@@ -1,0 +1,1 @@
+﻿Overpower	W	uncommon	Instant	30	W	W	Exile target creature with power less than the greatest power among creatures you control.			normal	DD1		

@@ -1,0 +1,1 @@
+﻿Sandstone Bridge		uncommon	Land	295	W		Sandstone Bridge enters the battlefield tapped.NEWLINEWhen Sandstone Bridge enters the battlefield, target creature gets +1/+1 and gains vigilance until end of turn.NEWLINET: Add W.			normal	DD1		!landslot

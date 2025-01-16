@@ -1,0 +1,1 @@
+﻿Misty Rainforest		rare	Land	282	C		T, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.			normal	DD1		!landslot

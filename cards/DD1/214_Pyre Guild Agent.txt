@@ -1,0 +1,1 @@
+﻿Pyre, Guild Agent	UR	uncommon	Legendary Creature – Cat Rogue 	214	UR	2UR	Whenever you cast a spell that targets a creatures you control, prepare that creature. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)NEWLINEWhenever one or more creatures you control deal combat damage to an opponent, draw a card, then discard a card.	3/3		normal	DD1		

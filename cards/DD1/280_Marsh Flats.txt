@@ -1,0 +1,1 @@
+﻿Marsh Flats		rare	Land	280	C		T, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.			normal	DD1		!landslot

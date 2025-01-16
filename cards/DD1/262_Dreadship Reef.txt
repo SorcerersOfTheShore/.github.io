@@ -1,0 +1,1 @@
+﻿Dreadship Reef		uncommon	Land	262	UB		T: Add C.NEWLINE1, T: Put a storage counter on Dreadship Reef.NEWLINE1, Remove X storage counters from Dreadship Reef: Add X mana in any combination of U and/or B.			normal	DD1		!landslot

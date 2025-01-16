@@ -1,0 +1,1 @@
+﻿Deserted Temple		mythic	Land	261	C		T: Add C.NEWLINE1, T: Untap target land.			normal	DD1		!landslot

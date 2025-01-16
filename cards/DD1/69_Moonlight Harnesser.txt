@@ -1,0 +1,1 @@
+﻿Moonlight Harnesser	U	uncommon	Creature – Faerie 	69	U	1UU	When Moonlight Harnesser enters the battlefield, when you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.	2/2		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Blaststoker	R	uncommon	Creature – Elemental Beast Shaman 	123	R	1R	Whenever a source you control deals noncombat damage to a player, proliferate. This ability triggers only once each turn. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)	2/2		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Parting Thoughts	B	rare	Sorcery	105	B	2B	Destroy target creature. You draw X cards and you lose X life, where X is the number of counters on that creature.			normal	DD1		

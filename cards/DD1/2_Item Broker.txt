@@ -1,0 +1,1 @@
+﻿Item Broker		common	Creature – Lizard Citizen 	2	C	4	When Item Broker enters the battlefield, you may search your library for a noncreature artifact card with mana value 2 or less, reveal that card, put it into your hand, then shuffle.	3/2		normal	DD1		

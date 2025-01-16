@@ -1,0 +1,1 @@
+﻿Alak, Island Historian	UG	uncommon	Legendary Creature – Wizard Advisor 	201	UG	2GU	Alak, Island Historian enters the battlefield with two +1/+1 counters on it.NEWLINEWhenever one or more counters are put on Alak, Island Historian, scry 1, then draw a card.	0/0		normal	DD1		

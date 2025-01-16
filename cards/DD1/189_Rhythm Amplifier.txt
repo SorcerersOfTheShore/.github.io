@@ -1,0 +1,1 @@
+﻿Rhythm Amplifier	G	mythic	Creature – Monkey Druid Warrior 	189	G	4G	Rhythm Amplifier enters the battlefield with a +1/+1 counter on it.NEWLINEIf you would proliferate, you may instead double the number of each kind of counter on any number of permanents.	4/4		normal	DD1		

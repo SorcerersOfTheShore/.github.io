@@ -1,0 +1,1 @@
+﻿Crystal Quarry		rare	Land	259	WUBRG		T: Add C.NEWLINE5, T: Add WUBRG.			normal	DD1		!landslot

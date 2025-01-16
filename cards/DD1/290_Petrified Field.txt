@@ -1,0 +1,1 @@
+﻿Petrified Field		rare	Land	290	C		T: Add C.NEWLINET, Sacrifice Petrified Field: Return target land card from your graveyard to your hand.			normal	DD1		!landslot

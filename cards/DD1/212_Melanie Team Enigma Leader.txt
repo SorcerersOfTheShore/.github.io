@@ -1,0 +1,1 @@
+﻿Melanie, Team Enigma Leader	RG	uncommon	Legendary Creature – Faerie Scout 	212	RG	2RG	TrampleNEWLINEWhenever a creature you control explores, put a +1/+1 counter on Melanie, Team Enigma Leader, then Melanie deals damage equal to the number of +1/+1 counters on it to each opponent.	4/3		normal	DD1		

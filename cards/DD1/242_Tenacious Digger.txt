@@ -1,0 +1,1 @@
+﻿Tenacious Digger		uncommon	Artifact Creature – Insect 	242	C	1	4: Return Tenacious Digger from your graveyard to the battlefield tapped.	1/2		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Volt Charge	R	common	Instant	160	R	2R	Volt Charge deals 3 damage to any target. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)			normal	DD1		

@@ -1,0 +1,1 @@
+﻿Nesting Grounds		rare	Land	289	C		T: Add C.NEWLINE1, T: Move a counter from target permanent you control onto another target permanent. Activate only as a sorcery.			normal	DD1		!landslot

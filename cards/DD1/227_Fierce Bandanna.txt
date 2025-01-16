@@ -1,0 +1,1 @@
+﻿Fierce Bandanna		rare	Artifact – Equipment 	227	G	2	Whenever Fierce Bandanna becomes attached to a creature for the first time each turn, draw a card.NEWLINEEquipped creature gets +1/+1 and has trample.NEWLINEEquip GG			normal	DD1		

@@ -1,0 +1,1 @@
+﻿Distraction Technique	U	uncommon	Enchantment – Aura 	58	U	U	Enchant creatureNEWLINEWhen Distraction Technique enters the battlefield, create a 1/1 white Scout creature token.NEWLINEEnchanted creature has flying.			normal	DD1		

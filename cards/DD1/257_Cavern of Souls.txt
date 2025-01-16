@@ -1,0 +1,1 @@
+﻿Cavern of Souls		mythic	Land	257	C		As Cavern of Souls enters the battlefield, choose a creature type.NEWLINET: Add C.NEWLINET: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can’t be countered.			normal	DD1		!landslot

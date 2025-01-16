@@ -1,0 +1,1 @@
+﻿Path Patrol	B	common	Creature – Cat Rogue 	106	B	3B	Sabotage – Whenever Path Patrol deals combat damage to a player or planeswalker, put a +1/+1 counter on it.	3/3		normal	DD1		

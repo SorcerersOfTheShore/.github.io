@@ -1,0 +1,1 @@
+﻿Ambush Attack	B	common	Sorcery	83	B	3B	This spell costs 1 less to cast for each creature you control.NEWLINEEach opponent sacrifices a creature.			normal	DD1		

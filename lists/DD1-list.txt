@@ -1,0 +1,360 @@
+18_Jirachi, Wish Granter
+62_Hostage Holder
+91_Dubious Bidding
+122_Aspiring Heroes
+189_Rhythm Amplifier
+34_Stand Together
+71_Nebby, Guardian of Worlds
+103_Master Agents
+125_Blitz Traveler
+195_Team Effort
+41_Toren, Prodigious Explorer
+50_Celestial Tear
+85_Collective Despoilment
+129_Collective Empowerment
+166_Carnage King
+4_Accomplished Mentor
+52_Collective Development
+100_Hypnotic Spirit
+134_Demarcus, the First Envoy
+167_Collective Enrichment
+8_Collective Encouragement
+59_Follow the Illusionist's Path
+105_Parting Thoughts
+140_Explore the Deepest Caverns
+168_Crafty Solution
+10_Expedition Leader
+63_Inexorable Tide
+113_Shade's Silencer
+149_Molten Vortex
+174_Elite Expeditionaries
+13_Fresh Recruits
+72_Protean Impostor
+115_Soul Husk
+152_Risky Runners
+177_Fulfilled Retiree
+23_The Lost Logs
+77_Send Through Space
+120_Treasure Tyrant
+153_Roaring Supporter
+196_Trailblazer
+32_Seek the Wish-Granter
+82_Training Grounds
+121_Uncover the Lost Treasure
+156_Shaman of Stories
+198_Venture the Forbidden Forest
+38_Team Captain
+44_Arcana Chasers
+84_Cavern Crawlers
+123_Blaststoker
+263_Dryad Arbor
+5_Amiable Collaboration
+45_Arcane Thief
+87_Consequence of Carelessness
+126_Breath of Demarcus
+161_Adventuring Crew
+7_Cafe Master
+51_Chart a Course
+90_Diabolical Collaboration
+131_Daring Collaboration
+162_Adventurous Collaboration
+15_Guild Recruiter
+53_Confounding Collaboration
+92_Emerge from the Caverns
+135_Eager Explorers
+172_Drax's Influence
+16_Incarceration Assistant
+55_Counteract
+95_Glimmer Digger
+137_Enflamed Rebel
+176_Forest Flourishers
+20_Kindly Caretaker
+56_Decipher the Lost Scriptures
+97_Hardened Explorers
+141_Festival Throwers
+179_Gather the Crowd
+21_Kindly Coach
+58_Distraction Technique
+101_Lone Traveler
+144_Furious Fighters
+182_Lazed Lookout
+24_Luca's Influence
+61_Garde's Influence
+107_Please the Boss
+145_Heat of Battle
+184_Market Master
+25_Mentor the Youth
+64_Innocuous Observer
+108_Recovery Crew
+148_Master the Elements
+186_Petal Dance
+27_Nameless Guardian
+67_Messenger Master
+111_Scourge's Influence
+150_Outlaw Hunter
+187_Refuge Seekers
+30_Overpower
+69_Moonlight Harnesser
+112_Scrutinous Accountant
+151_Psyche's Influence
+193_Tag Team
+35_Strike Expert
+76_Search Party
+114_Sly Larcenist
+158_Tectonic Forger
+197_Undergrowth Dredger
+43_Wise Guide
+46_Battle Prowess
+83_Ambush Attack
+124_Blaze of Hope
+199_Versatile Veterans
+6_Bring to Custody
+47_Befuddled Psychic
+86_Completely Exhaust
+127_Burst of Rage
+163_Adventurous Impulse
+9_Conquering Blow
+48_Breeze Dancer
+88_Corrosive Creep
+128_Catalyst Concotor
+164_Aloof Adventurer
+11_Fortunate Few
+49_Careful Preparation
+89_Darkwood Pathfinder
+130_Cunning Thief
+165_Berry Sharer
+12_Freelance Flock
+54_Contentious Plan
+93_Fret
+132_Dash Through
+169_Curious Crew
+14_Guild Medic
+57_Delivery Expert
+94_Ghastly Gang
+133_Dedicated Dungeoneer
+170_Desperate Stand
+17_Inventory Experts
+60_Fuel for the Cause
+96_Grim Bounty
+136_Emboldened Explorer
+171_Distant Travelers
+19_Keep in Spirits
+65_Job Sifters
+98_Hazardous Happenstance
+138_Enthusiastic Recuits
+173_Elder Advisors
+22_Loot
+66_Library Catalogers
+99_Heartless Butcher
+139_Experienced Travelers
+175_Expeditious Wanderer
+26_Naive Explorers
+68_Mindbreaker
+102_Loyalless Scrounger
+142_Fiery Adventurers
+178_Garden Guaridnas
+28_Novice Adventurers
+70_Nameless Contact
+104_Optimistic Ambition
+143_Flare Beast
+180_Harvest
+29_Outlaw Ambusher
+73_Push Forward
+106_Path Patrol
+146_Intimidation Tactics
+181_Headlong Explorers
+31_Protect Charge
+74_Reach for the Stars
+109_Restless Infiltrator
+147_Lava Burst
+183_Lively Gathering
+33_﻿Silent Swordsman
+75_Rookie Mistake
+110_Scam Artist
+154_Rock Smash
+185_Mindless Devourer
+36_Supplies Courrier
+78_Shade Router
+116_Tempting Spoils
+155_Shade Bruisers
+188_Return to Nature
+37_Swift Response
+79_Shorline Charters
+117_Thieves' Tools
+157_Shinx Assistant
+190_Seasoned Explorers
+39_Tiny Titan
+80_Slinking Sneak
+118_Tomb Raiders
+159_Untapped Potential
+191_Smell Fear
+40_Top Team
+81_Sweeping Current
+119_Treachorous Team
+160_Volt Charge
+192_Spider's Spinnings
+42_Trusted Teammate
+e
+e
+e
+194_Talons of Wildwood
+er
+er
+er
+er
+er
+206_Garde, Guild Organizer
+207_Geist, Deed-Doer
+215_Ripjaw, Shade's Butcher
+212_Melanie, Team Enigma Leader
+216_Silver the Kindhearted
+211_Magnezone, Federation Head
+e
+e
+e
+209_The Kecleon Brothers
+er
+er
+er
+er
+er
+205_Frost the Absolved
+203_Drax, Deathwish-Hardened
+218_Zoro, the Beckoner
+214_Pyre, Guild Agent
+208_Jacob, Memory Seeker
+217_Solera, Grief-Filled
+e
+201_Alak, Island Historian
+e
+213_Psyche, Guild Mentor
+e
+e
+e
+e
+210_Luca, Empath Healer
+er
+er
+er
+er
+er
+202_Celebi, Timeline Preserver
+204_Envoy's Legacy
+200_ Scourge, Father of Team Shade
+e
+e
+er
+er
+er
+er
+er
+228_The Guardian Golems
+3_Possibility Processor
+221_Coalition Scarf
+222_Eevium Z
+225_Explosive Band
+226_Fickle Ribbon
+227_Fierce Bandanna
+234_Mobile Scarf
+1_Chirping Songbird
+220_Cavern Coiler
+229_Helper Orb
+230_Hurl Orb
+233_Luminous Orb
+238_Slumber Orb
+240_Supplies Stash
+242_Tenacious Digger
+243_Two-Edge Orb
+2_Item Broker
+219_Bladed Apprentice
+223_Encourage Seed
+224_Expedition Map
+231_Iron Menace
+232_Joy Seed
+235_Prying Blade
+236_Quick Seed
+237_Reviver Seed
+239_Stun Seed
+241_Team Badge
+e
+e
+er
+er
+er
+er
+er
+247_Star Crater
+244_Beacon Peak
+245_Deathwish Canyon
+246_The Maw
+248_Timewinder Woods
+284_Monumental Henge
+297_Shelldock Isle
+276_Howltooth Hollow
+274_Hellion Crucible
+286_Mosswort Bridge
+310_Windbrisk Heights
+298_Skyline Cascade
+300_Tomb Fortress
+299_Spinerock Knoll
+267_Fertile Thicket
+295_Sandstone Bridge
+305_Vivid Creek
+285_Mortuary Mire
+277_Looming Spires
+306_Vivid Grove
+308_Vivid Meadow
+e
+307_Vivid Marsh
+304_Vivid Crag
+e
+256_Calciform Pools
+262_Dreadship Reef
+283_Molten Slagheap
+271_Fungal Reaches
+294_Saltcrusted Steppe
+er
+er
+er
+er
+er
+250_Ancient Tomb
+252_Arena
+257_Cavern of Souls
+261_Deserted Temple
+264_Dust Bowl
+268_Field of the Dead
+270_Forbidden Orchard
+272_Gemstone Caverns
+273_Glacial Chasm
+278_Lotus Field
+279_Mana Confluence
+281_Mirrorpool
+291_Plaza of Heroes
+301_Tower of the Magistrate
+309_Wasteland
+251_Ancient Ziggurat
+253_Arid Mesa
+254_Blast Zone
+255_Bloodstained Mire
+258_Crawling Barrens
+259_Crystal Quarry
+265_Endless Sands
+269_Flooded Strand
+275_Homeward Path
+280_Marsh Flats
+282_Misty Rainforest
+287_Mutavault
+288_Mystic Sanctuary
+289_Nesting Grounds
+290_Petrified Field
+292_Polluted Delta
+296_Scalding Tarn
+302_Treasure Vault
+303_Verdant Catacombs
+311_Windswept Heath
+312_Wooded Foothills
+249_Village Outcrop
+260_Demolition Field
+266_Evolving Wilds
+293_Rogue's Passage

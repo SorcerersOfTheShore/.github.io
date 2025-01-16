@@ -1,0 +1,1 @@
+﻿Kindly Caretaker	W	uncommon	Creature – Egg Beast Cleric 	20	W	1W		1/3	Level up 3W (3W: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 1-2] NEWLINE[level 3+] Kindly Caretaker’s power and toughness are each equal to your life total or equal to 4, whichever is greater.	leveler	DD1		

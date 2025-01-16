@@ -1,0 +1,1 @@
+﻿Nameless Contact	U	common	Creature – Wolf Rogue 	70	U	4U	Sabotage – Whenever Nameless Contact deals combat damage to a player or planeswalker, prepare target creature. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)	1/5		normal	DD1		

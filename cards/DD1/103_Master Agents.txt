@@ -1,0 +1,1 @@
+﻿Master Agents	B	mythic	Creature – Jackal Cat Assassin 	103	B	2BB	MenaceNEWLINEMaster Agents enters the battlefield with a +1/+1 counter on it.NEWLINECrafty – Remove a counter from Master Agents: Each opponent loses life equal to Master Agents’s power. Activate only once each turn and only as a sorcery.	3/3		normal	DD1		

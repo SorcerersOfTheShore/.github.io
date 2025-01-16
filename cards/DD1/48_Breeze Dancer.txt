@@ -1,0 +1,1 @@
+﻿Breeze Dancer	U	common	Creature – Bird Wizard 	48	U	1U	FlyingNEWLINEWhenever you cast a noncreature spell, Breeze Dancer gets +1/+0 until end of turn.	1/2		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Guild Recruiter	W	uncommon	Creature – Spirit Advisor 	15	W	3W	Guild Recruiter enters the battlefield with a +1/+1 counter on it.NEWLINECrafty – Remove a counter from Guild Recruiter: Create a 1/1 white Scout creature token. Activate only once each turn and only as a sorcery.	2/3		normal	DD1		

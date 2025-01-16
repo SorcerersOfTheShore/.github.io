@@ -1,0 +1,1 @@
+﻿Village Outcrop		uncommon	Land	249	C		T: Add CC. Spend this mana only to activate abilities. (Leveling up is an activated ability.)			normal	DD1		

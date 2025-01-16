@@ -1,0 +1,1 @@
+﻿Elder Advisors	G	common	Creature – Ape Plant Dinosaur Advisor 	173	G	3GG	When Elder Advisors enters the battlefield, choose one–NEWLINE• Prepare each of up to two target creatures. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)NEWLINE• Prepare target creature twice.	3/3		normal	DD1		

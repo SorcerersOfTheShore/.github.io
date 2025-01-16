@@ -1,0 +1,1 @@
+﻿Fuel for the Cause	U	common	Instant	60	U	2UU	Counter target spell, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)			normal	DD1		

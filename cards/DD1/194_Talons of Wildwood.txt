@@ -1,0 +1,1 @@
+﻿Talons of Wildwood	G	common	Enchantment – Aura 	194	G	1G	Enchant creatureNEWLINEEnchanted creature gets +1/+1 and has trample. (It can deal excess combat damage to the player or planeswalker it’s attacking.)NEWLINE2G: Return Talons of Wildwood from your graveyard to your hand.			normal	DD1		

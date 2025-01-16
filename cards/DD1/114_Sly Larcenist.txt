@@ -1,0 +1,1 @@
+﻿Sly Larcenist	B	uncommon	Creature – Cat Rogue 	114	B	1BB	DeathtouchNEWLINESabotage – Whenever Sly Larcenist deals combat damage to a player or planeswalker, exile the top card of that player’s or planeswalker’s controller’s library. You may play that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast it.	1/1		normal	DD1		

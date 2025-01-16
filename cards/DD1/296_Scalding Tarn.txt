@@ -1,0 +1,1 @@
+﻿Scalding Tarn		rare	Land	296	C		T, Pay 1 life, Sacrifice Scalding Tarn: Search your library for a Island or Mountain card, put it onto the battlefield, then shuffle.			normal	DD1		!landslot

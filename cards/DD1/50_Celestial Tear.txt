@@ -1,0 +1,1 @@
+﻿Celestial Tear	U	rare	Artifact – Equipment 	50	U	2U	Whenever equipped creature deals combat damage to a player, take an extra turn after this one.NEWLINEEquipped creature can’t attack during extra turns.NEWLINEEquip 2U			normal	DD1		

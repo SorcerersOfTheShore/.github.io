@@ -1,0 +1,1 @@
+﻿Iron Menace		common	Artifact Creature – Bird 	231	C	5	Flying, menaceNEWLINEIron Menace enters the battlefield with three +1/+1 counters on it.	0/0		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Helper Orb		uncommon	Artifact	229	W	2	When Helper Orb enters the battlefield, draw a card.NEWLINE3W, Sacrifice Helper Orb: Create three 1/1 white Scout creature tokens.			normal	DD1		

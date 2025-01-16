@@ -1,0 +1,1 @@
+﻿Petal Dance	G	uncommon	Sorcery	186	G	1GG	Prepare target creature you control, then double the number of each kind of counter on that creature. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)			normal	DD1		

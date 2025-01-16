@@ -1,0 +1,1 @@
+﻿Spider's Spinnings	G	common	Instant	192	G	2G	Choose one–NEWLINE• Prepare target creature. Put a reach counter on it. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)NEWLINE• Destroy target creature with flying.			normal	DD1		

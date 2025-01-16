@@ -1,0 +1,1 @@
+﻿Ripjaw, Shade's Butcher	BR	uncommon	Legendary Creature – Dragon Rogue Assassin 	215	BR	1BR	When Ripjaw, Shade’s Butcher enters the battlefield, prepare target creature. It gains haste until end of turn. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)NEWLINEEach creature you control with a counter on it has menace.	2/1		normal	DD1		

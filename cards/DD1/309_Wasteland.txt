@@ -1,0 +1,1 @@
+﻿Wasteland		mythic	Land	309	C		T: Add C.NEWLINET, Sacrifice Wasteland: Destroy target nonbasic land.			normal	DD1		!landslot

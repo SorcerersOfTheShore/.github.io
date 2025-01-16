@@ -1,0 +1,1 @@
+﻿Fiery Adventurers	R	common	Creature – Beast Bird Scout 	142	R	4R	HasteNEWLINEWhen Fiery Adventurers enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)	3/4		normal	DD1		

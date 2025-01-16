@@ -1,0 +1,1 @@
+﻿Top Team	W	common	Creature – Fox Dog Scout 	40	W	5W	This spell costs 1 less to cast for each counter among creatures you control.	4/4		normal	DD1		

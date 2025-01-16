@@ -1,0 +1,1 @@
+﻿Thieves' Tools	B	common	Artifact – Equipment 	117	B	1B	When Thieves’ Tools enters the battlefield, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINEEquipped creature can’t be blocked as long as its power is 3 or less.NEWLINEEquip 2			normal	DD1		

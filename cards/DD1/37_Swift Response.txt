@@ -1,0 +1,1 @@
+﻿Swift Response	W	common	Instant	37	W	1W	Destroy target tapped creature.			normal	DD1		

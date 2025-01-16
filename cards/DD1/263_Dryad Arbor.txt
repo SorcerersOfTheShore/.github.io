@@ -1,0 +1,1 @@
+﻿Dryad Arbor	G	rare	Land Creature – Forest Dryad 	263	C		(Dryad Arbor isn’t a spell, it’s affected by summoning sickness, and it has “T: Add G.”)	1/1		normal	DD1		!landslot

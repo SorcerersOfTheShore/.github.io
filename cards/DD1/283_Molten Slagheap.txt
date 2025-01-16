@@ -1,0 +1,1 @@
+﻿Molten Slagheap		uncommon	Land	283	BR		T: Add C.NEWLINE1, T: Put a storage counter on Molten Slagheap.NEWLINE1, Remove X storage counters from Molten Slagheap: Add X mana in any combination of B and/or R.			normal	DD1		!landslot

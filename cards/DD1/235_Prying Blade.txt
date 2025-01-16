@@ -1,0 +1,1 @@
+﻿Prying Blade		common	Artifact – Equipment 	235	C	1	Equipped creature gets +1/+0.NEWLINEWhenever equipped creature deals combat damage to a player, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINEEquip 2			normal	DD1		

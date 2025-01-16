@@ -1,0 +1,1 @@
+﻿Scam Artist	B	common	Creature – Lizard Rogue 	110	B	1B	Sabotage – Whenever Scam Artist deals combat damage to a player or planeswalker, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)	1/3		normal	DD1		

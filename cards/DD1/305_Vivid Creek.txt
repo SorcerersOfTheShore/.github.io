@@ -1,0 +1,1 @@
+﻿Vivid Creek		uncommon	Land	305	U		Vivid Creek enters the battlefield tapped with two charge counters on it.NEWLINET: Add U.NEWLINET, Remove a charge counter from Vivid Creek: Add one mana of any color.			normal	DD1		!landslot

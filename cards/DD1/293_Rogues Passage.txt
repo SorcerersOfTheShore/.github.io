@@ -1,0 +1,1 @@
+﻿Rogue's Passage		uncommon	Land	293	C		T: Add C.NEWLINE4, T: Target creature can’t be blocked this turn.			normal	DD1		!landslot

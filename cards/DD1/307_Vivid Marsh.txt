@@ -1,0 +1,1 @@
+﻿Vivid Marsh		uncommon	Land	307	B		Vivid Marsh enters the battlefield tapped with two charge counters on it.NEWLINET: Add B.NEWLINET, Remove a charge counter from Vivid Marsh: Add one mana of any color.			normal	DD1		!landslot

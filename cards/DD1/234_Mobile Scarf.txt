@@ -1,0 +1,1 @@
+﻿Mobile Scarf		rare	Artifact – Equipment 	234	U	2	Whenever Mobile Scarf becomes attached to a creature for the first time each turn, draw a card.NEWLINEEquipped creature can’t be blocked.NEWLINEEquip UU			normal	DD1		

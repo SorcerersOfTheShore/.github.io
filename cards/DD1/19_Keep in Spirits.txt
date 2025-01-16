@@ -1,0 +1,1 @@
+﻿Keep in Spirits	W	common	Sorcery	19	W	2W	Prepare each creature you control. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)			normal	DD1		

@@ -1,0 +1,1 @@
+﻿Reviver Seed		common	Artifact	237	B	1	B, Sacrifice Reviver Seed: Return target creature card from your graveyard to your hand. Activate only as a sorcery.NEWLINE2, Exile Reviver Seed from your graveyard: Draw a card.			normal	DD1		

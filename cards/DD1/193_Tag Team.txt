@@ -1,0 +1,1 @@
+﻿Tag Team	G	uncommon	Creature – Frog Insect Warrior 	193	G	3GG	Tag Team enters the battlefield with a +1/+1 counter on it.NEWLINECrafty – Remove a counter from Tag Team: Target creature has base power and toughness X/X until end of turn, where X is Tag Team’s power. Activate only once each turn and only as a sorcery.	4/4		normal	DD1		

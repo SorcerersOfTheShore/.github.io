@@ -1,0 +1,1 @@
+﻿Burst of Rage	R	common	Sorcery	127	R	2R	Gain control of target creature until end of turn and prepare it. That creature gains haste until end of turn. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)			normal	DD1		

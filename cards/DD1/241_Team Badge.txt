@@ -1,0 +1,1 @@
+﻿Team Badge		common	Artifact	241	C	3	When Team Badge enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)NEWLINET: Add one mana of any color.			normal	DD1		

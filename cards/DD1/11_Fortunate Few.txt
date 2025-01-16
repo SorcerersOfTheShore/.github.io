@@ -1,0 +1,1 @@
+﻿Fortunate Few	W	common	Creature – Bear Lizard Scout 	11	W	2W		2/2	Lifelink (This creature always has this ability.)NEWLINELevel up W (W: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 2-3] NEWLINE[level 4+] 	leveler	DD1		

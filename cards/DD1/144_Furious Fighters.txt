@@ -1,0 +1,1 @@
+﻿Furious Fighters	R	uncommon	Creature – Insect Lizard Beast Scout 	144	R	3R		4/2	Level up 2 (2: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 1-2] As long as it’s your turn, creatures you control have trample.NEWLINE[level 3+] As long as it’s your turn, creatures you control have first strike and trample.	leveler	DD1		

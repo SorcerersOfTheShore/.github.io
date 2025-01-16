@@ -1,0 +1,1 @@
+﻿Befuddled Psychic	U	common	Creature – Bird Wizard 	47	U	1U		2/3	Defender (This creature always has this ability.)NEWLINELevel up 2 (2: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 1-2] NEWLINE[level 3+] Befuddled Psychic can attack as though it didn’t have defender.	leveler	DD1		

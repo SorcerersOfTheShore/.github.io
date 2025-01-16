@@ -1,0 +1,1 @@
+﻿Toren, Prodigious Explorer	W	mythic	Legendary Creature – Jackal Scout 	41	W	W		2/1	(Add Toren’s level abilities cumulatively.)NEWLINEWhenever Toren, Prodigious Explorer attacks, put a level counter on it.NEWLINE[level 2+] First strikeNEWLINE[level 4+] VigilanceNEWLINEOther creatures you control get +1/+1.	leveler	DD1		

@@ -1,0 +1,1 @@
+﻿Novice Adventurers	W	common	Creature – Fox Turtle Scout 	28	W	1W	Level up 2 (2: Put a level counter on this. Level up only as a sorcery.)	2/2	NEWLINE[level 2-4] NEWLINE[level 5+] 	leveler	DD1		

@@ -1,0 +1,1 @@
+﻿Crafty Solution	G	rare	Enchantment	168	G	G	Change the text of spells and abilities you control by replacing each instance of “activate only once each turn” with “activate up to two times each turn.”			normal	DD1		

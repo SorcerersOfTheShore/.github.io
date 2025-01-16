@@ -1,0 +1,1 @@
+﻿Rock Smash	R	common	Sorcery	154	R	R	This spell costs 2 more to cast if it targets a nonartifact permanent.NEWLINEChoose one–NEWLINE• Destroy target artifact.NEWLINE• Destroy target nonbasic land.NEWLINE• Destroy target creature with defender.			normal	DD1		

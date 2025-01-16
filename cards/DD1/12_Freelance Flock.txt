@@ -1,0 +1,1 @@
+﻿Freelance Flock	W	common	Creature – Bird Scout 	12	W	4W		3/3	Flying (This creature always has this ability.)NEWLINELevel up 2 (2: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 2-3] NEWLINE[level 4+] 	leveler	DD1		

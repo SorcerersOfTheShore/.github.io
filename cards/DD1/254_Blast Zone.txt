@@ -1,0 +1,1 @@
+﻿Blast Zone		rare	Land	254	C		Blast Zone enters the battlefield with a charge counter on it.NEWLINET: Add C.NEWLINEXX, T: Put X charge counters on Blast Zone.NEWLINE3, T, Sacrifice Blast Zone: Destroy each nonland permanent with mana value equal to the number of charge counters on Blast Zone.			normal	DD1		!landslot

@@ -1,0 +1,1 @@
+﻿Vivid Meadow		uncommon	Land	308	W		Vivid Meadow enters the battlefield tapped with two charge counters on it.NEWLINET: Add W.NEWLINET, Remove a charge counter from Vivid Meadow: Add one mana of any color.			normal	DD1		!landslot

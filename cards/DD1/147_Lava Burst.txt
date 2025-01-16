@@ -1,0 +1,1 @@
+﻿Lava Burst	R	common	Sorcery	147	R	R	Lava Burst deals 2 damage to any target. If that target is a creature or planeswalker, you may remove a counter from it.			normal	DD1		

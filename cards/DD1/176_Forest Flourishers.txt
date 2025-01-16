@@ -1,0 +1,1 @@
+﻿Forest Flourishers	G	uncommon	Creature – Snake Druid 	176	G	3G	Landfall – Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)	3/4		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Luminous Orb		uncommon	Artifact	233	G	2	When Luminous Orb enters the battlefield, draw a card.NEWLINE1G, Sacrifice Luminous Orb: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.			normal	DD1		

@@ -1,0 +1,1 @@
+﻿Polluted Delta		rare	Land	292	C		T, Pay 1 life, Sacrifice Polluted Delta: Search your library for a Island or Swamp card, put it onto the battlefield, then shuffle.			normal	DD1		!landslot

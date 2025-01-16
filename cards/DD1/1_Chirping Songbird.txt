@@ -1,0 +1,1 @@
+﻿Chirping Songbird		uncommon	Creature – Bird 	1	C	4	FlyingNEWLINE4: Prepare target creature. Activate only as a sorcery. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)	2/2		normal	DD1		

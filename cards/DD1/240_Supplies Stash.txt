@@ -1,0 +1,1 @@
+﻿Supplies Stash		uncommon	Artifact	240	C	2	Supplies Stash enters the battlefield with three charge counters on it.NEWLINE2, T, Remove a charge counter from Supplies Stash: Prepare target creature. Activate only as a sorcery. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)			normal	DD1		

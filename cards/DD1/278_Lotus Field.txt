@@ -1,0 +1,1 @@
+﻿Lotus Field		mythic	Land	278	C		HexproofNEWLINELotus Field enters the battlefield tapped.NEWLINEWhen Lotus Field enters the battlefield, sacrifice two lands.NEWLINET: Add three mana of any one color.			normal	DD1		!landslot

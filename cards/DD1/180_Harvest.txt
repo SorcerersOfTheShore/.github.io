@@ -1,0 +1,1 @@
+﻿Harvest	G	common	Sorcery	180	G	G	Escalate 2 (Pay this cost for each mode chosen beyond the first.)NEWLINEChoose one or both–NEWLINE• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.NEWLINE• You may put a land card from your hand onto the battlefield tapped.			normal	DD1		

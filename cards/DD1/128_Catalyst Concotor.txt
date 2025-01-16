@@ -1,0 +1,1 @@
+﻿Catalyst Concotor	R	common	Creature – Fox Wizard 	128	R	3R	Whenever you cast a noncreature spell, put a +1/+1 counter on Catalyst Concotor.	3/3		normal	DD1		

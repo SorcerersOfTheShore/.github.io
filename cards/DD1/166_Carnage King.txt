@@ -1,0 +1,1 @@
+﻿Carnage King	G	rare	Creature – Dinosaur 	166	G	1GG		3/3	Level up 1 (1: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 1-2] TrampleNEWLINE[level 3+] Trample, hexproof	leveler	DD1		

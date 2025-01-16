@@ -1,0 +1,1 @@
+﻿Mutavault		rare	Land	287	C		T: Add C.NEWLINE1: Mutavault becomes a 2/2 creature with all creature types until end of turn. It’s still a land.			normal	DD1		!landslot

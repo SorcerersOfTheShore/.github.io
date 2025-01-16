@@ -1,0 +1,1 @@
+﻿Outlaw Hunter	R	uncommon	Creature – Lizard Warrior 	150	R	1RR	Whenever you cast a spell that targets Outlaw Hunter, it deals damage equal to its power to any target.	1/2		normal	DD1		

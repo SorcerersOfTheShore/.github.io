@@ -1,0 +1,1 @@
+﻿Coalition Scarf		rare	Artifact – Equipment 	221	W	2	Whenever Coalition Scarf becomes attached to a creature for the first time each turn, draw a card.NEWLINEWhenever equipped creature attacks, creatures you control get +1/+1.NEWLINEEquip WW			normal	DD1		

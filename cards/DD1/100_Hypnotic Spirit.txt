@@ -1,0 +1,1 @@
+﻿Hypnotic Spirit	B	rare	Creature – Spirit Rogue 	100	B	3B	Hypnotic Spirit enters the battlefield with a +1/+1 counter on it.NEWLINEWhenever an opponent discards a land card, put a +1/+1 counter on Hypnotic Spirit.NEWLINECrafty – Remove a counter from Hypnotic Spirit: Target player discards a card. Activate only once each turn and only as a sorcery.	1/1		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Ancient Ziggurat		rare	Land	251	C		T: Add one mana of any color. Spend this mana only to cast a creature spell.			normal	DD1		!landslot

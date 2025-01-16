@@ -1,0 +1,1 @@
+﻿Protect Charge	W	common	Instant	31	W	1W	Target creature gains indestructible until end of turn.NEWLINEProliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)			normal	DD1		

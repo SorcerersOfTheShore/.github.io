@@ -1,0 +1,1 @@
+﻿Tectonic Forger	R	uncommon	Creature – Camel Rogue 	158	R	4RR	TrampleNEWLINESabotage – Whenever Tectonic Forger deals combat damage to a player or planeswalker, you may cast an instant or sorcery card from your hand without paying its mana cost.	6/4		normal	DD1		

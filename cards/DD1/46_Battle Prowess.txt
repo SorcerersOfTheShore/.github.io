@@ -1,0 +1,1 @@
+﻿Battle Prowess	U	common	Enchantment – Aura 	46	U	1U	Enchant creatureNEWLINEAs long as you control enchanted creature, it has vigilance. Otherwise it doesn’t untap during its controller’s untap step.			normal	DD1		

@@ -1,0 +1,1 @@
+﻿Arcana Chasers	U	uncommon	Creature – Bird Dinosaur Cat Scout 	44	U	2U		3/2	Level up 3 (3: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 1] Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)NEWLINE[level 2+] Flying, prowessNEWLINENoncreature spells you cast cost 1 less to cast.	leveler	DD1		

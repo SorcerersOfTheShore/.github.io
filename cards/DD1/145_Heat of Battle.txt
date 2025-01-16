@@ -1,0 +1,1 @@
+﻿Heat of Battle	R	uncommon	Sorcery	145	R	1R	Repeat the following process three times. Choose target creature. If you control that creature, it gets +1/+0 and gains trample until end of turn. Otherwise, Heat of Battle deals 1 damage to it.			normal	DD1		

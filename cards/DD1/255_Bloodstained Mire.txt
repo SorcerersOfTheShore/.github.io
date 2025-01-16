@@ -1,0 +1,1 @@
+﻿Bloodstained Mire		rare	Land	255	C		T, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.			normal	DD1		!landslot

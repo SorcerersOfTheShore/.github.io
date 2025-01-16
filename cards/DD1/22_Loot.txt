@@ -1,0 +1,1 @@
+﻿Loot	W	common	Sorcery	22	W	1W	Escalate 1 (Pay this cost for each mode chosen beyond the first.)NEWLINEChoose one or both–NEWLINE• Destroy target artifact or enchantment.NEWLINE• Prepare target creature. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)			normal	DD1		

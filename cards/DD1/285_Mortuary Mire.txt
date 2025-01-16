@@ -1,0 +1,1 @@
+﻿Mortuary Mire		uncommon	Land	285	B		Mortuary Mire enters the battlefield tapped.NEWLINEWhen Mortuary Mire enters the battlefield, you may put target creature card from your graveyard on top of your library.NEWLINET: Add B.			normal	DD1		!landslot

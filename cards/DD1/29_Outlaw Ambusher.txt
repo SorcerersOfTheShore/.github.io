@@ -1,0 +1,1 @@
+﻿Outlaw Ambusher	W	common	Creature – Lizard Scout 	29	W	3W	W: Outlaw Ambusher gains first strike until end of turn. This ability costs 3 more to activate if it’s not your turn.	4/2		normal	DD1		

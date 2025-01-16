@@ -1,0 +1,1 @@
+﻿Geist, Deed-Doer	UB	uncommon	Legendary Creature – Spirit Rogue Assassin 	207	UB	3UB	Creatures you control can’t be blocked by creatures with greater power.NEWLINEWhenever one or more creatures you control deal combat damage to an opponent, target creature that player controls gets -X/-X until end of turn, where X is the amount of damage dealt this way.	3/5		normal	DD1		

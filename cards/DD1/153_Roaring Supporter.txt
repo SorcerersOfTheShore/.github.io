@@ -1,0 +1,1 @@
+﻿Roaring Supporter	R	rare	Creature – Cat Warrior Scout 	153	R	2RR		2/4	Whenever Roaring Supporter attacks, target attacking creature gets +X/+0 until end of turn, where X is Roaring Supporter’s power. (This creature always has this ability.)NEWLINELevel up 1RNEWLINE[level 2-3] NEWLINE[level 4+] Trample	leveler	DD1		

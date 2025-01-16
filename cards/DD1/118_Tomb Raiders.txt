@@ -1,0 +1,1 @@
+﻿Tomb Raiders	B	common	Creature – Spirit Soldier Scout 	118	B	1B	When Tomb Raiders enters the battlefield, you may sacrifice a nonenchantment permanent. If you do, draw a card.	2/2		normal	DD1		

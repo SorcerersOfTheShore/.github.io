@@ -1,0 +1,1 @@
+﻿Beacon Peak		rare	Legendary Land	244	U		Beacon Peak enters the battlefield tapped.NEWLINELevel up U (U: Put a level counter on this. Level up only as a sorcery.)		Beacon Peak enters the battlefield tapped.NEWLINET: Add U.NEWLINELevel up U (U: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 5+] T: Draw a card.NEWLINE	leveler	DD1		

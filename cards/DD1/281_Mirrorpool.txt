@@ -1,0 +1,1 @@
+﻿Mirrorpool		mythic	Land	281	C		Mirrorpool enters the battlefield tapped.NEWLINET: Add C.NEWLINE2C, T, Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy.NEWLINE4C, T, Sacrifice Mirrorpool: Create a token that’s a copy of target creature you control.			normal	DD1		!landslot

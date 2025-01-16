@@ -1,0 +1,1 @@
+﻿Ancient Tomb		mythic	Land	250	C		T: Add CC. Ancient Tomb deals 2 damage to you.			normal	DD1		!landslot

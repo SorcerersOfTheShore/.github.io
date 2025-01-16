@@ -1,0 +1,1 @@
+﻿Dash Through	R	common	Instant	132	R	R	Escalate 1 (Pay this cost for each mode chosen beyond the first.)NEWLINEChoose one or more–NEWLINE• Target creature can’t block this turn.NEWLINE• Target creature gets +2/+0 until end of turn.NEWLINE• Draw a card.			normal	DD1		

@@ -1,0 +1,1 @@
+﻿Fungal Reaches		uncommon	Land	271	RG		T: Add C.NEWLINE1, T: Put a storage counter on Fungal Reaches.NEWLINE1, Remove X storage counters from Fungal Reaches: Add X mana in any combination of R and/or G.			normal	DD1		!landslot

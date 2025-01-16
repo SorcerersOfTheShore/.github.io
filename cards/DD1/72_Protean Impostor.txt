@@ -1,0 +1,1 @@
+﻿Protean Impostor	U	rare	Creature – Shapeshifter 	72	U	1U		1/1	You may have Protean Impostor enter the battlefield as a copy of another creature you control, except it has Protean Impostor’s other abilities, and its power and toughness are equal to Protean Impostor’s power and toughness.NEWLINELevel up 1UNEWLINE[level 2-3] Ward 2NEWLINE[level 4+] Hexproof	leveler	DD1		

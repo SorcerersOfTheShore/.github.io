@@ -1,0 +1,1 @@
+﻿Encourage Seed		common	Artifact	223	G	1	G, Sacrifice Encourage Seed: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.NEWLINE2, Exile Encourage Seed from your graveyard: Draw a card.			normal	DD1		

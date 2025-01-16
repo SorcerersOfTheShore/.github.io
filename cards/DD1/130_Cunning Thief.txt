@@ -1,0 +1,1 @@
+﻿Cunning Thief	R	common	Creature – Wolf Rogue 	130	R	1R	Sabotage – Whenever Cunning Thief deals combat damage to a player or planeswalker, exile the top card of your library. You may play that card this turn.	2/2		normal	DD1		

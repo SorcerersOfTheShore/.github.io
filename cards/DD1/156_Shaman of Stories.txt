@@ -1,0 +1,1 @@
+﻿Shaman of Stories	R	rare	Creature – Jackal Shaman 	156	R	2R	Whenever you cast a spell from your hand that targets Shaman of Stories, exile that spell as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.	3/2		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Soul Husk	B	rare	Creature – Insect Spirit 	115	B	B		1/1	Flying, protection from blue and from red (This creature always has these abilities.)NEWLINELevel up 2NEWLINE[level 2-3] DeathtouchNEWLINE[level 4+] First strike, deathtouch	leveler	DD1		

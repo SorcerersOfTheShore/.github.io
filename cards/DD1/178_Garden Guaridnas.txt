@@ -1,0 +1,1 @@
+﻿Garden Guaridnas	G	common	Creature – Plant Fish Druid 	178	G	G	Garden Guaridnas enters the battlefield with a +1/+1 counter on it.NEWLINECrafty – Remove a counter from Garden Guaridnas: Add G. Activate only once each turn and only as a sorcery.	0/1		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Shade Router	U	common	Creature – Bear Rogue 	78	U	1U	2U: Target creature can’t be blocked this turn.	1/3		normal	DD1		

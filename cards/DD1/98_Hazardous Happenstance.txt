@@ -1,0 +1,1 @@
+﻿Hazardous Happenstance	B	common	Instant	98	B	2B	Destroy target creature with two or fewer counters on it.			normal	DD1		

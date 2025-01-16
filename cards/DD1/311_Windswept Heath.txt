@@ -1,0 +1,1 @@
+﻿Windswept Heath		rare	Land	311	C		T, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.			normal	DD1		!landslot

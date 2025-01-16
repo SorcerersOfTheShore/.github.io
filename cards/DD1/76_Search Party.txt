@@ -1,0 +1,1 @@
+﻿Search Party	U	uncommon	Creature – Fox Salamander Scout 	76	U	3U		3/4	Level up U (U: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 1-2] 1U: Draw a card. Activate only once each turn and only as a sorcery.NEWLINE[level 3+] 0: Draw a card. Activate only once each turn and only as a sorcery.	leveler	DD1		

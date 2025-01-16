@@ -1,0 +1,1 @@
+﻿Plaza of Heroes		mythic	Land	291	C		T: Add C.NEWLINET: Add one mana of any color. Spend this mana only to cast a legendary spell.NEWLINET: Add one mana of any color among legendary permanents you control.NEWLINE3, T, Exile Plaza of Heroes: Target legendary creature gains hexproof and indestructible until end of turn.			normal	DD1		!landslot

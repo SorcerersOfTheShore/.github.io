@@ -1,0 +1,1 @@
+﻿Garde's Influence	U	uncommon	Enchantment	61	U	2U	When Garde’s Influence enters the battlefield, put a flying counter on target creature you control.NEWLINEEach creature you control with two or more instances of flying can’t be blocked.NEWLINE1U: Move a flying counter from target creature you control onto another target creature. Activate only as a sorcery.			normal	DD1		

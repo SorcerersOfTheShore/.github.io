@@ -1,0 +1,1 @@
+﻿Cavern Coiler		uncommon	Artifact Creature – Snake 	220	C	10	This spell costs 1 less to cast for each card in your graveyard.NEWLINEMenace	6/6		normal	DD1		

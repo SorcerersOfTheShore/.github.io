@@ -1,0 +1,1 @@
+﻿Emerge from the Caverns	B	uncommon	Sorcery	92	B	2BB	When Emerge from the Caverns is put into your graveyard from your library, you may return it from your graveyard to your hand.NEWLINEReturn target creature card from your graveyard to the battlefield.			normal	DD1		

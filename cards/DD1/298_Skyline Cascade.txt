@@ -1,0 +1,1 @@
+﻿Skyline Cascade		uncommon	Land	298	U		Skyline Cascade enters the battlefield tapped.NEWLINEWhen Skyline Cascade enters the battlefield, target creature an opponent controls doesn’t untap during its controller’s next untap step.NEWLINET: Add U.			normal	DD1		!landslot

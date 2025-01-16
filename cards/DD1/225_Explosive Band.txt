@@ -1,0 +1,1 @@
+﻿Explosive Band		rare	Artifact – Equipment 	225	R	2	Whenever Explosive Band becomes attached to a creature for the first time each turn, draw a card.NEWLINEWhenever equipped creature is dealt damage, it deals that much damage to any target.NEWLINEEquip RR			normal	DD1		

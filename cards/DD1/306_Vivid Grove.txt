@@ -1,0 +1,1 @@
+﻿Vivid Grove		uncommon	Land	306	G		Vivid Grove enters the battlefield tapped with two charge counters on it.NEWLINET: Add G.NEWLINET, Remove a charge counter from Vivid Grove: Add one mana of any color.			normal	DD1		!landslot

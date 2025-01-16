@@ -1,0 +1,1 @@
+﻿Possibility Processor		rare	Creature – Beast Spirit 	3	C	2	Ward 2NEWLINEWhenever you choose one or more modes for a spell or ability, put a +1/+1 counter on Possibility Processor for each time you chose a mode for that spell.	2/2		normal	DD1		

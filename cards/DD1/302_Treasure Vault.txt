@@ -1,0 +1,1 @@
+﻿Treasure Vault		rare	Artifact Land	302	C		T: Add C.NEWLINEXX, T, Sacrifice Treasure Vault: Create X Treasure tokens. (They’re artifacts with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	DD1		!landslot

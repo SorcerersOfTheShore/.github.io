@@ -1,0 +1,1 @@
+﻿Blaze of Hope	R	common	Instant	124	R	1R	Target creature you control gets +2/+0 until end of turn. Other creatures you control get +1/+0 until end of turn.			normal	DD1		

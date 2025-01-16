@@ -1,0 +1,1 @@
+﻿Field of the Dead		mythic	Land	268	C		Field of the Dead enters the battlefield tapped.NEWLINET: Add C.NEWLINEWhenever Field of the Dead or another land enters the battlefield under your control, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.			normal	DD1		!landslot

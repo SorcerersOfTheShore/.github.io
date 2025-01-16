@@ -1,0 +1,1 @@
+﻿Flare Beast	R	common	Creature – Elemental Beast 	143	R	1R	TrampleNEWLINEWhenever you cast a spell that targets Flare Beast, put a +1/+1 counter on it.	2/1		normal	DD1		

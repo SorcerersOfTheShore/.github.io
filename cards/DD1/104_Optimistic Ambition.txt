@@ -1,0 +1,1 @@
+﻿Optimistic Ambition	B	common	Instant	104	B	B	Until end of turn, target creature gains “When this creature dies, return it to the battlefield tapped under its owner’s control, then prepare it.” (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)			normal	DD1		

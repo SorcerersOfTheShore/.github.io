@@ -1,0 +1,1 @@
+﻿Saltcrusted Steppe		uncommon	Land	294	WG		T: Add C.NEWLINE1, T: Put a storage counter on Saltcrusted Steppe.NEWLINE1, Remove X storage counters from Saltcrusted Steppe: Add X mana in any combination of G and/or W.			normal	DD1		!landslot

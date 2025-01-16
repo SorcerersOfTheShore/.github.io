@@ -1,0 +1,1 @@
+﻿Amiable Collaboration	W	uncommon	Sorcery	5	W	W	Escalate 2 (Pay this cost for each mode chosen beyond the first.)NEWLINEChoose one or more–NEWLINE• Create a 1/1 white Scout creature token.NEWLINE• Prepare a creature you control. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)NEWLINE• Scry 2.NEWLINE• You gain 4 life.			normal	DD1		

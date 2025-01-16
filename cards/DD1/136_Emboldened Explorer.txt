@@ -1,0 +1,1 @@
+﻿Emboldened Explorer	R	common	Creature – Beast Scout Warrior 	136	R	5R		6/5	Level up R (R: Put a level counter on this. Level up only as a sorcery.)NEWLINE[level 1-4] MenaceNEWLINE[level 5+] Menace	leveler	DD1		

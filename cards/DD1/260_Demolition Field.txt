@@ -1,0 +1,1 @@
+﻿Demolition Field		uncommon	Land	260	C		T: Add C.NEWLINE2, T, Sacrifice Demolition Field: Destroy target nonbasic land an opponent controls. That land’s controller may search their library for a basic land card, put it onto the battlefield, then shuffle. You may search your library for a basic land card, put it onto the battlefield, then shuffle.			normal	DD1		!landslot

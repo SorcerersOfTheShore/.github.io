@@ -1,0 +1,1 @@
+﻿Counteract	U	uncommon	Instant	55	U	1UU	Choose one–NEWLINE• Counter target spell.NEWLINE• Return target nonland permanent to its owner’s hand.			normal	DD1		

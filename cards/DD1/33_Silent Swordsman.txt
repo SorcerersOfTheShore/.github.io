@@ -1,0 +1,1 @@
+﻿Silent Swordsman	W	common	Creature – Insect Warrior 	33	W	W	2W: Silent Swordsman gains double strike until end of turn.	1/2		normal	DD1		

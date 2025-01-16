@@ -1,0 +1,1 @@
+﻿Fresh Recruits	W	rare	Creature – Plant Dinosaur Mouse Scout 	13	W	W		1/1	Level up 2NEWLINE[level 1] VigilanceNEWLINE[level 2] First strike, vigilanceNEWLINE[level 3+] First strike, vigilance, lifelink	leveler	DD1		

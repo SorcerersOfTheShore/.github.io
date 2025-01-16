@@ -1,0 +1,1 @@
+﻿Arcane Thief	U	uncommon	Creature – Cat Rogue 	45	U	3UU	Sabotage – Whenever Arcane Thief deals combat damage to a player or planeswalker, you may return up to one target instant or sorcery card from your graveyard to your hand.	3/5		normal	DD1		

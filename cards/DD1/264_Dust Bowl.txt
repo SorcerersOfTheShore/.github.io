@@ -1,0 +1,1 @@
+﻿Dust Bowl		mythic	Land	264	C		T: Add C.NEWLINE3, T, Sacrifice a land: Destroy target nonbasic land.			normal	DD1		!landslot

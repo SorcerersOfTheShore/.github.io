@@ -1,0 +1,1 @@
+﻿Hellion Crucible		rare	Land	274	R		T: Add C.NEWLINE1R, T: Put a pressure counter on Hellion Crucible.NEWLINE1R, T, Remove two pressure counters from Hellion Crucible and sacrifice it: Create a 4/4 red Hellion creature token with haste.			normal	DD1		!landslot

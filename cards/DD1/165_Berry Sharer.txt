@@ -1,0 +1,1 @@
+﻿Berry Sharer	G	common	Creature – Crocodile 	165	G	1G	When Berry Sharer enters the battlefield, choose one–NEWLINE• Prepare target creature. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)NEWLINE• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)	1/1		normal	DD1		

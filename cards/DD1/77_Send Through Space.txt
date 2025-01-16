@@ -1,0 +1,1 @@
+﻿Send Through Space	U	rare	Instant	77	U	XUU	You may put a nonland permanent card with mana value X or less from your hand, from exile, or from outside the game onto the battlefield.			normal	DD1		

@@ -1,0 +1,1 @@
+﻿Slinking Sneak	U	common	Creature – Cat Rogue 	80	U	2U	Sabotage – Whenever Slinking Sneak deals combat damage to a player or planeswalker, draw a card.	3/2		normal	DD1		

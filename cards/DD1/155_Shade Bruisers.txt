@@ -1,0 +1,1 @@
+﻿Shade Bruisers	R	common	Creature – Beast Rogue 	155	R	2R	Sabotage – Whenever Shade Bruisers deals combat damage to a player or planeswalker, it deals that much damage to each opponent.	2/3		normal	DD1		

@@ -1,0 +1,1 @@
+﻿Stun Seed		common	Artifact	239	U	1	U, Sacrifice Stun Seed: Tap target creature. It doesn’t untap during its controller’s next untap step. Activate only as a sorcery.NEWLINE2, Exile Stun Seed from your graveyard: Draw a card.			normal	DD1		

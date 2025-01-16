@@ -1,0 +1,1 @@
+﻿Expeditious Wanderer	G	common	Creature – Plant Dinosaur Scout 	175	G	3G	ReachNEWLINEWhen Expeditious Wanderer enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)	3/3		normal	DD1		

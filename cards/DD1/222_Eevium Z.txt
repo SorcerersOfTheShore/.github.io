@@ -1,0 +1,1 @@
+﻿Eevium Z		rare	Legendary Artifact – Equipment 	222	WUBRG	3	Whenever equipped creature attacks, prepare it once for each of its colors. (If it’s a leveler, put a level counter on it. Otherwise, put a +1/+1 counter on it.)NEWLINEAs long as equipped creature is named Jacob, Memory Seeker, it is all colors.NEWLINEEquip 2			normal	DD1		

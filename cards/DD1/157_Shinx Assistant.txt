@@ -1,0 +1,1 @@
+﻿Shinx Assistant	R	common	Creature – Cat Scout 	157	R	1R	The first noncreature spell you cast each turn costs 1 less to cast.	1/3		normal	DD1		

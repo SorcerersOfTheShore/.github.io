@@ -1,0 +1,1 @@
+﻿Guild Medic	W	common	Creature – Otter Cleric 	14	W	2W	Whenever one or more counters are put on a creature you control, you gain 1 life and scry 1. This ability triggers only once each turn.	2/3		normal	DD1		

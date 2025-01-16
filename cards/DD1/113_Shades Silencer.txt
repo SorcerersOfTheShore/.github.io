@@ -1,0 +1,1 @@
+﻿Shade's Silencer	B	rare	Creature – Frog Rogue Assassin 	113	B	2B	Deathtouch, hasteNEWLINESabotage – Whenever Shade’s Silencer deals combat damage to a player or planeswalker, that player or planeswalker’s controller gets two poison counters. (A player with ten or more poison counters loses the game.)	1/3		normal	DD1		
