@@ -1,0 +1,1 @@
+﻿Dark Confidant	B	rare	Creature – Human Wizard 	271	B	1B	At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.	2/1		normal	EH1		!landslot

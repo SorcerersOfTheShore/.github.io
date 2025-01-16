@@ -1,0 +1,1 @@
+﻿Multi-Manufacturer	U	uncommon	Artifact Creature – Artificer 	53	U	4U	When Multi-Manufacturer enters the battlefield, create a token that’s a copy of target non-Artificer artifact you control.NEWLINEChannel – 2U, Discard Multi-Manufacturer: Create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.”	2/2		normal	EH1		

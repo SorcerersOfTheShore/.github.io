@@ -1,0 +1,1 @@
+﻿Eldrazi Envisioner		common	Creature – Eldrazi 	41	U	1U	Devoid (This card has no color.)NEWLINEWhen Eldrazi Envisioner enters the battlefield, you may pay 8. If you do, draw four cards. Otherwise, draw a card.	1/1		normal	EH1		

@@ -1,0 +1,1 @@
+﻿Eldrazi Communer		common	Creature – Eldrazi 	8	W	1W	Devoid (This card has no color.)NEWLINEWhen Eldrazi Communer enters the battlefield, you may pay 8. If you do, create eight 1/1 colorless Eldrazi Scion creature tokens. They have “Sacrifice this creature: Add C.” Otherwise, create one of those tokens.	1/1		normal	EH1		

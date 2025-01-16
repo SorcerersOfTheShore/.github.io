@@ -1,0 +1,1 @@
+﻿Paradoxical Domain	U	rare	Sorcery	56	U		Surge 2UU (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)NEWLINEGain control of target nonbasic permanent.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Enlightened Tutor	W	rare	Instnat	251	W	W	Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.			normal	EH1		!landslot

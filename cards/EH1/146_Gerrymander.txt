@@ -1,0 +1,1 @@
+﻿Gerrymander	G	uncommon	Sorcery	146	G	1G	Search target opponent’s library for a land card and put that card onto the battlefield tapped under your control. Then that player shuffles.			normal	EH1		

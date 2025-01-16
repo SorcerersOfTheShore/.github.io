@@ -1,0 +1,1 @@
+﻿Progenitus	WUBRG	mythic	Creature – Hydra Avatar 	303	WUBRG	WWUUBBRRGG	Protection from everythingNEWLINEIf Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner’s library instead.	10/10		normal	EH1		!landslot

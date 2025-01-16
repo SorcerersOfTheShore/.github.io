@@ -1,0 +1,1 @@
+﻿Glissa's Intervention	G	common	Instant	148	G	G	Destroy target artifact or enchantment. Its controller gains life equal to its mana value.			normal	EH1		

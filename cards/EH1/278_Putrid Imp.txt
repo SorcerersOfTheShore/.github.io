@@ -1,0 +1,1 @@
+﻿Putrid Imp	B	uncommon	Creature – Zombie Imp 	278	B	B	Discard a card: Putrid Imp gains flying until end of turn.NEWLINEThreshold – As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can’t block.	1/1		normal	EH1		!landslot

@@ -1,0 +1,1 @@
+﻿Magus of the Bond	G	rare	Creature – Human Wizard 	152	G	G	You may play any number of lands on each of your turns.NEWLINEWhenever you play a land, if it wasn’t the first land you played this turn, you lose 1 life.	1/1		normal	EH1		

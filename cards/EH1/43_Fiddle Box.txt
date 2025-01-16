@@ -1,0 +1,1 @@
+﻿Fiddle Box	U	common	Artifact	43	U	1U	T: Untap target nonland permanent not named Fiddle Box.			normal	EH1		

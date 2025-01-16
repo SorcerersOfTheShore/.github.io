@@ -1,0 +1,1 @@
+﻿Wheel of Chance	BR	rare	Sorcery	185	BR	2BR	Each player discards their hand, then draws cards equal to the highest mana value among cards they discarded this way.			normal	EH1		

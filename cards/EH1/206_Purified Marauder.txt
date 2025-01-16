@@ -1,0 +1,1 @@
+﻿Purified Marauder		common	Artifact Creature – Construct 	206	C	X	Purified Marauder enters the battlefield with X +1/+1 counters on it.	0/0		normal	EH1		

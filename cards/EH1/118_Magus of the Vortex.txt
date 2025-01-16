@@ -1,0 +1,1 @@
+﻿Magus of the Vortex	R	rare	Creature – Human Wizard 	118	R	1RR	At the beginning of each player’s upkeep, Magus of the Vortex deals 2 damage to that player.NEWLINEIf a player would gain life, that player gains no life instead.	3/3		normal	EH1		

@@ -1,0 +1,1 @@
+﻿Tormenting Peaks		common	Land – Mountain 	244	R		(T: Add R.)NEWLINETormenting Peaks enters the battlefield tapped.NEWLINE1R, T, Sacrifice Tormenting Peaks, Discard a card: Draw two cards. Activate only as a sorcery.			normal	EH1		

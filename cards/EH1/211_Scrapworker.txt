@@ -1,0 +1,1 @@
+﻿Scrapworker		uncommon	Artifact Creature – Assembly-Worker 	211	C	3	T: Reveal any number of artifact cards in your hand. Add C plus an additional C for each card revealed this way.	2/3		normal	EH1		

@@ -1,0 +1,1 @@
+﻿Starlit Badlands		common	Land – Swamp Mountain 	233	C		(T: Add B or R.)NEWLINEStarlit Badlands enters the battlefield tapped unless your starting deck had fifty or fewer cards in it.			normal	EH1		

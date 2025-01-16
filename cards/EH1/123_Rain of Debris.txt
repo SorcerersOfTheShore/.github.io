@@ -1,0 +1,1 @@
+﻿Rain of Debris	R	common	Sorcery	123	R	1R	This spell costs 2 more to cast if it targets a basic land.NEWLINEDestroy target artifact or land.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Power of Nature	G	mythic	Instant	295	G	G	Double the amount of each type NEWLINEof unspent mana you have.			normal	EH1		Power

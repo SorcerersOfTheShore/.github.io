@@ -1,0 +1,1 @@
+﻿Consideration Mage	U	common	Creature – Human Wizard 	39	U	U	When Consideration Mage enters the battlefield, you may cast a copy of a card named Consider. (You still pay its costs. Timing rules do not apply. It’s an instant that costs U. It has “Surveil 1. Draw a card.”)	1/1		normal	EH1		Garth

@@ -1,0 +1,1 @@
+﻿Mana Crypt		mythic	Artifact	307	C	0	At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.NEWLINET: Add CC.			normal	EH1		!landslot

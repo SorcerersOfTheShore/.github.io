@@ -1,0 +1,1 @@
+﻿Light Up the Stage	R	uncommon	Sorcery	284	R	2R	Spectacle R (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)NEWLINEExile the top two cards of your library. Until the end of your next turn, you may play those cards.			normal	EH1		!landslot

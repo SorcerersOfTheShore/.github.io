@@ -1,0 +1,1 @@
+﻿Mishra's Manufactory		rare	Land	222	C		T: Add C for each artifact you control. Spend this mana only to cast artifact spells.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Renormalize	U	rare	Sorcery	58	U	3UU	Each player shuffles all permanents they control, all cards in their graveyard, all cards in their hand, and all cards they own in exile into their library, then draws seven cards. Empty all mana pools. Exile Renormalize.			normal	EH1		

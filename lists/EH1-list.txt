@@ -1,0 +1,360 @@
+34_Utter Equilibrium
+52_Millie, Prodigal Clockmage
+101_Yawgmoth
+103_Chandra, Incandescent
+147_Glissa, the Hero
+247_Armageddon
+261_Jace, the Mind Sculptor
+269_Archon of Cruelty
+282_Kiki-Jiki, Mirror Breaker
+291_Channel
+248_Elesh Norn, Grand Cenobite
+263_Power of Mind
+273_Doomsday
+286_Past in Flames
+295_Power of Nature
+254_Power of Light
+268_Urza, Lord High Artificer
+277_Power of Darkness
+287_Power of Passion
+301_Worldspine Wurm
+12_Gideon, Multiverse's Ally
+42_Embodiment of Arcana
+69_Arrival of the Phyrexians
+107_Daretti, Crazed Cogsmith
+145_Freyalise's Will
+15_Magus of the Tax
+46_The Gearwork Clock
+71_Cacophony, God of Cities
+109_Elder Pyromancer
+152_Magus of the Bond
+20_Paradoxical Herald
+49_Magus of the Typhoon
+87_Magus of the Blossom
+118_Magus of the Vortex
+157_Paradoxical Evolution
+23_Segovian Summoning
+56_Paradoxical Domain
+91_Paradoxical Ambusher
+119_Pallel Outbreak
+162_Storied Giant
+32_Theran Peacekeeper
+58_Renormalize
+95_Sheoldred of the New Invasion
+120_Paradoxical Fluxuation
+165_Wrenn and Nine
+36_Weave
+62_Teferi, Scion of Time
+96_Sorin, Life's Shadow
+132_Slobad and Bosh
+292_Garruk Wildspeaker
+249_Elite Spellbinder
+260_Frost Titan
+270_Bolas's Citadel
+280_Gamble
+294_Natural Order
+250_Elspeth, Knight-Errant
+262_Mystical Tutor
+271_Dark Confidant
+281_Inferno Titan
+296_Primeval Titan
+251_Enlightened Tutor
+264_Snapcaster Mage
+275_Grave Titan
+283_Koth of the Hammer
+299_Tireless Tracker
+255_Sun Titan
+265_Tezzeret the Seeker
+276_Liliana, Death's Majesty
+288_Seasoned Pyromancer
+300_Worldly Tutor
+257_Wrath of God
+266_Tinker
+279_Vampiric Tutor
+289_Sneak Attack
+138_Colossal Genesis
+5_Disciple of the Dawn
+37_All In
+73_Cut from the Source
+102_Automated Inferno
+141_Druidic Oath
+11_Evangel of Rebirth
+44_Flight Engineer
+74_Decayed Remnant
+111_Explosive Charm
+146_Gerrymander
+13_Glimmerguff
+45_Force of Inertia
+76_Dissenter
+113_Fiery Outbreak
+149_Gnaw
+16_Metallic Genesis
+48_Invoke the Past
+78_Dying
+114_Goblin Rocketeer
+151_Inner Beast
+17_Muster Support
+50_Master Maniac
+79_Echo of the Past
+115_Ionic Atmosphere
+153_Manabound Symbiote
+24_Serran Armor
+53_Multi-Manufacturer
+82_Gravedigger's Consultation
+116_Kiran Nalaar
+154_Monster of the Underground
+26_Spirit of the Armory
+60_Set to the Start
+84_Iterative Inventor
+122_Pyre Fiend
+158_Regrowing Hydra
+28_Steel Oversoul
+61_Sphinx of the Solemn Chamber
+93_Phyrexian Culling
+125_Rig the Reaction
+159_Rofellos, Yavimaya's Avatar
+29_Stoneforged Simulacrum
+64_Tidal Mage
+97_Tinybones, Intelligence Raider
+128_Secret Weapon
+160_Skemfar Hermit
+31_Thalia, Guardian of Worlds
+67_Venser the Restorer
+98_Unearthed Awakener
+129_Segovian Dragon
+223_Overlaid Arbor
+33_Trostani's Grasp
+258_Brainstorm
+272_Dark Ritual
+133_Surge Titan
+293_Llanowar Elves
+252_Ephemerate
+259_Counterspell
+274_Exhume
+284_Light Up the Stage
+297_Rancor
+253_Porcelain Legionnaire
+267_Trinket Mage
+278_Putrid Imp
+285_Lightning Bolt
+298_Reclamation Sage
+256_Swords to Plowshares
+38_Chromatic Visions
+70_Azra Necromancer
+290_Young Pyromancer
+135_Carnage Colossus
+4_Chromatic Boon
+39_Consideration Mage
+72_Chromatic Salvage
+104_Chaos Sledge
+136_Chaotic Dreadmaw
+6_Disenchantment Priest
+40_Crossland Transport
+75_Deideation
+105_Chromatic Storm
+137_Chromatic Voyage
+7_Distinguished Bladesmith
+43_Fiddle Box
+77_Duressing Spy
+106_Conscripted Battle-Chair
+139_Cropspinner Druid
+9_Eminent Domain
+47_Gitaxian Advancement
+80_Eidolon of the Waning Moon
+108_Disciple of Keral Keep
+140_Drill Deep
+10_Esper Innovator
+51_Mechanized Legion
+85_Life Debt
+112_Faithless Rummaging
+143_Elvish Conduit
+14_Lieutenant of Bladehold
+54_Myr Conduit
+86_Macabre Militia
+117_Lava Elemental
+144_Elvish Shineseeker
+18_Myr Liberator
+55_Paradox Elemental
+88_Mortapiller
+121_Possibility Outbreak
+148_Glissa's Intervention
+19_Myr Signaler
+57_Reason of Insanity
+90_Orzhov Automaton
+123_Rain of Debris
+150_Golgari Growthmage
+21_Resourceful Officer
+59_Salvage Search
+92_Phyrexian Consumption
+124_Rift Anomaly
+155_Monstrous Outbreak
+22_Rift Containment
+63_Thundering Flock
+94_Phyrexian Gearhulk
+126_Rubble Rummager
+156_Outlands Taskmaster
+25_Soulblade Samurai
+65_Tooth Snatcher
+99_Untold Secrets
+127_Scrap Golem
+161_Spawning Spider
+27_Spiritual Awakening
+66_Treasured Thoughts
+e
+130_Shard Golem
+163_Terraformed Elemental
+30_Symbiotic Skeleton
+68_Disperse
+e
+131_Siege Titan
+164_Triumph of the Monstrous
+35_Warrior's Blade
+e
+e
+134_Vial of Catalyst
+e
+er
+er
+er
+er
+er
+168_Astral Prison
+179_Nightmarish Revelation
+185_Wheel of Chance
+187_Xenagos Unleashed
+172_Elvish Innovator
+177_﻿Myr Drafter
+183_Sphinx of the Unsolvable Riddle
+171_Burst from Below
+176_Maelstrom Scion
+173_Esika's Blessing
+er
+er
+er
+er
+er
+174_Evict
+175_Grozoth, Titan of Plague's Reach
+186_Worldbond
+302_Dack Fayden
+170_Boros Exemplar
+180_Nyxborn Seraph
+184_Undercity Renewal
+e
+166_Activation Chain
+169_Augmenter-Guardian
+e
+e
+e
+181_Perfect Storm
+e
+er
+er
+er
+er
+er
+178_Nicol Bolas, Power Perfected
+182_Ramaz, Agent of Chaos
+303_Progenitus
+e
+e
+er
+er
+er
+er
+er
+2_Karn Compleated
+189_Bleeding Lotus
+245_Emrakul, the Aeons Torn
+246_Rise of the Eldrazi
+307_Mana Crypt
+1_Defiler of Logic
+167_Arrival of the Eldrazi
+190_Blightsteel Mox
+192_Filigree Lotus
+196_Mox Bismuth
+197_Mox Powerstone
+198_Mox Zirconia
+202_Peregrine Dynamo, Supporter
+204_Piron, Myr Overarch
+214_Sword of Everything and Nothing
+216_Zzn, Mirrodin's Legacy
+305_Golos, Tireless Pilgrim
+309_Sol Ring
+310_Walking Ballista
+100_Void Harnesser
+188_Awakening Stone
+193_Grand Guardian
+195_Likeness Manufacturer
+200_Paradox Fragment
+207_Purity Orb
+209_Runed Warhammer
+211_Scrapworker
+212_Shattering Titan
+215_Vault Worker
+304_Basalt Monolith
+306_Lotus Petal
+308_Skullclamp
+3_Reality Splinterer
+8_Eldrazi Communer
+41_Eldrazi Envisioner
+81_Eldrazi Siphoner
+83_Insatiable Invader
+89_Necrotic Oblivion
+110_Eldrazi Imbuer
+142_Eldrazi Amplifier
+191_Emerald Keystone
+194_Jet Keystone
+199_Myr Squadron
+201_Pearl Keystone
+203_Phyrexian Armor
+205_Prototype Myr
+206_Purified Marauder
+208_Ruby Keystone
+210_Sapphire Keystone
+213_Spire Hub
+er
+er
+er
+er
+er
+231_Righteous Range
+218_Denying Channel
+219_Despised Bog
+220_Ghitu Encampment
+232_Singing City Reclaimed
+e
+221_Impeding Sea
+e
+244_Tormenting Peaks
+229_Preying Ground
+er
+er
+er
+er
+er
+217_Blighted Tomb
+222_Mishra's Manufactory
+243_Tolaria, Sunken Isle
+311_Mana Confluence
+312_Strip Mine
+224_Plated Catacombs
+225_Plated Flats
+226_Plated Mesa
+227_Plated Rainforest
+228_Plated Tarn
+230_Rift Gate
+233_Starlit Badlands
+234_Starlit Bayou
+235_Starlit Plateau
+236_Starlit Savannah
+237_Starlit Scrubland
+238_Starlit Sea
+239_Starlit Taiga
+240_Starlit Tropics
+241_Starlit Tundra
+242_Starlit Volcano
+e
+e
+e
+e

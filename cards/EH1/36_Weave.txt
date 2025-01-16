@@ -1,0 +1,1 @@
+﻿Weave	W	rare	Sorcery	36	W	2W	As an additional cost to cast this spell, sacrifice an enchantment.NEWLINESearch your library for an enchantment card, put that card onto the battlefield, then shuffle.			normal	EH1		

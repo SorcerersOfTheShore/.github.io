@@ -1,0 +1,1 @@
+﻿Distinguished Bladesmith	W	common	Creature – Cat Artificer 	7	W	W	When Distinguished Bladesmith enters the battlefield, you may attach target Equipment you control to target creature you control.	2/1		normal	EH1		

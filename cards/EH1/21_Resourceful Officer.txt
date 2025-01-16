@@ -1,0 +1,1 @@
+﻿Resourceful Officer	W	common	Creature – Viashino Soldier 	21	W	4W	When Resourceful Officer enters the battlefield, look at the top five cards of your library. You may put a permanent card with mana value 3 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.	2/2		normal	EH1		

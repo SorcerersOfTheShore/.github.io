@@ -1,0 +1,1 @@
+﻿Disciple of the Dawn	W	uncommon	Enchantment Creature – Giant 	5	W	6WW	VigilanceNEWLINEOther permanents you control with two or more card types have indestructible. (The card types are artifact, battle, creature, enchantment, instant, land, planeswalker, sorcery, and tribal.)	8/8		normal	EH1		

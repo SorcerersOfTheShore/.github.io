@@ -1,0 +1,1 @@
+﻿Mox Bismuth		rare	Artifact	196	C	0	T: Add one mana of any color. Spend this mana only to cast spells from outside the game.NEWLINEYou may cast spells with mana value 1 or greater from outside the game. Only mana produced by cards named Mox Bismuth may be spent to cast spells this way.			normal	EH1		

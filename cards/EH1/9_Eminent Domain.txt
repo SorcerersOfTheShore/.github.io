@@ -1,0 +1,1 @@
+﻿Eminent Domain	W	common	Sorcery	9	W	W	This spell costs 4 more to cast if it targets a creature.NEWLINEDestroy target nonland permanent. Its controller creates a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	EH1		

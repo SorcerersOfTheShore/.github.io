@@ -1,0 +1,1 @@
+﻿Mox Zirconia		rare	Artifact	198	C	0	Imprint – When Mox Zirconia enters the battlefield, you may exile a land card from your hand.NEWLINET: Add one mana of any type the exiled land could produce.			normal	EH1		

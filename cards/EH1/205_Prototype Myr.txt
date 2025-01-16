@@ -1,0 +1,1 @@
+﻿Prototype Myr		common	Artifact Creature – Myr 	205	C	0		1/1		normal	EH1		

@@ -1,0 +1,1 @@
+﻿Outlands Taskmaster	G	common	Creature – Elf Artificer 	156	G	2G	Fabricate 2 (When this creature enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)NEWLINEOutlands Taskmaster and other creatures you control can’t be blocked by creatures with power 2 or less.	1/1		normal	EH1		

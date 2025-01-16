@@ -1,0 +1,1 @@
+﻿Symbiotic Skeleton	W	common	Artifact – Equipment 	30	W	2W	Living weapon (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)NEWLINEEquipped creature gets +1/+1 for each creature you control.NEWLINEEquip 5			normal	EH1		

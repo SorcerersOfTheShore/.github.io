@@ -1,0 +1,1 @@
+﻿Singing City Reclaimed		rare	Legendary Land	232	G		T: Add C.NEWLINE1G, T: Put target land card from your graveyard on top of your library.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Carnage Colossus	G	common	Creature – Dinosaur 	135	G	8GG	Carnage Colossus can’t be countered.NEWLINETrample, hexproof	10/10		normal	EH1		

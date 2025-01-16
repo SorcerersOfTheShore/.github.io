@@ -1,0 +1,1 @@
+﻿Brainstorm	U	uncommon	Instant	258	U	U	Draw three cards, then put two cards from your hand on top of your library in any order.			normal	EH1		!landslot

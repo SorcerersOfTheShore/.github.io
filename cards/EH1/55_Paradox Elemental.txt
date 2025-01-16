@@ -1,0 +1,1 @@
+﻿Paradox Elemental	U	common	Creature – Elemental 	55	U	3U	FlashNEWLINEWhen Paradox Elemental enters the battlefield, untap up to four lands.	1/4		normal	EH1		

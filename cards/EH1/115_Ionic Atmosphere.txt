@@ -1,0 +1,1 @@
+﻿Ionic Atmosphere	R	uncommon	Enchantment	115	R	1R	Whenever you cast a spell, add R. Until end of turn, you don’t lose this mana as steps and phases end.NEWLINEAt the beginning of the end step, sacrifice Ionic Atmosphere.			normal	EH1		

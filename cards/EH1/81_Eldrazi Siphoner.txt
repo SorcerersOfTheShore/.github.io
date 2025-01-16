@@ -1,0 +1,1 @@
+﻿Eldrazi Siphoner		common	Creature – Eldrazi 	81	B	2B	Devoid (This card has no color.)NEWLINEWhen Eldrazi Siphoner enters the battlefield, you may pay 7. If you do, each opponent loses 5 life. Otherwise, each opponent loses 2 life. You gain life equal to the life lost this way.	2/3		normal	EH1		

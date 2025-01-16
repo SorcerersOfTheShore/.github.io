@@ -1,0 +1,1 @@
+﻿Conscripted Battle-Chair	R	common	Artifact – Equipment 	106	R	4R	Living weapon (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)NEWLINEEquipped creature gets +4/+4 and has trample and haste.NEWLINEEquip 6			normal	EH1		

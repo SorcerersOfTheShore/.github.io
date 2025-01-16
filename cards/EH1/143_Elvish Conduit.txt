@@ -1,0 +1,1 @@
+﻿Elvish Conduit	G	common	Creature – Elf Druid 	143	G	1G	When Elvish Conduit enters the battlefield, the next spell you cast this turn has convoke. (Your creatures can help cast that spell. Each creature you tap while casting that spell pays for 1 or one mana of that creature’s color.)	2/2		normal	EH1		

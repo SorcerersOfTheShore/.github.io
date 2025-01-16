@@ -1,0 +1,1 @@
+﻿Rise of the Eldrazi		mythic	Sorcery	246	C	9CCC	This spell can’t be countered.NEWLINEDestroy target permanent. Target player draws four cards. Take an extra turn after this one.NEWLINEExile Rise of the Eldrazi.			normal	EH1		!landslot

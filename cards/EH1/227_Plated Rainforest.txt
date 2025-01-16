@@ -1,0 +1,1 @@
+﻿Plated Rainforest		uncommon	Artifact Land	227	C		T: Add C.NEWLINET, Sacrifice Plated Rainforest: Search your library for a Forest card, put it onto the battlefield tapped, then shuffle.			normal	EH1		

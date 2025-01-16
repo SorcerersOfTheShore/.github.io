@@ -1,0 +1,1 @@
+﻿Skullclamp		uncommon	Artifact	308	C	1	Equipped creature gets +1/-1.NEWLINEWhenever equipped creature dies, draw two cards.NEWLINEEquip 1			normal	EH1		!landslot

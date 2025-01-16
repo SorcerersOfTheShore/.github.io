@@ -1,0 +1,1 @@
+﻿Shard Golem	R	common	Artifact Creature – Treasure Golem 	130	R	1R	When Shard Golem enters the battlefield, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)NEWLINET, Sacrifice Shard Golem: Add one mana of any color.	1/1		normal	EH1		

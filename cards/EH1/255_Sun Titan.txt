@@ -1,0 +1,1 @@
+﻿Sun Titan	W	rare	Creature – Giant 	255	W	4WW	VigilanceNEWLINEWhenever Sun Titan enters the battlefield or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.	6/6		normal	EH1		!landslot

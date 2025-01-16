@@ -1,0 +1,1 @@
+﻿Steel Oversoul	W	uncommon	Artifact Creature – Construct 	28	W	4WW	Other creatures you control get +2/+2.	6/6		normal	EH1		

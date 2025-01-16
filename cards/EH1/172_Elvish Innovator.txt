@@ -1,0 +1,1 @@
+﻿Elvish Innovator	WG	rare	Creature – Elf Artificer 	172	WG	1GW	Fabricate 1 (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)NEWLINEOther nontoken creatures you control have fabricate 1.	2/2		normal	EH1		

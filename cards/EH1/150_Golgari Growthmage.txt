@@ -1,0 +1,1 @@
+﻿Golgari Growthmage	G	common	Creature – Human Druid 	150	G	3G	Dredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)	4/3		adventure	EH1		Persistent Growth	G	Sorcery – Adventure 	G	1G	Create two 1/1 green Saproling creature tokens. (Then exile this card. You may cast the artifact later from exile.)				

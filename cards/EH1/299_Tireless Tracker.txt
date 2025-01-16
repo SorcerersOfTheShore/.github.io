@@ -1,0 +1,1 @@
+﻿Tireless Tracker	G	rare	Creature – Human Scout 	299	G	2G	Landfall – Whenever a land enters the battlefield under your control, investigate. (Create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)NEWLINEWhenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.	3/2		normal	EH1		!landslot

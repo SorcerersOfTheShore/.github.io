@@ -1,0 +1,1 @@
+﻿Ghitu Encampment		mythic	Legendary Land	220	R		T: Add R for each instant and sorcery card in your graveyard.			normal	EH1		

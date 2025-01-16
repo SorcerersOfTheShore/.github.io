@@ -1,0 +1,1 @@
+﻿Perfect Storm	UR	uncommon	Sorcery	181	UR	1UR	Choose one for each spell you’ve cast this turn (including this spell). You may choose the same mode more than once.NEWLINE• Perfect Storm deals 1 damage to any target.NEWLINE• Target player mills three cards.NEWLINE• Create a 1/1 red Elemental creature token.			normal	EH1		

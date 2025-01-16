@@ -1,0 +1,1 @@
+﻿Channel	G	mythic	Sorcery	291	G	GG	Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add C.			normal	EH1		!landslot

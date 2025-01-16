@@ -1,0 +1,1 @@
+﻿Bleeding Lotus		mythic	Artifact	189	C	0	When Bleeding Lotus enters the battlefield, if your life total is 1 or less, you lose the game. Otherwise, your life total becomes 1.NEWLINET, Sacrifice Bleeding Lotus: Add three mana of any one color.			normal	EH1		

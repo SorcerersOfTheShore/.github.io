@@ -1,0 +1,1 @@
+﻿Venser the Restorer	U	uncommon	Legendary Creature – Human Wizard 	67	U	3U	FlashNEWLINEWhen Venser the Restorer enters the battlefield, exile another target spell, creature, or planeswalker. At the beginning of the next end step, if that card isn’t a land, its owner may cast it without paying its mana cost.	3/4		normal	EH1		

@@ -1,0 +1,1 @@
+﻿Dack Fayden	UR	mythic	Legendary Planeswalker – Dack 	302	UR	1UR			[+1]: Target player draws two cards, then discards two cards.NEWLINE[-2]: Gain control of target artifact.NEWLINE[-6]: You get an emblem with “Whenever you cast a spell that targets one or more permanents, gain control of those permanents.”NEWLINE	planeswalker	EH1	3	!landslot

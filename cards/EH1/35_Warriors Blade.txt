@@ -1,0 +1,1 @@
+﻿Warrior's Blade	W	common	Artifact – Equipment 	35	W	1W	When Warrior’s Blade enters the battlefield, create a 1/1 white Warrior creature token, then attach Warrior’s Blade to it.NEWLINEEquipped creature gets +2/+0.NEWLINEEquip 2 (2: Attach to target creature you control. Equip only as a sorcery.)			normal	EH1		

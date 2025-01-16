@@ -1,0 +1,1 @@
+﻿Orzhov Automaton	B	common	Artifact Creature – Construct 	90	B	3B	When Orzhov Automaton dies, create four Treasure tokens. (They’re artifacts with “T, Sacrifice this artifact: Add one mana of any color.”)	4/2		normal	EH1		

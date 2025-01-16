@@ -1,0 +1,1 @@
+﻿Chromatic Salvage	B	common	Instant	72	WUBRG	B	Return target creature card from your graveyard to your hand.NEWLINECycling WUBRG (WUBRG, Discard this card: Draw a card.)NEWLINEWhen you cycle Chromatic Salvage, return target creature card from your graveyard to the battlefield tapped.			normal	EH1		

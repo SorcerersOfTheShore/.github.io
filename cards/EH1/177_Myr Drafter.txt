@@ -1,0 +1,1 @@
+﻿Myr Drafter	WU	uncommon	Artifact Creature – Myr 	177	WU	1WU	Whenever you cast an artifact spell, create a 1/1 colorless Myr artifact creature token.NEWLINEW, Tap three untapped artifacts you control: Create a token that’s a copy of a token you control.NEWLINEU, Tap three untapped artifacts you control: Draw a card.	1/1		normal	EH1		

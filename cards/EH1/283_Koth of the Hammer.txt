@@ -1,0 +1,1 @@
+﻿Koth of the Hammer	R	rare	Legendary Planeswalker – Koth 	283	R	2RR			[+1]: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It’s still a land.NEWLINE[-2]: Add R for each Mountain you control.NEWLINE[-5]: You get an emblem with “Mountains you control have ‘T: This land deals 1 damage to any target.’”NEWLINE	planeswalker	EH1	3	!landslot

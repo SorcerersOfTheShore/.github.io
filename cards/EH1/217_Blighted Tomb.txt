@@ -1,0 +1,1 @@
+﻿Blighted Tomb		rare	Land	217	C		Blighted Tomb enters the battlefield tapped.NEWLINEH, T: Add CC. (H can be paid with either C or 2 life.)			normal	EH1		

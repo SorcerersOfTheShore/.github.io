@@ -1,0 +1,1 @@
+﻿Swords to Plowshares	W	uncommon	Instant	256	W	W	Exile target creature. Its controller gains life equal to its power.			normal	EH1		!landslot

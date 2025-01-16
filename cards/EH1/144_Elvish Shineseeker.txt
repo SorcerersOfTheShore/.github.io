@@ -1,0 +1,1 @@
+﻿Elvish Shineseeker	G	common	Creature – Elf Druid 	144	G	1G	T: Untap target permanent with a mana ability.	2/2		normal	EH1		

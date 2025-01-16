@@ -1,0 +1,1 @@
+﻿Phyrexian Culling	B	uncommon	Sorcery	93	B	H/BH/BH/BH/B	(H/B can be paid with either B or 2 life.)NEWLINEDestroy target creature, enchantment, or planeswalker you don’t control.			normal	EH1		

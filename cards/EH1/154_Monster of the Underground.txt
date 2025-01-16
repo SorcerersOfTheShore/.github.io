@@ -1,0 +1,1 @@
+﻿Monster of the Underground	G	uncommon	Creature – Mole Horror 	154	G	5GG	HasteNEWLINEWhen Monster of the Underground enters the battlefield, creatures you control get +X/+X until end of turn, where X is the number of creature cards in your graveyard.	6/6		normal	EH1		

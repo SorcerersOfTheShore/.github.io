@@ -1,0 +1,1 @@
+﻿Scrap Golem	R	common	Artifact Creature – Golem 	127	R	3R	MenaceNEWLINEScrap Golem gets +1/+0 for each other artifact you control.	3/4		adventure	EH1		Fresh Salvage	R	Instant – Adventure 	R	R	Create a Treasure token. (Then exile this card. You may cast the artifact later from exile.)				

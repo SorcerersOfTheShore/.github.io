@@ -1,0 +1,1 @@
+﻿Sphinx of the Solemn Chamber	U	uncommon	Artifact Creature – Sphinx 	61	U	6UU	Sphinx of the Solemn Chamber can’t be countered.NEWLINEFlyingNEWLINEWhenever Sphinx of the Solemn Chamber deals combat damage to a player, draw a card.NEWLINEDiscard a card: Sphinx of the Solemn Chamber gains hexproof until end of turn.	5/5		normal	EH1		

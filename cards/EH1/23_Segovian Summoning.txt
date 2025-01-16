@@ -1,0 +1,1 @@
+﻿Segovian Summoning	W	rare	Sorcery	23	W	3WWW	Put any number of nonland permanent cards with mana value 3 or less from your hand and/or graveyard onto the battlefield under your control.			normal	EH1		

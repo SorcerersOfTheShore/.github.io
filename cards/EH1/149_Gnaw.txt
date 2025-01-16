@@ -1,0 +1,1 @@
+﻿Gnaw	G	uncommon	Instant	149	G	1G	Target creature you control fights target creature you don’t control.			aftermath	EH1		

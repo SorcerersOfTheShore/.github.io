@@ -1,0 +1,1 @@
+﻿Despised Bog		common	Land – Swamp 	219	B		(T: Add B.)NEWLINEDespised Bog enters the battlefield tapped.NEWLINE1B, T, Sacrifice Despised Bog: Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card. Activate only as a sorcery.			normal	EH1		

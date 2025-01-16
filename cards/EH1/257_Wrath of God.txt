@@ -1,0 +1,1 @@
+﻿Wrath of God	W	rare	Sorcery	257	W	2WW	Destroy all creatures.NEWLINEThey can’t be regenerated.			normal	EH1		!landslot

@@ -1,0 +1,1 @@
+﻿Rift Containment	W	common	Enchantment	22	W	2W	When Rift Containment enters the battlefield, exile another target nonland permanent until Rift Containment leaves the battlefield.			normal	EH1		

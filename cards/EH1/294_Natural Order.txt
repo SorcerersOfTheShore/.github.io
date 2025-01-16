@@ -1,0 +1,1 @@
+﻿Natural Order	G	rare	Sorcery	294	G	2GG	As an additional cost to cast this spell, sacrifice a green creature.NEWLINESearch your library for a green creature card, put it onto the battlefield, then shuffle.			normal	EH1		!landslot

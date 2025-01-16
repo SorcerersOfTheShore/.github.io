@@ -1,0 +1,1 @@
+﻿Primeval Titan	G	rare	Creature – Giant 	296	G	4GG	TrampleNEWLINEWhenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.	6/6		normal	EH1		!landslot

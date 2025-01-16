@@ -1,0 +1,1 @@
+﻿Magus of the Typhoon	U	rare	Creature – Human Wizard 	49	U	5U	Whenever you cast a noncreature spell, create an X/X blue Shark creature token with flying, where X is that spell’s mana value.NEWLINECycling X1U (X1U, Discard this card: Draw a card.)NEWLINEWhen you cycle Magus of the Typhoon, create an X/X blue Shark creature token with flying.	4/4		normal	EH1		

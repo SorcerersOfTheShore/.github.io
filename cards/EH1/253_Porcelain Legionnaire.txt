@@ -1,0 +1,1 @@
+﻿Porcelain Legionnaire	W	uncommon	Artifact Creature – Phyrexian Soldier 	253	W	2H/W	(H/W can be paid with either W or 2 life.)NEWLINEFirst strike	3/1		normal	EH1		!landslot

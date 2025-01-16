@@ -1,0 +1,1 @@
+﻿Sorin, Life's Shadow	B	rare	Legendary Planeswalker – Sorin 	96	B	3B			Sorin, Life’s Shadow enters the battlefield with X loyalty counters on him, where X is 13 minus your life total.NEWLINE[+1]: Create a 1/1 black Vampire creature token with lifelink.NEWLINE[-X]: Sorin, Life’s Shadow deals X damage to target creature or planeswalker. You gain X life.	planeswalker	EH1	0	16

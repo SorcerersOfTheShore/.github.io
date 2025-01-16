@@ -1,0 +1,1 @@
+﻿Segovian Dragon	R	uncommon	Creature – Dragon 	129	R	R	FlyingNEWLINER: Segovian Dragon gets +1/+0 until end of turn.	1/1		normal	EH1		

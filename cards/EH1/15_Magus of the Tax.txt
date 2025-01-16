@@ -1,0 +1,1 @@
+﻿Magus of the Tax	W	rare	Creature – Human Wizard 	15	W	W	At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.	1/1		normal	EH1		

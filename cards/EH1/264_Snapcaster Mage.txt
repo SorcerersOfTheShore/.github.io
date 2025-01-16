@@ -1,0 +1,1 @@
+﻿Snapcaster Mage	U	rare	Creature – Human Wizard 	264	U	1U	FlashNEWLINEWhen Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)	2/1		normal	EH1		!landslot

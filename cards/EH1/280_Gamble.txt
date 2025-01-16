@@ -1,0 +1,1 @@
+﻿Gamble	R	rare	Sorcery	280	R	R	Search your library for a card, put that card into your hand, discard a card at random, then shuffle.			normal	EH1		!landslot

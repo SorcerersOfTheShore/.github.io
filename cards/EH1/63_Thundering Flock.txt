@@ -1,0 +1,1 @@
+﻿Thundering Flock	U	common	Creature – Bird 	63	U	2U	FlyingNEWLINEStorm (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)	1/2		normal	EH1		

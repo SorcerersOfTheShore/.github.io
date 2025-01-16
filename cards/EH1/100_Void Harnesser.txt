@@ -1,0 +1,1 @@
+﻿Void Harnesser		uncommon	Creature – Eldrazi 	100	B	6BB	Devoid (This card has no color.)NEWLINEFlyingNEWLINEYou can’t spend mana to cast spells.NEWLINEOnce during each turn, you may cast a spell by paying life equal to its mana value rather than paying its mana cost. (Timing rules still apply.)NEWLINEC: You gain 1 life.	6/6		normal	EH1		

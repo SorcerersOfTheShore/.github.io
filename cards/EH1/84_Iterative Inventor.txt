@@ -1,0 +1,1 @@
+﻿Iterative Inventor	B	uncommon	Creature – Human Artificer 	84	B	1B	At the beginning of each upkeep, if you control no Constructs, create a 1/1 colorless Construct artifact creature token.	1/1		normal	EH1		

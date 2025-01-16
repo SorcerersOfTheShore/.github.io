@@ -1,0 +1,1 @@
+﻿Force of Inertia	U	uncommon	Instant	45	U	3UU	Surge 0 (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)NEWLINECounter target spell.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Starlit Tundra		common	Land – Plains Island 	241	C		(T: Add W or U.)NEWLINEStarlit Tundra enters the battlefield tapped unless your starting deck had fifty or fewer cards in it.			normal	EH1		

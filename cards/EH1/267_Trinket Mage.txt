@@ -1,0 +1,1 @@
+﻿Trinket Mage	U	uncommon	Creature – Human Wizard 	267	U	2U	When Trinket Mage enters the battlefield, you may search your library for an artifact card with mana value 1 or less, reveal that card, put it into your hand, then shuffle.	2/2		normal	EH1		!landslot

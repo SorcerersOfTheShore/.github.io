@@ -1,0 +1,1 @@
+﻿Spiritual Awakening	W	common	Sorcery	27	W	W	Kicker 4 (You may pay an additional 4 as you cast this spell.)NEWLINEExile a creature or planeswalker you control. If Spiritual Awakening was kicked, you may instead exile a creature or planeswalker card from your graveyard. Then return the exiled card to the battlefield under its owner’s control.			normal	EH1		

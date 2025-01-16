@@ -1,0 +1,1 @@
+﻿Life Debt	B	common	Enchantment – Aura 	85	B	3B	This spell costs 3 less to cast if it targets a creature you control.NEWLINEFlashNEWLINEEnchant creatureNEWLINEWhen enchanted creature dies, return that card to the battlefield under your control.			normal	EH1		

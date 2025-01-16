@@ -1,0 +1,1 @@
+﻿Reclamation Sage	G	uncommon	Creature – Elf Shaman 	298	G	2G	When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.	2/1		normal	EH1		!landslot

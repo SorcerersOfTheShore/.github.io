@@ -1,0 +1,1 @@
+﻿Liliana, Death's Majesty	B	rare	Legendary Planeswalker – Liliana 	276	B	3BB			[+1]: Create a 2/2 black Zombie creature token. Mill two cards.NEWLINE[-3]: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types.NEWLINE[-7]: Destroy all non-Zombie creatures.NEWLINE	planeswalker	EH1	5	!landslot

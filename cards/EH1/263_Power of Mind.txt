@@ -1,0 +1,1 @@
+﻿Power of Mind	U	mythic	Sorcery	263	U	1U	Create a token that’s a copy of a nonland permanent you control.			normal	EH1		Power

@@ -1,0 +1,1 @@
+﻿Phyrexian Gearhulk	B	common	Artifact Creature – Phyrexian Construct 	94	B	5BB	Menace, indestructible	5/4		normal	EH1		

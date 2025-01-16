@@ -1,0 +1,1 @@
+﻿Lava Elemental	R	common	Creature – Elemental 	117	R	R	When Lava Elemental enters the battlefield, you may cast a copy of a card named Lava Spike. (You still pay its costs. Timing rules do not apply. It’s an Arcane sorcery that costs R. It has “This spell deals 3 damage to target player or planeswalker.”)	1/1		normal	EH1		Garth

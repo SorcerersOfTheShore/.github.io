@@ -1,0 +1,1 @@
+﻿Thalia, Guardian of Worlds	W	uncommon	Legendary Creature – Human Soldier 	31	W	2W	FlashNEWLINEFirst strikeNEWLINEWhen Thalia, Guardian of Worlds enters the battlefield, choose one–NEWLINE• Exile target spell if no mana was spent to cast it.NEWLINE• Exile target creature if it entered the battlefield this turn and it wasn’t cast.	3/1		normal	EH1		

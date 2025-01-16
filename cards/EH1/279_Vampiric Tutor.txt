@@ -1,0 +1,1 @@
+﻿Vampiric Tutor	B	rare	Instant	279	B	B	Search your library for a card, then shuffle and put that card on top. You lose 2 life.			normal	EH1		!landslot

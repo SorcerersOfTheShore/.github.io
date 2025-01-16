@@ -1,0 +1,1 @@
+﻿Lotus Petal		uncommon	Artifact	306	C	0	T, Sacrifice Lotus Petal: Add one mana of any color.			normal	EH1		!landslot

@@ -1,0 +1,1 @@
+﻿Goblin Rocketeer	R	uncommon	Creature – Goblin Artificer 	114	R	3R	HasteNEWLINEWhen Goblin Rocketeer enters the battlefield, you may sacrifice another creature or artifact. If you do, add an amount of R equal to that permanent’s mana value.NEWLINE1R: Goblin Rocketeer gets +1/+0 until end of turn.	4/3		normal	EH1		

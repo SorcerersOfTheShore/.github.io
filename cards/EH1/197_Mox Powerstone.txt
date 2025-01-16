@@ -1,0 +1,1 @@
+﻿Mox Powerstone		rare	Artifact – Powerstone 	197	C	0	Mox Powerstone enters the battlefield tapped.NEWLINET: Add C. This mana can’t be spent to cast a nonartifact spell.			normal	EH1		

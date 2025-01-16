@@ -1,0 +1,1 @@
+﻿Esika's Blessing	WG	uncommon	Enchantment	173	WG	1GW	When Esika’s Blessing enters the battlefield, create a 2/2 green Cat creature token.NEWLINECreatures you control have “T: Add one mana of any color.”			normal	EH1		

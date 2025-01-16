@@ -1,0 +1,1 @@
+﻿Denying Channel		uncommon	Land	218	U		T: Add C.NEWLINEChannel – 2UU, Discard Denying Channel: Counter target spell.			normal	EH1		

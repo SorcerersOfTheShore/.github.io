@@ -1,0 +1,1 @@
+﻿Plated Mesa		uncommon	Artifact Land	226	C		T: Add C.NEWLINET, Sacrifice Plated Mesa: Search your library for a Mountain card, put it onto the tapped battlefield, then shuffle.			normal	EH1		

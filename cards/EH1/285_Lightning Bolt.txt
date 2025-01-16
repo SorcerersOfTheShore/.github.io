@@ -1,0 +1,1 @@
+﻿Lightning Bolt	R	uncommon	Instant	285	R	R	Lightning Bolt deals 3 damage to any target.			normal	EH1		!landslot

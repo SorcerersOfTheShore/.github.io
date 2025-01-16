@@ -1,0 +1,1 @@
+﻿Macabre Militia	B	common	Sorcery	86	B	1B	Mill cards equal to the amount of mana spent to cast this spell. Create a number of 2/2 black Zombie creature tokens equal to the half the number of creature cards milled this way, rounded up.NEWLINEFlashback 4B (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	EH1		

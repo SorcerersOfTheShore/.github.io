@@ -1,0 +1,1 @@
+﻿Power of Light	W	mythic	Sorcery	254	W	W	Create a 4/4 white Angel NEWLINEcreature token with flying.			normal	EH1		Power

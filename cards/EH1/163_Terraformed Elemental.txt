@@ -1,0 +1,1 @@
+﻿Terraformed Elemental	G	common	Creature – Elemental 	163	G	5G	Affinity for lands (This spell costs 1 less to cast for each land you control.)NEWLINETrample	4/3		normal	EH1		

@@ -1,0 +1,1 @@
+﻿Eldrazi Amplifier		common	Creature – Eldrazi 	142	G	3G	Devoid (This card has no color.)NEWLINEWhen Eldrazi Amplifier enters the battlefield, you may pay 6. If you do, distribute seven +1/+1 counters among creatures you control. Otherwise, put a +1/+1 counter on a creature you control.	3/3		normal	EH1		

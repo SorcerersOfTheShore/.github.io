@@ -1,0 +1,1 @@
+﻿Muster Support	W	uncommon	Sorcery	17	W	2WW	Look at the top seven cards of your library. You may reveal any number of nonland permanent cards with mana value 3 or less from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in a random order.			normal	EH1		

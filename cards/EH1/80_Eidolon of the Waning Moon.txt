@@ -1,0 +1,1 @@
+﻿Eidolon of the Waning Moon	B	common	Enchantment Creature – Spirit 	80	B	2B	When Eidolon of the Waning Moon enters or leaves the battlefield, you draw a card and you lose 1 life.	2/2		normal	EH1		

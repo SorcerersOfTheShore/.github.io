@@ -1,0 +1,1 @@
+﻿Possibility Outbreak	R	common	Sorcery	121	R	1R	Create a 2/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.NEWLINEStorm (When you cast this spell, copy it for each spell cast before it this turn.)			normal	EH1		

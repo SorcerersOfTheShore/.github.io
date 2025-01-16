@@ -1,0 +1,1 @@
+﻿Disperse	U	common	Instant	68	U	1U	Return target nonland permanent to its owner’s hand.			fuse split	EH1		Dissolve	U	Instant	U	1UU	Counter target spell. Scry 1.				

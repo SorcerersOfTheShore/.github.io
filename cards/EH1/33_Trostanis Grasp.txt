@@ -1,0 +1,1 @@
+﻿Trostani's Grasp	W	uncommon	Instant	33	W	2W	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEExile target creature or planeswalker. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.			normal	EH1		

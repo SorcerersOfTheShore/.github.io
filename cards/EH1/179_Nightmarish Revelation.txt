@@ -1,0 +1,1 @@
+﻿Nightmarish Revelation	UB	rare	Instant	179	UB	XUUB	Up to one target creature gets -X/-X until end of turn.NEWLINEExile the top X cards of target player’s library face down. You may cast those cards for as long as they remain exiled, and mana of any type can be spent to cast them.			normal	EH1		

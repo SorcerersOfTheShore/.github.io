@@ -1,0 +1,1 @@
+﻿Fiery Outbreak	R	uncommon	Sorcery	113	R	4RR	This spell costs 1 less to cast for each creature on the battlefield.NEWLINEFiery Outbreak deals 4 damage to each creature.			normal	EH1		

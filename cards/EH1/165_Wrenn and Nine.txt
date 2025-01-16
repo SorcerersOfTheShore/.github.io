@@ -1,0 +1,1 @@
+﻿Wrenn and Nine	G	rare	Legendary Planeswalker – Wrenn 	165	G	2G			You may play lands from your graveyard.NEWLINE[+1]: Surveil 1.NEWLINE[-1]: Choose a card type. Until end of turn, target land you control becomes an Elemental creature with haste and power and toughness each equal to the number of cards in your graveyard of the chosen type. It’s still a land.	planeswalker	EH1	3	54

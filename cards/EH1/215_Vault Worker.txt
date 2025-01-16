@@ -1,0 +1,1 @@
+﻿Vault Worker		uncommon	Artifact Creature – Phyrexian Myr 	215	C	1	Vault Worker enters the battlefield tapped and doesn’t untap during your untap step.NEWLINEAt the beginning of your upkeep, you may pay 4. If you do, untap Vault Worker. If you don’t, Vault Worker deals 1 damage to you.NEWLINET: Add CCC.	3/3		normal	EH1		

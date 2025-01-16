@@ -1,0 +1,1 @@
+﻿Filigree Lotus		rare	Artifact	192	C	4	Affinity for artifacts (This spell costs 1 less to cast for each artifact you control.)NEWLINET, Sacrifice Filigree Lotus: Add three mana of any one color.			normal	EH1		

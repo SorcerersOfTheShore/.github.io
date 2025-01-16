@@ -1,0 +1,1 @@
+﻿Worldbond	UG	uncommon	Legendary Enchantment	186	UG	GU	Whenever a nonland permanent you control not named Worldbond produces mana, add one mana of any type that permanent produced.NEWLINEXGU, Sacrifice Worldbond: Create an X/X green Beast creature token. Activate only as a sorcery.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Rift Gate		uncommon	Land	230	C		T: Add C.NEWLINEUnearth 0 (0: Return this card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Phyrexian Armor		common	Artifact – Equipment 	203	C	1	Kicker 5 (You may pay an additional 5 as you cast this spell.)NEWLINEWhen Phyrexian Armor enters the battlefield, if it was kicked, create a 0/0 black Phyrexian Germ creature token, then attach Phyrexian Armor to it.NEWLINEEquipped creature gets +6/+6.NEWLINEEquip 6			normal	EH1		

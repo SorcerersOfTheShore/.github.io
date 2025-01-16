@@ -1,0 +1,1 @@
+﻿Reality Splinterer		common	Creature – Eldrazi 	3	C	3	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)NEWLINESacrifice Reality Splinterer: Target creature gains haste until end of turn.	1/1		normal	EH1		

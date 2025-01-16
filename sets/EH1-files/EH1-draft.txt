@@ -1,0 +1,3440 @@
+﻿[CustomCards]
+	[	{
+			"name": "Myr Drafter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/177_Myr Drafter.png"
+			}
+		},
+		{
+			"name": "Nyxborn Seraph",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{B}",
+			"type": "Enchantment Creature — Angel ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/180_Nyxborn Seraph.png"
+			}
+		},
+		{
+			"name": "Boros Exemplar",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/170_Boros Exemplar.png"
+			}
+		},
+		{
+			"name": "Esika's Blessing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/173_Esika's Blessing.png"
+			}
+		},
+		{
+			"name": "Sphinx of the Unsolvable Riddle",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Artifact Creature — Sphinx ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/183_Sphinx of the Unsolvable Riddle.png"
+			}
+		},
+		{
+			"name": "Perfect Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/181_Perfect Storm.png"
+			}
+		},
+		{
+			"name": "Burst from Below",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/171_Burst from Below.png"
+			}
+		},
+		{
+			"name": "Undercity Renewal",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/184_Undercity Renewal.png"
+			}
+		},
+		{
+			"name": "Maelstrom Scion",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{R}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/176_Maelstrom Scion.png"
+			}
+		},
+		{
+			"name": "Worldbond",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/186_Worldbond.png"
+			}
+		},
+		{
+			"name": "Disenchantment Priest",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/6_Disenchantment Priest.png"
+			}
+		},
+		{
+			"name": "Distinguished Bladesmith",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Artificer ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/7_Distinguished Bladesmith.png"
+			}
+		},
+		{
+			"name": "Myr Signaler",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/19_Myr Signaler.png"
+			}
+		},
+		{
+			"name": "Eldrazi Communer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/8_Eldrazi Communer.png"
+			}
+		},
+		{
+			"name": "Warrior's Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/35_Warrior's Blade.png"
+			}
+		},
+		{
+			"name": "Esper Innovator",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Human Artificer ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/10_Esper Innovator.png"
+			}
+		},
+		{
+			"name": "Symbiotic Skeleton",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/30_Symbiotic Skeleton.png"
+			}
+		},
+		{
+			"name": "Myr Liberator",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/18_Myr Liberator.png"
+			}
+		},
+		{
+			"name": "Lieutenant of Bladehold",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/14_Lieutenant of Bladehold.png"
+			}
+		},
+		{
+			"name": "Resourceful Officer",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Viashino Soldier ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/21_Resourceful Officer.png"
+			}
+		},
+		{
+			"name": "Soulblade Samurai",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment Creature — Samurai ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/25_Soulblade Samurai.png"
+			}
+		},
+		{
+			"name": "Righteous Range",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/231_Righteous Range.png"
+			}
+		},
+		{
+			"name": "Rift Containment",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/22_Rift Containment.png"
+			}
+		},
+		{
+			"name": "Eminent Domain",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/9_Eminent Domain.png"
+			}
+		},
+		{
+			"name": "Chromatic Boon",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/4_Chromatic Boon.png"
+			}
+		},
+		{
+			"name": "Spiritual Awakening",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/27_Spiritual Awakening.png"
+			}
+		},
+		{
+			"name": "Consideration Mage",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/39_Consideration Mage.png"
+			}
+		},
+		{
+			"name": "Flight Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Human Artificer ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/44_Flight Engineer.png"
+			}
+		},
+		{
+			"name": "Eldrazi Envisioner",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/41_Eldrazi Envisioner.png"
+			}
+		},
+		{
+			"name": "Salvage Search",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/59_Salvage Search.png"
+			}
+		},
+		{
+			"name": "Thundering Flock",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/63_Thundering Flock.png"
+			}
+		},
+		{
+			"name": "Tooth Snatcher",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Faerie ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/65_Tooth Snatcher.png"
+			}
+		},
+		{
+			"name": "Paradox Elemental",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/55_Paradox Elemental.png"
+			}
+		},
+		{
+			"name": "Crossland Transport",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Artifact Creature — Thopter ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/40_Crossland Transport.png"
+			}
+		},
+		{
+			"name": "Embodiment of Arcana",
+			"rarity": "rare",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Creature — Avatar ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/42_Embodiment of Arcana.png"
+			}
+		},
+		{
+			"name": "Gitaxian Advancement",
+			"rarity": "common",
+			"mana_cost": "{H/U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/47_Gitaxian Advancement.png"
+			}
+		},
+		{
+			"name": "Disperse",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"layout": "split",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/68_Disperse.png"
+			}
+		},
+		{
+			"name": "Reason of Insanity",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/57_Reason of Insanity.png"
+			}
+		},
+		{
+			"name": "Chromatic Visions",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/38_Chromatic Visions.png"
+			}
+		},
+		{
+			"name": "Treasured Thoughts",
+			"rarity": "common",
+			"mana_cost": "{7}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/66_Treasured Thoughts.png"
+			}
+		},
+		{
+			"name": "Impeding Sea",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/221_Impeding Sea.png"
+			}
+		},
+		{
+			"name": "Fiddle Box",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/43_Fiddle Box.png"
+			}
+		},
+		{
+			"name": "Duressing Spy",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/77_Duressing Spy.png"
+			}
+		},
+		{
+			"name": "Eidolon of the Waning Moon",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/80_Eidolon of the Waning Moon.png"
+			}
+		},
+		{
+			"name": "Macabre Militia",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/86_Macabre Militia.png"
+			}
+		},
+		{
+			"name": "Eldrazi Siphoner",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/81_Eldrazi Siphoner.png"
+			}
+		},
+		{
+			"name": "Mortapiller",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Phyrexian Insect ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/88_Mortapiller.png"
+			}
+		},
+		{
+			"name": "Azra Necromancer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Azra Wizard ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/70_Azra Necromancer.png"
+			}
+		},
+		{
+			"name": "Orzhov Automaton",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/90_Orzhov Automaton.png"
+			}
+		},
+		{
+			"name": "Insatiable Invader",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/83_Insatiable Invader.png"
+			}
+		},
+		{
+			"name": "Phyrexian Gearhulk",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Artifact Creature — Phyrexian Construct ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/94_Phyrexian Gearhulk.png"
+			}
+		},
+		{
+			"name": "Phyrexian Culling",
+			"rarity": "uncommon",
+			"mana_cost": "{H/B}{H/B}{H/B}{H/B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/93_Phyrexian Culling.png"
+			}
+		},
+		{
+			"name": "Phyrexian Consumption",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/92_Phyrexian Consumption.png"
+			}
+		},
+		{
+			"name": "Despised Bog",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/219_Despised Bog.png"
+			}
+		},
+		{
+			"name": "Untold Secrets",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/99_Untold Secrets.png"
+			}
+		},
+		{
+			"name": "Necrotic Oblivion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/89_Necrotic Oblivion.png"
+			}
+		},
+		{
+			"name": "Chromatic Salvage",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/72_Chromatic Salvage.png"
+			}
+		},
+		{
+			"name": "Life Debt",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/85_Life Debt.png"
+			}
+		},
+		{
+			"name": "Lava Elemental",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/117_Lava Elemental.png"
+			}
+		},
+		{
+			"name": "Rift Anomaly",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/124_Rift Anomaly.png"
+			}
+		},
+		{
+			"name": "Shard Golem",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Treasure Golem ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/130_Shard Golem.png"
+			}
+		},
+		{
+			"name": "Rubble Rummager",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Berserker ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/126_Rubble Rummager.png"
+			}
+		},
+		{
+			"name": "Eldrazi Imbuer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/110_Eldrazi Imbuer.png"
+			}
+		},
+		{
+			"name": "Disciple of Keral Keep",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Monk ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/108_Disciple of Keral Keep.png"
+			}
+		},
+		{
+			"name": "Chaos Sledge",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/104_Chaos Sledge.png"
+			}
+		},
+		{
+			"name": "Scrap Golem",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/127_Scrap Golem.png"
+			}
+		},
+		{
+			"name": "Conscripted Battle-Chair",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/106_Conscripted Battle-Chair.png"
+			}
+		},
+		{
+			"name": "Siege Titan",
+			"rarity": "common",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/131_Siege Titan.png"
+			}
+		},
+		{
+			"name": "Possibility Outbreak",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/121_Possibility Outbreak.png"
+			}
+		},
+		{
+			"name": "Chromatic Storm",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/105_Chromatic Storm.png"
+			}
+		},
+		{
+			"name": "Tormenting Peaks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/244_Tormenting Peaks.png"
+			}
+		},
+		{
+			"name": "Vial of Catalyst",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/134_Vial of Catalyst.png"
+			}
+		},
+		{
+			"name": "Rain of Debris",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/123_Rain of Debris.png"
+			}
+		},
+		{
+			"name": "Elvish Shineseeker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/144_Elvish Shineseeker.png"
+			}
+		},
+		{
+			"name": "Cropspinner Druid",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/139_Cropspinner Druid.png"
+			}
+		},
+		{
+			"name": "Elvish Conduit",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/143_Elvish Conduit.png"
+			}
+		},
+		{
+			"name": "Outlands Taskmaster",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Artificer ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/156_Outlands Taskmaster.png"
+			}
+		},
+		{
+			"name": "Terraformed Elemental",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/163_Terraformed Elemental.png"
+			}
+		},
+		{
+			"name": "Eldrazi Amplifier",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/142_Eldrazi Amplifier.png"
+			}
+		},
+		{
+			"name": "Golgari Growthmage",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/150_Golgari Growthmage.png"
+			}
+		},
+		{
+			"name": "Spawning Spider",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Spider ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/161_Spawning Spider.png"
+			}
+		},
+		{
+			"name": "Chaotic Dreadmaw",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/136_Chaotic Dreadmaw.png"
+			}
+		},
+		{
+			"name": "Carnage Colossus",
+			"rarity": "common",
+			"mana_cost": "{8}{G}{G}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/135_Carnage Colossus.png"
+			}
+		},
+		{
+			"name": "Triumph of the Monstrous",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/164_Triumph of the Monstrous.png"
+			}
+		},
+		{
+			"name": "Monstrous Outbreak",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/155_Monstrous Outbreak.png"
+			}
+		},
+		{
+			"name": "Preying Ground",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/229_Preying Ground.png"
+			}
+		},
+		{
+			"name": "Drill Deep",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/140_Drill Deep.png"
+			}
+		},
+		{
+			"name": "Chromatic Voyage",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/137_Chromatic Voyage.png"
+			}
+		},
+		{
+			"name": "Glissa's Intervention",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/148_Glissa's Intervention.png"
+			}
+		},
+		{
+			"name": "Prototype Myr",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/205_Prototype Myr.png"
+			}
+		},
+		{
+			"name": "Reality Splinterer",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/3_Reality Splinterer.png"
+			}
+		},
+		{
+			"name": "Myr Squadron",
+			"rarity": "common",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/199_Myr Squadron.png"
+			}
+		},
+		{
+			"name": "Phyrexian Armor",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/203_Phyrexian Armor.png"
+			}
+		},
+		{
+			"name": "Purified Marauder",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/206_Purified Marauder.png"
+			}
+		},
+		{
+			"name": "Spirit of the Armory",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/26_Spirit of the Armory.png"
+			}
+		},
+		{
+			"name": "Evangel of Rebirth",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/11_Evangel of Rebirth.png"
+			}
+		},
+		{
+			"name": "Disciple of the Dawn",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Enchantment Creature — Giant ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/5_Disciple of the Dawn.png"
+			}
+		},
+		{
+			"name": "Stoneforged Simulacrum",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/29_Stoneforged Simulacrum.png"
+			}
+		},
+		{
+			"name": "Glimmerguff",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elemental ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/13_Glimmerguff.png"
+			}
+		},
+		{
+			"name": "Serran Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Equipment Angel ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/24_Serran Armor.png"
+			}
+		},
+		{
+			"name": "Metallic Genesis",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/16_Metallic Genesis.png"
+			}
+		},
+		{
+			"name": "Steel Oversoul",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/28_Steel Oversoul.png"
+			}
+		},
+		{
+			"name": "Trostani's Grasp",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/33_Trostani's Grasp.png"
+			}
+		},
+		{
+			"name": "Muster Support",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/17_Muster Support.png"
+			}
+		},
+		{
+			"name": "Tidal Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Wizard ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/64_Tidal Mage.png"
+			}
+		},
+		{
+			"name": "Myr Conduit",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/54_Myr Conduit.png"
+			}
+		},
+		{
+			"name": "Venser the Restorer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/67_Venser the Restorer.png"
+			}
+		},
+		{
+			"name": "Multi-Manufacturer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Artificer ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/53_Multi-Manufacturer.png"
+			}
+		},
+		{
+			"name": "Mechanized Legion",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/51_Mechanized Legion.png"
+			}
+		},
+		{
+			"name": "Set to the Start",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/60_Set to the Start.png"
+			}
+		},
+		{
+			"name": "All In",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/37_All In.png"
+			}
+		},
+		{
+			"name": "Force of Inertia",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/45_Force of Inertia.png"
+			}
+		},
+		{
+			"name": "Invoke the Past",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/48_Invoke the Past.png"
+			}
+		},
+		{
+			"name": "Denying Channel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/218_Denying Channel.png"
+			}
+		},
+		{
+			"name": "Decayed Remnant",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/74_Decayed Remnant.png"
+			}
+		},
+		{
+			"name": "Iterative Inventor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/84_Iterative Inventor.png"
+			}
+		},
+		{
+			"name": "Tinybones, Intelligence Raider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Skeleton Rogue ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/97_Tinybones, Intelligence Raider.png"
+			}
+		},
+		{
+			"name": "Dying",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/78_Dying.png"
+			}
+		},
+		{
+			"name": "Unearthed Awakener",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Wizard ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/98_Unearthed Awakener.png"
+			}
+		},
+		{
+			"name": "Dissenter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/76_Dissenter.png"
+			}
+		},
+		{
+			"name": "Void Harnesser",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/100_Void Harnesser.png"
+			}
+		},
+		{
+			"name": "Cut from the Source",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/73_Cut from the Source.png"
+			}
+		},
+		{
+			"name": "Echo of the Past",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/79_Echo of the Past.png"
+			}
+		},
+		{
+			"name": "Gravedigger's Consultation",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/82_Gravedigger's Consultation.png"
+			}
+		},
+		{
+			"name": "Deideation",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/75_Deideation.png"
+			}
+		},
+		{
+			"name": "Segovian Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/129_Segovian Dragon.png"
+			}
+		},
+		{
+			"name": "Pyre Fiend",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Devil ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/122_Pyre Fiend.png"
+			}
+		},
+		{
+			"name": "Kiran Nalaar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/116_Kiran Nalaar.png"
+			}
+		},
+		{
+			"name": "Goblin Rocketeer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goblin Artificer ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/114_Goblin Rocketeer.png"
+			}
+		},
+		{
+			"name": "Surge Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/133_Surge Titan.png"
+			}
+		},
+		{
+			"name": "Secret Weapon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Equipment Juggernaut ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/128_Secret Weapon.png"
+			}
+		},
+		{
+			"name": "Automated Inferno",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/102_Automated Inferno.png"
+			}
+		},
+		{
+			"name": "Explosive Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/111_Explosive Charm.png"
+			}
+		},
+		{
+			"name": "Fiery Outbreak",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/113_Fiery Outbreak.png"
+			}
+		},
+		{
+			"name": "Ionic Atmosphere",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/115_Ionic Atmosphere.png"
+			}
+		},
+		{
+			"name": "Rig the Reaction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/125_Rig the Reaction.png"
+			}
+		},
+		{
+			"name": "Overlaid Arbor",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Artifact Land Creature — Shapeshifter ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/223_Overlaid Arbor.png"
+			}
+		},
+		{
+			"name": "Rofellos, Yavimaya's Avatar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elf Avatar ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/159_Rofellos, Yavimaya's Avatar.png"
+			}
+		},
+		{
+			"name": "Inner Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Wolf ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/151_Inner Beast.png"
+			}
+		},
+		{
+			"name": "Regrowing Hydra",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Zombie Hydra ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/158_Regrowing Hydra.png"
+			}
+		},
+		{
+			"name": "Monster of the Underground",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Mole Horror ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/154_Monster of the Underground.png"
+			}
+		},
+		{
+			"name": "Druidic Oath",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/141_Druidic Oath.png"
+			}
+		},
+		{
+			"name": "Colossal Genesis",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/138_Colossal Genesis.png"
+			}
+		},
+		{
+			"name": "Skemfar Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/160_Skemfar Hermit.png"
+			}
+		},
+		{
+			"name": "Gerrymander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/146_Gerrymander.png"
+			}
+		},
+		{
+			"name": "Manabound Symbiote",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/153_Manabound Symbiote.png"
+			}
+		},
+		{
+			"name": "Plated Flats",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/225_Plated Flats.png"
+			}
+		},
+		{
+			"name": "Vault Worker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Phyrexian Myr ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/215_Vault Worker.png"
+			}
+		},
+		{
+			"name": "Scrapworker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Assembly-Worker ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/211_Scrapworker.png"
+			}
+		},
+		{
+			"name": "Likeness Manufacturer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Assembly-Worker ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/195_Likeness Manufacturer.png"
+			}
+		},
+		{
+			"name": "Grand Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/193_Grand Guardian.png"
+			}
+		},
+		{
+			"name": "Defiler of Logic",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/1_Defiler of Logic.png"
+			}
+		},
+		{
+			"name": "Magus of the Tax",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/15_Magus of the Tax.png"
+			}
+		},
+		{
+			"name": "Gideon, Multiverse's Ally",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Planeswalker — Gideon ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/12_Gideon, Multiverse's Ally.png"
+			}
+		},
+		{
+			"name": "Theran Peacekeeper",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Enchantment Creature — Angel ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/32_Theran Peacekeeper.png"
+			}
+		},
+		{
+			"name": "Weave",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/36_Weave.png"
+			}
+		},
+		{
+			"name": "Paradoxical Herald",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Angel ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/20_Paradoxical Herald.png"
+			}
+		},
+		{
+			"name": "Magus of the Typhoon",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/49_Magus of the Typhoon.png"
+			}
+		},
+		{
+			"name": "Sphinx of the Solemn Chamber",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Artifact Creature — Sphinx ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/61_Sphinx of the Solemn Chamber.png"
+			}
+		},
+		{
+			"name": "Teferi, Scion of Time",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Planeswalker — Teferi ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/62_Teferi, Scion of Time.png"
+			}
+		},
+		{
+			"name": "The Gearwork Clock",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/46_The Gearwork Clock.png"
+			}
+		},
+		{
+			"name": "Paradoxical Domain",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/56_Paradoxical Domain.png"
+			}
+		},
+		{
+			"name": "Renormalize",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/58_Renormalize.png"
+			}
+		},
+		{
+			"name": "Magus of the Blossom",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/87_Magus of the Blossom.png"
+			}
+		},
+		{
+			"name": "Sheoldred of the New Invasion",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Phyrexian Praetor ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/95_Sheoldred of the New Invasion.png"
+			}
+		},
+		{
+			"name": "Sorin, Life's Shadow",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Planeswalker — Sorin ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/96_Sorin, Life's Shadow.png"
+			}
+		},
+		{
+			"name": "Cacophony, God of Cities",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Enchantment Creature — Nightrmare God ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/71_Cacophony, God of Cities.png"
+			}
+		},
+		{
+			"name": "Paradoxical Ambusher",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Human Ninja ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/91_Paradoxical Ambusher.png"
+			}
+		},
+		{
+			"name": "Arrival of the Phyrexians",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/69_Arrival of the Phyrexians.png"
+			}
+		},
+		{
+			"name": "Elder Pyromancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/109_Elder Pyromancer.png"
+			}
+		},
+		{
+			"name": "Magus of the Vortex",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/118_Magus of the Vortex.png"
+			}
+		},
+		{
+			"name": "Slobad and Bosh",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Legendary Artifact Creature — Goblin Golem ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/132_Slobad and Bosh.png"
+			}
+		},
+		{
+			"name": "Pallel Outbreak",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/119_Pallel Outbreak.png"
+			}
+		},
+		{
+			"name": "Paradoxical Fluxuation",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/120_Paradoxical Fluxuation.png"
+			}
+		},
+		{
+			"name": "Magus of the Bond",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/152_Magus of the Bond.png"
+			}
+		},
+		{
+			"name": "Peregrine Dynamo, Supporter",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Construct ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/202_Peregrine Dynamo, Supporter.png"
+			}
+		},
+		{
+			"name": "Wrenn and Nine",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Planeswalker — Wrenn ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/165_Wrenn and Nine.png"
+			}
+		},
+		{
+			"name": "Paradoxical Evolution",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/157_Paradoxical Evolution.png"
+			}
+		},
+		{
+			"name": "Freyalise's Will",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/145_Freyalise's Will.png"
+			}
+		},
+		{
+			"name": "Mox Bismuth",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/196_Mox Bismuth.png"
+			}
+		},
+		{
+			"name": "Mox Zirconia",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/198_Mox Zirconia.png"
+			}
+		},
+		{
+			"name": "Singing City Reclaimed",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/232_Singing City Reclaimed.png"
+			}
+		},
+		{
+			"name": "Power of Light",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/254_Power of Light.png"
+			}
+		},
+		{
+			"name": "Utter Equilibrium",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/34_Utter Equilibrium.png"
+			}
+		},
+		{
+			"name": "Millie, Prodigal Clockmage",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Millie ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/52_Millie, Prodigal Clockmage.png"
+			}
+		},
+		{
+			"name": "Yawgmoth",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}{B}{B}{B}",
+			"type": "Legendary Creature — Phyrexian God ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/101_Yawgmoth.png"
+			}
+		},
+		{
+			"name": "Power of Darkness",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/277_Power of Darkness.png"
+			}
+		},
+		{
+			"name": "Power of Passion",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/287_Power of Passion.png"
+			}
+		},
+		{
+			"name": "Chandra, Incandescent",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Legendary Planeswalker — Chandra ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/103_Chandra, Incandescent.png"
+			}
+		},
+		{
+			"name": "Power of Nature",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/295_Power of Nature.png"
+			}
+		},
+		{
+			"name": "Glissa, the Hero",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Planeswalker — Glissa ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/147_Glissa, the Hero.png"
+			}
+		},
+		{
+			"name": "Bleeding Lotus",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/189_Bleeding Lotus.png"
+			}
+		},
+		{
+			"name": "Nicol Bolas, Power Perfected",
+			"rarity": "mythic",
+			"mana_cost": "{U}{H/U}{B}{H/B}{R}{H/R}",
+			"type": "Legendary Planeswalker — Bolas ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/178_Nicol Bolas, Power Perfected.png"
+			}
+		},
+		{
+			"name": "Ramaz, Agent of Chaos",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Planeswalker — Ramaz ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/182_Ramaz, Agent of Chaos.png"
+			}
+		},
+		{
+			"name": "Ghitu Encampment",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/220_Ghitu Encampment.png"
+			}
+		},
+		{
+			"name": "Karn Compleated",
+			"rarity": "mythic",
+			"mana_cost": "{9}HHH",
+			"type": "Legendary Planeswalker — Karn ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/2_Karn Compleated.png"
+			}
+		},
+		{
+			"name": "Mox Powerstone",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact — Powerstone ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/197_Mox Powerstone.png"
+			}
+		},
+		{
+			"name": "Zzn, Mirrodin's Legacy",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact Planeswalker — Zzn ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/216_Zzn, Mirrodin's Legacy.png"
+			}
+		},
+		{
+			"name": "Blighted Tomb",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/217_Blighted Tomb.png"
+			}
+		},
+		{
+			"name": "Grozoth, Titan of Plague's Reach",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Elder Giant ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/175_Grozoth, Titan of Plague's Reach.png"
+			}
+		},
+		{
+			"name": "Mishra's Manufactory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/222_Mishra's Manufactory.png"
+			}
+		},
+		{
+			"name": "Power of Mind",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/263_Power of Mind.png"
+			}
+		},
+		{
+			"name": "Pearl Keystone",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/201_Pearl Keystone.png"
+			}
+		},
+		{
+			"name": "Sapphire Keystone",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/210_Sapphire Keystone.png"
+			}
+		},
+		{
+			"name": "Jet Keystone",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/194_Jet Keystone.png"
+			}
+		},
+		{
+			"name": "Ruby Keystone",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/208_Ruby Keystone.png"
+			}
+		},
+		{
+			"name": "Emerald Keystone",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/191_Emerald Keystone.png"
+			}
+		},
+		{
+			"name": "Plated Tarn",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/228_Plated Tarn.png"
+			}
+		},
+		{
+			"name": "Plated Catacombs",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/224_Plated Catacombs.png"
+			}
+		},
+		{
+			"name": "Plated Mesa",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/226_Plated Mesa.png"
+			}
+		},
+		{
+			"name": "Plated Rainforest",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/227_Plated Rainforest.png"
+			}
+		},
+		{
+			"name": "Shattering Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{10}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/212_Shattering Titan.png"
+			}
+		},
+		{
+			"name": "Xenagos Unleashed",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Enchantment Creautre  — God ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/187_Xenagos Unleashed.png"
+			}
+		},
+		{
+			"name": "Wheel of Chance",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/185_Wheel of Chance.png"
+			}
+		},
+		{
+			"name": "Arrival of the Eldrazi",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/167_Arrival of the Eldrazi.png"
+			}
+		},
+		{
+			"name": "Activation Chain",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/166_Activation Chain.png"
+			}
+		},
+		{
+			"name": "Nightmarish Revelation",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}{B}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/179_Nightmarish Revelation.png"
+			}
+		},
+		{
+			"name": "Elvish Innovator",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elf Artificer ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/172_Elvish Innovator.png"
+			}
+		},
+		{
+			"name": "Augmenter-Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact Creature — Equipment Fox ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/169_Augmenter-Guardian.png"
+			}
+		},
+		{
+			"name": "Evict",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/174_Evict.png"
+			}
+		},
+		{
+			"name": "Astral Prison",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Artifact",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/168_Astral Prison.png"
+			}
+		},
+		{
+			"name": "Purity Orb",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/207_Purity Orb.png"
+			}
+		},
+		{
+			"name": "Awakening Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/188_Awakening Stone.png"
+			}
+		},
+		{
+			"name": "Paradox Fragment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Blood Clue Food Junk Powerstone Treasure ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/200_Paradox Fragment.png"
+			}
+		},
+		{
+			"name": "Starlit Tundra",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/241_Starlit Tundra.png"
+			}
+		},
+		{
+			"name": "Starlit Sea",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/238_Starlit Sea.png"
+			}
+		},
+		{
+			"name": "Starlit Badlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/233_Starlit Badlands.png"
+			}
+		},
+		{
+			"name": "Starlit Taiga",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/239_Starlit Taiga.png"
+			}
+		},
+		{
+			"name": "Starlit Savannah",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/236_Starlit Savannah.png"
+			}
+		},
+		{
+			"name": "Starlit Scrubland",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/237_Starlit Scrubland.png"
+			}
+		},
+		{
+			"name": "Starlit Bayou",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/234_Starlit Bayou.png"
+			}
+		},
+		{
+			"name": "Starlit Tropics",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/240_Starlit Tropics.png"
+			}
+		},
+		{
+			"name": "Starlit Volcano",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/242_Starlit Volcano.png"
+			}
+		},
+		{
+			"name": "Starlit Plateau",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/235_Starlit Plateau.png"
+			}
+		},
+		{
+			"name": "Sword of Everything and Nothing",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/214_Sword of Everything and Nothing.png"
+			}
+		},
+		{
+			"name": "Blightsteel Mox",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/190_Blightsteel Mox.png"
+			}
+		},
+		{
+			"name": "Piron, Myr Overarch",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Myr ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/204_Piron, Myr Overarch.png"
+			}
+		},
+		{
+			"name": "Filigree Lotus",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/192_Filigree Lotus.png"
+			}
+		},
+		{
+			"name": "Tolaria, Sunken Isle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/243_Tolaria, Sunken Isle.png"
+			}
+		},
+		{
+			"name": "Spire Hub",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/213_Spire Hub.png"
+			}
+		},
+		{
+			"name": "Storied Giant",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{G}{G}",
+			"type": "Creature — Giant Noble ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/162_Storied Giant.png"
+			}
+		},
+		{
+			"name": "Rift Gate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/230_Rift Gate.png"
+			}
+		},
+		{
+			"name": "Daretti, Crazed Cogsmith",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Planeswalker — Daretti ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/107_Daretti, Crazed Cogsmith.png"
+			}
+		},
+		{
+			"name": "Runed Warhammer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/209_Runed Warhammer.png"
+			}
+		},
+		{
+			"name": "Thalia, Guardian of Worlds",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/31_Thalia, Guardian of Worlds.png"
+			}
+		},
+		{
+			"name": "Master Maniac",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/50_Master Maniac.png"
+			}
+		},
+		{
+			"name": "Gnaw",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/149_Gnaw.png"
+			}
+		},
+		{
+			"name": "Faithless Rummaging",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/112_Faithless Rummaging.png"
+			}
+		},
+		{
+			"name": "Segovian Summoning",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/23_Segovian Summoning.png"
+			}
+		},
+		{
+			"name": "Emrakul, the Aeons Torn",
+			"rarity": "mythic",
+			"mana_cost": "{15}",
+			"type": "Legendary Creature — Eldrazi ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/245_Emrakul, the Aeons Torn.png"
+			}
+		},
+		{
+			"name": "Rise of the Eldrazi",
+			"rarity": "mythic",
+			"mana_cost": "{9}{C}{C}{C}",
+			"type": "Sorcery",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/246_Rise of the Eldrazi.png"
+			}
+		},
+		{
+			"name": "Armageddon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/247_Armageddon.png"
+			}
+		},
+		{
+			"name": "Elesh Norn, Grand Cenobite",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Creature — Phyrexian Praetor ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/248_Elesh Norn, Grand Cenobite.png"
+			}
+		},
+		{
+			"name": "Elite Spellbinder",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/249_Elite Spellbinder.png"
+			}
+		},
+		{
+			"name": "Elspeth, Knight-Errant",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Elspeth ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/250_Elspeth, Knight-Errant.png"
+			}
+		},
+		{
+			"name": "Enlightened Tutor",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instnat",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/251_Enlightened Tutor.png"
+			}
+		},
+		{
+			"name": "Ephemerate",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/252_Ephemerate.png"
+			}
+		},
+		{
+			"name": "Porcelain Legionnaire",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{H/W}",
+			"type": "Artifact Creature — Phyrexian Soldier ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/253_Porcelain Legionnaire.png"
+			}
+		},
+		{
+			"name": "Sun Titan",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Giant ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/255_Sun Titan.png"
+			}
+		},
+		{
+			"name": "Swords to Plowshares",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/256_Swords to Plowshares.png"
+			}
+		},
+		{
+			"name": "Wrath of God",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/257_Wrath of God.png"
+			}
+		},
+		{
+			"name": "Brainstorm",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/258_Brainstorm.png"
+			}
+		},
+		{
+			"name": "Counterspell",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/259_Counterspell.png"
+			}
+		},
+		{
+			"name": "Frost Titan",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Giant ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/260_Frost Titan.png"
+			}
+		},
+		{
+			"name": "Jace, the Mind Sculptor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Jace ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/261_Jace, the Mind Sculptor.png"
+			}
+		},
+		{
+			"name": "Mystical Tutor",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/262_Mystical Tutor.png"
+			}
+		},
+		{
+			"name": "Snapcaster Mage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/264_Snapcaster Mage.png"
+			}
+		},
+		{
+			"name": "Tezzeret the Seeker",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Tezzeret ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/265_Tezzeret the Seeker.png"
+			}
+		},
+		{
+			"name": "Tinker",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/266_Tinker.png"
+			}
+		},
+		{
+			"name": "Trinket Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/267_Trinket Mage.png"
+			}
+		},
+		{
+			"name": "Urza, Lord High Artificer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/268_Urza, Lord High Artificer.png"
+			}
+		},
+		{
+			"name": "Archon of Cruelty",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Archon ",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/269_Archon of Cruelty.png"
+			}
+		},
+		{
+			"name": "Bolas's Citadel",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/270_Bolas's Citadel.png"
+			}
+		},
+		{
+			"name": "Dark Confidant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/271_Dark Confidant.png"
+			}
+		},
+		{
+			"name": "Dark Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/272_Dark Ritual.png"
+			}
+		},
+		{
+			"name": "Doomsday",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/273_Doomsday.png"
+			}
+		},
+		{
+			"name": "Exhume",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/274_Exhume.png"
+			}
+		},
+		{
+			"name": "Grave Titan",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Giant ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/275_Grave Titan.png"
+			}
+		},
+		{
+			"name": "Liliana, Death's Majesty",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Liliana ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/276_Liliana, Death's Majesty.png"
+			}
+		},
+		{
+			"name": "Putrid Imp",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Imp ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/278_Putrid Imp.png"
+			}
+		},
+		{
+			"name": "Vampiric Tutor",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/279_Vampiric Tutor.png"
+			}
+		},
+		{
+			"name": "Gamble",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/280_Gamble.png"
+			}
+		},
+		{
+			"name": "Inferno Titan",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Giant ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/281_Inferno Titan.png"
+			}
+		},
+		{
+			"name": "Kiki-Jiki, Mirror Breaker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Creature — Goblin Shaman ",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/282_Kiki-Jiki, Mirror Breaker.png"
+			}
+		},
+		{
+			"name": "Koth of the Hammer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Koth ",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/283_Koth of the Hammer.png"
+			}
+		},
+		{
+			"name": "Light Up the Stage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/284_Light Up the Stage.png"
+			}
+		},
+		{
+			"name": "Lightning Bolt",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/285_Lightning Bolt.png"
+			}
+		},
+		{
+			"name": "Past in Flames",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/286_Past in Flames.png"
+			}
+		},
+		{
+			"name": "Seasoned Pyromancer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/288_Seasoned Pyromancer.png"
+			}
+		},
+		{
+			"name": "Sneak Attack",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/289_Sneak Attack.png"
+			}
+		},
+		{
+			"name": "Young Pyromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/290_Young Pyromancer.png"
+			}
+		},
+		{
+			"name": "Channel",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/291_Channel.png"
+			}
+		},
+		{
+			"name": "Garruk Wildspeaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Garruk ",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/292_Garruk Wildspeaker.png"
+			}
+		},
+		{
+			"name": "Llanowar Elves",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/293_Llanowar Elves.png"
+			}
+		},
+		{
+			"name": "Natural Order",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/294_Natural Order.png"
+			}
+		},
+		{
+			"name": "Primeval Titan",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Giant ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/296_Primeval Titan.png"
+			}
+		},
+		{
+			"name": "Rancor",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/297_Rancor.png"
+			}
+		},
+		{
+			"name": "Reclamation Sage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/298_Reclamation Sage.png"
+			}
+		},
+		{
+			"name": "Tireless Tracker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/299_Tireless Tracker.png"
+			}
+		},
+		{
+			"name": "Worldly Tutor",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/300_Worldly Tutor.png"
+			}
+		},
+		{
+			"name": "Worldspine Wurm",
+			"rarity": "mythic",
+			"mana_cost": "{8}{G}{G}{G}",
+			"type": "Creature — Wurm ",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/301_Worldspine Wurm.png"
+			}
+		},
+		{
+			"name": "Dack Fayden",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Dack ",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/302_Dack Fayden.png"
+			}
+		},
+		{
+			"name": "Progenitus",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
+			"type": "Creature — Hydra Avatar ",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/303_Progenitus.png"
+			}
+		},
+		{
+			"name": "Basalt Monolith",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/304_Basalt Monolith.png"
+			}
+		},
+		{
+			"name": "Golos, Tireless Pilgrim",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Scout ",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/305_Golos, Tireless Pilgrim.png"
+			}
+		},
+		{
+			"name": "Lotus Petal",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/306_Lotus Petal.png"
+			}
+		},
+		{
+			"name": "Mana Crypt",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/307_Mana Crypt.png"
+			}
+		},
+		{
+			"name": "Skullclamp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/308_Skullclamp.png"
+			}
+		},
+		{
+			"name": "Sol Ring",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/309_Sol Ring.png"
+			}
+		},
+		{
+			"name": "Walking Ballista",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}",
+			"type": "Artifact",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/310_Walking Ballista.png"
+			}
+		},
+		{
+			"name": "Mana Confluence",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/311_Mana Confluence.png"
+			}
+		},
+		{
+			"name": "Strip Mine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/EH1-files/img/312_Strip Mine.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Boros Exemplar
+		2 Embodiment of Arcana
+		2 Defiler of Logic
+		2 Magus of the Tax
+		2 Gideon, Multiverse's Ally
+		2 Theran Peacekeeper
+		2 Weave
+		2 Paradoxical Herald
+		2 Magus of the Typhoon
+		2 Teferi, Scion of Time
+		2 The Gearwork Clock
+		2 Paradoxical Domain
+		2 Renormalize
+		2 Magus of the Blossom
+		2 Sheoldred of the New Invasion
+		2 Sorin, Life's Shadow
+		2 Cacophony, God of Cities
+		2 Paradoxical Ambusher
+		2 Arrival of the Phyrexians
+		2 Elder Pyromancer
+		2 Magus of the Vortex
+		2 Slobad and Bosh
+		2 Pallel Outbreak
+		2 Paradoxical Fluxuation
+		2 Magus of the Bond
+		2 Peregrine Dynamo, Supporter
+		2 Wrenn and Nine
+		2 Paradoxical Evolution
+		2 Freyalise's Will
+		2 Mox Bismuth
+		2 Mox Zirconia
+		2 Singing City Reclaimed
+		2 Mox Powerstone
+		2 Zzn, Mirrodin's Legacy
+		2 Blighted Tomb
+		2 Grozoth, Titan of Plague's Reach
+		2 Mishra's Manufactory
+		2 Xenagos Unleashed
+		2 Wheel of Chance
+		2 Arrival of the Eldrazi
+		2 Activation Chain
+		2 Nightmarish Revelation
+		2 Elvish Innovator
+		2 Evict
+		2 Astral Prison
+		2 Sword of Everything and Nothing
+		2 Blightsteel Mox
+		2 Piron, Myr Overarch
+		2 Filigree Lotus
+		2 Tolaria, Sunken Isle
+		2 Storied Giant
+		2 Daretti, Crazed Cogsmith
+		2 Segovian Summoning
+		1 Power of Light
+		1 Utter Equilibrium
+		1 Millie, Prodigal Clockmage
+		1 Yawgmoth
+		1 Power of Darkness
+		1 Power of Passion
+		1 Chandra, Incandescent
+		1 Power of Nature
+		1 Glissa, the Hero
+		1 Bleeding Lotus
+		1 Nicol Bolas, Power Perfected
+		1 Ramaz, Agent of Chaos
+		1 Ghitu Encampment
+		1 Karn Compleated
+		1 Power of Mind
+		[UncommonSlot(3)]
+	9 Myr Drafter
+		9 Nyxborn Seraph
+		9 Esika's Blessing
+		9 Sphinx of the Unsolvable Riddle
+		9 Perfect Storm
+		9 Burst from Below
+		9 Undercity Renewal
+		9 Maelstrom Scion
+		9 Worldbond
+		9 Flight Engineer
+		9 Phyrexian Culling
+		9 Spirit of the Armory
+		9 Evangel of Rebirth
+		9 Disciple of the Dawn
+		9 Stoneforged Simulacrum
+		9 Glimmerguff
+		9 Serran Armor
+		9 Metallic Genesis
+		9 Steel Oversoul
+		9 Trostani's Grasp
+		9 Muster Support
+		9 Tidal Mage
+		9 Venser the Restorer
+		9 Multi-Manufacturer
+		9 Set to the Start
+		9 All In
+		9 Force of Inertia
+		9 Invoke the Past
+		9 Denying Channel
+		9 Decayed Remnant
+		9 Iterative Inventor
+		9 Tinybones, Intelligence Raider
+		9 Dying
+		9 Unearthed Awakener
+		9 Dissenter
+		9 Void Harnesser
+		9 Cut from the Source
+		9 Echo of the Past
+		9 Gravedigger's Consultation
+		9 Segovian Dragon
+		9 Pyre Fiend
+		9 Kiran Nalaar
+		9 Goblin Rocketeer
+		9 Surge Titan
+		9 Secret Weapon
+		9 Automated Inferno
+		9 Explosive Charm
+		9 Fiery Outbreak
+		9 Ionic Atmosphere
+		9 Rig the Reaction
+		9 Overlaid Arbor
+		9 Rofellos, Yavimaya's Avatar
+		9 Inner Beast
+		9 Regrowing Hydra
+		9 Monster of the Underground
+		9 Druidic Oath
+		9 Colossal Genesis
+		9 Skemfar Hermit
+		9 Gerrymander
+		9 Manabound Symbiote
+		9 Plated Flats
+		9 Vault Worker
+		9 Scrapworker
+		9 Likeness Manufacturer
+		9 Grand Guardian
+		9 Sphinx of the Solemn Chamber
+		9 Plated Tarn
+		9 Plated Catacombs
+		9 Plated Mesa
+		9 Plated Rainforest
+		9 Shattering Titan
+		9 Augmenter-Guardian
+		9 Purity Orb
+		9 Awakening Stone
+		9 Paradox Fragment
+		9 Rift Gate
+		9 Runed Warhammer
+		9 Thalia, Guardian of Worlds
+		9 Master Maniac
+		9 Gnaw
+		[CommonSlot(10)]
+	30 Disenchantment Priest
+		30 Distinguished Bladesmith
+		30 Myr Signaler
+		30 Eldrazi Communer
+		30 Warrior's Blade
+		30 Esper Innovator
+		30 Symbiotic Skeleton
+		30 Myr Liberator
+		30 Lieutenant of Bladehold
+		30 Resourceful Officer
+		30 Soulblade Samurai
+		30 Righteous Range
+		30 Rift Containment
+		30 Eminent Domain
+		30 Chromatic Boon
+		30 Spiritual Awakening
+		30 Consideration Mage
+		30 Eldrazi Envisioner
+		30 Salvage Search
+		30 Thundering Flock
+		30 Tooth Snatcher
+		30 Paradox Elemental
+		30 Crossland Transport
+		30 Gitaxian Advancement
+		30 Disperse
+		30 Reason of Insanity
+		30 Chromatic Visions
+		30 Treasured Thoughts
+		30 Impeding Sea
+		30 Fiddle Box
+		30 Duressing Spy
+		30 Eidolon of the Waning Moon
+		30 Macabre Militia
+		30 Eldrazi Siphoner
+		30 Mortapiller
+		30 Azra Necromancer
+		30 Orzhov Automaton
+		30 Insatiable Invader
+		30 Phyrexian Gearhulk
+		30 Phyrexian Consumption
+		30 Despised Bog
+		30 Untold Secrets
+		30 Necrotic Oblivion
+		30 Chromatic Salvage
+		30 Life Debt
+		30 Lava Elemental
+		30 Rift Anomaly
+		30 Shard Golem
+		30 Rubble Rummager
+		30 Eldrazi Imbuer
+		30 Disciple of Keral Keep
+		30 Chaos Sledge
+		30 Scrap Golem
+		30 Conscripted Battle-Chair
+		30 Siege Titan
+		30 Possibility Outbreak
+		30 Chromatic Storm
+		30 Tormenting Peaks
+		30 Vial of Catalyst
+		30 Rain of Debris
+		30 Elvish Shineseeker
+		30 Cropspinner Druid
+		30 Elvish Conduit
+		30 Outlands Taskmaster
+		30 Terraformed Elemental
+		30 Eldrazi Amplifier
+		30 Golgari Growthmage
+		30 Spawning Spider
+		30 Chaotic Dreadmaw
+		30 Carnage Colossus
+		30 Triumph of the Monstrous
+		30 Monstrous Outbreak
+		30 Preying Ground
+		30 Drill Deep
+		30 Chromatic Voyage
+		30 Glissa's Intervention
+		30 Prototype Myr
+		30 Reality Splinterer
+		30 Myr Squadron
+		30 Phyrexian Armor
+		30 Purified Marauder
+		30 Myr Conduit
+		30 Mechanized Legion
+		30 Deideation
+		30 Pearl Keystone
+		30 Sapphire Keystone
+		30 Jet Keystone
+		30 Ruby Keystone
+		30 Emerald Keystone
+		30 Starlit Tundra
+		30 Starlit Sea
+		30 Starlit Badlands
+		30 Starlit Taiga
+		30 Starlit Savannah
+		30 Starlit Scrubland
+		30 Starlit Bayou
+		30 Starlit Tropics
+		30 Starlit Volcano
+		30 Starlit Plateau
+		30 Spire Hub
+		30 Faithless Rummaging
+		[LandSlot(1)]
+	10 Emrakul, the Aeons Torn
+		10 Rise of the Eldrazi
+		10 Armageddon
+		10 Elesh Norn, Grand Cenobite
+		10 Elite Spellbinder
+		10 Elspeth, Knight-Errant
+		10 Enlightened Tutor
+		10 Ephemerate
+		10 Porcelain Legionnaire
+		10 Sun Titan
+		10 Swords to Plowshares
+		10 Wrath of God
+		10 Brainstorm
+		10 Counterspell
+		10 Frost Titan
+		10 Jace, the Mind Sculptor
+		10 Mystical Tutor
+		10 Snapcaster Mage
+		10 Tezzeret the Seeker
+		10 Tinker
+		10 Trinket Mage
+		10 Urza, Lord High Artificer
+		10 Archon of Cruelty
+		10 Bolas's Citadel
+		10 Dark Confidant
+		10 Dark Ritual
+		10 Doomsday
+		10 Exhume
+		10 Grave Titan
+		10 Liliana, Death's Majesty
+		10 Putrid Imp
+		10 Vampiric Tutor
+		10 Gamble
+		10 Inferno Titan
+		10 Kiki-Jiki, Mirror Breaker
+		10 Koth of the Hammer
+		10 Light Up the Stage
+		10 Lightning Bolt
+		10 Past in Flames
+		10 Seasoned Pyromancer
+		10 Sneak Attack
+		10 Young Pyromancer
+		10 Channel
+		10 Garruk Wildspeaker
+		10 Llanowar Elves
+		10 Natural Order
+		10 Primeval Titan
+		10 Rancor
+		10 Reclamation Sage
+		10 Tireless Tracker
+		10 Worldly Tutor
+		10 Worldspine Wurm
+		10 Dack Fayden
+		10 Progenitus
+		10 Basalt Monolith
+		10 Golos, Tireless Pilgrim
+		10 Lotus Petal
+		10 Mana Crypt
+		10 Skullclamp
+		10 Sol Ring
+		10 Walking Ballista
+		10 Mana Confluence
+		10 Strip Mine
+		

@@ -1,0 +1,1 @@
+﻿Elite Spellbinder	W	rare	Creature – Human Cleric 	249	W	2W	FlyingNEWLINEWhen Elite Spellbinder enters the battlefield, look at target opponent’s hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs 2 more to cast.	3/1		normal	EH1		!landslot

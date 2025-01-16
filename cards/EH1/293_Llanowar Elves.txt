@@ -1,0 +1,1 @@
+﻿Llanowar Elves	G	uncommon	Creature – Elf 	293	G	G	T: Add G.	1/1		normal	EH1		!landslot

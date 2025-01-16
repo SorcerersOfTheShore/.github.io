@@ -1,0 +1,1 @@
+﻿Soulblade Samurai	W	common	Enchantment Creature – Samurai 	25	W	4WW	VigilanceNEWLINEWhen Soulblade Samurai enters the battlefield, exile target creature or planeswalker until Soulblade Samurai leaves the battlefield.NEWLINEPlainscycling 2 (2, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)	4/4		normal	EH1		

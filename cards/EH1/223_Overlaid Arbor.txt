@@ -1,0 +1,1 @@
+﻿Overlaid Arbor	G	uncommon	Enchantment Artifact Land Creature – Shapeshifter 	223	G		(Overlaid Arbor isn’t a spell. It’s affected by summoning sickness.)NEWLINEOverlaid Arbor is green.NEWLINEChangeling (This card is every creature type.)NEWLINET: Add G.	0/1		normal	EH1		

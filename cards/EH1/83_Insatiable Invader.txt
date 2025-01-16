@@ -1,0 +1,1 @@
+﻿Insatiable Invader		common	Creature – Eldrazi 	83	B	4B	Devoid (This card has no color.)NEWLINEFlyingNEWLINEYou may cast Insatiable Invader from your graveyard.	3/3		normal	EH1		

@@ -1,0 +1,1 @@
+﻿Counterspell	U	uncommon	Instant	259	U	UU	Counter target spell.			normal	EH1		!landslot

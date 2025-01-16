@@ -1,0 +1,1 @@
+﻿Power of Passion	R	mythic	Sorcery	287	R	1R	Exile the top five cards of your library. Until end of turn, you NEWLINEmay play cards exiled this way.			normal	EH1		Power

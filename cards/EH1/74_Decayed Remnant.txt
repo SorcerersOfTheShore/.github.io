@@ -1,0 +1,1 @@
+﻿Decayed Remnant	B	uncommon	Creature – Skeleton 	74	B	B	Dredge 5 (If you would draw a card, you may mill five cards instead. If you do, return this card from your graveyard to your hand.)	1/1		normal	EH1		

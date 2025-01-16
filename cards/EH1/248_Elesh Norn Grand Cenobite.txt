@@ -1,0 +1,1 @@
+﻿Elesh Norn, Grand Cenobite	W	mythic	Legendary Creature – Phyrexian Praetor 	248	W	5WW	VigilanceNEWLINEOther creatures you control get +2/+2.NEWLINECreatures your opponents control get -2/-2.	4/7		normal	EH1		!landslot

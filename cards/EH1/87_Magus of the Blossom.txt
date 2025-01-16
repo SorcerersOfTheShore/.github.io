@@ -1,0 +1,1 @@
+﻿Magus of the Blossom	B	rare	Creature – Human Wizard 	87	B	1B	At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.	1/1		normal	EH1		

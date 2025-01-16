@@ -1,0 +1,1 @@
+﻿Grand Guardian		uncommon	Artifact Creature – Construct 	193	C	6	Affinity for creatures (This spell costs 1 less to cast for each creature you control.)	6/6		normal	EH1		

@@ -1,0 +1,1 @@
+﻿Myr Squadron		common	Artifact Creature – Myr 	199	C	8	When Myr Squadron enters the battlefield, create four 1/1 colorless Myr artifact creature tokens.NEWLINEWhenever Myr Squadron attacks, it gets +X/+X until end of turn, where X is the number of other artifact creatures you control.	4/4		normal	EH1		

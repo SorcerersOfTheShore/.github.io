@@ -1,0 +1,1 @@
+﻿Eldrazi Imbuer		common	Creature – Eldrazi 	110	R	2R	Devoid (This card has no color.)NEWLINEHasteNEWLINEWhen Eldrazi Imbuer enters the battlefield, you may pay 7. If you do, target creature gets +10/+0 and gains trample until end of turn. Otherwise, that creature gets +2/+0 until end of turn.	2/3		normal	EH1		

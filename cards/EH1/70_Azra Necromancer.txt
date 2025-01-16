@@ -1,0 +1,1 @@
+﻿Azra Necromancer	B	common	Creature – Azra Wizard 	70	B	3B	When Azra Necromancer enters the battlefield, you may return target non-Azra creature card from your graveyard to your hand.	2/2		adventure	EH1		Bury the Competition	B	Sorcery – Adventure 	B	B	Any number of target players each mill three cards. (Then exile this card. You may cast the artifact later from exile.)				

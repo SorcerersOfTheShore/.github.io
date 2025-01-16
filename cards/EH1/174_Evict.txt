@@ -1,0 +1,1 @@
+﻿Evict	WB	rare	Sorcery	174	WB	1WB	Choose one. Exile target permanent if it’s the chosen type.NEWLINE• ArtifactNEWLINE• CreatureNEWLINE• EnchantmentNEWLINE• PlaneswalkerNEWLINEOverload 4WB (You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)			normal	EH1		

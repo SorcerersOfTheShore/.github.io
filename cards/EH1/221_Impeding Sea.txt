@@ -1,0 +1,1 @@
+﻿Impeding Sea		common	Land – Island 	221	U		(T: Add U.)NEWLINEImpeding Sea enters the battlefield tapped.NEWLINE1U, T, Sacrifice Impeding Sea: Tap target nonland permanent and put three stun counters on it. Activate only as a sorcery. (If a permanent with a stun counter would become untapped, remove one from it instead.)			normal	EH1		

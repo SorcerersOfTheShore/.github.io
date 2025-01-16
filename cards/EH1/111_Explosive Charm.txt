@@ -1,0 +1,1 @@
+﻿Explosive Charm	R	uncommon	Sorcery	111	R	XR	Choose one–NEWLINE• Explosive Charm deals X damage to any target.NEWLINE• Discard up to X cards, then draw that many cards.NEWLINE• Destroy target artifact with mana value X or less.			normal	EH1		

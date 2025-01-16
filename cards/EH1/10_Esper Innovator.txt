@@ -1,0 +1,1 @@
+﻿Esper Innovator	W	common	Artifact Creature – Human Artificer 	10	W	2W	When Esper Innovator enters the battlefield, create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.”	1/1		normal	EH1		

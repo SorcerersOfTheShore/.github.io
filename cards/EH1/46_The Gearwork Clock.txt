@@ -1,0 +1,1 @@
+﻿The Gearwork Clock	U	rare	Legendary Artifact	46	U	1U	T: Put an eon counter on The Gearwork Clock.NEWLINET, Remove three eon counters from The Gearwork Clock: Take an extra turn after this one. Activate only as a sorcery.			normal	EH1		

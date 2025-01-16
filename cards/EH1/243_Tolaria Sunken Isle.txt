@@ -1,0 +1,1 @@
+﻿Tolaria, Sunken Isle		rare	Legendary Land	243	C		Each land is an Island in addition to its other land types.			normal	EH1		

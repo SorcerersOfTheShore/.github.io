@@ -1,0 +1,1 @@
+﻿Druidic Oath	G	uncommon	Sorcery	141	G	1G	Cast this spell only if an opponent controls more creatures than you.NEWLINEReveal cards from the top of your library until your reveal a creature card. Put that card onto the battlefield and all other cards revealed this way into your graveyard. Exile Druidic Oath.			normal	EH1		

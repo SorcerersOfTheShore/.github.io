@@ -1,0 +1,1 @@
+﻿Seasoned Pyromancer	R	rare	Creature – Human Shaman 	288	R	1RR	When Seasoned Pyromancer enters the battlefield, discard two cards, then draw two cards. For each nonland card discarded this way, create a 1/1 red Elemental creature token.NEWLINE3RR, Exile Seasoned Pyromancer from your graveyard: Create two 1/1 red Elemental creature tokens.	2/2		normal	EH1		!landslot

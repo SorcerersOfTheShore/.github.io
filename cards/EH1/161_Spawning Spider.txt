@@ -1,0 +1,1 @@
+﻿Spawning Spider	G	common	Creature – Spider 	161	G	4G	ReachNEWLINEWhen Spawning Spider enters the battlefield, create a 1/2 green Spider creature token with reach for each creature card in your graveyard.NEWLINECycling 2 (2, Discard this card: Draw a card.)	1/2		normal	EH1		

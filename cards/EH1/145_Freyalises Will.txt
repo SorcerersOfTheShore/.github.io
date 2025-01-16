@@ -1,0 +1,1 @@
+﻿Freyalise's Will	G	rare	Sorcery	145	G	2G	Until end of turn, you may play lands and cast spells from your graveyard.NEWLINEIf a card would be put into your graveyard from anywhere this turn, exile that card instead.			normal	EH1		

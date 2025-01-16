@@ -1,0 +1,1 @@
+﻿Inner Beast	G	uncommon	Enchantment Creature – Wolf 	151	G	2G	Bestow 0 (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)NEWLINE(Inner Beast has no other effect while it’s attached to a creature.)	3/3		normal	EH1		

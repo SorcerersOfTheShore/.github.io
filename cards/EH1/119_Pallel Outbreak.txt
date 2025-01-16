@@ -1,0 +1,1 @@
+﻿Pallel Outbreak	R	rare	Sorcery	119	R	4RR	Shuffle your library, then reveal cards from the top of your library until you reveal a nonland permanent card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.NEWLINEStorm (When you cast this spell, copy it for each spell cast before it this turn.)			normal	EH1		

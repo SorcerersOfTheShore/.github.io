@@ -1,0 +1,1 @@
+﻿Reason of Insanity	U	common	Instant	57	U	U	Counter target noncreature spell unless its controller pays 1.NEWLINEDelirium – If there are four or more card types among cards in your graveyard, counter that spell instead.			normal	EH1		

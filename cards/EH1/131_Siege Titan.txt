@@ -1,0 +1,1 @@
+﻿Siege Titan	R	common	Artifact Creature – Construct 	131	R	6RR	First strike, hasteNEWLINEWhen Siege Titan enters the battlefield, it deals 3 damage to any target.	6/6		normal	EH1		

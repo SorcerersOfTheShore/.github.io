@@ -1,0 +1,1 @@
+﻿Sol Ring		rare	Artifact	309	C	1	T: Add CC.			normal	EH1		!landslot

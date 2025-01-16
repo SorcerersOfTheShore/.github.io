@@ -1,0 +1,1 @@
+﻿Pyre Fiend	R	uncommon	Creature – Devil 	122	R	RR	Whenever a player casts a spell, Pyre Fiend deals 1 damage to that player.	3/1		normal	EH1		

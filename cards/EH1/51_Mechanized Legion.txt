@@ -1,0 +1,1 @@
+﻿Mechanized Legion	U	common	Sorcery	51	U	4UU	Create three 0/0 Construct artifact creature tokens with “This creature gets +1/+1 for each artifact you control.”			normal	EH1		

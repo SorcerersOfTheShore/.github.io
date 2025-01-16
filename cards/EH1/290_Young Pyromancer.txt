@@ -1,0 +1,1 @@
+﻿Young Pyromancer	R	uncommon	Creature – Human Shaman 	290	R	1R	Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.	2/1		normal	EH1		!landslot

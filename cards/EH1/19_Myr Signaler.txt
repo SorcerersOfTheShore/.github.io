@@ -1,0 +1,1 @@
+﻿Myr Signaler	W	common	Artifact Creature – Myr 	19	W	1W	FlashNEWLINEWhen Myr Signaler enters the battlefield, untap up to one target nonland permanent you control.	1/1		normal	EH1		

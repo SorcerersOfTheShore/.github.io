@@ -1,0 +1,1 @@
+﻿Tidal Mage	U	uncommon	Creature – Merfolk Wizard 	64	U	U	Sacrifice Tidal Mage: Until end of turn, whenever you tap an Island for mana, add an additional U.	1/1		normal	EH1		

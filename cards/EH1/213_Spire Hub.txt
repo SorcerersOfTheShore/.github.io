@@ -1,0 +1,1 @@
+﻿Spire Hub		common	Artifact	213	C	5	Affinity for artifacts (This spell costs 1 less to cast for each artifact you control.)NEWLINET: Add C.			normal	EH1		

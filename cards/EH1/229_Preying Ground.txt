@@ -1,0 +1,1 @@
+﻿Preying Ground		common	Land – Forest 	229	G		(T: Add G.)NEWLINEPreying Ground enters the battlefield tapped.NEWLINE1G, T, Sacrifice Preying Ground: Target creature you control fights target creature you don’t control. Activate only as a sorcery.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Evangel of Rebirth	W	uncommon	Creature – Human Cleric 	11	W	W	3W, Exile Evangel of Rebirth: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.	1/1		normal	EH1		

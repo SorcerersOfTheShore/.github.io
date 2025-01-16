@@ -1,0 +1,1 @@
+﻿Lieutenant of Bladehold	W	common	Creature – Human Knight 	14	W	2WW	Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)NEWLINEWhen Lieutenant of Bladehold enters the battlefield, populate. (Create a token that’s a copy of a creature token you control.)	3/4		normal	EH1		

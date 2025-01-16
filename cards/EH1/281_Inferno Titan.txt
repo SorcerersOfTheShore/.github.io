@@ -1,0 +1,1 @@
+﻿Inferno Titan	R	rare	Creature – Giant 	281	R	4RR	R: Inferno Titan gets +1/+0 until end of turn.NEWLINEWhenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets.	6/6		normal	EH1		!landslot

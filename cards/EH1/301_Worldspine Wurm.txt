@@ -1,0 +1,1 @@
+﻿Worldspine Wurm	G	mythic	Creature – Wurm 	301	G	8GGG	TrampleNEWLINEWhen Worldspine Wurm dies, create three 5/5 green Wurm creature tokens with trample.NEWLINEWhen Worldspine Wurm is put into a graveyard from anywhere, shuffle it into its owner’s library.	15/15		normal	EH1		!landslot

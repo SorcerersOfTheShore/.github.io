@@ -1,0 +1,1 @@
+﻿Tooth Snatcher	U	common	Creature – Faerie 	65	U	3U	FlyingNEWLINEWhen Tooth Snatcher enters the battlefield, create a Treasure token.	3/3		adventure	EH1		Take the Tooth	U	Instant – Adventure 	U	U	Return target noncreature, nonland permanent to its owner’s hand. (Then exile this card. You may cast the artifact later from exile.)				

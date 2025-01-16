@@ -1,0 +1,1 @@
+﻿Glissa, the Hero	G	mythic	Legendary Planeswalker – Glissa 	147	G	1GG			[+2]: Untap target land.NEWLINE[-1]: Destroy target artifact or enchantment. If it has mana value 6 or greater, put two loyalty counters on Glissa, the Hero.NEWLINE[-6]: Return up to three target cards from your graveyard to your hand.	planeswalker	EH1	3	47

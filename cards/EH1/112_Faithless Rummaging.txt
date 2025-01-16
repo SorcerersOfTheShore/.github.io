@@ -1,0 +1,1 @@
+﻿Faithless Rummaging	R	common	Sorcery	112	R	R	Discard up to two cards, then draw that many cards.NEWLINEFlashback 2R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	EH1		

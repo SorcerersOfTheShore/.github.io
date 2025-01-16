@@ -1,0 +1,1 @@
+﻿Walking Ballista		rare	Artifact	310	C	XX	Walking Ballista enters the battlefield with X +1/+1 counters on it.NEWLINE4: Put a +1/+1 counter on Walking Ballista.NEWLINERemove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.	0/0		normal	EH1		!landslot

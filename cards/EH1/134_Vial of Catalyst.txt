@@ -1,0 +1,1 @@
+﻿Vial of Catalyst	R	common	Artifact	134	R	1R	When Vial of Catalyst enters the battlefield, draw a card.NEWLINET, Sacrifice Vial of Catalyst: Add RR.			normal	EH1		

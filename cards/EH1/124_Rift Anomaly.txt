@@ -1,0 +1,1 @@
+﻿Rift Anomaly	R	common	Creature – Elemental 	124	R	R	HasteNEWLINEWhenever Rift Anomaly attacks, it gets +1/+1 until end of turn for each spell you’ve cast this turn.	1/1		normal	EH1		

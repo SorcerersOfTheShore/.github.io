@@ -1,0 +1,1 @@
+﻿Bolas's Citadel	B	rare	Legendary Artifact	270	B	3BBB	You may look at the top card of your library any time.NEWLINEYou may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.NEWLINET, Sacrifice ten nonland permanents:   Each opponent loses 10 life.			normal	EH1		!landslot

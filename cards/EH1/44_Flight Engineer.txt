@@ -1,0 +1,1 @@
+﻿Flight Engineer	U	uncommon	Artifact Creature – Human Artificer 	44	U	1U	Whenever you cast a spell, put a flying counter on Flight Engineer.NEWLINERemove three counters from Flight Engineer: Draw a card.	1/2		normal	EH1		

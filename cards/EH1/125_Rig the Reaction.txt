@@ -1,0 +1,1 @@
+﻿Rig the Reaction	R	uncommon	Sorcery	125	R	1R	If you have no other cards in hand, you may cast Rig the Reaction without paying its mana cost.NEWLINEExile the top two cards of your library. You may play them this turn.			normal	EH1		

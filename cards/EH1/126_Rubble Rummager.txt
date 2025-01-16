@@ -1,0 +1,1 @@
+﻿Rubble Rummager	R	common	Creature – Goblin Berserker 	126	R	1R	Riot (This creature enters with your choice of a +1/+1 counter or haste.)NEWLINEWhenever Rubble Rummager attacks, you may discard a card. If you do, draw a card.	1/1		normal	EH1		

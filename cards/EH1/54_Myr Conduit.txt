@@ -1,0 +1,1 @@
+﻿Myr Conduit	U	common	Artifact Creature – Myr 	54	U	1U	When Myr Conduit enters the battlefield, the next spell you cast this turn has affinity for artifacts. (That spell costs 1 less to cast for each artifact you control.)	1/1		normal	EH1		

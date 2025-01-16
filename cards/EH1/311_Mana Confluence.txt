@@ -1,0 +1,1 @@
+﻿Mana Confluence		rare	Land	311	C		T, Pay 1 life: Add one mana of any color.			normal	EH1		!landslot

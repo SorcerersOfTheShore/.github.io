@@ -1,0 +1,1 @@
+﻿Grave Titan	B	rare	Creature – Giant 	275	B	4BB	DeathtouchNEWLINEWhenever Grave Titan enters the battlefield or attacks, create two 2/2 black Zombie creature tokens.	6/6		normal	EH1		!landslot

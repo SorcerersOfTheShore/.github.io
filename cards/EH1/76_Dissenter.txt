@@ -1,0 +1,1 @@
+﻿Dissenter	B	uncommon	Creature – Human Warrior 	76	B	1B	When Dissenter enters the battlefield, each player discards a card.	2/2		aftermath	EH1		

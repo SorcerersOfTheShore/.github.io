@@ -1,0 +1,1 @@
+﻿Regrowing Hydra	G	uncommon	Creature – Zombie Hydra 	158	G	2GG	Regrowing Hydra enters the battlefield with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.NEWLINEVigilance, trampleNEWLINEEscape–XGG, Exile X plus 2 other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)	0/0		normal	EH1		

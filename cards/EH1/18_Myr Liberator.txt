@@ -1,0 +1,1 @@
+﻿Myr Liberator	W	common	Artifact Creature – Myr 	18	W	3W	When Myr Liberator enters the battlefield, create two 1/1 colorless Myr artifact creature tokens.	2/2		adventure	EH1		Inspired Uprising	W	Instant – Adventure 	W	2WW	Creatures you control get +2/+1 until end of turn. (Then exile this card. You may cast the artifact later from exile.)				

@@ -1,0 +1,1 @@
+﻿Activation Chain	UR	rare	Sorcery	166	UR	3UR	Until end of turn, you may cast instant and/or sorcery spells with mana value 3 or less from your hand without paying their mana costs. Exile Activation Chain.			normal	EH1		

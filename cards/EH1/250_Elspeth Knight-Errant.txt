@@ -1,0 +1,1 @@
+﻿Elspeth, Knight-Errant	W	rare	Legendary Planeswalker – Elspeth 	250	W	2WW			[+1]: Create a 1/1 white Soldier creature token.NEWLINE[+1]: Target creature gets +3/+3 and gains flying until end of turn.NEWLINE[-8]: You get an emblem with “Artifacts, creatures, enchantments, and lands you control have indestructible.”NEWLINE	planeswalker	EH1	4	!landslot

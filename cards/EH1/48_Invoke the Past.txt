@@ -1,0 +1,1 @@
+﻿Invoke the Past	U	uncommon	Sorcery	48	U	2UU	Cast target instant or sorcery card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. Exile Invoke the Past.			normal	EH1		

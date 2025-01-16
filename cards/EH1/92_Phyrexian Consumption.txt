@@ -1,0 +1,1 @@
+﻿Phyrexian Consumption	B	common	Sorcery	92	B	B	Multikicker H/B (You may pay an additional H/B any number of times as you cast this spell. H/B can be paid with either B or 2 life.)NEWLINEUntil end of turn, target creature gets -2/-2 plus an additional -1/-1 for each time this spell was kicked.			normal	EH1		

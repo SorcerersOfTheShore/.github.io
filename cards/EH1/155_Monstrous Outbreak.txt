@@ -1,0 +1,1 @@
+﻿Monstrous Outbreak	G	common	Sorcery	155	G	1G	Choose one–NEWLINE• Destroy target artifact.NEWLINE• Destroy target enchantment.NEWLINE• Monstrous Outbreak deals damage to target creature equal to the greatest power among creatures you control.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Chromatic Storm	R	common	Instant	105	WUBRG	R	Chromatic Storm deals 2 damage to any target.NEWLINECycling WUBRG (WUBRG, Discard this card: Draw a card.)NEWLINEWhen you cycle Chromatic Storm, you may have it deal 5 damage to any target.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Duressing Spy	B	common	Creature – Human Rogue 	77	B	B	When Duressing Spy enters the battlefield, you may cast a copy of a card named Duress. (You still pay its costs. Timing rules do not apply. It’s a sorcery that costs B. It has “Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.”)	1/1		normal	EH1		Garth

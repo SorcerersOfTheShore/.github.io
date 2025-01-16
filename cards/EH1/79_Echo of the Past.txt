@@ -1,0 +1,1 @@
+﻿Echo of the Past	B	uncommon	Sorcery	79	B	1B	Exile target creature or planeswalker card from your graveyard. Create a token that’s a copy of it. You lose life equal to its mana value.			normal	EH1		

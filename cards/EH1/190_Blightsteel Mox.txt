@@ -1,0 +1,1 @@
+﻿Blightsteel Mox		rare	Artifact	190	C	0	Blightsteel Mox can’t be destroyed by spells or abilities you control.NEWLINEAt the beginning of each upkeep, you get a poison counter. (A player with ten or more poison counters loses the game.)NEWLINET: Add C.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Golos, Tireless Pilgrim		rare	Legendary Artifact Creature – Scout 	305	WUBRG	5	When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.NEWLINE2WUBRG: Exile the top three cards of your library. You may play them this turn without paying their mana costs.	3/5		normal	EH1		!landslot

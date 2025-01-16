@@ -1,0 +1,1 @@
+﻿Undercity Renewal	BG	uncommon	Sorcery	184	BG	BG	Return target permanent card from your graveyard to your hand.NEWLINEDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)			normal	EH1		

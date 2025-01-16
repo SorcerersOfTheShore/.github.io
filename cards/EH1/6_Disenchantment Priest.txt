@@ -1,0 +1,1 @@
+﻿Disenchantment Priest	W	common	Creature – Human Cleric 	6	W	W	When Disenchantment Priest enters the battlefield, you may cast a copy of a card named Disenchant. (You still pay its costs. Timing rules do not apply. It’s an instant that costs 1W. It has “Destroy target artifact or enchantment.”)	1/1		normal	EH1		Garth

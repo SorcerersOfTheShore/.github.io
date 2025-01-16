@@ -1,0 +1,1 @@
+﻿Kiran Nalaar	R	uncommon	Legendary Creature – Human Artificer 	116	R	2R	When Kiran Nalaar enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.NEWLINE2R, T, Sacrifice an artifact: Return target artifact card from your graveyard to the battlefield tapped.	2/2		normal	EH1		

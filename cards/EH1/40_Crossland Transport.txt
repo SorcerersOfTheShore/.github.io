@@ -1,0 +1,1 @@
+﻿Crossland Transport	U	common	Artifact Creature – Thopter 	40	U	5UU	FlyingNEWLINEChannel – U, Discard Crossland Transport: Create a 1/1 colorless Thopter artifact creature token with flying.	6/6		normal	EH1		

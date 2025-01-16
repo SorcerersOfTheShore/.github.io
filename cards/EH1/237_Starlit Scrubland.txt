@@ -1,0 +1,1 @@
+﻿Starlit Scrubland		common	Land – Plains Swamp 	237	C		(T: Add W or B.)NEWLINEStarlit Scrubland enters the battlefield tapped unless your starting deck had fifty or fewer cards in it.			normal	EH1		

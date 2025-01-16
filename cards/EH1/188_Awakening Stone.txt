@@ -1,0 +1,1 @@
+﻿Awakening Stone		uncommon	Artifact	188	C	2	As Awakening Stone enters the battlefield, choose a nonland card type.NEWLINESpells of the chosen type cost 1 less to cast. (Both yours and your opponents’.)NEWLINE5, Sacrifice Awakening Stone: Search your library for a card of the chosen type, reveal it, put it into your hand, then shuffle.			normal	EH1		

@@ -1,0 +1,1 @@
+﻿Garruk Wildspeaker	G	rare	Legendary Planeswalker – Garruk 	292	G	2GG			[+1]: Untap two target lands.NEWLINE[-1]: Put a 3/3 green Beast creature token onto the battlefield.NEWLINE[-4]: Creatures you control get +3/+3 and gain trample until end of turn.NEWLINE	planeswalker	EH1	3	!landslot

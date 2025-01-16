@@ -1,0 +1,1 @@
+﻿Kiki-Jiki, Mirror Breaker	R	mythic	Legendary Creature – Goblin Shaman 	282	R	2RRR	HasteNEWLINET: Create a token that’s a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.	2/2		normal	EH1		!landslot
