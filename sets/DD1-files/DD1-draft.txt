@@ -1,0 +1,3439 @@
+﻿[CustomCards]
+	[	{
+			"name": "Silent Swordsman",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Insect Warrior ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/33_Silent Swordsman.png"
+			}
+		},
+		{
+			"name": "Inventory Experts",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Mouse Dinosaur Scout ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/17_Inventory Experts.png"
+			}
+		},
+		{
+			"name": "Tiny Titan",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bear Warrior ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/39_Tiny Titan.png"
+			}
+		},
+		{
+			"name": "Naive Explorers",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Lizard Scout ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/26_Naive Explorers.png"
+			}
+		},
+		{
+			"name": "Supplies Courrier",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Citizen ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/36_Supplies Courrier.png"
+			}
+		},
+		{
+			"name": "Fortunate Few",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bear Lizard Scout ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/11_Fortunate Few.png"
+			}
+		},
+		{
+			"name": "Guild Medic",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Otter Cleric ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/14_Guild Medic.png"
+			}
+		},
+		{
+			"name": "Outlaw Ambusher",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Lizard Scout ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/29_Outlaw Ambusher.png"
+			}
+		},
+		{
+			"name": "Guild Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Advisor ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/15_Guild Recruiter.png"
+			}
+		},
+		{
+			"name": "Freelance Flock",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird Scout ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/12_Freelance Flock.png"
+			}
+		},
+		{
+			"name": "Top Team",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Fox Dog Scout ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/40_Top Team.png"
+			}
+		},
+		{
+			"name": "Swift Response",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/37_Swift Response.png"
+			}
+		},
+		{
+			"name": "Bring to Custody",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/6_Bring to Custody.png"
+			}
+		},
+		{
+			"name": "Conquering Blow",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/9_Conquering Blow.png"
+			}
+		},
+		{
+			"name": "Keep in Spirits",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/19_Keep in Spirits.png"
+			}
+		},
+		{
+			"name": "Loot",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/22_Loot.png"
+			}
+		},
+		{
+			"name": "Shade Router",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bear Rogue ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/78_Shade Router.png"
+			}
+		},
+		{
+			"name": "Breeze Dancer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Wizard ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/48_Breeze Dancer.png"
+			}
+		},
+		{
+			"name": "Job Sifters",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Lizard Spirit Scout ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/65_Job Sifters.png"
+			}
+		},
+		{
+			"name": "Slinking Sneak",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cat Rogue ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/80_Slinking Sneak.png"
+			}
+		},
+		{
+			"name": "Mindbreaker",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Dog Rogue ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/68_Mindbreaker.png"
+			}
+		},
+		{
+			"name": "Delivery Expert",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Bird Citizen ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/57_Delivery Expert.png"
+			}
+		},
+		{
+			"name": "Nameless Contact",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Wolf Rogue ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/70_Nameless Contact.png"
+			}
+		},
+		{
+			"name": "Library Catalogers",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Lizard Beast Citizen ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/66_Library Catalogers.png"
+			}
+		},
+		{
+			"name": "Befuddled Psychic",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Wizard ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/47_Befuddled Psychic.png"
+			}
+		},
+		{
+			"name": "Fuel for the Cause",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/60_Fuel for the Cause.png"
+			}
+		},
+		{
+			"name": "Battle Prowess",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/46_Battle Prowess.png"
+			}
+		},
+		{
+			"name": "Stun Seed",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/239_Stun Seed.png"
+			}
+		},
+		{
+			"name": "Careful Preparation",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/49_Careful Preparation.png"
+			}
+		},
+		{
+			"name": "Contentious Plan",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/54_Contentious Plan.png"
+			}
+		},
+		{
+			"name": "Reach for the Stars",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/74_Reach for the Stars.png"
+			}
+		},
+		{
+			"name": "Rookie Mistake",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/75_Rookie Mistake.png"
+			}
+		},
+		{
+			"name": "Push Forward",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/73_Push Forward.png"
+			}
+		},
+		{
+			"name": "Corrosive Creep",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Ooze Rogue ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/88_Corrosive Creep.png"
+			}
+		},
+		{
+			"name": "Scam Artist",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Lizard Rogue ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/110_Scam Artist.png"
+			}
+		},
+		{
+			"name": "Restless Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit Rogue ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/109_Restless Infiltrator.png"
+			}
+		},
+		{
+			"name": "Tomb Raiders",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit Soldier Scout ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/118_Tomb Raiders.png"
+			}
+		},
+		{
+			"name": "Ghastly Gang",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Rogue ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/94_Ghastly Gang.png"
+			}
+		},
+		{
+			"name": "Treachorous Team",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Cat Snake Scout ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/119_Treachorous Team.png"
+			}
+		},
+		{
+			"name": "Path Patrol",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cat Rogue ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/106_Path Patrol.png"
+			}
+		},
+		{
+			"name": "Loyalless Scrounger",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Lizard ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/102_Loyalless Scrounger.png"
+			}
+		},
+		{
+			"name": "Heartless Butcher",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Beast Rogue ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/99_Heartless Butcher.png"
+			}
+		},
+		{
+			"name": "Darkwood Pathfinder",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Fungush Beast Scout ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/89_Darkwood Pathfinder.png"
+			}
+		},
+		{
+			"name": "Ambush Attack",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/83_Ambush Attack.png"
+			}
+		},
+		{
+			"name": "Consequence of Carelessness",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/87_Consequence of Carelessness.png"
+			}
+		},
+		{
+			"name": "Tempting Spoils",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/116_Tempting Spoils.png"
+			}
+		},
+		{
+			"name": "Reviver Seed",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/237_Reviver Seed.png"
+			}
+		},
+		{
+			"name": "Fret",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/93_Fret.png"
+			}
+		},
+		{
+			"name": "Thieves' Tools",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/117_Thieves' Tools.png"
+			}
+		},
+		{
+			"name": "Optimistic Ambition",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/104_Optimistic Ambition.png"
+			}
+		},
+		{
+			"name": "Cunning Thief",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Wolf Rogue ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/130_Cunning Thief.png"
+			}
+		},
+		{
+			"name": "Flare Beast",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Beast ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/143_Flare Beast.png"
+			}
+		},
+		{
+			"name": "Shinx Assistant",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cat Scout ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/157_Shinx Assistant.png"
+			}
+		},
+		{
+			"name": "Dedicated Dungeoneer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Beast Scout ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/133_Dedicated Dungeoneer.png"
+			}
+		},
+		{
+			"name": "Shade Bruisers",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Beast Rogue ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/155_Shade Bruisers.png"
+			}
+		},
+		{
+			"name": "Catalyst Concotor",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Fox Wizard ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/128_Catalyst Concotor.png"
+			}
+		},
+		{
+			"name": "Emboldened Explorer",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Beast Scout Warrior ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/136_Emboldened Explorer.png"
+			}
+		},
+		{
+			"name": "Untapped Potential",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/159_Untapped Potential.png"
+			}
+		},
+		{
+			"name": "Dash Through",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/132_Dash Through.png"
+			}
+		},
+		{
+			"name": "Intimidation Tactics",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/146_Intimidation Tactics.png"
+			}
+		},
+		{
+			"name": "Blaze of Hope",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/124_Blaze of Hope.png"
+			}
+		},
+		{
+			"name": "Rock Smash",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/154_Rock Smash.png"
+			}
+		},
+		{
+			"name": "Quick Seed",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/236_Quick Seed.png"
+			}
+		},
+		{
+			"name": "Garden Guaridnas",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Fish Druid ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/178_Garden Guaridnas.png"
+			}
+		},
+		{
+			"name": "Berry Sharer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Crocodile ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/165_Berry Sharer.png"
+			}
+		},
+		{
+			"name": "Aloof Adventurer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Goat Scout ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/164_Aloof Adventurer.png"
+			}
+		},
+		{
+			"name": "Headlong Explorers",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast Scout ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/181_Headlong Explorers.png"
+			}
+		},
+		{
+			"name": "Lively Gathering",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast Bird Mouse Otter Lizard ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/183_Lively Gathering.png"
+			}
+		},
+		{
+			"name": "Distant Travelers",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fox Lizard Scout ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/171_Distant Travelers.png"
+			}
+		},
+		{
+			"name": "Expeditious Wanderer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Dinosaur Scout ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/175_Expeditious Wanderer.png"
+			}
+		},
+		{
+			"name": "Mindless Devourer",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Snake ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/185_Mindless Devourer.png"
+			}
+		},
+		{
+			"name": "Elder Advisors",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Ape Plant Dinosaur Advisor ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/173_Elder Advisors.png"
+			}
+		},
+		{
+			"name": "Smell Fear",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/191_Smell Fear.png"
+			}
+		},
+		{
+			"name": "Harvest",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/180_Harvest.png"
+			}
+		},
+		{
+			"name": "Talons of Wildwood",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/194_Talons of Wildwood.png"
+			}
+		},
+		{
+			"name": "Spider's Spinnings",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/192_Spider's Spinnings.png"
+			}
+		},
+		{
+			"name": "Return to Nature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/188_Return to Nature.png"
+			}
+		},
+		{
+			"name": "Bladed Apprentice",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Spirit ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/219_Bladed Apprentice.png"
+			}
+		},
+		{
+			"name": "Item Broker",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Creature — Lizard Citizen ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/2_Item Broker.png"
+			}
+		},
+		{
+			"name": "Iron Menace",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Bird ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/231_Iron Menace.png"
+			}
+		},
+		{
+			"name": "Prying Blade",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/235_Prying Blade.png"
+			}
+		},
+		{
+			"name": "Expedition Map",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/224_Expedition Map.png"
+			}
+		},
+		{
+			"name": "Team Badge",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/241_Team Badge.png"
+			}
+		},
+		{
+			"name": "Kindly Coach",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Advisor ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/21_Kindly Coach.png"
+			}
+		},
+		{
+			"name": "Kindly Caretaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Egg Beast Cleric ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/20_Kindly Caretaker.png"
+			}
+		},
+		{
+			"name": "Cafe Master",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bear Citizen ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/7_Cafe Master.png"
+			}
+		},
+		{
+			"name": "Incarceration Assistant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Creature — Construct Soldier ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/16_Incarceration Assistant.png"
+			}
+		},
+		{
+			"name": "Trusted Teammate",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Jackal Scout ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/42_Trusted Teammate.png"
+			}
+		},
+		{
+			"name": "Wise Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Insect Citizen ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/43_Wise Guide.png"
+			}
+		},
+		{
+			"name": "Nameless Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dragon Scout ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/27_Nameless Guardian.png"
+			}
+		},
+		{
+			"name": "Strike Expert",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Otter Warrior ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/35_Strike Expert.png"
+			}
+		},
+		{
+			"name": "Amiable Collaboration",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/5_Amiable Collaboration.png"
+			}
+		},
+		{
+			"name": "Mentor the Youth",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/25_Mentor the Youth.png"
+			}
+		},
+		{
+			"name": "Luca's Influence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/24_Luca's Influence.png"
+			}
+		},
+		{
+			"name": "Distraction Technique",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/58_Distraction Technique.png"
+			}
+		},
+		{
+			"name": "Innocuous Observer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bat Rogue ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/64_Innocuous Observer.png"
+			}
+		},
+		{
+			"name": "Moonlight Harnesser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Faerie ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/69_Moonlight Harnesser.png"
+			}
+		},
+		{
+			"name": "Search Party",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Fox Salamander Scout ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/76_Search Party.png"
+			}
+		},
+		{
+			"name": "Arcane Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Cat Rogue ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/45_Arcane Thief.png"
+			}
+		},
+		{
+			"name": "Arcana Chasers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Dinosaur Cat Scout ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/44_Arcana Chasers.png"
+			}
+		},
+		{
+			"name": "Messenger Master",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Dragon Citizen ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/67_Messenger Master.png"
+			}
+		},
+		{
+			"name": "Chart a Course",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/51_Chart a Course.png"
+			}
+		},
+		{
+			"name": "Counteract",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/55_Counteract.png"
+			}
+		},
+		{
+			"name": "Decipher the Lost Scriptures",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/56_Decipher the Lost Scriptures.png"
+			}
+		},
+		{
+			"name": "Garde's Influence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/61_Garde's Influence.png"
+			}
+		},
+		{
+			"name": "Lone Traveler",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Crocodile Scout ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/101_Lone Traveler.png"
+			}
+		},
+		{
+			"name": "Sly Larcenist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Cat Rogue ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/114_Sly Larcenist.png"
+			}
+		},
+		{
+			"name": "Scrutinous Accountant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cat Citizen ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/112_Scrutinous Accountant.png"
+			}
+		},
+		{
+			"name": "Cavern Crawlers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Beast Bird Scout ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/84_Cavern Crawlers.png"
+			}
+		},
+		{
+			"name": "Recovery Crew",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Dragon Jellysfish Beast Rogue ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/108_Recovery Crew.png"
+			}
+		},
+		{
+			"name": "Hardened Explorers",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Dragon Scout ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/97_Hardened Explorers.png"
+			}
+		},
+		{
+			"name": "Glimmer Digger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Imp ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/95_Glimmer Digger.png"
+			}
+		},
+		{
+			"name": "Hazardous Happenstance",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/98_Hazardous Happenstance.png"
+			}
+		},
+		{
+			"name": "Emerge from the Caverns",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/92_Emerge from the Caverns.png"
+			}
+		},
+		{
+			"name": "Please the Boss",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/107_Please the Boss.png"
+			}
+		},
+		{
+			"name": "Scourge's Influence",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/111_Scourge's Influence.png"
+			}
+		},
+		{
+			"name": "Enflamed Rebel",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Lizard Rogue ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/137_Enflamed Rebel.png"
+			}
+		},
+		{
+			"name": "Eager Explorers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Mouse Bird Scout ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/135_Eager Explorers.png"
+			}
+		},
+		{
+			"name": "Outlaw Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Lizard Warrior ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/150_Outlaw Hunter.png"
+			}
+		},
+		{
+			"name": "Furious Fighters",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Insect Lizard Beast Scout ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/144_Furious Fighters.png"
+			}
+		},
+		{
+			"name": "Tectonic Forger",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Camel Rogue ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/158_Tectonic Forger.png"
+			}
+		},
+		{
+			"name": "Blaststoker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Beast Shaman ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/123_Blaststoker.png"
+			}
+		},
+		{
+			"name": "Festival Throwers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Plant Wolf Citizen ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/141_Festival Throwers.png"
+			}
+		},
+		{
+			"name": "Breath of Demarcus",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/126_Breath of Demarcus.png"
+			}
+		},
+		{
+			"name": "Heat of Battle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/145_Heat of Battle.png"
+			}
+		},
+		{
+			"name": "Master the Elements",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/148_Master the Elements.png"
+			}
+		},
+		{
+			"name": "Psyche's Influence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/151_Psyche's Influence.png"
+			}
+		},
+		{
+			"name": "Lazed Lookout",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Beast Scout ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/182_Lazed Lookout.png"
+			}
+		},
+		{
+			"name": "Market Master",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Rhino Citizen ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/184_Market Master.png"
+			}
+		},
+		{
+			"name": "Forest Flourishers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Snake Druid ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/176_Forest Flourishers.png"
+			}
+		},
+		{
+			"name": "Undergrowth Dredger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Insect Scout ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/197_Undergrowth Dredger.png"
+			}
+		},
+		{
+			"name": "Tag Team",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Frog Insect Warrior ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/193_Tag Team.png"
+			}
+		},
+		{
+			"name": "Versatile Veterans",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Slug Dragon Lizard Scout ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/199_Versatile Veterans.png"
+			}
+		},
+		{
+			"name": "Gather the Crowd",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/179_Gather the Crowd.png"
+			}
+		},
+		{
+			"name": "Adventuring Crew",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bird Beast Scout ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/161_Adventuring Crew.png"
+			}
+		},
+		{
+			"name": "Collective Enrichment",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/167_Collective Enrichment.png"
+			}
+		},
+		{
+			"name": "Adventurous Collaboration",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/162_Adventurous Collaboration.png"
+			}
+		},
+		{
+			"name": "Refuge Seekers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Jackal Beast Scout ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/187_Refuge Seekers.png"
+			}
+		},
+		{
+			"name": "Overpower",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/30_Overpower.png"
+			}
+		},
+		{
+			"name": "Confounding Collaboration",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/53_Confounding Collaboration.png"
+			}
+		},
+		{
+			"name": "Diabolical Collaboration",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/90_Diabolical Collaboration.png"
+			}
+		},
+		{
+			"name": "Daring Collaboration",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/131_Daring Collaboration.png"
+			}
+		},
+		{
+			"name": "Drax's Influence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/172_Drax's Influence.png"
+			}
+		},
+		{
+			"name": "Helper Orb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/229_Helper Orb.png"
+			}
+		},
+		{
+			"name": "Slumber Orb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/238_Slumber Orb.png"
+			}
+		},
+		{
+			"name": "Two-Edge Orb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/243_Two-Edge Orb.png"
+			}
+		},
+		{
+			"name": "Hurl Orb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/230_Hurl Orb.png"
+			}
+		},
+		{
+			"name": "Luminous Orb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/233_Luminous Orb.png"
+			}
+		},
+		{
+			"name": "Tenacious Digger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Insect ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/242_Tenacious Digger.png"
+			}
+		},
+		{
+			"name": "Chirping Songbird",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Creature — Bird ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/1_Chirping Songbird.png"
+			}
+		},
+		{
+			"name": "Cavern Coiler",
+			"rarity": "uncommon",
+			"mana_cost": "{10}",
+			"type": "Artifact Creature — Snake ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/220_Cavern Coiler.png"
+			}
+		},
+		{
+			"name": "Supplies Stash",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/240_Supplies Stash.png"
+			}
+		},
+		{
+			"name": "Village Outcrop",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/249_Village Outcrop.png"
+			}
+		},
+		{
+			"name": "Accomplished Mentor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Plant Dinosaur Advisor ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/4_Accomplished Mentor.png"
+			}
+		},
+		{
+			"name": "Fresh Recruits",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Plant Dinosaur Mouse Scout ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/13_Fresh Recruits.png"
+			}
+		},
+		{
+			"name": "Expedition Leader",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Sheep Advisor Scout ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/10_Expedition Leader.png"
+			}
+		},
+		{
+			"name": "Team Captain",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Beast Scout ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/38_Team Captain.png"
+			}
+		},
+		{
+			"name": "Collective Encouragement",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/8_Collective Encouragement.png"
+			}
+		},
+		{
+			"name": "The Lost Logs",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/23_The Lost Logs.png"
+			}
+		},
+		{
+			"name": "Seek the Wish-Granter",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/32_Seek the Wish-Granter.png"
+			}
+		},
+		{
+			"name": "Zoro, the Beckoner",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Fox Shapeshifter ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/218_Zoro, the Beckoner.png"
+			}
+		},
+		{
+			"name": "Celestial Tear",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/50_Celestial Tear.png"
+			}
+		},
+		{
+			"name": "Collective Development",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/52_Collective Development.png"
+			}
+		},
+		{
+			"name": "Training Grounds",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/82_Training Grounds.png"
+			}
+		},
+		{
+			"name": "Follow the Illusionist's Path",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/59_Follow the Illusionist's Path.png"
+			}
+		},
+		{
+			"name": "Mobile Scarf",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/234_Mobile Scarf.png"
+			}
+		},
+		{
+			"name": "Shade's Silencer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Frog Rogue Assassin ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/113_Shade's Silencer.png"
+			}
+		},
+		{
+			"name": "Hypnotic Spirit",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit Rogue ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/100_Hypnotic Spirit.png"
+			}
+		},
+		{
+			"name": "Soul Husk",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect Spirit ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/115_Soul Husk.png"
+			}
+		},
+		{
+			"name": "Treasure Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Dragon ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/120_Treasure Tyrant.png"
+			}
+		},
+		{
+			"name": "Collective Despoilment",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/85_Collective Despoilment.png"
+			}
+		},
+		{
+			"name": "Uncover the Lost Treasure",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/121_Uncover the Lost Treasure.png"
+			}
+		},
+		{
+			"name": "Fickle Ribbon",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/226_Fickle Ribbon.png"
+			}
+		},
+		{
+			"name": "Risky Runners",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Sheep Ferret Rogue ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/152_Risky Runners.png"
+			}
+		},
+		{
+			"name": "Roaring Supporter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Cat Warrior Scout ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/153_Roaring Supporter.png"
+			}
+		},
+		{
+			"name": "Collective Empowerment",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/129_Collective Empowerment.png"
+			}
+		},
+		{
+			"name": "Shaman of Stories",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Jackal Shaman ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/156_Shaman of Stories.png"
+			}
+		},
+		{
+			"name": "Molten Vortex",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/149_Molten Vortex.png"
+			}
+		},
+		{
+			"name": "Explore the Deepest Caverns",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/140_Explore the Deepest Caverns.png"
+			}
+		},
+		{
+			"name": "Carnage King",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/166_Carnage King.png"
+			}
+		},
+		{
+			"name": "Fulfilled Retiree",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Wolf Scout ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/177_Fulfilled Retiree.png"
+			}
+		},
+		{
+			"name": "Crafty Solution",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/168_Crafty Solution.png"
+			}
+		},
+		{
+			"name": "Trailblazer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Jackal Scout ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/196_Trailblazer.png"
+			}
+		},
+		{
+			"name": "Petal Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/186_Petal Dance.png"
+			}
+		},
+		{
+			"name": "Venture the Forbidden Forest",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/198_Venture the Forbidden Forest.png"
+			}
+		},
+		{
+			"name": "Coalition Scarf",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/221_Coalition Scarf.png"
+			}
+		},
+		{
+			"name": "Explosive Band",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/225_Explosive Band.png"
+			}
+		},
+		{
+			"name": "Fierce Bandanna",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/227_Fierce Bandanna.png"
+			}
+		},
+		{
+			"name": "Possibility Processor",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Creature — Beast Spirit ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/3_Possibility Processor.png"
+			}
+		},
+		{
+			"name": "Stand Together",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/34_Stand Together.png"
+			}
+		},
+		{
+			"name": "Protean Impostor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/72_Protean Impostor.png"
+			}
+		},
+		{
+			"name": "Silver the Kindhearted",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Fox Faerie Scout ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/216_Silver the Kindhearted.png"
+			}
+		},
+		{
+			"name": " Scourge, Father of Team Shade",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Hound Rogue ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/200_ Scourge, Father of Team Shade.png"
+			}
+		},
+		{
+			"name": "Garde, Guild Organizer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Faerie Advisor ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/206_Garde, Guild Organizer.png"
+			}
+		},
+		{
+			"name": "Psyche, Guild Mentor",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Soldier Scout Advisor ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/213_Psyche, Guild Mentor.png"
+			}
+		},
+		{
+			"name": "Toren, Prodigious Explorer",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Jackal Scout ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/41_Toren, Prodigious Explorer.png"
+			}
+		},
+		{
+			"name": "Nebby, Guardian of Worlds",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Nebby ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/71_Nebby, Guardian of Worlds.png"
+			}
+		},
+		{
+			"name": "Hostage Holder",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Mouse Rogue ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/62_Hostage Holder.png"
+			}
+		},
+		{
+			"name": "Master Agents",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Jackal Cat Assassin ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/103_Master Agents.png"
+			}
+		},
+		{
+			"name": "Dubious Bidding",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/91_Dubious Bidding.png"
+			}
+		},
+		{
+			"name": "Blitz Traveler",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Unicorn Scout ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/125_Blitz Traveler.png"
+			}
+		},
+		{
+			"name": "Aspiring Heroes",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Beast Crocodile Scout ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/122_Aspiring Heroes.png"
+			}
+		},
+		{
+			"name": "Team Effort",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/195_Team Effort.png"
+			}
+		},
+		{
+			"name": "Rhythm Amplifier",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Monkey Druid Warrior ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/189_Rhythm Amplifier.png"
+			}
+		},
+		{
+			"name": "The Guardian Golems",
+			"rarity": "mythic",
+			"mana_cost": "{10}",
+			"type": "Legendary Artifact Creature — Golem ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/228_The Guardian Golems.png"
+			}
+		},
+		{
+			"name": "Envoy's Legacy",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/204_Envoy's Legacy.png"
+			}
+		},
+		{
+			"name": "Eevium Z",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/222_Eevium Z.png"
+			}
+		},
+		{
+			"name": "Jirachi, Wish Granter",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Jirachi ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/18_Jirachi, Wish Granter.png"
+			}
+		},
+		{
+			"name": "Drax, Deathwish-Hardened",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Scorpion Scout ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/203_Drax, Deathwish-Hardened.png"
+			}
+		},
+		{
+			"name": "Pyre, Guild Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Cat Rogue ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/214_Pyre, Guild Agent.png"
+			}
+		},
+		{
+			"name": "Magnezone, Federation Head",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Artifact Creature — Construct Soldier ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/211_Magnezone, Federation Head.png"
+			}
+		},
+		{
+			"name": "Melanie, Team Enigma Leader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Faerie Scout ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/212_Melanie, Team Enigma Leader.png"
+			}
+		},
+		{
+			"name": "Luca, Empath Healer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Jackal Cleric ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/210_Luca, Empath Healer.png"
+			}
+		},
+		{
+			"name": "Ripjaw, Shade's Butcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Dragon Rogue Assassin ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/215_Ripjaw, Shade's Butcher.png"
+			}
+		},
+		{
+			"name": "The Kecleon Brothers",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Lizard Citizen ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/209_The Kecleon Brothers.png"
+			}
+		},
+		{
+			"name": "Solera, Grief-Filled",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Creature — Beast Rogue ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/217_Solera, Grief-Filled.png"
+			}
+		},
+		{
+			"name": "Geist, Deed-Doer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Spirit Rogue Assassin ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/207_Geist, Deed-Doer.png"
+			}
+		},
+		{
+			"name": "Alak, Island Historian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Wizard Advisor ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/201_Alak, Island Historian.png"
+			}
+		},
+		{
+			"name": "Protect Charge",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/31_Protect Charge.png"
+			}
+		},
+		{
+			"name": "Novice Adventurers",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fox Turtle Scout ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/28_Novice Adventurers.png"
+			}
+		},
+		{
+			"name": "Shorline Charters",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Mouse Cat Bird Scout ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/79_Shorline Charters.png"
+			}
+		},
+		{
+			"name": "Sweeping Current",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/81_Sweeping Current.png"
+			}
+		},
+		{
+			"name": "Completely Exhaust",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/86_Completely Exhaust.png"
+			}
+		},
+		{
+			"name": "Grim Bounty",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/96_Grim Bounty.png"
+			}
+		},
+		{
+			"name": "Burst of Rage",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/127_Burst of Rage.png"
+			}
+		},
+		{
+			"name": "Enthusiastic Recuits",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Beast Salamander Scout ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/138_Enthusiastic Recuits.png"
+			}
+		},
+		{
+			"name": "Lava Burst",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/147_Lava Burst.png"
+			}
+		},
+		{
+			"name": "Fiery Adventurers",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Beast Bird Scout ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/142_Fiery Adventurers.png"
+			}
+		},
+		{
+			"name": "Adventurous Impulse",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/163_Adventurous Impulse.png"
+			}
+		},
+		{
+			"name": "Curious Crew",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Crocodile Jackal Scout ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/169_Curious Crew.png"
+			}
+		},
+		{
+			"name": "Desperate Stand",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/170_Desperate Stand.png"
+			}
+		},
+		{
+			"name": "Encourage Seed",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/223_Encourage Seed.png"
+			}
+		},
+		{
+			"name": "Seasoned Explorers",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Ape Dog Scout ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/190_Seasoned Explorers.png"
+			}
+		},
+		{
+			"name": "Frost the Absolved",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Cat Rogue ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/205_Frost the Absolved.png"
+			}
+		},
+		{
+			"name": "Experienced Travelers",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Beast Scout ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/139_Experienced Travelers.png"
+			}
+		},
+		{
+			"name": "Volt Charge",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/160_Volt Charge.png"
+			}
+		},
+		{
+			"name": "Demarcus, the First Envoy",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Dragon ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/134_Demarcus, the First Envoy.png"
+			}
+		},
+		{
+			"name": "Beacon Peak",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/244_Beacon Peak.png"
+			}
+		},
+		{
+			"name": "Deathwish Canyon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/245_Deathwish Canyon.png"
+			}
+		},
+		{
+			"name": "The Maw",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/246_The Maw.png"
+			}
+		},
+		{
+			"name": "Star Crater",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/247_Star Crater.png"
+			}
+		},
+		{
+			"name": "Timewinder Woods",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/248_Timewinder Woods.png"
+			}
+		},
+		{
+			"name": "Send Through Space",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/77_Send Through Space.png"
+			}
+		},
+		{
+			"name": "Celebi, Timeline Preserver",
+			"rarity": "mythic",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Legendary Creature — Faerie ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/202_Celebi, Timeline Preserver.png"
+			}
+		},
+		{
+			"name": "Inexorable Tide",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/63_Inexorable Tide.png"
+			}
+		},
+		{
+			"name": "Parting Thoughts",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/105_Parting Thoughts.png"
+			}
+		},
+		{
+			"name": "Jacob, Memory Seeker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Fox Scout ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/208_Jacob, Memory Seeker.png"
+			}
+		},
+		{
+			"name": "Joy Seed",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/232_Joy Seed.png"
+			}
+		},
+		{
+			"name": "Elite Expeditionaries",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Jacakl Fox Beast Explorer ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/174_Elite Expeditionaries.png"
+			}
+		},
+		{
+			"name": "Ancient Tomb",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/250_Ancient Tomb.png"
+			}
+		},
+		{
+			"name": "Ancient Ziggurat",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/251_Ancient Ziggurat.png"
+			}
+		},
+		{
+			"name": "Arena",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/252_Arena.png"
+			}
+		},
+		{
+			"name": "Arid Mesa",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/253_Arid Mesa.png"
+			}
+		},
+		{
+			"name": "Blast Zone",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/254_Blast Zone.png"
+			}
+		},
+		{
+			"name": "Bloodstained Mire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/255_Bloodstained Mire.png"
+			}
+		},
+		{
+			"name": "Calciform Pools",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/256_Calciform Pools.png"
+			}
+		},
+		{
+			"name": "Cavern of Souls",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/257_Cavern of Souls.png"
+			}
+		},
+		{
+			"name": "Crawling Barrens",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/258_Crawling Barrens.png"
+			}
+		},
+		{
+			"name": "Crystal Quarry",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/259_Crystal Quarry.png"
+			}
+		},
+		{
+			"name": "Demolition Field",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/260_Demolition Field.png"
+			}
+		},
+		{
+			"name": "Deserted Temple",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/261_Deserted Temple.png"
+			}
+		},
+		{
+			"name": "Dreadship Reef",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/262_Dreadship Reef.png"
+			}
+		},
+		{
+			"name": "Dryad Arbor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land Creature — Forest Dryad ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/263_Dryad Arbor.png"
+			}
+		},
+		{
+			"name": "Dust Bowl",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/264_Dust Bowl.png"
+			}
+		},
+		{
+			"name": "Endless Sands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/265_Endless Sands.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/266_Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Fertile Thicket",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/267_Fertile Thicket.png"
+			}
+		},
+		{
+			"name": "Field of the Dead",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/268_Field of the Dead.png"
+			}
+		},
+		{
+			"name": "Flooded Strand",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/269_Flooded Strand.png"
+			}
+		},
+		{
+			"name": "Forbidden Orchard",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/270_Forbidden Orchard.png"
+			}
+		},
+		{
+			"name": "Fungal Reaches",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/271_Fungal Reaches.png"
+			}
+		},
+		{
+			"name": "Gemstone Caverns",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/272_Gemstone Caverns.png"
+			}
+		},
+		{
+			"name": "Glacial Chasm",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/273_Glacial Chasm.png"
+			}
+		},
+		{
+			"name": "Hellion Crucible",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/274_Hellion Crucible.png"
+			}
+		},
+		{
+			"name": "Homeward Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/275_Homeward Path.png"
+			}
+		},
+		{
+			"name": "Howltooth Hollow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/276_Howltooth Hollow.png"
+			}
+		},
+		{
+			"name": "Looming Spires",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/277_Looming Spires.png"
+			}
+		},
+		{
+			"name": "Lotus Field",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/278_Lotus Field.png"
+			}
+		},
+		{
+			"name": "Mana Confluence",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/279_Mana Confluence.png"
+			}
+		},
+		{
+			"name": "Marsh Flats",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/280_Marsh Flats.png"
+			}
+		},
+		{
+			"name": "Mirrorpool",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/281_Mirrorpool.png"
+			}
+		},
+		{
+			"name": "Misty Rainforest",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/282_Misty Rainforest.png"
+			}
+		},
+		{
+			"name": "Molten Slagheap",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/283_Molten Slagheap.png"
+			}
+		},
+		{
+			"name": "Monumental Henge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/284_Monumental Henge.png"
+			}
+		},
+		{
+			"name": "Mortuary Mire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/285_Mortuary Mire.png"
+			}
+		},
+		{
+			"name": "Mosswort Bridge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/286_Mosswort Bridge.png"
+			}
+		},
+		{
+			"name": "Mutavault",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/287_Mutavault.png"
+			}
+		},
+		{
+			"name": "Mystic Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/288_Mystic Sanctuary.png"
+			}
+		},
+		{
+			"name": "Nesting Grounds",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/289_Nesting Grounds.png"
+			}
+		},
+		{
+			"name": "Petrified Field",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/290_Petrified Field.png"
+			}
+		},
+		{
+			"name": "Plaza of Heroes",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/291_Plaza of Heroes.png"
+			}
+		},
+		{
+			"name": "Polluted Delta",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/292_Polluted Delta.png"
+			}
+		},
+		{
+			"name": "Rogue's Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/293_Rogue's Passage.png"
+			}
+		},
+		{
+			"name": "Saltcrusted Steppe",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/294_Saltcrusted Steppe.png"
+			}
+		},
+		{
+			"name": "Sandstone Bridge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/295_Sandstone Bridge.png"
+			}
+		},
+		{
+			"name": "Scalding Tarn",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/296_Scalding Tarn.png"
+			}
+		},
+		{
+			"name": "Shelldock Isle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/297_Shelldock Isle.png"
+			}
+		},
+		{
+			"name": "Skyline Cascade",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/298_Skyline Cascade.png"
+			}
+		},
+		{
+			"name": "Spinerock Knoll",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/299_Spinerock Knoll.png"
+			}
+		},
+		{
+			"name": "Tomb Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/300_Tomb Fortress.png"
+			}
+		},
+		{
+			"name": "Tower of the Magistrate",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/301_Tower of the Magistrate.png"
+			}
+		},
+		{
+			"name": "Treasure Vault",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/302_Treasure Vault.png"
+			}
+		},
+		{
+			"name": "Verdant Catacombs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/303_Verdant Catacombs.png"
+			}
+		},
+		{
+			"name": "Vivid Crag",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/304_Vivid Crag.png"
+			}
+		},
+		{
+			"name": "Vivid Creek",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/305_Vivid Creek.png"
+			}
+		},
+		{
+			"name": "Vivid Grove",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/306_Vivid Grove.png"
+			}
+		},
+		{
+			"name": "Vivid Marsh",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/307_Vivid Marsh.png"
+			}
+		},
+		{
+			"name": "Vivid Meadow",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/308_Vivid Meadow.png"
+			}
+		},
+		{
+			"name": "Wasteland",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/309_Wasteland.png"
+			}
+		},
+		{
+			"name": "Windbrisk Heights",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/310_Windbrisk Heights.png"
+			}
+		},
+		{
+			"name": "Windswept Heath",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/311_Windswept Heath.png"
+			}
+		},
+		{
+			"name": "Wooded Foothills",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/DD1-files/img/312_Wooded Foothills.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Collective Enrichment
+		2 Accomplished Mentor
+		2 Fresh Recruits
+		2 Expedition Leader
+		2 Team Captain
+		2 Collective Encouragement
+		2 The Lost Logs
+		2 Seek the Wish-Granter
+		2 Zoro, the Beckoner
+		2 Celestial Tear
+		2 Collective Development
+		2 Training Grounds
+		2 Follow the Illusionist's Path
+		2 Mobile Scarf
+		2 Shade's Silencer
+		2 Hypnotic Spirit
+		2 Soul Husk
+		2 Treasure Tyrant
+		2 Collective Despoilment
+		2 Uncover the Lost Treasure
+		2 Fickle Ribbon
+		2 Risky Runners
+		2 Roaring Supporter
+		2 Collective Empowerment
+		2 Shaman of Stories
+		2 Molten Vortex
+		2 Explore the Deepest Caverns
+		2 Carnage King
+		2 Fulfilled Retiree
+		2 Crafty Solution
+		2 Trailblazer
+		2 Venture the Forbidden Forest
+		2 Coalition Scarf
+		2 Explosive Band
+		2 Fierce Bandanna
+		2 Possibility Processor
+		2 Protean Impostor
+		2 Silver the Kindhearted
+		2  Scourge, Father of Team Shade
+		2 Garde, Guild Organizer
+		2 Psyche, Guild Mentor
+		2 Eevium Z
+		2 Frost the Absolved
+		2 Demarcus, the First Envoy
+		2 Beacon Peak
+		2 Deathwish Canyon
+		2 The Maw
+		2 Star Crater
+		2 Timewinder Woods
+		2 Send Through Space
+		2 Inexorable Tide
+		2 Parting Thoughts
+		2 Elite Expeditionaries
+		1 Stand Together
+		1 Toren, Prodigious Explorer
+		1 Nebby, Guardian of Worlds
+		1 Hostage Holder
+		1 Master Agents
+		1 Dubious Bidding
+		1 Blitz Traveler
+		1 Aspiring Heroes
+		1 Team Effort
+		1 Rhythm Amplifier
+		1 The Guardian Golems
+		1 Envoy's Legacy
+		1 Jirachi, Wish Granter
+		1 Celebi, Timeline Preserver
+		1 Jacob, Memory Seeker
+		[UncommonSlot(3)]
+	9 Guild Recruiter
+		9 Consequence of Carelessness
+		9 Kindly Coach
+		9 Kindly Caretaker
+		9 Cafe Master
+		9 Incarceration Assistant
+		9 Wise Guide
+		9 Nameless Guardian
+		9 Strike Expert
+		9 Amiable Collaboration
+		9 Mentor the Youth
+		9 Luca's Influence
+		9 Distraction Technique
+		9 Innocuous Observer
+		9 Moonlight Harnesser
+		9 Search Party
+		9 Arcane Thief
+		9 Arcana Chasers
+		9 Messenger Master
+		9 Chart a Course
+		9 Counteract
+		9 Decipher the Lost Scriptures
+		9 Garde's Influence
+		9 Lone Traveler
+		9 Sly Larcenist
+		9 Scrutinous Accountant
+		9 Cavern Crawlers
+		9 Recovery Crew
+		9 Hardened Explorers
+		9 Glimmer Digger
+		9 Emerge from the Caverns
+		9 Please the Boss
+		9 Scourge's Influence
+		9 Enflamed Rebel
+		9 Eager Explorers
+		9 Outlaw Hunter
+		9 Furious Fighters
+		9 Tectonic Forger
+		9 Blaststoker
+		9 Festival Throwers
+		9 Breath of Demarcus
+		9 Heat of Battle
+		9 Master the Elements
+		9 Psyche's Influence
+		9 Lazed Lookout
+		9 Market Master
+		9 Forest Flourishers
+		9 Undergrowth Dredger
+		9 Tag Team
+		9 Versatile Veterans
+		9 Gather the Crowd
+		9 Adventuring Crew
+		9 Adventurous Collaboration
+		9 Refuge Seekers
+		9 Overpower
+		9 Confounding Collaboration
+		9 Diabolical Collaboration
+		9 Daring Collaboration
+		9 Drax's Influence
+		9 Helper Orb
+		9 Slumber Orb
+		9 Two-Edge Orb
+		9 Hurl Orb
+		9 Luminous Orb
+		9 Tenacious Digger
+		9 Chirping Songbird
+		9 Cavern Coiler
+		9 Supplies Stash
+		9 Village Outcrop
+		9 Petal Dance
+		9 Drax, Deathwish-Hardened
+		9 Pyre, Guild Agent
+		9 Magnezone, Federation Head
+		9 Melanie, Team Enigma Leader
+		9 Luca, Empath Healer
+		9 Ripjaw, Shade's Butcher
+		9 The Kecleon Brothers
+		9 Solera, Grief-Filled
+		9 Geist, Deed-Doer
+		9 Alak, Island Historian
+		[CommonSlot(10)]
+	30 Silent Swordsman
+		30 Inventory Experts
+		30 Tiny Titan
+		30 Naive Explorers
+		30 Supplies Courrier
+		30 Fortunate Few
+		30 Guild Medic
+		30 Outlaw Ambusher
+		30 Freelance Flock
+		30 Top Team
+		30 Swift Response
+		30 Bring to Custody
+		30 Conquering Blow
+		30 Keep in Spirits
+		30 Loot
+		30 Shade Router
+		30 Breeze Dancer
+		30 Job Sifters
+		30 Slinking Sneak
+		30 Mindbreaker
+		30 Delivery Expert
+		30 Nameless Contact
+		30 Library Catalogers
+		30 Befuddled Psychic
+		30 Fuel for the Cause
+		30 Battle Prowess
+		30 Stun Seed
+		30 Careful Preparation
+		30 Contentious Plan
+		30 Reach for the Stars
+		30 Rookie Mistake
+		30 Push Forward
+		30 Corrosive Creep
+		30 Scam Artist
+		30 Restless Infiltrator
+		30 Tomb Raiders
+		30 Ghastly Gang
+		30 Treachorous Team
+		30 Path Patrol
+		30 Loyalless Scrounger
+		30 Heartless Butcher
+		30 Darkwood Pathfinder
+		30 Ambush Attack
+		30 Tempting Spoils
+		30 Reviver Seed
+		30 Fret
+		30 Thieves' Tools
+		30 Optimistic Ambition
+		30 Cunning Thief
+		30 Flare Beast
+		30 Shinx Assistant
+		30 Dedicated Dungeoneer
+		30 Shade Bruisers
+		30 Catalyst Concotor
+		30 Emboldened Explorer
+		30 Untapped Potential
+		30 Dash Through
+		30 Intimidation Tactics
+		30 Blaze of Hope
+		30 Rock Smash
+		30 Quick Seed
+		30 Garden Guaridnas
+		30 Berry Sharer
+		30 Aloof Adventurer
+		30 Headlong Explorers
+		30 Lively Gathering
+		30 Distant Travelers
+		30 Expeditious Wanderer
+		30 Mindless Devourer
+		30 Elder Advisors
+		30 Smell Fear
+		30 Harvest
+		30 Talons of Wildwood
+		30 Spider's Spinnings
+		30 Return to Nature
+		30 Bladed Apprentice
+		30 Item Broker
+		30 Iron Menace
+		30 Prying Blade
+		30 Expedition Map
+		30 Team Badge
+		30 Trusted Teammate
+		30 Hazardous Happenstance
+		30 Protect Charge
+		30 Novice Adventurers
+		30 Shorline Charters
+		30 Sweeping Current
+		30 Completely Exhaust
+		30 Grim Bounty
+		30 Burst of Rage
+		30 Enthusiastic Recuits
+		30 Lava Burst
+		30 Fiery Adventurers
+		30 Adventurous Impulse
+		30 Curious Crew
+		30 Desperate Stand
+		30 Encourage Seed
+		30 Seasoned Explorers
+		30 Experienced Travelers
+		30 Volt Charge
+		30 Joy Seed
+		[LandSlot(1)]
+	10 Ancient Tomb
+		10 Ancient Ziggurat
+		10 Arena
+		10 Arid Mesa
+		10 Blast Zone
+		10 Bloodstained Mire
+		10 Calciform Pools
+		10 Cavern of Souls
+		10 Crawling Barrens
+		10 Crystal Quarry
+		10 Demolition Field
+		10 Deserted Temple
+		10 Dreadship Reef
+		10 Dryad Arbor
+		10 Dust Bowl
+		10 Endless Sands
+		10 Evolving Wilds
+		10 Fertile Thicket
+		10 Field of the Dead
+		10 Flooded Strand
+		10 Forbidden Orchard
+		10 Fungal Reaches
+		10 Gemstone Caverns
+		10 Glacial Chasm
+		10 Hellion Crucible
+		10 Homeward Path
+		10 Howltooth Hollow
+		10 Looming Spires
+		10 Lotus Field
+		10 Mana Confluence
+		10 Marsh Flats
+		10 Mirrorpool
+		10 Misty Rainforest
+		10 Molten Slagheap
+		10 Monumental Henge
+		10 Mortuary Mire
+		10 Mosswort Bridge
+		10 Mutavault
+		10 Mystic Sanctuary
+		10 Nesting Grounds
+		10 Petrified Field
+		10 Plaza of Heroes
+		10 Polluted Delta
+		10 Rogue's Passage
+		10 Saltcrusted Steppe
+		10 Sandstone Bridge
+		10 Scalding Tarn
+		10 Shelldock Isle
+		10 Skyline Cascade
+		10 Spinerock Knoll
+		10 Tomb Fortress
+		10 Tower of the Magistrate
+		10 Treasure Vault
+		10 Verdant Catacombs
+		10 Vivid Crag
+		10 Vivid Creek
+		10 Vivid Grove
+		10 Vivid Marsh
+		10 Vivid Meadow
+		10 Wasteland
+		10 Windbrisk Heights
+		10 Windswept Heath
+		10 Wooded Foothills
+		
