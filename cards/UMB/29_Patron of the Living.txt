@@ -1,0 +1,1 @@
+﻿Patron of the Living	W	common	Creature – Vampre Knight Mercenary 	29	W	2W	LifelinkNEWLINEWhen Patron of the Living enters the battlefield, target Vampire you control gains lifelink until end of turn.	2/3		normal	UMB		

@@ -1,0 +1,300 @@
+10_Grace, Soul Unbound
+43_Ancestral Communion
+109_The One in the Sewers
+162_Tibalt, Spawn of Chaos
+202_Venus Mantrap
+15_Hushpoppet
+84_Xrthalid, Subject Zero
+123_Victor, Sentience Imparter
+163_Tibalt's Betrayal
+170_Attack of the Waking Woods
+4_Enlightened Tutor
+46_Dream Lurker
+89_Cast into Gloom
+127_Arcana Chaser
+174_Crawling Skin
+11_Hannibal, Inaugural Mayor
+48_Enhancement Chamber
+107_Nightmare Amalgam
+130_Cruel Betrayal
+194_Stalking Eyes
+22_Klaus, Eversummer Vanguard
+55_Frozen in Fear
+112_Putrid Blob
+139_Gamble
+197_Tarmogoyf
+25_Maiden of the Haunt
+57_Gifts Ungiven
+114_Rise of The Living Dead
+152_Mass Mentality
+203_Vulpine Trickster
+27_Nameless Persecutor
+62_Midnight Clock
+115_Roost Keeper
+159_Scream Harvester
+204_Waker of the Hunt
+31_Possessed Stranger
+65_Mystical Tutor
+117_Say the Name
+164_Two-Headed Hound
+206_Worldly Tutor
+32_Radiant Expulsion
+67_Nemesis of Identities
+121_Vampiric Tutor
+165_The Waxing Moon
+167_Active Hunter
+42_Wicker Effigy
+75_Snapcaster Mage
+87_Cadaver Stitching
+129_Carved Up
+168_Adopted Packmate
+2_Collector of Souls
+44_Apex Monstrosity
+90_Ceaseless Crawler
+133_Explosion of Results
+169_Alpha Authority
+5_Ethereal Procession
+47_Dreamweft Changeling
+96_Graveshifter
+140_Glimmer Harvester
+171_Blessweaver
+6_Eversummer Coalition
+50_Essence of the Uncanny
+97_Grisly Sustenance
+142_Heretic Warlord
+176_Decorated Valor
+7_Exorcism
+54_Forbidden Alchemy
+98_Harvest
+144_King of the Patch
+177_Eversummer Harbinger
+8_Frightveil
+56_Genome Study
+99_Helpless Victim
+145_Laboratory Harbinger
+178_Exemplar Arachnid
+9_Gala Harbinger
+58_Glyph Seeker
+100_Hemohone
+147_Lavaformed Monster
+181_Humble Outcast
+16_Imaginary Friend
+59_Haunt Harbinger
+105_Mark of Mutilation
+149_Lunar Rage
+182_Latent Growth
+17_Imperiled Villager
+60_Horde Harbinger
+106_Master of the House
+153_Moonpack Harbinger
+185_Markmaker
+24_Macabre Festivites
+64_Multimutate
+108_Noble Suitor
+155_Newborn Hunter
+186_Monstrosity Harbinger
+26_Martyr's Curse
+66_Naive Delver
+110_Patch Harbinger
+156_Power Up
+191_Restore the Day
+28_Outcast
+72_Recurring Infestation
+118_Spindly Demise
+160_Spirit of Anarchy
+199_Thrill of the Kill
+34_Riot Harbinger
+73_Seasoned Experimenter
+124_Webspinner Harbinger
+161_Terror in the Streets
+172_Bounding Wolf
+35_Rise from the Coffin
+79_Supernatural Intervention
+85_Bitter Legacy
+126_Abandon the Post
+173_Brambleskin
+1_Authoritative Accuser
+45_Dissect
+86_Body Modifier
+128_Brazen Rescuer
+175_Deadly Recluse
+3_Crib Swap
+49_Era-Worn Zombie
+88_Carve
+131_Emberwild Accusers
+179_Expert Survivalist
+12_Hold at the Stake
+51_Fickle Figment
+91_Claw Out
+132_Experiment Overseer
+180_Gorehusk
+13_Homestead Courage
+52_First Subject
+92_Crippling Condition
+134_Fiery Pup
+183_Legacy Forger
+14_Hungering Guardian
+53_Flaying Zombie
+93_Cryptspinner
+135_Firebolt
+184_Longleg Broodmother
+18_Incite Riot
+61_Incomprehensible Mass
+94_Decadent Decorator
+136_Flesh Shaper
+187_Multieyed Monstrosity
+19_Inciting Individual
+63_Mindmister
+95_Go for the Neck
+137_Freak Show
+188_Naive Traveler
+20_Inspirational Captain
+68_Novice Researcher
+101_Hungering Vampire
+138_Frenzied Villager
+189_Overadapt
+21_Irregular Cohort
+69_Otherworldly Gaze
+102_Infested Zombie
+141_Gruesome Gang
+190_Pull of the Moon
+23_Loyal Enforcer
+70_Plasmform
+103_Lone Crawler
+143_Inner Blaze
+192_Return to Nature
+29_Patron of the Living
+71_Recurring Haunting
+104_Manyfaced Monstrosity
+146_Lantern Lighter
+193_Settle the Homestead
+30_Popular Leader
+74_Silent Departure
+111_Pattern Carver
+148_Lunar Pull
+195_Take Prey
+33_Reveling Changeling
+76_Soul of the Monster
+113_Return from Extinction
+150_Make a Scene
+196_Tapping at the Window
+36_Sanguine Hospitality
+77_Stream of Unconsciousness
+116_Sanity Stealer
+151_Martyr for the Mob
+198_Thousandform
+37_Secrets of the Restless
+78_Strip Identity
+119_Thirsty Neonate
+154_Nameless Monster
+200_Unnatural Nature
+38_Serene Apparition
+80_Thought Trash
+120_Tibalt's Proposition
+157_Radicalize
+201_Unveil the Abnormal
+39_Sophisticated Host
+81_Tomb Keeper
+122_Venemous Ambush
+158_Sanity Extraction
+205_Webweave
+40_Tomb Whisperer
+82_Trespass the Tomb
+125_Wither Away
+166_Writhing Fury
+e
+41_Unfinished Business
+83_Victim of Experimentation
+e
+e
+e
+er
+er
+er
+er
+er
+223_Meribelle, the Poltergeist
+232_Thriller
+213_Dreadknot, Decapitated Fiend
+208_Bloodcurl, the Dread Howler
+224_Montague, Crafty Survivor
+231_﻿Street Creeper
+221_Jumpscare
+220_Jack of Lanterns
+225_Neverending Pack
+215_Eversummer Exemplar
+e
+227_Prickett, Drowned Drowner
+e
+e
+e
+e
+229_Shambling Legion
+e
+e
+e
+er
+er
+er
+er
+er
+222_Kizrath, the Dusk Prince
+219_Ixophew, Hallows Spinner
+214_Eliot, the Smith of Flesh
+217_Glutmeg, Crazed Alchemist
+212_Constantine, Chief Instigator
+230_Slynn, Identity Binder
+207_Akista, Mother Widow
+210_Branchweft Crow
+211_Catalyst Specialist
+228_Rabblegang
+216_Eve's Beginning
+226_Omniform
+e
+e
+e
+218_Indulgent Extractor
+209_Bloodglutton Spider
+e
+e
+e
+er
+er
+er
+er
+er
+236_The Clock Prison
+237_Eerie Obelisk
+244_Splitting Harvester
+233_Birthing Boughs
+234_Bloodline Pretender
+239_Heap Doll
+240_Ineffective Scarecrow
+241_Melting Pot
+235_Clever Costuming
+238_Gravedigger's Amulet
+242_Scuttlemutt
+243_Silver Bolt
+245_Surrogate Farmhand
+246_Universal Automaton
+e
+er
+er
+er
+er
+er
+e
+e
+e
+e
+249_Silent Grove
+er
+er
+er
+er
+er
+247_Cavern of Souls
+248_Mutavault
+e
+e
+e

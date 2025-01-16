@@ -1,0 +1,1 @@
+﻿Maiden of the Haunt	W	rare	Creature – Spirit 	25	W	1W	FlyingNEWLINEAs long as Maiden of the Haunt is on the battlefield or in exile haunting a creature, haunted creatures have base power and toughness 1/1 and have flying.NEWLINEHaunt (When this creature dies, exile it haunting target creature.)	1/1		normal	UMB		

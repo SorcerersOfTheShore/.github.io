@@ -1,0 +1,1 @@
+﻿Mindmister	U	common	Creature – Shapeshifter 	63	U	2U	Changeling (This card is every creature type.)NEWLINET: Target player mills two cards.	0/4		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Thirsty Neonate	B	common	Creature – Vampire 	119	B	1B	LifelinkNEWLINE1, T: Thirsty Neonate deals 1 damage to target player or planeswalker.	1/2		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Mark of Mutilation	B	uncommon	Sorcery	105	BR	B	Mark of Mutilation deals 1 damage to any target. When damage is dealt to a creature this way, put a +1/+1 counter and a menace counter on that creature.NEWLINEFlashback 2R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

@@ -1,0 +1,1 @@
+﻿Decadent Decorator	B	common	Creature – Vampire 	94	B	5B	When Decadent Decorator enters the battlefield, create a 2/1 red Plant creature token, then you may put a lifelink counter on a creature you control with power 2 or less.	4/4		normal	UMB		

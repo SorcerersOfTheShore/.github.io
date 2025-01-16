@@ -1,0 +1,1 @@
+﻿Sanity Stealer	B	common	Creature – Shapeshifter 	116	B	2B	Changeling (This card is every creature type.)NEWLINEWhen Sanity Stealer enters the battlefield, you may discard a card. If you do, each opponent discards a card.	3/2		normal	UMB		

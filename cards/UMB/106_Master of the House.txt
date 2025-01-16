@@ -1,0 +1,1 @@
+﻿Master of the House	B	uncommon	Creature – Vampire 	106	B	4B	Whenever you gain life, each opponent loses 1 life.NEWLINEOther Vampire creatures you control get +1/+1.	3/3		normal	UMB		

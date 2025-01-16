@@ -1,0 +1,1 @@
+﻿Splitting Harvester		rare	Artifact Creature – Scarecrow 	244	C	4	Double strikeNEWLINEOther Scarecrow creatures you control get +1/+1.NEWLINEWhenever another Scarecrow enters the battlefield under your control, create a token that’s a copy of Splitting Harvester, except it doesn’t have this ability.	1/1		normal	UMB		

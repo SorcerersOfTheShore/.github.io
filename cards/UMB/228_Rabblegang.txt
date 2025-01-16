@@ -1,0 +1,1 @@
+﻿Rabblegang	WR	uncommon	Creature – Human Berserker 	228	WR	RW	HasteNEWLINERabblegang gets +1/+0 for each other creature you control.NEWLINET, Sacrifice Rabblegang: Rabblegang deals damage equal to its power to target creature or planeswalker.	2/2		normal	UMB		

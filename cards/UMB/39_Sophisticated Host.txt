@@ -1,0 +1,1 @@
+﻿Sophisticated Host	W	common	Creature – Vampire 	39	W	W	Whenever a creature you control dies, you gain 1 life.	1/1		normal	UMB		

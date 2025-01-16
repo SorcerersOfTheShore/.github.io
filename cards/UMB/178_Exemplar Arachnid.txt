@@ -1,0 +1,1 @@
+﻿Exemplar Arachnid	G	uncommon	Creature – Spider 	178	G	3G	ReachNEWLINEOther Spider creatures you control get +1/+1.	2/4		normal	UMB		

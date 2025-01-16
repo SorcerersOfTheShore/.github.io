@@ -1,0 +1,1 @@
+﻿Akista, Mother Widow	BG	rare	Legendary Creature – Spider 	207	BG	4BG	ReachNEWLINEWhenever another nontoken Spider enters the battlefield under your control, create a 1/2 green Spider creature token with reach.NEWLINECreatures you control with reach have “You may have this creature assign its combat damage as though it weren’t blocked.”	2/8		normal	UMB		

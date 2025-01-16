@@ -1,0 +1,1 @@
+﻿Hungering Guardian	W	common	Creature – Vampire Berserker 	14	W	4W	Whenever you gain life, put a +1/+1 counter on Hungering Guardian.NEWLINESacrifice a creature: You gain 2 life. Activate only once each turn and only as a sorcery.	4/4		normal	UMB		

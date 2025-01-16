@@ -1,0 +1,1 @@
+﻿Two-Headed Hound	R	rare	Creature – Elemental Dog 	164	R	2R	Double strikeNEWLINEWhen Two-Headed Hound dies, put a double strike counter on target creature you control.	2/2		normal	UMB		

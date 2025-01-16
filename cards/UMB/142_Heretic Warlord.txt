@@ -1,0 +1,1 @@
+﻿Heretic Warlord	R	uncommon	Creature – Berserker 	142	R	2R	Whenever an attacking nontoken creature you control dies, create two tapped 1/1 red Berserker creature tokens.	3/1		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Abandon the Post	R	common	Sorcery	126	R	1R	Up to two target creatures can’t block this turn.NEWLINEFlashback 3R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

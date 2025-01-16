@@ -1,0 +1,1 @@
+﻿Inspirational Captain	W	common	Creature – Human Soldier 	20	W	3W	Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)	4/3		normal	UMB		

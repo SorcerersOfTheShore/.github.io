@@ -1,0 +1,1 @@
+﻿Claw Out	B	common	Kindred Sorcery – Zombie 	91	B	3BB	Return target creature card from your graveyard to the battlefield. Then if you control a Zombie, draw a card.			normal	UMB		

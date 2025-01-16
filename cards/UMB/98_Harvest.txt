@@ -1,0 +1,1 @@
+﻿Harvest	B	uncommon	Kindred Sorcery – Plant 	98	B	2B	Each player sacrifices a creature, then you create a 2/1 red Plant creature token. If a creature sacrificed this way had flying, put a flying counter on that token. Repeat this process for first strike, double strike, deathtouch, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.			normal	UMB		

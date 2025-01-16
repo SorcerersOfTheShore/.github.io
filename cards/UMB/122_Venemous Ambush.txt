@@ -1,0 +1,1 @@
+﻿Venemous Ambush	B	common	Kindred Sorcery – Spider 	122	B	2B	Create a 1/2 green Spider creature token with reach. Then, target creature gets -X/-X until end of turn, where X is the number of Spiders you control.			normal	UMB		

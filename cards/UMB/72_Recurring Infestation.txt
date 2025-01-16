@@ -1,0 +1,1 @@
+﻿Recurring Infestation	U	uncommon	Kindred Enchantment – Zombie 	72	U	3U	Whenever one or more cards leave your graveyard or you activate an ability of a card in your graveyard, create a tapped 2/2 black Zombie creature token. This ability triggers only once each turn.			normal	UMB		

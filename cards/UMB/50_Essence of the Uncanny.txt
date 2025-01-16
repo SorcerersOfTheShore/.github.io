@@ -1,0 +1,1 @@
+﻿Essence of the Uncanny	U	uncommon	Creature – Mutant Ooze 	50	U	4U	Essence of the Uncanny enters the battlefield with a hexproof counter on it.NEWLINEAmalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)	3/4		normal	UMB		

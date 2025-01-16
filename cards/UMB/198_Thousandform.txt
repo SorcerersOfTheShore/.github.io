@@ -1,0 +1,1 @@
+﻿Thousandform	G	common	Kindred Enchantment – Shapeshifter Aura 	198	G	G	Changeling (This card is every creature type.)NEWLINEEnchant creatureNEWLINEEnchanted creature gets +1/+1 and is every creature type.			normal	UMB		

@@ -1,0 +1,1 @@
+﻿Surrogate Farmhand		common	Artifact Creature – Scarecrow 	245	C	5	2: Surrogate Farmhand gains your choice of vigilance, reach, or trample until end of turn.	4/4		normal	UMB		

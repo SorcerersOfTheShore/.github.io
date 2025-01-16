@@ -1,0 +1,1 @@
+﻿Reveling Changeling	W	common	Creature – Shapeshifter 	33	W	1W	Changeling (This card is every creature type.)NEWLINE1, Sacrifice Reveling Changeling: Destroy target artifact or enchantment.	2/2		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Trespass the Tomb	U	common	Kindred Sorcery – Zombie 	82	U	1U	Any number of target players each mill three cards. If a creature card was milled this way, create a tapped 2/2 black Zombie creature token.			normal	UMB		

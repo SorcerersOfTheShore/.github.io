@@ -1,0 +1,1 @@
+﻿Writhing Fury	R	common	Creature – Shapeshifter 	166	R	1R	Changeling (This card is every creature type.)NEWLINEProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)	2/1		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Gorehusk	G	common	Creature – Mutant Beast 	180	G	4GG	When Gorehusk enters the battlefield, distribute a +1/+1 counter and a trample counter among one or two target Mutant creatures.NEWLINEAmalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)	5/5		normal	UMB		

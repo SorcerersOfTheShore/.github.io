@@ -1,0 +1,1 @@
+﻿Make a Scene	R	common	Instant	150	R	2R	Choose one–NEWLINE• Make a Scene deals damage to target creature or planeswalker equal to the number of creatures you control.NEWLINE• Make a Scene deals damage to target creature or planeswalker equal to the greatest power among creatures you control.			normal	UMB		

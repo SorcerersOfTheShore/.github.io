@@ -1,0 +1,1 @@
+﻿Macabre Festivites	W	uncommon	Kindred Enchantment – Vampire 	24	W	2W	When Macabre Festivites enters the battlefield, create a 1/1 black Vampire creature token with lifelink.NEWLINEWhenever you gain life, put a +1/+1 counter on up to one target creature.			normal	UMB		

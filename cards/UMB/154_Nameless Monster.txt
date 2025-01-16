@@ -1,0 +1,1 @@
+﻿Nameless Monster	R	common	Creature – Shapeshifter 	154	R	3R	Changeling (This card is every creature type.)NEWLINEWhen Nameless Monster enters the battlefield, creatures you control gain menace until end of turn.	3/3		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Cast into Gloom	B	rare	Sorcery	89	B	2BB	Until end of turn, creatures have base power and toughness 0/0.			normal	UMB		

@@ -1,0 +1,1 @@
+﻿Eversummer Exemplar	WG	uncommon	Creature – Human Soldier 	215	WG	GW	VigilanceNEWLINEMentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)	3/2		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Strip Identity	U	common	Kindred Enchantment – Shapeshifter Aura 	78	U	3U	Changeling (This card is every creature type.)NEWLINEEnchant creatureNEWLINEWhen Strip Identity enters the battlefield, tap enchanted creature.NEWLINEEnchanted creature loses all creature types and doesn’t untap during its controller’s untap step.			normal	UMB		

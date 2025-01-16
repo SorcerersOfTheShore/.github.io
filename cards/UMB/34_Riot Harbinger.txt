@@ -1,0 +1,1 @@
+﻿Riot Harbinger	W	uncommon	Creature – Berserker 	34	W	1W	First strikeNEWLINEWhen Riot Harbinger enters the battlefield, you may search your library for a Berserker card, reveal it, then shuffle and put that card on top.	1/1		normal	UMB		

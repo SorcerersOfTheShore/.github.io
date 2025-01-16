@@ -1,0 +1,1 @@
+﻿Eerie Obelisk		rare	Artifact	237	C	3	At the beginning of combat on your turn, target creature you control with flying gets +1/+1 until end of turn. Repeat this process for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, prowess, reach, trample, vigilance.			normal	UMB		

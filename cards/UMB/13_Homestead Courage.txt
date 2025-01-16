@@ -1,0 +1,1 @@
+﻿Homestead Courage	W	common	Sorcery	13	W	W	Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.NEWLINEFlashback W (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

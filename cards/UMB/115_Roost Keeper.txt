@@ -1,0 +1,1 @@
+﻿Roost Keeper	B	rare	Creature – Vampire 	115	B	1BB	FlyingNEWLINEWhenever you gain life, create a 1/1 black Bat creature token with flying. This ability triggers only once each turn.NEWLINE2BB: Roost Keeper and Bat creatures you control gain deathtouch and lifelink until end of turn.	2/3		normal	UMB		

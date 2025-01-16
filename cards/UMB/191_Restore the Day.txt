@@ -1,0 +1,1 @@
+﻿Restore the Day	G	uncommon	Sorcery	191	WG	2G	Choose one or both –NEWLINE• Return target creature card from your graveyard to your hand.NEWLINE• Return target enchantment card from your graveyard to your hand.NEWLINEFlashback 6W (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

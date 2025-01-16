@@ -1,0 +1,1 @@
+﻿Go for the Neck	B	common	Kindred Sorcery – Vampire 	95	B	2B	Go for the Neck deals 2 damage to any target. You gain 2 life. If you control a Vampire, draw a card.			normal	UMB		

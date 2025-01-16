@@ -1,0 +1,1 @@
+﻿Return to Nature	G	common	Instant	192	G	1G	Choose one –NEWLINE• Destroy target artifact.NEWLINE• Destroy target enchantment.NEWLINE• Exile target card from a graveyard.			normal	UMB		

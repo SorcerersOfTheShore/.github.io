@@ -1,0 +1,1 @@
+﻿Lantern Lighter	R	common	Creature – Plant Wizard 	146	R	R	Whenever you cast a noncreature spell, choose a kind of counter that Lantern Lighter doesn’t have on it from among first strike, menace, trample, and +1/+1. Put a counter on that kind on Lantern Lighter.	1/1		normal	UMB		

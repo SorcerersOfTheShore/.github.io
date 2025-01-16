@@ -1,0 +1,1 @@
+﻿Tibalt's Proposition	B	common	Sorcery	120	B	2B	You draw two cards and you lose 2 life.NEWLINEFlashback–2B, Pay 2 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

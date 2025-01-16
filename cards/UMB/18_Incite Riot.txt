@@ -1,0 +1,1 @@
+﻿Incite Riot	W	common	Kindred Sorcery – Berserker 	18	W	2WW	Choose one–NEWLINE• Create three 1/1 red Berserker creature tokens.NEWLINE• Creatures you control get +2/+1 until end of turn.			normal	UMB		

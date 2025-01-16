@@ -1,0 +1,1 @@
+﻿Melting Pot		uncommon	Kindred Artifact – Shapeshifter 	241	C	4	Changeling (This card is every creature type.)NEWLINEWhenever another permanent enters the battlefield under your control, if it has one or more creature types, note one of those creature types that you haven’t noted for cards named Melting Pot. If you do, draw a card.			normal	UMB		

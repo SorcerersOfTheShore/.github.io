@@ -1,0 +1,1 @@
+﻿Newborn Hunter	R	uncommon	Creature – Shapeshifter 	155	R	R	Changeling (This card is every creature type.)NEWLINEDouble strikeNEWLINE1R: Newborn Hunter gets +1/+0 until end of turn.	0/1		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Indulgent Extractor	WB	uncommon	Creature – Vampire 	218	WB	2WB	LifelinkNEWLINEWhenever you gain life, you may have each opponent lose that much life. Do this only once each turn.	2/4		normal	UMB		

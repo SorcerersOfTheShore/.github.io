@@ -1,0 +1,1 @@
+﻿Active Hunter	G	uncommon	Creature – Spider 	167	G	4G	ReachNEWLINEEach creature you control with reach assigns combat damage equal to its toughness rather than its power.	2/5		normal	UMB		

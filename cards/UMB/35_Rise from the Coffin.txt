@@ -1,0 +1,1 @@
+﻿Rise from the Coffin	W	uncommon	Sorcery	35	WB	2W	Return target creature card with mana value 3 or less from your graveyard to the battlefield. You gain X life, where X is 3 minus that creature’s mana value.NEWLINEFlashback 4B (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

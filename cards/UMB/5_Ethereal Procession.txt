@@ -1,0 +1,1 @@
+﻿Ethereal Procession	W	uncommon	Creature – Spirit 	5	W	2W	FlyingNEWLINEOther Spirit creatures you control get +1/+1.NEWLINEHaunt (When this creature dies, exile it haunting target creature.)NEWLINEWhenever a creature haunted by Ethereal Procession attacks, create a 1/1 white Spirit creature token with flying.	1/1		normal	UMB		

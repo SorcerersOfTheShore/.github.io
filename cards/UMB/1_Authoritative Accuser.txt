@@ -1,0 +1,1 @@
+﻿Authoritative Accuser	W	common	Creature – Human Berserker 	1	W	W	Whenever Authoritative Accuser attacks, other attacking Berserkers you control get +1/+0.	1/2		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Infested Zombie	B	common	Creature – Zombie 	102	B	4B	3B, Exile Infested Zombie from your graveyard: Create two 1/2 green Spider creature tokens with reach. Activate only as a sorcery.	4/5		normal	UMB		

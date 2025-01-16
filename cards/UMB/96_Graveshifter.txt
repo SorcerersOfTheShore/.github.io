@@ -1,0 +1,1 @@
+﻿Graveshifter	B	uncommon	Creature – Shapeshifter 	96	B	3B	Changeling (This card is every creature type.)NEWLINEWhen Graveshifter enters the battlefield, you may return target creature card from your graveyard to your hand.	2/2		normal	UMB		

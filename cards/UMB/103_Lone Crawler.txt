@@ -1,0 +1,1 @@
+﻿Lone Crawler	B	common	Creature – Zombie 	103	B	2B	When Lone Crawler enters the battlefield, mill two cards.NEWLINEAt the beginning of your end step, if there are three or more creature cards in your graveyard, transform Lone Crawler.	2/2		transform double faced	UMB		Crawling Horde	B	Creature – Zombie 	B		Crawling Horde gets +1/+1 for each creature card in your graveyard.	2/2			

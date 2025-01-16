@@ -1,0 +1,1 @@
+﻿Bounding Wolf	G	common	Creature – Wolf 	172	G	2G	Flash (You may cast this spell any time you could cast an instant.)NEWLINEReach	3/2		normal	UMB		

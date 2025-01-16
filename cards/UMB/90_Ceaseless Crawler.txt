@@ -1,0 +1,1 @@
+﻿Ceaseless Crawler	B	uncommon	Creature – Zombie 	90	B	3B	Other Zombie creatures you control get +1/+1.NEWLINE3B, Exile three other cards from your graveyard: Return Ceaseless Crawler from your graveyard to your hand.	3/3		normal	UMB		

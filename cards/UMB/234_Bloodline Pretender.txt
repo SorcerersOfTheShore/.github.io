@@ -1,0 +1,1 @@
+﻿Bloodline Pretender		uncommon	Artifact Creature – Shapeshifter 	234	C	3	Changeling (This card is every creature type.)NEWLINEAs Bloodline Pretender enters the battlefield, choose a creature type.NEWLINEWhenever another creature of the chosen type enters the battlefield under your control, put a +1/+1 counter on Bloodline Pretender.	2/2		normal	UMB		

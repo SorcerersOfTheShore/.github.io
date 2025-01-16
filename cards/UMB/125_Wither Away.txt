@@ -1,0 +1,1 @@
+﻿Wither Away	B	common	Sorcery	125	B	2BB	Destroy target creature, then exile a card from its controller’s graveyard.			normal	UMB		

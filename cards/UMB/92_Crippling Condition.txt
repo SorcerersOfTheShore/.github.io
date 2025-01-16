@@ -1,0 +1,1 @@
+﻿Crippling Condition	B	common	Sorcery	92	B	2B	Destroy target creature with power 3 or less.NEWLINEFlashback 5B (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

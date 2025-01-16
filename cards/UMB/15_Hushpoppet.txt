@@ -1,0 +1,1 @@
+﻿Hushpoppet	W	mythic	Creature	15	W	2WW	Other creatures lose all creature types and abilities and have base power and toughness 1/1.	1/1		normal	UMB		

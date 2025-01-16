@@ -1,0 +1,1 @@
+﻿Eve's Beginning	WB	rare	Sorcery	216	WB	WB	Each player secretly chooses a player and chooses tricks or treats for that player. Each player sacrifices a creature for each time tricks was chosen for them and gains 1 life and draws a card for each time treats was chosen for them.			normal	UMB		

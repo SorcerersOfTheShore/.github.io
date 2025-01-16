@@ -1,0 +1,1 @@
+﻿Exorcism	W	uncommon	Instant	7	WU	2W	Exile target creature you control, then you may put a creature card you own with mana value less than or equal to the exiled creature’s mana value from exile onto the battlefield under your control.NEWLINEFlashback 4U (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

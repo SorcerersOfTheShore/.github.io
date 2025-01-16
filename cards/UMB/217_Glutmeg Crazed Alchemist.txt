@@ -1,0 +1,1 @@
+﻿Glutmeg, Crazed Alchemist	UR	rare	Legendary Creature – Human Wizard 	217	UR	1UR	T, Tap X other untapped Wizards you control: Exile target instant or sorcery card with mana value X plus 1 or less from your graveyard. Copy that card for each instant and sorcery spell you’ve cast this turn. You may cast the copies without paying their mana costs.	3/3		normal	UMB		

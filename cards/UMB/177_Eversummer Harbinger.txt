@@ -1,0 +1,1 @@
+﻿Eversummer Harbinger	G	uncommon	Creature – Human Soldier 	177	G	2G	Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)NEWLINEWhen Eversummer Harbinger enters the battlefield, you may search your library for a Human card, reveal it, then shuffle and put that card on top.	3/1		normal	UMB		

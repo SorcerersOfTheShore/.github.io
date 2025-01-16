@@ -1,0 +1,1 @@
+﻿Irregular Cohort	W	common	Creature – Shapeshifter 	21	W	2WW	Changeling (This card is every creature type.)NEWLINEWhen Irregular Cohort enters the battlefield, create a 2/2 colorless Shapeshifter creature token with changeling.	2/2		normal	UMB		

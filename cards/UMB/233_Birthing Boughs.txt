@@ -1,0 +1,1 @@
+﻿Birthing Boughs		uncommon	Artifact	233	C	3	4, T: Create a 2/2 colorless Shapeshifter creature token with changeling. (It has every creature type.)			normal	UMB		

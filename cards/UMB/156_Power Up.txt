@@ -1,0 +1,1 @@
+﻿Power Up	R	uncommon	Sorcery	156	UR	RR	When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.NEWLINEFlashback 2UU (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

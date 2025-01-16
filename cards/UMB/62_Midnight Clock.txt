@@ -1,0 +1,1 @@
+﻿Midnight Clock	U	rare	Artifact	62	U	2U	T: Add U.NEWLINE2U: Put an hour counter on Midnight Clock.NEWLINEAt the beginning of each upkeep, put an hour counter on Midnight Clock.NEWLINEWhen the twelfth hour counter is put on Midnight Clock, shuffle your hand and graveyard into your library, then draw seven cards. Exile Midnight Clock.			normal	UMB		

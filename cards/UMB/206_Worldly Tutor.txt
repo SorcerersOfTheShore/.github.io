@@ -1,0 +1,1 @@
+﻿Worldly Tutor	G	rare	Instant	206	G	G	Search your library for a creature card, reveal it, then shuffle and put the card on top.			normal	UMB		

@@ -1,0 +1,1 @@
+﻿Grace, Soul Unbound	W	mythic	Legendary Planeswalker – Grace 	10	W	3W			[+1]: Create a 1/1 white Spirit creature token with flying.NEWLINE[-3]: Creatures you control gain indestructible, vigilance, and lifelink until end of turn.NEWLINE[-5]: You get an emblem with “Once during each of your turns, you may play a face up card you own from exile.”	planeswalker	UMB	3	41%

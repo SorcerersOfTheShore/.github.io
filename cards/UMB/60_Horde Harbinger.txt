@@ -1,0 +1,1 @@
+﻿Horde Harbinger	U	uncommon	Creature – Zombie 	60	U	1U	Horde Harbinger enters the battlefield tapped.NEWLINEWhen Horde Harbinger enters the battlefield, you may search your library for a Zombie card, reveal it, then shuffle and put that card on top.	2/2		normal	UMB		

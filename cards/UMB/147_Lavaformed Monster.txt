@@ -1,0 +1,1 @@
+﻿Lavaformed Monster	R	uncommon	Creature – Shapeshifter 	147	R	2R	Changeling (This card is every creature type.)NEWLINEWhenever a creature you control with power 2 or less attacks, Lavaformed Monster deals 1 damage to the player or planeswalker that creature is attacking.	1/3		normal	UMB		

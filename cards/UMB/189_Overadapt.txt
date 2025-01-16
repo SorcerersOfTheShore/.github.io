@@ -1,0 +1,1 @@
+﻿Overadapt	G	common	Sorcery	189	G	2G	Choose two–NEWLINE• Put a +1/+1 counter on target creature.NEWLINE• Put a reach counter on target creature.NEWLINE• Put a deathtouch counter on target creature.NEWLINEFlashback 3G (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

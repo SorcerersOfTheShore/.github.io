@@ -1,0 +1,1 @@
+﻿Pattern Carver	B	common	Creature – Plant 	111	B	3B	When Pattern Carver enters the battlefield, put a menace counter on another target Plant you control.NEWLINEWhenever another Plant creature you control dies, for each kind of counter that Plant put a counter of that kind on Pattern Carver.	4/3		normal	UMB		

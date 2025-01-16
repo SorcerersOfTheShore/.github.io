@@ -1,0 +1,1 @@
+﻿Humble Outcast	G	uncommon	Creature – Shapeshifter 	181	G	4GG	Changeling (This card is every creature type.)NEWLINEWhen Humble Outcast enters the battlefield, distribute, a +1/+1 counter, a reach counter, a vigilance counter, and a trample counter among creatures you control.	4/4		normal	UMB		

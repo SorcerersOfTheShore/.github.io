@@ -1,0 +1,1 @@
+﻿Webweave	G	common	Kindred Enchantment – Spider Aura 	205	G	1G	FlashNEWLINEEnchant creatureNEWLINEWhen Webweave enters the battlefield, if you control another Spider, draw a card.NEWLINEEnchanted creature gets +1/+2 and has reach.			normal	UMB		

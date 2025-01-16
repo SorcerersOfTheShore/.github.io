@@ -1,0 +1,1 @@
+﻿Nemesis of Identities	U	rare	Creature – Shapeshifter 	67	U	3U	Changeling (This card is every creature type.)NEWLINEYou may have Nemesis of Identities enter the battlefield as a copy of any creature on the battlefield, except it’s every creature type in addition to its other creature types.	0/0		normal	UMB		

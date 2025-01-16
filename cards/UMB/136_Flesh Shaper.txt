@@ -1,0 +1,1 @@
+﻿Flesh Shaper	R	common	Creature – Plant Wolf 	136	R	2R	3R: Put your choice of a trample counter or a menace counter on target creature.	2/3		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Tapping at the Window	G	common	Sorcery	196	G	1G	Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest into your graveyard.NEWLINEFlashback 2G (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

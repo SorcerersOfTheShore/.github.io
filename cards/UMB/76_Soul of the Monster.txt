@@ -1,0 +1,1 @@
+﻿Soul of the Monster	U	common	Creature – Spirit 	76	U	4U	FlyingNEWLINEHaunt (When this creature dies, exile it haunting target creature.)NEWLINEWhen Soul of the Monster or the creature it haunts dies, create a 2/2 green and blue Mutant creature token.	3/3		normal	UMB		

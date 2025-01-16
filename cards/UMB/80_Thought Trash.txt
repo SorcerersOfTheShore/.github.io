@@ -1,0 +1,1 @@
+﻿Thought Trash	U	common	Instant	80	U	1UU	Counter target spell. Target player mills two cards.			normal	UMB		

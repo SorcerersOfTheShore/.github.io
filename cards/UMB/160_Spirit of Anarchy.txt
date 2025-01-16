@@ -1,0 +1,1 @@
+﻿Spirit of Anarchy	R	uncommon	Creature – Human Berserker 	160	R	3R	Other Berserker creatures you control get +1/+1.NEWLINE3R: Create a 1/1 red Berserker creature token. That creature gains haste until end of turn.	4/2		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Deadly Recluse	G	common	Creature – Spider 	175	G	1G	Reach, deathtouch	1/2		normal	UMB		

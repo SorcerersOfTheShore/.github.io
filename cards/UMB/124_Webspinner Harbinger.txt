@@ -1,0 +1,1 @@
+﻿Webspinner Harbinger	B	uncommon	Creature – Spider 	124	B	4B	ReachNEWLINEWhen Webspinner Harbinger enters the battlefield, you may search your library for a Spider card, reveal it, then shuffle and put that card on top.	2/5		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Outcast	W	uncommon	Kindred Sorcery – Berserker 	28	W	W	Exile target creature or planeswalker with mana value less than or equal to the number of creatures you control.			normal	UMB		

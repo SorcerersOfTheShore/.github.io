@@ -1,0 +1,1 @@
+﻿Unnatural Nature	G	common	Creature – Shapeshifter 	200	G	2GG	Changeling (This card is every creature type.)NEWLINETrample	4/4		normal	UMB		

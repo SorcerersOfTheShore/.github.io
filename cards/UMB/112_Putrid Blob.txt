@@ -1,0 +1,1 @@
+﻿Putrid Blob	B	rare	Creature – Ooze 	112	B	2BB	DeathtouchNEWLINEWhenever a creature dealt damage by Putrid Blob this turn dies, put a +1/+1 counter on Putrid Blob and exile that creature card with a slime counter on it.NEWLINEPutrid Blob has all activated abilities of creature cards in exile with slime counters on them.	1/3		normal	UMB		

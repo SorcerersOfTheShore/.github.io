@@ -1,0 +1,1 @@
+﻿Carve	B	common	Kindred Sorcery – Plant 	88	B	1B	Choose one–NEWLINE• Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.NEWLINE• Create a 2/1 red Plant creature token.NEWLINE• Put a deathtouch counter on target creature you control, then you gain life equal to the number of counters on that creature.			normal	UMB		

@@ -1,0 +1,1 @@
+﻿Branchweft Crow	UG	uncommon	Creature – Elemental Bird Mutant 	210	UG	1GU	Ward 2NEWLINEBranchweft Crow enters the battlefield with two +1/+1 counters and a flying counter on it.NEWLINEAmalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)	0/0		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Take Prey	G	common	Sorcery	195	G	1G	Target creature you control deals damage equal to its power or equal to its toughness, whichever is greater, to target creature you don’t control.			normal	UMB		

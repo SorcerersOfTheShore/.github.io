@@ -1,0 +1,1 @@
+﻿Frightveil	W	uncommon	Creature – Shapeshifter 	8	W	2W	Changeling (This card is every creature type.)NEWLINEWhen Frightveil enters the battlefield, for each player, you may exile a card from that player’s graveyard.NEWLINEFrightveil gets +1/+1 for each card you own in exile.	1/1		normal	UMB		

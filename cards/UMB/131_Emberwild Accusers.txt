@@ -1,0 +1,1 @@
+﻿Emberwild Accusers	R	common	Creature – Human Berserker 	131	R	3R	R, Sacrifice a creature: Emberwild Accusers deals 1 damage to target player or planeswalker.	3/4		normal	UMB		

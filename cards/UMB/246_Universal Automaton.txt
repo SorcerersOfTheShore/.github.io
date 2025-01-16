@@ -1,0 +1,1 @@
+﻿Universal Automaton		common	Artifact Creature – Shapeshifter 	246	C	1	Changeling (This card is every creature type.)	1/1		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Wicker Effigy	W	rare	Artifact	42	W	1W	1W, T, Sacrifice a creature: Choose one. Activate only as a sorcery.NEWLINE• Create two Food tokens. (They’re artifacts with “2, T, Sacrifice this artifact: You gain 3 life.”)NEWLINE• Create two 1/1 white Human creature tokens.NEWLINE• Creatures you control get +1/+1 and gain vigilance until end of turn.			normal	UMB		

@@ -1,0 +1,1 @@
+﻿Cadaver Stitching	B	uncommon	Enchantment	87	B	1B	At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)NEWLINE3B, Sacrifice Cadaver Stitching: Return target creature card from your graveyard to the battlefield.			normal	UMB		

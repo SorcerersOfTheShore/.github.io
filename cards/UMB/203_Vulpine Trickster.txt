@@ -1,0 +1,1 @@
+﻿Vulpine Trickster	G	rare	Creature – Shapeshifter 	203	G	3GG	Changeling (This card is every creature type.)NEWLINEFlashNEWLINEYou may cast creature spells as though they had flash.	5/4		normal	UMB		

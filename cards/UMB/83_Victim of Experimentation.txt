@@ -1,0 +1,1 @@
+﻿Victim of Experimentation	U	common	Creature – Mutant Spirit 	83	U	U	FlyingNEWLINEVictim of Experimentation enters the battlefield with a +1/+1 counter on it.NEWLINEAmalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)	0/0		normal	UMB		

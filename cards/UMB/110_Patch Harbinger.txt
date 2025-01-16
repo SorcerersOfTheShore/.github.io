@@ -1,0 +1,1 @@
+﻿Patch Harbinger	B	uncommon	Creature – Plant 	110	B	1B	DeathtouchNEWLINEWhen Patch Harbinger enters the battlefield, you may search your library for a Plant card, reveal it, then shuffle and put that card on top.	1/1		normal	UMB		

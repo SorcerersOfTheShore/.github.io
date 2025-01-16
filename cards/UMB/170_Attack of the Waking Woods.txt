@@ -1,0 +1,1 @@
+﻿Attack of the Waking Woods	G	rare	Sorcery	170	G	3G	Untap any number of lands you control. Until end of turn, those lands become 2/2 Elemental creatures with haste and indestructible. (They aren’t lands while they’re creatures.)NEWLINEFlashback 4G (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

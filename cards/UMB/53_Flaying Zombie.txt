@@ -1,0 +1,1 @@
+﻿Flaying Zombie	U	common	Creature – Zombie Mutant 	53	U	3U	Flaying Zombie enters the battlefield with three +1/+1 counters on it.NEWLINEU, Remove a counter from Flaying Zombie: Target player mills two cards.NEWLINE1U, Remove three counters from Flaying Zombie: Draw a card.	0/0		normal	UMB		

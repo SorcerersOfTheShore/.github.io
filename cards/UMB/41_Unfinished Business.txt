@@ -1,0 +1,1 @@
+﻿Unfinished Business	W	common	Kindred Instant – Spirit 	41	W	1W	Unfinished Business deals damage to target attacking or blocking creature equal to the number of creature cards you own in exile plus the number of creatures you control. If you control a Spirit, draw a card.			normal	UMB		

@@ -1,0 +1,1 @@
+﻿Serene Apparition	W	common	Creature – Spirit 	38	W	3W	Haunt (When this creature dies, exile it haunting target creature.)NEWLINECreatures you don’t control haunted by Serene Apparition can’t attack.	2/4		normal	UMB		

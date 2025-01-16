@@ -1,0 +1,1 @@
+﻿Catalyst Specialist	UR	uncommon	Creature – Human Wizard 	211	UR	1UR	When Catalyst Specialist enters the battlefield, you may draw two cards. If you do, discard two cards.NEWLINEWhenever you cast a noncreature spell, put a +1/+1 counter on Catalyst Specialist.	2/2		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Jack of Lanterns	BR	uncommon	Creature – Plant 	220	BR	1BR	When Jack of Lanterns enters the battlefield, put a lifelink, menace, or trample counter on it.NEWLINEWhenever Jack of Lanterns attacks, another target creature you control gains each of Jack of Lanterns’s other abilities until end of turn.	3/3		normal	UMB		

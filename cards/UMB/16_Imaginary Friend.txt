@@ -1,0 +1,1 @@
+﻿Imaginary Friend	W	uncommon	Creature – Spirit 	16	W	W	Haunt (When this creature dies, exile it haunting target creature.)NEWLINECreatures you control haunted by Imaginary Friend get +2/+1.	2/1		normal	UMB		

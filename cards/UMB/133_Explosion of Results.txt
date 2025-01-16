@@ -1,0 +1,1 @@
+﻿Explosion of Results	R	uncommon	Kindred Instant – Wizard 	133	R	1RR	Explosion of Results deals damage to target creature or planeswalker equal to the total number of noncreature cards you own in exile and in your graveyard.NEWLINEFlashback 4RR (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

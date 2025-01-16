@@ -1,0 +1,1 @@
+﻿Cavern of Souls		rare	Land	247	C		As Cavern of Souls enters the battlefield, choose a creature type.NEWLINET: Add C.NEWLINET: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can’t be countered.			normal	UMB		

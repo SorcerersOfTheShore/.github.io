@@ -1,0 +1,1 @@
+﻿Fickle Figment	U	common	Creature – Spirit Wizard 	51	U	1U	FlyingNEWLINEProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)	1/1		normal	UMB		

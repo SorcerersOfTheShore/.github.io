@@ -1,0 +1,1 @@
+﻿Plasmform	U	common	Kindred Instant – Mutant 	70	U	1U	Put a +1/+1 counter on target creature. It gains hexproof until end of turn. If you control a Mutant, draw a card.			normal	UMB		

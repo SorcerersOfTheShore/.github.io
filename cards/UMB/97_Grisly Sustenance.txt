@@ -1,0 +1,1 @@
+﻿Grisly Sustenance	B	uncommon	Sorcery	97	BG	1BB	As an additional cost to cast this spell, sacrifice a creature.NEWLINEYou gain life and draw cards equal to the sacrificed creature’s toughness.NEWLINEFlashback 5GG (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

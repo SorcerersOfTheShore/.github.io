@@ -1,0 +1,1 @@
+﻿Klaus, Eversummer Vanguard	W	rare	Legendary Creature – Human Soldier 	22	W	2W	Creatures you control with power less than Klaus, Eversummer Vanguard’s power have protection from each of your opponents. (They can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything controlled by those players.)	0/1		normal	UMB		

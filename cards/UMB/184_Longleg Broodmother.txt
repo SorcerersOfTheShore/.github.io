@@ -1,0 +1,1 @@
+﻿Longleg Broodmother	G	common	Creature – Spider 	184	G	5G	Vigilance, reachNEWLINEOther creatures you control with reach have vigilance.	3/6		normal	UMB		

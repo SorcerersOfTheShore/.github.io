@@ -1,0 +1,1 @@
+﻿Eversummer Coalition	W	uncommon	Creature – Human Soldier 	6	W	4W	Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)NEWLINEOther Human creatures you control get +1/+1.	4/4		normal	UMB		

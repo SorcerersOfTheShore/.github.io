@@ -1,0 +1,1 @@
+﻿Jumpscare	UB	rare	Instant	221	UB	3UB	Target player mills five cards. You may put a creature card from among the cards milled this way onto the battlefield under your control.			normal	UMB		

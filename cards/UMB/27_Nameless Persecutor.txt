@@ -1,0 +1,1 @@
+﻿Nameless Persecutor	W	rare	Creature – Shapeshifter 	27	W	3WW	Changeling (This card is every creature type.)NEWLINEFlashNEWLINEWhen Nameless Persecutor enters the battlefield, exile another target creature until Nameless Persecutor leaves the battlefield.NEWLINECreatures you control have protection from creatures that share a creature type with the exiled card.	3/4		normal	UMB		

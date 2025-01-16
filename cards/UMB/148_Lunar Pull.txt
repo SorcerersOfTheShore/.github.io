@@ -1,0 +1,1 @@
+﻿Lunar Pull	R	common	Kindred Enchantment – Werewolf Aura 	148	R	1R	FlashNEWLINEEnchant creatureNEWLINEEnchanted creature gets +2/+0.NEWLINEWhen enchanted creature dies, create a 2/2 green Wolf creature token.			normal	UMB		

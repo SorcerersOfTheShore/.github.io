@@ -1,0 +1,1 @@
+﻿Sanity Extraction	R	common	Kindred Sorcery – Wizard 	158	R	1R	As an additional cost to cast this spell, discard a card.NEWLINEDraw two cards. If this spell was cast from a graveyard, create a 1/1 blue and red Wizard creature token.NEWLINEFlashback 3R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

@@ -1,0 +1,1 @@
+﻿Multimutate	U	uncommon	Sorcery	64	UG	U	Put a +1/+1 counter on target creature you control, then you may  move any number of counters from among creatures you control onto that creature.NEWLINEFlashback 3G (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

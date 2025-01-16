@@ -1,0 +1,1 @@
+﻿Bloodglutton Spider	BG	uncommon	Creature – Spider 	209	BG	2BG	ReachNEWLINET: Each opponent loses 1 life and you gain 1 life.NEWLINEOther creatures you control with reach have “T: Each opponent loses 1 life and you gain 1 life.”	2/4		normal	UMB		

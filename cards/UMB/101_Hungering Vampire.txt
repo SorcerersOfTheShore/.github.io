@@ -1,0 +1,1 @@
+﻿Hungering Vampire	B	common	Creature – Vampire 	101	B	3B	LifelinkNEWLINEWhenever Hungering Vampire attacks, you may pay 6 life. If you do, transform it.	3/2		transform double faced	UMB		Starving Bloodmonger	B	Creature – Vampire 	B		Flying, lifelink	3/2			

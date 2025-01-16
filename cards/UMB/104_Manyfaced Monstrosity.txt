@@ -1,0 +1,1 @@
+﻿Manyfaced Monstrosity	B	common	Creature – Plant Horror 	104	B	1B	Manyfaced Monstrosity enters the battlefield with your choice of a deathtouch counter or a lifelink counter on it.	2/1		normal	UMB		

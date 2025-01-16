@@ -1,0 +1,1 @@
+﻿Silent Departure	U	common	Sorcery	74	U	U	Return target creature to its owner’s hand.NEWLINEFlashback 4U (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

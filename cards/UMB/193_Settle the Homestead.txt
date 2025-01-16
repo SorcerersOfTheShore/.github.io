@@ -1,0 +1,1 @@
+﻿Settle the Homestead	G	common	Kindred Enchantment – Human Aura 	193	G	2G	Enchant landNEWLINEEnchanted land has “T: Add two mana of any one color.”NEWLINE4G, Sacrifice Settle the Homestead: Create two 1/1 white Human Soldier creature tokens. Activate only as a sorcery.			normal	UMB		

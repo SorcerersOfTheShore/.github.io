@@ -1,0 +1,1 @@
+﻿Multieyed Monstrosity	G	common	Creature – Spider Mutant 	187	G	3G	Multieyed Monstrosity enters the battlefield with two +1/+1 counters and a reach counter on it.NEWLINEAmalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)	0/2		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Sanguine Hospitality	W	common	Kindred Enchantment – Vampire Aura 	36	W	2W	Enchant creatureNEWLINEEnchanted creature gets +1/+1, has lifelink, and is a Vampire in addition to its other types.NEWLINEWhen Sanguine Hospitality enters the battlefield, create a 1/1 black Vampire creature token with lifelink.			normal	UMB		

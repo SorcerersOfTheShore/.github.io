@@ -1,0 +1,1 @@
+﻿Gravedigger's Amulet		common	Artifact – Treasure 	238	C	2	When Gravedigger’s Amulet enters the battlefield, target player mills three cards.NEWLINET, Sacrifice Gravedigger’s Amulet: Add one mana of any color.NEWLINET, Sacrifice Gravedigger’s Amulet: Return target land card from your graveyard to your hand			normal	UMB		

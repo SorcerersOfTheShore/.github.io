@@ -1,0 +1,1 @@
+﻿Radiant Expulsion	W	rare	Instant	32	W	WW	Your opponents can’t cast spells this turn.NEWLINECreatures can’t attack this turn.NEWLINEFlashback 4WW (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

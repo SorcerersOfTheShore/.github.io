@@ -1,0 +1,1 @@
+﻿Alpha Authority	G	uncommon	Enchantment – Aura 	169	G	1G	Enchant creatureNEWLINEEnchanted creature has hexproof and can’t be blocked by more than one creature.			normal	UMB		

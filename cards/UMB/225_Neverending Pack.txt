@@ -1,0 +1,1 @@
+﻿Neverending Pack	RG	uncommon	Creature – Wolf 	225	RG	2RG	2RG: Choose one–NEWLINE• Create a 2/2 green Wolf creature token.NEWLINE• Creatures you control get +1/+1 and gain trample until end of turn.NEWLINE• You may discard a card. If you do, draw two cards.	3/3		normal	UMB		

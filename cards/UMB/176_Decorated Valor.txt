@@ -1,0 +1,1 @@
+﻿Decorated Valor	G	uncommon	Kindred Enchantment – Human Aura 	176	G	1G	Enchant creatureNEWLINEWhenever an Aura becomes attached to enchanted creature (including Decorated Valor), draw a card.NEWLINEWhenever one or more counters are put on enchanted creature, draw a card.			normal	UMB		

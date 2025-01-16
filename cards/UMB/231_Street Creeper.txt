@@ -1,0 +1,1 @@
+﻿Street Creeper	WU	uncommon	Creature – Spirit 	231	WU	1WU	1, Sacrifice a creature: Draw a card.NEWLINEHaunt (When this creature dies, exile it haunting target creature.)NEWLINEWhenever a creature haunted by Street Creeper attacks, draw a card.	1/3		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Hold at the Stake	W	common	Kindred Enchantment – Human Aura 	12	W	1WW	Enchant nonland permanentNEWLINEWhen Hold at the Stake enters the battlefield, if you control another Human, draw a card.NEWLINEEnchanted permanent can’t attack or block, and its activated abilities can’t be activated.			normal	UMB		

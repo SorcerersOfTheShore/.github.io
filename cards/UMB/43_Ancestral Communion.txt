@@ -1,0 +1,1 @@
+﻿Ancestral Communion	U	mythic	Sorcery	43	U		(Nonexistent mana costs can’t be paid.)NEWLINEDraw three cards.NEWLINEFlashback–U, Exile five other cards with different mana values from your graveyard. (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

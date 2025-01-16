@@ -1,0 +1,1 @@
+﻿Loyal Enforcer	W	common	Creature – Spirit 	23	W	1W	2, Sacrifice a creature: Put a +1/+1 counter on Loyal Enforcer. Activate only as a sorcery.NEWLINEHaunt (When this creature dies, exile it haunting target creature.)NEWLINEWhenever a creature you control dies, you may tap or untap a creature haunted by Loyal Enforcer.	2/2		normal	UMB		

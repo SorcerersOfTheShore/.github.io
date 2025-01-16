@@ -1,0 +1,1 @@
+﻿Legacy Forger	G	common	Creature – Human 	183	G	2G	Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)NEWLINELegacy Forger has haste as long as you control another human.	3/2		normal	UMB		

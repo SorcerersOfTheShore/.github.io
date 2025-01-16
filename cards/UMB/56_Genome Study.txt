@@ -1,0 +1,1 @@
+﻿Genome Study	U	uncommon	Sorcery	56	U	2UU	Choose a creature type. Draw a card for each permanent you control of that type.NEWLINEFlashback 6UU (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	UMB		

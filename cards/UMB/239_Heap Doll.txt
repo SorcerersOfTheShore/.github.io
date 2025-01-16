@@ -1,0 +1,1 @@
+﻿Heap Doll		uncommon	Artifact Creature – Scarecrow 	239	C	1	Sacrifice Heap Doll: Exile target card from a graveyard.	1/1		normal	UMB		

@@ -1,0 +1,1 @@
+﻿Era-Worn Zombie	U	common	Creature – Zombie Wizard 	49	U	5U	Era-Worn Zombie enters the battlefield tapped.NEWLINE3U, Exile a noncreature card from your graveyard: Return Era-Worn Zombie from your graveyard to your hand.	5/4		normal	UMB		

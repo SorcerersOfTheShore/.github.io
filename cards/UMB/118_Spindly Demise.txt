@@ -1,0 +1,1 @@
+﻿Spindly Demise	B	uncommon	Kindred Instant – Spider 	118	B	5B	This spell costs X less to cast, where X is the greatest toughness among creatures you control.NEWLINEDestroy target creature or planeswalker.			normal	UMB		

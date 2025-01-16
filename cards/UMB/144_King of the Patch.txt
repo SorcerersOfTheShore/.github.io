@@ -1,0 +1,1 @@
+﻿King of the Patch	R	uncommon	Creature – Plant Noble 	144	R	3R	Other Plant creatures you control get +1/+1.NEWLINER, T: Put your choice of a menace counter or a trample counter on target Plant you control.	3/4		normal	UMB		

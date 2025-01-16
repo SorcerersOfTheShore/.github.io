@@ -1,0 +1,1 @@
+﻿Scuttlemutt		common	Artifact Creature – Scarecrow 	242	C	3	T: Add one mana of any color.NEWLINET: Target creature becomes the color or colors of your choice until end of turn.	2/2		normal	UMB		

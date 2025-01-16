@@ -1,0 +1,1 @@
+﻿Clever Costuming		common	Artifact – Equipment 	235	C	1	Equipped creature gets +0/+1, has ward 1, and is every creature type. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)NEWLINEEquip 1			normal	UMB		

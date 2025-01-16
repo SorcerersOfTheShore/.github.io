@@ -1,0 +1,1 @@
+﻿Tibalt's Betrayal	R	mythic	Instant	163	R	2RR	As an additional cost to cast this spell, sacrifice a creature.NEWLINEAdd X mana of any one color and exile the top X cards of your library, where X is the sacrificed creature’s mana value. Until the beginning of your next end step, you may play cards exiled this way.			normal	UMB		

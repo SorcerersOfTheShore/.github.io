@@ -1,0 +1,1 @@
+﻿Stalking Eyes	G	rare	Sorcery	194	G	XG	Reveal the top X cards of your library. You may put any number of creature cards with total mana value X or less from among them onto the battlefield. Put the rest into your graveyard.			normal	UMB		

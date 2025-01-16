@@ -1,0 +1,1 @@
+﻿Cryptspinner	B	common	Creature – Zombie Spider 	93	B	B	ReachNEWLINE3B: Return Cryptspinner from your graveyard to your hand.	1/2		normal	UMB		

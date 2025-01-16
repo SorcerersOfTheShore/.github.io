@@ -1,0 +1,1 @@
+﻿Laboratory Harbinger	R	uncommon	Creature – Human Wizard 	145	R	2R	Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)NEWLINEWhen Laboratory Harbinger enters the battlefield, you may search your library for a Wizard card, reveal it, then shuffle and put that card on top.	2/2		normal	UMB		

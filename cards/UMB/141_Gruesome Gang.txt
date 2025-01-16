@@ -1,0 +1,1 @@
+﻿Gruesome Gang	R	common	Creature – Human Wizard 	141	R	4R	When Gruesome Gang enters the battlefield, create two 2/1 red Plant creature tokens.	2/1		normal	UMB		

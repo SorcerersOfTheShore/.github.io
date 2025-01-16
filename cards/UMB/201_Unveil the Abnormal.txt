@@ -1,0 +1,1 @@
+﻿Unveil the Abnormal	G	common	Kindred Sorcery – Mutant 	201	G	1G	Create a 2/2 green and blue Mutant creature token, then you may move any number of counters from other permanents you control onto that token.			normal	UMB		

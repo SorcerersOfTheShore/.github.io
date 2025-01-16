@@ -1,0 +1,1 @@
+﻿Body Modifier	B	common	Creature – Shapeshifter 	86	B	4B	Changeling (This card is every creature type.)NEWLINEWhen Body Modifier enters the battlefield, choose one–NEWLINE• Put a reach counter on target creature.NEWLINE• Put a menace counter on target creature.NEWLINE• Put a deathtouch counter on target creature.	4/4		normal	UMB		

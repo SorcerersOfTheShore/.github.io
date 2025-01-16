@@ -1,0 +1,1 @@
+﻿Fiery Pup	R	common	Creature – Wolf 	134	R	1R	Fiery Pup gets +1/+0 for each other permanent you control that’s a Wolf or a Werewolf.	2/2		normal	UMB		

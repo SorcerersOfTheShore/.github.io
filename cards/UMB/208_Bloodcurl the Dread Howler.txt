@@ -1,0 +1,1 @@
+﻿Bloodcurl, the Dread Howler	RG	rare	Legendary Creature – Wolf 	208	RG	3RG	FlashNEWLINEX: You may put a creature card with mana value X from your hand onto the battlefield.NEWLINERG: Transform target Human Werewolf.NEWLINE2RG: Wolf and Werewolf creatures you control get +1/+1 and gain trample until end of turn.	5/5		normal	UMB		
